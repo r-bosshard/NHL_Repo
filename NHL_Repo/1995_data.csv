@@ -1,0 +1,1067 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+1995020001,Colorado Avalanche,3,Detroit Red Wings,2,Paul Stewart,Shane Heyer,Colorado Avalanche,Detroit Red Wings
+1995020002,Boston Bruins,4,New York Islanders,4,Dave Jackson,Kevin Collins,Boston Bruins,New York Islanders
+1995020003,Hartford Whalers,2,New York Rangers,0,Don Van Massenhoven,Greg Devorski,Hartford Whalers,New York Rangers
+1995020004,Pittsburgh Penguins,8,Toronto Maple Leafs,3,Kerry Frazer,Ron Asselstine,Pittsburgh Penguins,Toronto Maple Leafs
+1995020005,Ottawa Senators,1,Buffalo Sabres,3,Andy van Hellemond,Pierre Champoux,Buffalo Sabres,Ottawa Senators
+1995020006,Montréal Canadiens,1,Philadelphia Flyers,7,Gregson,Gauthier,Philadelphia Flyers,Montréal Canadiens
+1995020007,New Jersey Devils,4,Florida Panthers,0,Devorski,Dapuzzo,New Jersey Devils,Florida Panthers
+1995020008,Washington Capitals,4,St. Louis Blues,1,Mark Faucette,Gordon Broseker,Washington Capitals,St. Louis Blues
+1995020009,Tampa Bay Lightning,3,Calgary Flames,3,McCreay,Finn,Tampa Bay Lightning,Calgary Flames
+1995020010,Winnipeg Jets (1979),7,Dallas Stars,5,Don Koharski,Mike Cvik,Winnipeg Jets (1979),Dallas Stars
+1995020011,San Jose Sharks,3,Chicago Blackhawks,4,Stewart,Wayne Bonney,Chicago Blackhawks,San Jose Sharks
+1995020012,Los Angeles Kings,4,Colorado Avalanche,2,Rob Shick,Shane Heyer,Los Angeles Kings,Colorado Avalanche
+1995020013,Florida Panthers,4,Calgary Flames,3,Bill McCreary #7,Ron Finn #77,Florida Panthers,Calgary Flames
+1995020014,Edmonton Oilers,1,Detroit Red Wings,3,Don Koharski,Swede Knox,Detroit Red Wings,Edmonton Oilers
+1995020015,Boston Bruins,5,Buffalo Sabres,3,Mark Faucette,Gordon Broseker,Boston Bruins,Buffalo Sabres
+1995020016,Winnipeg Jets (1979),4,Anaheim Ducks,3,Stephen Walkom,Mike Cvik,Winnipeg Jets (1979),Anaheim Ducks
+1995020017,Colorado Avalanche,6,Pittsburgh Penguins,6,Mike McGeough,Steve Knox,Colorado Avalanche,Pittsburgh Penguins
+1995020018,Vancouver Canucks,3,Detroit Red Wings,5,Paul Stewart,Baron Parker,Detroit Red Wings,Vancouver Canucks
+1995020019,Toronto Maple Leafs,7,New York Islanders,3,Dan Marouelli,Ray Scapinello,Toronto Maple Leafs,New York Islanders
+1995020020,St. Louis Blues,5,Edmonton Oilers,3,Lance Roberts,Brad Lazarowich,St. Louis Blues,Edmonton Oilers
+1995020021,Dallas Stars,7,Calgary Flames,3,McGeough,McCourt,Dallas Stars,Calgary Flames
+1995020022,Los Angeles Kings,6,Chicago Blackhawks,5,Don Koharski,Shane Heyer,Los Angeles Kings,Chicago Blackhawks
+1995020023,Hartford Whalers,3,Anaheim Ducks,2,Richard Trottier,Kevin Collins,Hartford Whalers,Anaheim Ducks
+1995020024,New York Rangers,6,Winnipeg Jets (1979),4,Mark Faucette,Ray Scapinello,New York Rangers,Winnipeg Jets (1979)
+1995020025,Philadelphia Flyers,2,Washington Capitals,1,Marouelli,Racicot,Philadelphia Flyers,Washington Capitals
+1995020026,Florida Panthers,6,Montréal Canadiens,1,Paul Devorski #10,Jean Morin #41,Florida Panthers,Montréal Canadiens
+1995020027,Colorado Avalanche,3,Boston Bruins,1,Stephan Walkom,Swede Knox,Colorado Avalanche,Boston Bruins
+1995020028,New Jersey Devils,4,Winnipeg Jets (1979),1,Richard Trottier,Ron Asselstine,New Jersey Devils,Winnipeg Jets (1979)
+1995020029,Tampa Bay Lightning,3,Montréal Canadiens,1,Devorski,Morin,Tampa Bay Lightning,Montréal Canadiens
+1995020030,Chicago Blackhawks,5,Pittsburgh Penguins,1,Lance Roberts,Ron Finn,Chicago Blackhawks,Pittsburgh Penguins
+1995020031,Dallas Stars,1,St. Louis Blues,3,Shick,Lazarowich,St. Louis Blues,Dallas Stars
+1995020032,San Jose Sharks,6,Boston Bruins,6,Koharski,Heyer,San Jose Sharks,Boston Bruins
+1995020033,Los Angeles Kings,7,Vancouver Canucks,7,Mike McGeough,Mike Cvik,Los Angeles Kings,Vancouver Canucks
+1995020034,Buffalo Sabres,1,Anaheim Ducks,4,Blaine Angus,Pierre Champoux,Anaheim Ducks,Buffalo Sabres
+1995020035,Washington Capitals,3,Colorado Avalanche,1,Dave Jackson,Scott Driscoll,Washington Capitals,Colorado Avalanche
+1995020036,Florida Panthers,6,Ottawa Senators,2,Mark Faucette #11,Jean Morin #41,Florida Panthers,Ottawa Senators
+1995020037,Detroit Red Wings,9,Edmonton Oilers,0,Van Hellemond,G. Devorski,Detroit Red Wings,Edmonton Oilers
+1995020038,Hartford Whalers,3,Chicago Blackhawks,2,Rob Shick,Kevin Collins,Hartford Whalers,Chicago Blackhawks
+1995020039,Pittsburgh Penguins,5,Anaheim Ducks,2,Dan O'Halloran,Bob Hodges,Pittsburgh Penguins,Anaheim Ducks
+1995020040,Montréal Canadiens,1,New Jersey Devils,4,Marouelli,Racicot,New Jersey Devils,Montréal Canadiens
+1995020041,New York Islanders,0,Philadelphia Flyers,3,Kerry Fraser,Gordon Broseker,Philadelphia Flyers,New York Islanders
+1995020042,Washington Capitals,2,Tampa Bay Lightning,0,Richard Trottier,Scott Driscoll,Washington Capitals,Tampa Bay Lightning
+1995020043,Toronto Maple Leafs,0,New York Rangers,2,Terry Gregson,Pierre Champoux,New York Rangers,Toronto Maple Leafs
+1995020044,St. Louis Blues,4,Colorado Avalanche,1,Paul Devorski,Andy McElman,St. Louis Blues,Colorado Avalanche
+1995020045,Dallas Stars,6,Boston Bruins,5,Van Massenhoven,Lazarowich,Dallas Stars,Boston Bruins
+1995020046,San Jose Sharks,6,Vancouver Canucks,7,Koharski,Mike Cvik,Vancouver Canucks,San Jose Sharks
+1995020047,Buffalo Sabres,3,New Jersey Devils,4,Rob Shick,Pierre Champoux,New Jersey Devils,Buffalo Sabres
+1995020048,Philadelphia Flyers,7,Edmonton Oilers,1,Jackson,Gordon Broseker,Philadelphia Flyers,Edmonton Oilers
+1995020049,Tampa Bay Lightning,4,Ottawa Senators,7,Larue,Morin,Ottawa Senators,Tampa Bay Lightning
+1995020050,Florida Panthers,5,New York Islanders,3,Stephen Walkom #24,Scott Driscoll #68,Florida Panthers,New York Islanders
+1995020051,Chicago Blackhawks,1,Calgary Flames,1,Paul Devorski,Brad Lazarowich,Chicago Blackhawks,Calgary Flames
+1995020052,Winnipeg Jets (1979),5,Detroit Red Wings,5,Lance Roberts,Leon Stickle,Winnipeg Jets (1979),Detroit Red Wings
+1995020053,Vancouver Canucks,3,Los Angeles Kings,3,Bill Mcreary,Randy Mitton,Vancouver Canucks,Los Angeles Kings
+1995020054,New York Rangers,5,Hartford Whalers,7,Dan Marouelli,Greg Devorski,Hartford Whalers,New York Rangers
+1995020055,New York Islanders,1,New York Rangers,5,Paul Stewart,Kevin Collins,New York Rangers,New York Islanders
+1995020056,New Jersey Devils,1,Edmonton Oilers,3,Stephen Walkom,Greg Devorski,Edmonton Oilers,New Jersey Devils
+1995020057,Florida Panthers,3,Chicago Blackhawks,6,Dennis Larue #14,Scott Driscoll #68,Chicago Blackhawks,Florida Panthers
+1995020058,Toronto Maple Leafs,7,San Jose Sharks,2,Rob Shick,Ron Asselstine,Toronto Maple Leafs,San Jose Sharks
+1995020059,Detroit Red Wings,3,Calgary Flames,3,Fraser,Scapinello,Detroit Red Wings,Calgary Flames
+1995020060,St. Louis Blues,4,Boston Bruins,7,Terry Gregson,Mike Cvik,Boston Bruins,St. Louis Blues
+1995020061,Dallas Stars,3,Washington Capitals,4,Jackson,Heyer,Washington Capitals,Dallas Stars
+1995020062,Winnipeg Jets (1979),5,Tampa Bay Lightning,2,Andy van Hellemond,Leon Stickle,Winnipeg Jets (1979),Tampa Bay Lightning
+1995020063,Buffalo Sabres,4,Edmonton Oilers,1,Don Van Massenhoven,Gerard Gauthier,Buffalo Sabres,Edmonton Oilers
+1995020064,Colorado Avalanche,4,Washington Capitals,2,Mark Faucette,Mike Cvik,Colorado Avalanche,Washington Capitals
+1995020065,Los Angeles Kings,1,Philadelphia Flyers,1,Lance Roberts,Swede Knox,Los Angeles Kings,Philadelphia Flyers
+1995020066,Anaheim Ducks,1,Vancouver Canucks,5,Bill McCreary,Randy Mitton,Vancouver Canucks,Anaheim Ducks
+1995020067,Ottawa Senators,4,Calgary Flames,2,Stephen Walkom,Jean Morin,Ottawa Senators,Calgary Flames
+1995020068,New Jersey Devils,4,Detroit Red Wings,2,Paul Stewart,Kevin Collins,New Jersey Devils,Detroit Red Wings
+1995020069,Chicago Blackhawks,1,Tampa Bay Lightning,4,Terry Gregson,Ray Scapinello,Tampa Bay Lightning,Chicago Blackhawks
+1995020070,St. Louis Blues,1,Dallas Stars,1,Dave Jackson,Shane Heyer,St. Louis Blues,Dallas Stars
+1995020071,Winnipeg Jets (1979),3,San Jose Sharks,3,Kerry Fraser,Leon Stickle,Winnipeg Jets (1979),San Jose Sharks
+1995020072,Hartford Whalers,2,Pittsburgh Penguins,2,Mike McGeough,Pierre Champoux,Hartford Whalers,Pittsburgh Penguins
+1995020073,Buffalo Sabres,1,New York Rangers,3,Bill McCreary,Ron Finn,New York Rangers,Buffalo Sabres
+1995020074,New York Islanders,2,Montréal Canadiens,0,Blaine Angus,Ron Asselstine,New York Islanders,Montréal Canadiens
+1995020075,Washington Capitals,4,Los Angeles Kings,7,Don Koharski,Gordon Broseker,Los Angeles Kings,Washington Capitals
+1995020076,Toronto Maple Leafs,4,Calgary Flames,3,Andy van Hellemond,Greg Devorski,Toronto Maple Leafs,Calgary Flames
+1995020077,Anaheim Ducks,2,Philadelphia Flyers,4,Mark Faucette,Swede Knox,Philadelphia Flyers,Anaheim Ducks
+1995020078,Pittsburgh Penguins,2,Los Angeles Kings,3,Paul Devorski,Ronn Finn,Los Angeles Kings,Pittsburgh Penguins
+1995020079,Montréal Canadiens,4,Toronto Maple Leafs,3,Paul Stewart,Ron Asselstine,Montréal Canadiens,Toronto Maple Leafs
+1995020080,New Jersey Devils,4,Ottawa Senators,1,Don Van Massenhoven,Gordon Broseker,New Jersey Devils,Ottawa Senators
+1995020081,Florida Panthers,3,Hartford Whalers,0,Don Koharski #12,Brian Murphy #93,Florida Panthers,Hartford Whalers
+1995020082,Detroit Red Wings,4,Boston Bruins,2,Jackson,Parker,Detroit Red Wings,Boston Bruins
+1995020083,St. Louis Blues,1,Chicago Blackhawks,4,Kerry Fraser,Shane Heyer,Chicago Blackhawks,St. Louis Blues
+1995020084,Dallas Stars,3,Tampa Bay Lightning,3,Roberts,McCourt,Dallas Stars,Tampa Bay Lightning
+1995020085,Edmonton Oilers,6,Vancouver Canucks,4,Dan Marouelli,Mike Cvik,Edmonton Oilers,Vancouver Canucks
+1995020086,Buffalo Sabres,5,St. Louis Blues,2,Mick McGeough,Scott Driscoll,Buffalo Sabres,St. Louis Blues
+1995020087,New York Rangers,2,Ottawa Senators,4,Andy van Hellemond,Pat Depuzzo,Ottawa Senators,New York Rangers
+1995020088,Chicago Blackhawks,5,Philadelphia Flyers,4,Kerry Fraser,Shane Heyer,Chicago Blackhawks,Philadelphia Flyers
+1995020089,Edmonton Oilers,1,San Jose Sharks,1,Richard Trottier,Randy Mitton,Edmonton Oilers,San Jose Sharks
+1995020090,Anaheim Ducks,6,Winnipeg Jets (1979),2,Mark Faucette,Jay Sharrers,Anaheim Ducks,Winnipeg Jets (1979)
+1995020091,Montréal Canadiens,6,Los Angeles Kings,3,Don van Massenhove,Pierre Racicot,Montréal Canadiens,Los Angeles Kings
+1995020092,Colorado Avalanche,3,Anaheim Ducks,1,Dan Marouelli,Thor Nelson,Colorado Avalanche,Anaheim Ducks
+1995020093,New York Rangers,5,Vancouver Canucks,2,Don Koharski,Kevin Collins,New York Rangers,Vancouver Canucks
+1995020094,Toronto Maple Leafs,1,Florida Panthers,6,Bill McCreary,Tim Nowak,Florida Panthers,Toronto Maple Leafs
+1995020095,Detroit Red Wings,1,Ottawa Senators,2,Dennis Larue,Ron Asselstine,Ottawa Senators,Detroit Red Wings
+1995020096,Dallas Stars,3,Buffalo Sabres,0,Faucette (11),McCourt (46),Dallas Stars,Buffalo Sabres
+1995020097,Hartford Whalers,2,St. Louis Blues,4,Dan Van Massenhoven,Don Henderson,St. Louis Blues,Hartford Whalers
+1995020098,Montréal Canadiens,7,Florida Panthers,2,Walkom,Collins,Montréal Canadiens,Florida Panthers
+1995020099,New Jersey Devils,2,Vancouver Canucks,4,Mick McGeough,Greg Devorski,Vancouver Canucks,New Jersey Devils
+1995020100,Philadelphia Flyers,3,New York Islanders,1,Van Hellemond,Gordon Broseker,Philadelphia Flyers,New York Islanders
+1995020101,Calgary Flames,2,Colorado Avalanche,3,Richard Trottier,Mike Cvik,Colorado Avalanche,Calgary Flames
+1995020102,San Jose Sharks,1,Winnipeg Jets (1979),6,Shick (16),Bonney (94),Winnipeg Jets (1979),San Jose Sharks
+1995020103,Boston Bruins,2,Washington Capitals,4,Don Koharski,Pat Dapuzzo,Washington Capitals,Boston Bruins
+1995020104,Ottawa Senators,5,Los Angeles Kings,4,Terry Gregson,Kevin Collins,Ottawa Senators,Los Angeles Kings
+1995020105,New York Islanders,5,Pittsburgh Penguins,7,Bill McCreary,Greg Devorski,Pittsburgh Penguins,New York Islanders
+1995020106,Tampa Bay Lightning,4,New York Rangers,4,Faucette,Stickle,Tampa Bay Lightning,New York Rangers
+1995020107,Chicago Blackhawks,1,Toronto Maple Leafs,2,Dan Marouelli,Mark Pare,Toronto Maple Leafs,Chicago Blackhawks
+1995020108,Dallas Stars,5,Anaheim Ducks,2,Larue (14),Tim Nowak (43),Dallas Stars,Anaheim Ducks
+1995020109,Hartford Whalers,1,Montréal Canadiens,4,Andy van Hellemond,Greg Devorski,Montréal Canadiens,Hartford Whalers
+1995020110,St. Louis Blues,4,Anaheim Ducks,2,Dan Marouelli,Andy McElman,St. Louis Blues,Anaheim Ducks
+1995020111,Colorado Avalanche,5,Buffalo Sabres,4,Rob Shick,Wayne Bonney,Colorado Avalanche,Buffalo Sabres
+1995020112,Calgary Flames,0,Detroit Red Wings,3,Paul Devorski,Swede Knox,Detroit Red Wings,Calgary Flames
+1995020113,Edmonton Oilers,7,Winnipeg Jets (1979),5,Mick McGeough,Randy Mitton,Edmonton Oilers,Winnipeg Jets (1979)
+1995020114,Boston Bruins,3,Hartford Whalers,0,Bill McCreary,Pat Dapuzzo,Boston Bruins,Hartford Whalers
+1995020115,Ottawa Senators,1,Florida Panthers,4,Dave Jackson,Jean Morin,Florida Panthers,Ottawa Senators
+1995020116,Montréal Canadiens,5,Chicago Blackhawks,3,Gregson,Champoux,Montréal Canadiens,Chicago Blackhawks
+1995020117,New York Islanders,5,Philadelphia Flyers,5,Don Van Massenhoven,Ron Asselstine,New York Islanders,Philadelphia Flyers
+1995020118,New Jersey Devils,3,Pittsburgh Penguins,5,Andy van Hellemond,Mark Pare,Pittsburgh Penguins,New Jersey Devils
+1995020119,Tampa Bay Lightning,2,Washington Capitals,4,Roberts,Gordon Broseker,Washington Capitals,Tampa Bay Lightning
+1995020120,Toronto Maple Leafs,2,Los Angeles Kings,2,Paul Stewart,Bob Hodges,Toronto Maple Leafs,Los Angeles Kings
+1995020121,Vancouver Canucks,1,Winnipeg Jets (1979),4,Devorski,Lazarowich,Winnipeg Jets (1979),Vancouver Canucks
+1995020122,San Jose Sharks,3,Dallas Stars,4,Trottier (17),Cvik (88),Dallas Stars,San Jose Sharks
+1995020123,New York Rangers,3,Toronto Maple Leafs,2,Kerry Fraser,Ron Asselstine,New York Rangers,Toronto Maple Leafs
+1995020124,Philadelphia Flyers,5,Ottawa Senators,2,Stewart,Pare,Philadelphia Flyers,Ottawa Senators
+1995020125,Chicago Blackhawks,6,Buffalo Sabres,3,Steve Walkom,Dan McCourt,Chicago Blackhawks,Buffalo Sabres
+1995020126,St. Louis Blues,1,Washington Capitals,3,Don Koharski,Tim Nowak,Washington Capitals,St. Louis Blues
+1995020127,Anaheim Ducks,7,Calgary Flames,2,Rob Shick,Mike Cvik,Anaheim Ducks,Calgary Flames
+1995020128,Dallas Stars,1,Colorado Avalanche,6,Walkom,Nelson,Colorado Avalanche,Dallas Stars
+1995020129,Winnipeg Jets (1979),3,Detroit Red Wings,2,Mick McGeough,Dan McCourt,Winnipeg Jets (1979),Detroit Red Wings
+1995020130,Vancouver Canucks,4,San Jose Sharks,3,Richard Trottier,Wayne Bonney,Vancouver Canucks,San Jose Sharks
+1995020131,Boston Bruins,1,Montréal Canadiens,3,Andy van Hellemond,Brian Murphy,Montréal Canadiens,Boston Bruins
+1995020132,Philadelphia Flyers,2,Tampa Bay Lightning,2,McCreary,Ron Asselstine,Philadelphia Flyers,Tampa Bay Lightning
+1995020133,Florida Panthers,4,New York Islanders,5,Lance Roberts #20,Don Henderson #91,New York Islanders,Florida Panthers
+1995020134,Edmonton Oilers,2,New Jersey Devils,1,Dave Jackson,Swede Knox,Edmonton Oilers,New Jersey Devils
+1995020135,San Jose Sharks,3,New York Rangers,5,Devorski (10),Mitton (39),New York Rangers,San Jose Sharks
+1995020136,Los Angeles Kings,1,Calgary Flames,2,Kerry Fraser,Mike Cvik,Calgary Flames,Los Angeles Kings
+1995020137,Pittsburgh Penguins,10,Tampa Bay Lightning,0,Don Van Massenhoven,Don Henderson,Pittsburgh Penguins,Tampa Bay Lightning
+1995020138,Buffalo Sabres,2,Detroit Red Wings,1,Dan Marouelli,Ray Scapinello,Buffalo Sabres,Detroit Red Wings
+1995020139,Washington Capitals,5,Montréal Canadiens,2,Mark Faucette,Gordon Broseker,Washington Capitals,Montréal Canadiens
+1995020140,Dallas Stars,1,Chicago Blackhawks,1,Shick,Nelson,Dallas Stars,Chicago Blackhawks
+1995020141,Winnipeg Jets (1979),2,Toronto Maple Leafs,4,Don Koharski,Dan McCourt,Toronto Maple Leafs,Winnipeg Jets (1979)
+1995020142,Colorado Avalanche,6,Calgary Flames,1,Paul Devorski,Mike Cvik,Colorado Avalanche,Calgary Flames
+1995020143,Vancouver Canucks,3,Edmonton Oilers,3,Dave Jackson,Swede Knox,Vancouver Canucks,Edmonton Oilers
+1995020144,Anaheim Ducks,3,St. Louis Blues,0,Steve Walkom,Brad Lazarowich,Anaheim Ducks,St. Louis Blues
+1995020145,Boston Bruins,5,Detroit Red Wings,6,Lance Roberts,Kevin Collins,Detroit Red Wings,Boston Bruins
+1995020146,Hartford Whalers,0,Ottawa Senators,5,Bill McCreary,Pierre Champoux,Ottawa Senators,Hartford Whalers
+1995020147,Philadelphia Flyers,1,Florida Panthers,2,McGeough,Gordon Broseker,Florida Panthers,Philadelphia Flyers
+1995020148,San Jose Sharks,3,New Jersey Devils,3,Larue (14),Cvik (88),San Jose Sharks,New Jersey Devils
+1995020149,Los Angeles Kings,5,New York Rangers,3,Terry Gregson,Randy Mitton,Los Angeles Kings,New York Rangers
+1995020150,Buffalo Sabres,3,Pittsburgh Penguins,3,Mark Faucette,Pat Dapuzzo,Buffalo Sabres,Pittsburgh Penguins
+1995020151,Washington Capitals,2,Florida Panthers,3,Bill McCreary,Gerard Gauthier,Florida Panthers,Washington Capitals
+1995020152,Tampa Bay Lightning,5,New York Islanders,3,Paul Stewart,Greg Devorski,Tampa Bay Lightning,New York Islanders
+1995020153,Winnipeg Jets (1979),2,Colorado Avalanche,5,Rob Schick,Dan McCourt,Colorado Avalanche,Winnipeg Jets (1979)
+1995020154,Vancouver Canucks,4,Toronto Maple Leafs,4,Terry Gregson,Swede Knox,Vancouver Canucks,Toronto Maple Leafs
+1995020155,Anaheim Ducks,7,New York Rangers,4,Dave Jackson,Brad Lazarowich,Anaheim Ducks,New York Rangers
+1995020156,Pittsburgh Penguins,7,Philadelphia Flyers,4,Andy van Hellemond,Tim Nowak,Pittsburgh Penguins,Philadelphia Flyers
+1995020157,Ottawa Senators,4,Hartford Whalers,5,D. Van Massenhoven,Scott Driscoll,Hartford Whalers,Ottawa Senators
+1995020158,Montréal Canadiens,4,Boston Bruins,1,Don Koharski,Ron Asselstine,Montréal Canadiens,Boston Bruins
+1995020159,New York Islanders,2,Washington Capitals,3,Mike McGeough,Pierre Champoux,Washington Capitals,New York Islanders
+1995020160,Detroit Red Wings,5,Dallas Stars,1,D. Marouellli,B. Hodges,Detroit Red Wings,Dallas Stars
+1995020161,Calgary Flames,4,Vancouver Canucks,4,Rob Shick,Jean Morin,Calgary Flames,Vancouver Canucks
+1995020162,Edmonton Oilers,3,Toronto Maple Leafs,3,Gregson,Mike Cvik,Edmonton Oilers,Toronto Maple Leafs
+1995020163,San Jose Sharks,7,St. Louis Blues,3,Walkom,Mitton,San Jose Sharks,St. Louis Blues
+1995020164,Los Angeles Kings,2,New Jersey Devils,4,Dave Jackson,Shane Heyer,New Jersey Devils,Los Angeles Kings
+1995020165,Buffalo Sabres,3,Winnipeg Jets (1979),4,Richard Trottier,Ron Finn,Winnipeg Jets (1979),Buffalo Sabres
+1995020166,Philadelphia Flyers,6,Hartford Whalers,1,Faucette,Champoux,Philadelphia Flyers,Hartford Whalers
+1995020167,Florida Panthers,4,Tampa Bay Lightning,1,Paul Stewart #22,Greg Devorski #44,Florida Panthers,Tampa Bay Lightning
+1995020168,Chicago Blackhawks,3,Colorado Avalanche,7,Roberts,McElman,Colorado Avalanche,Chicago Blackhawks
+1995020169,Anaheim Ducks,6,New Jersey Devils,1,Steve Walkom,Shane Heyer,Anaheim Ducks,New Jersey Devils
+1995020170,New York Rangers,4,Calgary Flames,2,Don Koharski,Ron Asselstine,New York Rangers,Calgary Flames
+1995020171,Hartford Whalers,7,San Jose Sharks,3,Blaine Angus,Ron Asselstine,Hartford Whalers,San Jose Sharks
+1995020172,New York Islanders,2,Vancouver Canucks,5,Paul Devorski,Gordon Broseker,Vancouver Canucks,New York Islanders
+1995020173,Washington Capitals,3,Boston Bruins,4,Don Van Massenhoven,Pat Dapuzzo,Boston Bruins,Washington Capitals
+1995020174,Florida Panthers,4,Philadelphia Flyers,2,Mick McGeough #19,Greg Devorski #44,Florida Panthers,Philadelphia Flyers
+1995020175,Toronto Maple Leafs,6,Anaheim Ducks,3,Richard Trottier,Ron Finn,Toronto Maple Leafs,Anaheim Ducks
+1995020176,Detroit Red Wings,4,Edmonton Oilers,2,Don Koharski,Leon Stickle,Detroit Red Wings,Edmonton Oilers
+1995020177,St. Louis Blues,0,Los Angeles Kings,1,Dave Jackson,Wayne Bonney,Los Angeles Kings,St. Louis Blues
+1995020178,Buffalo Sabres,7,San Jose Sharks,2,Terry Gregson,Gerard Gauthier,Buffalo Sabres,San Jose Sharks
+1995020179,Ottawa Senators,1,Pittsburgh Penguins,7,Lance Roberts,Dan McCourt,Pittsburgh Penguins,Ottawa Senators
+1995020180,Montréal Canadiens,2,Anaheim Ducks,3,Dan O'Halloran,Driscoll,Anaheim Ducks,Montréal Canadiens
+1995020181,New York Rangers,5,Tampa Bay Lightning,4,Richard Trottier,Kevin Collins,New York Rangers,Tampa Bay Lightning
+1995020182,New Jersey Devils,1,Calgary Flames,2,Don Van Massenhoven,Pat Dapuzzo,Calgary Flames,New Jersey Devils
+1995020183,Dallas Stars,3,Los Angeles Kings,3,Marouelli,Wayne Bonney,Dallas Stars,Los Angeles Kings
+1995020184,Boston Bruins,4,Ottawa Senators,3,Paul Stewart,Ron Asselstine,Boston Bruins,Ottawa Senators
+1995020185,Philadelphia Flyers,3,Calgary Flames,1,Devorski,Gordon Broseker,Philadelphia Flyers,Calgary Flames
+1995020186,Florida Panthers,2,Edmonton Oilers,1,Mark Faucette #11,Andy McElman,Florida Panthers,Edmonton Oilers
+1995020187,Chicago Blackhawks,5,Vancouver Canucks,2,Mick McGeough,Dan Schachte,Chicago Blackhawks,Vancouver Canucks
+1995020188,Colorado Avalanche,1,Dallas Stars,1,Don Marourlli,Wayne Bonney,Colorado Avalanche,Dallas Stars
+1995020189,New York Rangers,4,New York Islanders,1,Terry Gregson,Brian Murphy,New York Rangers,New York Islanders
+1995020190,Tampa Bay Lightning,3,Edmonton Oilers,4,Stephen Walkom,Andy McElman,Edmonton Oilers,Tampa Bay Lightning
+1995020191,Toronto Maple Leafs,6,Washington Capitals,1,Bill McCreary,Greg Devorski,Toronto Maple Leafs,Washington Capitals
+1995020192,St. Louis Blues,3,Winnipeg Jets (1979),2,Mick McGeough,Leon Stickle,St. Louis Blues,Winnipeg Jets (1979)
+1995020193,San Jose Sharks,1,Pittsburgh Penguins,9,Shick (16),Knox (48),Pittsburgh Penguins,San Jose Sharks
+1995020194,Boston Bruins,1,Toronto Maple Leafs,3,Don Van Massenhoven,Jean Morin,Toronto Maple Leafs,Boston Bruins
+1995020195,Hartford Whalers,1,New York Rangers,4,Richard Trottier,Kevin Collins,New York Rangers,Hartford Whalers
+1995020196,Ottawa Senators,2,Anaheim Ducks,3,Paul Devorski,Pierre Champoux,Anaheim Ducks,Ottawa Senators
+1995020197,New York Islanders,1,St. Louis Blues,4,Dan O'Halloran,Brian Murphy,St. Louis Blues,New York Islanders
+1995020198,New Jersey Devils,4,Philadelphia Flyers,2,Dave Jackson,Pat Dapuzzo,New Jersey Devils,Philadelphia Flyers
+1995020199,Washington Capitals,1,Chicago Blackhawks,4,Terry Gregson,Gordon Broseker,Chicago Blackhawks,Washington Capitals
+1995020200,Florida Panthers,4,Buffalo Sabres,1,Steve Walkom #24,Andy McElman,Florida Panthers,Buffalo Sabres
+1995020201,Calgary Flames,0,Montréal Canadiens,4,Andy van Hellemond,Wayne Bonney,Montréal Canadiens,Calgary Flames
+1995020202,Vancouver Canucks,4,Colorado Avalanche,8,Rob Schick,Shane Heyer,Colorado Avalanche,Vancouver Canucks
+1995020203,San Jose Sharks,2,Detroit Red Wings,5,Stewart (22),Konx (48),Detroit Red Wings,San Jose Sharks
+1995020204,Los Angeles Kings,3,Pittsburgh Penguins,2,Dan Marouelli,Mike Cvik,Los Angeles Kings,Pittsburgh Penguins
+1995020205,Philadelphia Flyers,2,New Jersey Devils,3,Roberts,Dapuzzo,New Jersey Devils,Philadelphia Flyers
+1995020206,Tampa Bay Lightning,4,Buffalo Sabres,6,Bill McCreary,Andy McElman,Buffalo Sabres,Tampa Bay Lightning
+1995020207,Chicago Blackhawks,4,Edmonton Oilers,4,Don Koharski,Leon Stickle,Chicago Blackhawks,Edmonton Oilers
+1995020208,Vancouver Canucks,2,Montréal Canadiens,4,Paul Stewart,Shane Heyer,Montréal Canadiens,Vancouver Canucks
+1995020209,Anaheim Ducks,2,Los Angeles Kings,4,Andy van Hellemond,Mike Cvik,Los Angeles Kings,Anaheim Ducks
+1995020210,Pittsburgh Penguins,4,Dallas Stars,2,Don Koharski,Gerald Gauthier,Pittsburgh Penguins,Dallas Stars
+1995020211,New Jersey Devils,1,Hartford Whalers,0,Stephen Walkom,Ron Finn,New Jersey Devils,Hartford Whalers
+1995020212,Washington Capitals,2,Philadelphia Flyers,2,Dan Marouelli,Greg Devorski,Washington Capitals,Philadelphia Flyers
+1995020213,Tampa Bay Lightning,5,Boston Bruins,3,Bill McCreary,Scott Driscoll,Tampa Bay Lightning,Boston Bruins
+1995020214,Florida Panthers,5,Toronto Maple Leafs,2,Dave Jackson #8,Stephane Provost #72,Florida Panthers,Toronto Maple Leafs
+1995020215,St. Louis Blues,1,New York Rangers,1,Mark Faucette,Jean Morin,St. Louis Blues,New York Rangers
+1995020216,Winnipeg Jets (1979),6,Chicago Blackhawks,5,Paul Devorski,Ron Asselstine,Winnipeg Jets (1979),Chicago Blackhawks
+1995020217,Calgary Flames,4,Edmonton Oilers,2,Paul Stewart,Shane Heyer,Calgary Flames,Edmonton Oilers
+1995020218,San Jose Sharks,3,New York Islanders,5,Van Hellemond (25),Parker (51),New York Islanders,San Jose Sharks
+1995020219,Los Angeles Kings,5,Detroit Red Wings,6,Rob Shick,Mike Cvik,Detroit Red Wings,Los Angeles Kings
+1995020220,Hartford Whalers,3,Ottawa Senators,2,Dan Marouelli,Pierre Racicot,Hartford Whalers,Ottawa Senators
+1995020221,Buffalo Sabres,2,Dallas Stars,1,Lance Roberts,Gordon Broseker,Buffalo Sabres,Dallas Stars
+1995020222,Edmonton Oilers,1,Montréal Canadiens,4,Mick McGeough,Shane Heyer,Montréal Canadiens,Edmonton Oilers
+1995020223,Anaheim Ducks,7,Colorado Avalanche,3,Dan O'Halloran,Baron Parker,Anaheim Ducks,Colorado Avalanche
+1995020224,Boston Bruins,2,New Jersey Devils,2,Don Koharski,Gordon Broseker,Boston Bruins,New Jersey Devils
+1995020225,Philadelphia Flyers,5,Ottawa Senators,3,Blaine Angus,Greg Devorski,Philadelphia Flyers,Ottawa Senators
+1995020226,Tampa Bay Lightning,4,Toronto Maple Leafs,5,Dave Jackson,Stephane Provost,Toronto Maple Leafs,Tampa Bay Lightning
+1995020227,Florida Panthers,2,Vancouver Canucks,2,Bill McCreary #7,Scott Driscoll #68,Florida Panthers,Vancouver Canucks
+1995020228,Chicago Blackhawks,3,New York Rangers,1,Mark Faucette,Dan McCourt,Chicago Blackhawks,New York Rangers
+1995020229,St. Louis Blues,3,San Jose Sharks,1,Paul Devorski,Jean Morin,St. Louis Blues,San Jose Sharks
+1995020230,Los Angeles Kings,9,New York Islanders,2,Dan O'Hallorn,Dan Schachte,Los Angeles Kings,New York Islanders
+1995020231,Washington Capitals,2,Pittsburgh Penguins,3,Richard Trottier,Bob Hodges,Pittsburgh Penguins,Washington Capitals
+1995020232,Dallas Stars,2,San Jose Sharks,1,Devorski,Hache,Dallas Stars,San Jose Sharks
+1995020233,Winnipeg Jets (1979),6,New York Rangers,3,Terry Gregson,Andy McElman,Winnipeg Jets (1979),New York Rangers
+1995020234,Calgary Flames,3,Colorado Avalanche,5,Don Van Massenhoven,Ron Asselstine,Colorado Avalanche,Calgary Flames
+1995020235,Edmonton Oilers,4,Detroit Red Wings,5,Andy van Hellemond,Swede Knox,Detroit Red Wings,Edmonton Oilers
+1995020236,Anaheim Ducks,2,New York Islanders,1,Rob Shick,Shane Heyer,Anaheim Ducks,New York Islanders
+1995020237,Boston Bruins,5,St. Louis Blues,2,Lance Roberts,Gordon Broseker,Boston Bruins,St. Louis Blues
+1995020238,Hartford Whalers,2,Philadelphia Flyers,4,Don Koharski,Pierre Champoux,Philadelphia Flyers,Hartford Whalers
+1995020239,Pittsburgh Penguins,3,Washington Capitals,0,Paul Stewart,Pat Dapuzzo,Pittsburgh Penguins,Washington Capitals
+1995020240,Montréal Canadiens,5,Ottawa Senators,1,Marouelli,Gauthier,Montréal Canadiens,Ottawa Senators
+1995020241,New Jersey Devils,4,Buffalo Sabres,5,Dennis Larue,Kevin Collins,Buffalo Sabres,New Jersey Devils
+1995020242,Tampa Bay Lightning,5,Vancouver Canucks,4,Dave Jackson,Stephane Provost,Tampa Bay Lightning,Vancouver Canucks
+1995020243,Toronto Maple Leafs,2,Winnipeg Jets (1979),1,Stephen Walkom,Scott Driscoll,Toronto Maple Leafs,Winnipeg Jets (1979)
+1995020244,Colorado Avalanche,5,Calgary Flames,2,Mark Faucette,Mike Cvik,Colorado Avalanche,Calgary Flames
+1995020245,Los Angeles Kings,3,Florida Panthers,2,Don Van Massenhoven,Wayne Bonney,Los Angeles Kings,Florida Panthers
+1995020246,Buffalo Sabres,6,Ottawa Senators,0,Stephen Walkom,Pat Dapuzzo,Buffalo Sabres,Ottawa Senators
+1995020247,Philadelphia Flyers,3,Vancouver Canucks,2,Richard Trottier,Pierre Champoux,Philadelphia Flyers,Vancouver Canucks
+1995020248,Chicago Blackhawks,2,San Jose Sharks,3,Terry Gregson,Brad Lazarowich,San Jose Sharks,Chicago Blackhawks
+1995020249,Anaheim Ducks,3,Florida Panthers,4,Don Van Massenhoven,Wayne Bonney,Florida Panthers,Anaheim Ducks
+1995020250,Montréal Canadiens,4,Hartford Whalers,3,Dave Jackson,Jean Morin,Montréal Canadiens,Hartford Whalers
+1995020251,Edmonton Oilers,3,Colorado Avalanche,3,Mark Faucette,Brad Lazarowich,Edmonton Oilers,Colorado Avalanche
+1995020252,Boston Bruins,5,Winnipeg Jets (1979),4,Dan Marouelli,Kevin Collins,Boston Bruins,Winnipeg Jets (1979)
+1995020253,New York Rangers,9,Pittsburgh Penguins,4,Rob Shick,Ron Asselstine,New York Rangers,Pittsburgh Penguins
+1995020254,Philadelphia Flyers,5,Los Angeles Kings,2,Paul Stewart,Pat Dapuzzo,Philadelphia Flyers,Los Angeles Kings
+1995020255,Washington Capitals,3,San Jose Sharks,2,Dennis Larue,Gordon Broseker,Washington Capitals,San Jose Sharks
+1995020256,Florida Panthers,4,New Jersey Devils,3,Lance Roberts,Pierre Champoux,Florida Panthers,New Jersey Devils
+1995020257,Toronto Maple Leafs,5,St. Louis Blues,2,Terry Gregson,Swede Knox,Toronto Maple Leafs,St. Louis Blues
+1995020258,Calgary Flames,2,Anaheim Ducks,3,Mick McGeough,Leon Stickle,Anaheim Ducks,Calgary Flames
+1995020259,Hartford Whalers,4,Montréal Canadiens,2,Rob Shick,Kevin Collins,Hartford Whalers,Montréal Canadiens
+1995020260,Pittsburgh Penguins,3,New York Rangers,4,Terry Gregson,Bod Hodges,New York Rangers,Pittsburgh Penguins
+1995020261,Ottawa Senators,1,Winnipeg Jets (1979),3,Dave Jackson,Stephane Provost,Winnipeg Jets (1979),Ottawa Senators
+1995020262,New York Islanders,5,Los Angeles Kings,2,Dan Marouelli,Ron Asselstine,New York Islanders,Los Angeles Kings
+1995020263,Tampa Bay Lightning,3,New Jersey Devils,1,Lance Roberts,Pierre Champoux,Tampa Bay Lightning,New Jersey Devils
+1995020264,Detroit Red Wings,5,San Jose Sharks,2,Van Hellemond,Knox,Detroit Red Wings,San Jose Sharks
+1995020265,Dallas Stars,4,Vancouver Canucks,3,Van Massenhoven,Devorski,Dallas Stars,Vancouver Canucks
+1995020266,Colorado Avalanche,6,Chicago Blackhawks,2,Mick McGeough,Wayne Bonney,Colorado Avalanche,Chicago Blackhawks
+1995020267,Edmonton Oilers,2,Anaheim Ducks,0,Richard Trottier,Mike Cvik,Edmonton Oilers,Anaheim Ducks
+1995020268,St. Louis Blues,2,Vancouver Canucks,3,Don Van Massenhoven,Greg Devorski,Vancouver Canucks,St. Louis Blues
+1995020269,Boston Bruins,2,Los Angeles Kings,1,Bill McCreary,Kevin Collins,Boston Bruins,Los Angeles Kings
+1995020270,Buffalo Sabres,1,New York Islanders,1,Andy van Hellemond,Swede Knox,Buffalo Sabres,New York Islanders
+1995020271,Philadelphia Flyers,4,Detroit Red Wings,1,Shick,Ron Asselstine,Philadelphia Flyers,Detroit Red Wings
+1995020272,Washington Capitals,1,Tampa Bay Lightning,2,Dave Jackson,Scott Driscoll,Tampa Bay Lightning,Washington Capitals
+1995020273,Toronto Maple Leafs,0,Hartford Whalers,4,Lance Roberts,Ron Finn,Hartford Whalers,Toronto Maple Leafs
+1995020274,Calgary Flames,2,Edmonton Oilers,5,Don Koharski,Wayne Bonney,Edmonton Oilers,Calgary Flames
+1995020275,Anaheim Ducks,4,Chicago Blackhawks,5,Mick McGeough,Shane Heyer,Chicago Blackhawks,Anaheim Ducks
+1995020276,Hartford Whalers,2,Washington Capitals,4,Bill McCreary,Stephane Provost,Washington Capitals,Hartford Whalers
+1995020277,Pittsburgh Penguins,5,Buffalo Sabres,3,Paul Stewart,Scott Driscoll,Pittsburgh Penguins,Buffalo Sabres
+1995020278,Ottawa Senators,3,Boston Bruins,3,Dan Marouelli,Pierre Champoux,Ottawa Senators,Boston Bruins
+1995020279,Montréal Canadiens,2,Colorado Avalanche,2,Terry Gregson,Ray Scapinello,Montréal Canadiens,Colorado Avalanche
+1995020280,New York Islanders,1,Tampa Bay Lightning,2,Stephen Walkom,Ron Asselstine,Tampa Bay Lightning,New York Islanders
+1995020281,Detroit Red Wings,2,New York Rangers,0,Van Massenhoven,McCourt,Detroit Red Wings,New York Rangers
+1995020282,St. Louis Blues,2,Toronto Maple Leafs,2,Rob Shick,Andy McElman,St. Louis Blues,Toronto Maple Leafs
+1995020283,Dallas Stars,2,New Jersey Devils,0,Trottier,Devorski,Dallas Stars,New Jersey Devils
+1995020284,San Jose Sharks,7,Vancouver Canucks,2,McGeough (19),Heyer (64),San Jose Sharks,Vancouver Canucks
+1995020285,Florida Panthers,5,Los Angeles Kings,1,Mark Faucette,Ron Finn,Florida Panthers,Los Angeles Kings
+1995020286,Winnipeg Jets (1979),4,Edmonton Oilers,0,Don Koharski,Swede Knox,Winnipeg Jets (1979),Edmonton Oilers
+1995020287,Calgary Flames,2,Chicago Blackhawks,2,Paul Devorski,Mike Cvik,Calgary Flames,Chicago Blackhawks
+1995020288,New York Rangers,1,New Jersey Devils,1,Bill McCreary,Kevin Collins,New York Rangers,New Jersey Devils
+1995020289,Tampa Bay Lightning,2,Los Angeles Kings,0,Mark Faucette,Tim Nowak,Tampa Bay Lightning,Los Angeles Kings
+1995020290,St. Louis Blues,0,Buffalo Sabres,2,Richard Trottier,Andy McElman,Buffalo Sabres,St. Louis Blues
+1995020291,Pittsburgh Penguins,7,Ottawa Senators,2,Stephen Walkom,Conrad Hache,Pittsburgh Penguins,Ottawa Senators
+1995020292,New York Islanders,3,Colorado Avalanche,7,Kerry Fraser,Gordon Broseker,Colorado Avalanche,New York Islanders
+1995020293,Detroit Red Wings,3,Montréal Canadiens,2,Paul Stewart,Ray Scapinello,Detroit Red Wings,Montréal Canadiens
+1995020294,Winnipeg Jets (1979),4,Toronto Maple Leafs,3,Paul Devorski,Mike Cvik,Winnipeg Jets (1979),Toronto Maple Leafs
+1995020295,Edmonton Oilers,3,Chicago Blackhawks,5,Lance Roberts,Shane Heyer,Chicago Blackhawks,Edmonton Oilers
+1995020296,New York Rangers,5,Buffalo Sabres,3,Paul Stewart,Pat Dapuzzo,New York Rangers,Buffalo Sabres
+1995020297,New Jersey Devils,4,Colorado Avalanche,3,Dave Jackson,Gordon Broseker,New Jersey Devils,Colorado Avalanche
+1995020298,Tampa Bay Lightning,2,Hartford Whalers,2,Richard Trottier,Ron Finn,Tampa Bay Lightning,Hartford Whalers
+1995020299,Florida Panthers,1,Philadelphia Flyers,2,Terry Gregson,Jean Morin,Philadelphia Flyers,Florida Panthers
+1995020300,St. Louis Blues,5,Montréal Canadiens,4,Stephen Walkom,Ray Scapinello,St. Louis Blues,Montréal Canadiens
+1995020301,Vancouver Canucks,2,Chicago Blackhawks,2,Mick McGeough,Shane Heyer,Vancouver Canucks,Chicago Blackhawks
+1995020302,San Jose Sharks,3,Calgary Flames,5,Koharski,Lazarowich,Calgary Flames,San Jose Sharks
+1995020303,Anaheim Ducks,2,Washington Capitals,2,Rob Shick,Baron Parker,Anaheim Ducks,Washington Capitals
+1995020304,Boston Bruins,6,Pittsburgh Penguins,9,Dave Jackson,Scott Driscoll,Pittsburgh Penguins,Boston Bruins
+1995020305,Ottawa Senators,3,New York Islanders,5,Don Van Massenhoven,Pierre Champoux,New York Islanders,Ottawa Senators
+1995020306,Philadelphia Flyers,3,Toronto Maple Leafs,2,Mark Faucette,Pat Dapuzzo,Philadelphia Flyers,Toronto Maple Leafs
+1995020307,Winnipeg Jets (1979),1,St. Louis Blues,4,Dan Marouelli,Mike Cvik,St. Louis Blues,Winnipeg Jets (1979)
+1995020308,Los Angeles Kings,3,Washington Capitals,2,Lance Roberts,Bob Hodges,Los Angeles Kings,Washington Capitals
+1995020309,Pittsburgh Penguins,2,Florida Panthers,1,Blaine Angus,Mark Pare,Pittsburgh Penguins,Florida Panthers
+1995020310,Buffalo Sabres,2,Hartford Whalers,1,Don Van Massenhoven,Greg Devorski,Buffalo Sabres,Hartford Whalers
+1995020311,New York Rangers,5,Colorado Avalanche,3,Terry Gregson,Jean Morin,New York Rangers,Colorado Avalanche
+1995020312,New Jersey Devils,5,Tampa Bay Lightning,1,Paul Stewart,Gerard Gauthier,New Jersey Devils,Tampa Bay Lightning
+1995020313,Detroit Red Wings,5,Anaheim Ducks,2,Dennis Larue,Dan McCourt,Detroit Red Wings,Anaheim Ducks
+1995020314,Edmonton Oilers,2,Calgary Flames,8,Dan Marouelli,Swede Knox,Calgary Flames,Edmonton Oilers
+1995020315,Vancouver Canucks,7,San Jose Sharks,2,Mick McGeough,Shane Heyer,Vancouver Canucks,San Jose Sharks
+1995020316,Boston Bruins,6,Buffalo Sabres,4,Mark Faucette,Kevin Collins,Boston Bruins,Buffalo Sabres
+1995020317,Hartford Whalers,3,Florida Panthers,5,Paul Devorski,Stephane Provost,Florida Panthers,Hartford Whalers
+1995020318,Ottawa Senators,2,New York Rangers,4,Richard Trottier,Ray Scapinello,New York Rangers,Ottawa Senators
+1995020319,Montréal Canadiens,1,Detroit Red Wings,11,Kerry Fraser,Leon Stickle,Detroit Red Wings,Montréal Canadiens
+1995020320,New York Islanders,4,New Jersey Devils,1,Terry Gregson,Jean Morin,New York Islanders,New Jersey Devils
+1995020321,Toronto Maple Leafs,4,Anaheim Ducks,4,Dave Jackson,Ron Finn,Toronto Maple Leafs,Anaheim Ducks
+1995020322,Winnipeg Jets (1979),2,Chicago Blackhawks,2,Andy van Hellemond,Andy McElman,Winnipeg Jets (1979),Chicago Blackhawks
+1995020323,Edmonton Oilers,3,St. Louis Blues,7,Mick McGeough,Swede Knox,St. Louis Blues,Edmonton Oilers
+1995020324,San Jose Sharks,5,Washington Capitals,3,Roberts,Wayne Bonney,San Jose Sharks,Washington Capitals
+1995020325,Los Angeles Kings,2,Dallas Stars,2,Rob Shick,Bob Hodges,Los Angeles Kings,Dallas Stars
+1995020326,Philadelphia Flyers,6,Boston Bruins,1,Paul Devorski,Pat Dapuzzo,Philadelphia Flyers,Boston Bruins
+1995020327,Tampa Bay Lightning,4,Pittsburgh Penguins,5,Dan O'Halloran,Gordon Broseker,Pittsburgh Penguins,Tampa Bay Lightning
+1995020328,Winnipeg Jets (1979),5,Calgary Flames,2,Dan Marouelli,Andy McElman,Winnipeg Jets (1979),Calgary Flames
+1995020329,Colorado Avalanche,6,Dallas Stars,7,Bill McCreary,Shane Heyer,Dallas Stars,Colorado Avalanche
+1995020330,New York Rangers,5,Anaheim Ducks,1,Stephen Walkom,Gerard Gauthier,New York Rangers,Anaheim Ducks
+1995020331,Boston Bruins,6,Dallas Stars,4,Richard Trottier,Ray Scapinello,Boston Bruins,Dallas Stars
+1995020332,New York Islanders,3,Pittsburgh Penguins,6,Mark Faucette,Gerard Gauthier,Pittsburgh Penguins,New York Islanders
+1995020333,Washington Capitals,3,Florida Panthers,4,Stephen Walkom,Dan McCourt,Florida Panthers,Washington Capitals
+1995020334,Toronto Maple Leafs,4,Ottawa Senators,1,Don Koharski,Mark Wheler,Toronto Maple Leafs,Ottawa Senators
+1995020335,Detroit Red Wings,5,Philadelphia Flyers,3,Van Massenhoven,Collins,Detroit Red Wings,Philadelphia Flyers
+1995020336,Colorado Avalanche,12,San Jose Sharks,2,Rob Schick,Mike Cvik,Colorado Avalanche,San Jose Sharks
+1995020337,Calgary Flames,1,St. Louis Blues,1,Andy van Hellemond,Jay Sharrers,Calgary Flames,St. Louis Blues
+1995020338,Vancouver Canucks,6,Edmonton Oilers,2,Bill Mcreary,Wayne Bonney,Vancouver Canucks,Edmonton Oilers
+1995020339,Hartford Whalers,7,New York Islanders,4,Paul Stewart,Ray Scapinello,Hartford Whalers,New York Islanders
+1995020340,Montréal Canadiens,4,New Jersey Devils,2,Koharski,Morin,Montréal Canadiens,New Jersey Devils
+1995020341,New York Rangers,5,Chicago Blackhawks,5,Mark Faucette,Gerard Gauthier,New York Rangers,Chicago Blackhawks
+1995020342,Tampa Bay Lightning,2,Anaheim Ducks,1,Kerry Fraser,Pierre Champoux,Tampa Bay Lightning,Anaheim Ducks
+1995020343,Los Angeles Kings,6,Winnipeg Jets (1979),3,Bill McCreary,Dan Schachte,Los Angeles Kings,Winnipeg Jets (1979)
+1995020344,Pittsburgh Penguins,7,Montréal Canadiens,5,Lance Roberts,Kevin Collins,Pittsburgh Penguins,Montréal Canadiens
+1995020345,New Jersey Devils,1,Toronto Maple Leafs,2,Paul Devorski,Pat Dapuzzo,Toronto Maple Leafs,New Jersey Devils
+1995020346,Philadelphia Flyers,7,Buffalo Sabres,3,Stephan Walkum,Dan mc Court,Philadelphia Flyers,Buffalo Sabres
+1995020347,Florida Panthers,3,Anaheim Ducks,3,Kerry Fraser,Pierre Champoux,Florida Panthers,Anaheim Ducks
+1995020348,Detroit Red Wings,3,Dallas Stars,1,Rob Shick,Bob Hodges,Detroit Red Wings,Dallas Stars
+1995020349,Chicago Blackhawks,2,Ottawa Senators,5,Mick McGeough,Andy McElman,Ottawa Senators,Chicago Blackhawks
+1995020350,Colorado Avalanche,3,Edmonton Oilers,5,Bill McCreary,Mike Cvik,Edmonton Oilers,Colorado Avalanche
+1995020351,San Jose Sharks,5,Winnipeg Jets (1979),3,Richard Trottier,Shane Heyer,San Jose Sharks,Winnipeg Jets (1979)
+1995020352,Buffalo Sabres,2,Washington Capitals,2,Dan Marouelli,Scott Driscoll,Buffalo Sabres,Washington Capitals
+1995020353,New York Rangers,2,Detroit Red Wings,1,Dave Jackson,Stephane Provost,New York Rangers,Detroit Red Wings
+1995020354,Tampa Bay Lightning,3,Boston Bruins,1,Van Massenhoven,Champoux,Tampa Bay Lightning,Boston Bruins
+1995020355,Vancouver Canucks,3,St. Louis Blues,6,Paul Stewart,Wayne Bonney,St. Louis Blues,Vancouver Canucks
+1995020356,Pittsburgh Penguins,6,Hartford Whalers,0,Stephen Walkom,Mark Pare,Pittsburgh Penguins,Hartford Whalers
+1995020357,Ottawa Senators,3,Colorado Avalanche,7,Terry Gregson,Jean Morin,Colorado Avalanche,Ottawa Senators
+1995020358,Montréal Canadiens,2,New York Rangers,2,Mick McGeough,Greg Devorski,Montréal Canadiens,New York Rangers
+1995020359,New Jersey Devils,4,New York Islanders,2,Lance Roberts,Pat Dapuzzo,New Jersey Devils,New York Islanders
+1995020360,Florida Panthers,3,Boston Bruins,1,Don Van Massenhoven,Pierre Champoux,Florida Panthers,Boston Bruins
+1995020361,Toronto Maple Leafs,3,Dallas Stars,1,Andy van Hellemond,Brian Murphy,Toronto Maple Leafs,Dallas Stars
+1995020362,Calgary Flames,3,Vancouver Canucks,4,Don Koharski,Wayne Bonney,Vancouver Canucks,Calgary Flames
+1995020363,San Jose Sharks,2,Edmonton Oilers,4,Paul Stewart,Mike Cvik,Edmonton Oilers,San Jose Sharks
+1995020364,Los Angeles Kings,1,St. Louis Blues,2,Richard Trottier,Dan Schachte,St. Louis Blues,Los Angeles Kings
+1995020365,Buffalo Sabres,1,Tampa Bay Lightning,6,Stephen Walkom,Greg Devorski,Tampa Bay Lightning,Buffalo Sabres
+1995020366,Philadelphia Flyers,2,New York Islanders,6,Dave Jackson,Mark Pare,New York Islanders,Philadelphia Flyers
+1995020367,Chicago Blackhawks,4,Hartford Whalers,1,Dan Marouelli,Bob Hodges,Chicago Blackhawks,Hartford Whalers
+1995020368,Winnipeg Jets (1979),1,Washington Capitals,6,Rob Shick,Swede Knox,Washington Capitals,Winnipeg Jets (1979)
+1995020369,Anaheim Ducks,1,Edmonton Oilers,3,Richard Trottier,Jay Sharrers,Edmonton Oilers,Anaheim Ducks
+1995020370,New York Rangers,3,Dallas Stars,2,Lance Roberts,Pat Dapuzzo,New York Rangers,Dallas Stars
+1995020371,New Jersey Devils,1,Florida Panthers,2,Mick McGeough,Mark Pare,Florida Panthers,New Jersey Devils
+1995020372,Toronto Maple Leafs,1,Colorado Avalanche,5,Terry Gregson,Ron Finn,Colorado Avalanche,Toronto Maple Leafs
+1995020373,Calgary Flames,6,Los Angeles Kings,2,Paul Stewart,Wayne Bonney,Calgary Flames,Los Angeles Kings
+1995020374,New York Islanders,1,Florida Panthers,3,Andy van Hellemond,Kevin Collins,Florida Panthers,New York Islanders
+1995020375,St. Louis Blues,2,Detroit Red Wings,5,Rob Shick,Gerard Gauthier,Detroit Red Wings,St. Louis Blues
+1995020376,Winnipeg Jets (1979),5,Montréal Canadiens,6,Paul Devorski,Baron Parker,Montréal Canadiens,Winnipeg Jets (1979)
+1995020377,San Jose Sharks,2,Ottawa Senators,1,Koharski,Heyer,San Jose Sharks,Ottawa Senators
+1995020378,Hartford Whalers,2,Tampa Bay Lightning,3,Mike McGeough,Ron Finn,Tampa Bay Lightning,Hartford Whalers
+1995020379,Buffalo Sabres,4,Colorado Avalanche,3,Bill McCreary,Ron Asselstine,Buffalo Sabres,Colorado Avalanche
+1995020380,New York Rangers,4,Boston Bruins,2,Andy van Hellemond,Kevin Collins,New York Rangers,Boston Bruins
+1995020381,Detroit Red Wings,3,Chicago Blackhawks,1,Terry Gregson,Jean Morin,Detroit Red Wings,Chicago Blackhawks
+1995020382,Dallas Stars,4,Calgary Flames,8,Shick,McElman,Calgary Flames,Dallas Stars
+1995020383,Edmonton Oilers,2,Vancouver Canucks,2,Kerry Fraser,Mike Cvik,Edmonton Oilers,Vancouver Canucks
+1995020384,Los Angeles Kings,6,Ottawa Senators,2,Dennis Larue,Swede Knox,Los Angeles Kings,Ottawa Senators
+1995020385,Anaheim Ducks,6,Pittsburgh Penguins,3,Don Koharski,Shane Heyer,Anaheim Ducks,Pittsburgh Penguins
+1995020386,Boston Bruins,6,Florida Panthers,4,Dave Jackson,Brian Murphy,Boston Bruins,Florida Panthers
+1995020387,Philadelphia Flyers,4,Tampa Bay Lightning,0,Don Van Massenhoven,Pat Dapuzzo,Philadelphia Flyers,Tampa Bay Lightning
+1995020388,Washington Capitals,4,New York Islanders,3,Dan Marouelli,Gordon Broseker,Washington Capitals,New York Islanders
+1995020389,St. Louis Blues,3,Calgary Flames,3,Paul Devorski,Gerard Gauthier,St. Louis Blues,Calgary Flames
+1995020390,San Jose Sharks,1,Toronto Maple Leafs,4,Larue,Heyer,Toronto Maple Leafs,San Jose Sharks
+1995020391,Hartford Whalers,4,Colorado Avalanche,2,17 Richard Trottier,77 Ron Finn,Hartford Whalers,Colorado Avalanche
+1995020392,Buffalo Sabres,5,New York Rangers,4,Terry Gregson,Conrad Hache,Buffalo Sabres,New York Rangers
+1995020393,Detroit Red Wings,3,New Jersey Devils,1,McGeough,Devorski,Detroit Red Wings,New Jersey Devils
+1995020394,Chicago Blackhawks,1,Montréal Canadiens,4,Mark Faucette,Gerard Gauthier,Montréal Canadiens,Chicago Blackhawks
+1995020395,Dallas Stars,1,Pittsburgh Penguins,5,Devorski,McElman,Pittsburgh Penguins,Dallas Stars
+1995020396,Winnipeg Jets (1979),9,Edmonton Oilers,4,Lance Roberts,Ron Asselstine,Winnipeg Jets (1979),Edmonton Oilers
+1995020397,Anaheim Ducks,4,Ottawa Senators,2,Kerry Fraser,Swede Knox,Anaheim Ducks,Ottawa Senators
+1995020398,Boston Bruins,6,Calgary Flames,3,Dan Marouelli,Pierre Champoux,Boston Bruins,Calgary Flames
+1995020399,Montréal Canadiens,2,Philadelphia Flyers,4,McCreary,Racicot,Philadelphia Flyers,Montréal Canadiens
+1995020400,New York Islanders,3,Hartford Whalers,3,Don Van Massenhoven,Gordon Broseker,New York Islanders,Hartford Whalers
+1995020401,New Jersey Devils,2,Buffalo Sabres,3,Dave Jackson,Pat Dapuzzo,Buffalo Sabres,New Jersey Devils
+1995020402,Washington Capitals,3,New York Rangers,2,Andy van Hellemond,Scott Driscoll,Washington Capitals,New York Rangers
+1995020403,Tampa Bay Lightning,2,Florida Panthers,7,Stewart,Nowak,Florida Panthers,Tampa Bay Lightning
+1995020404,St. Louis Blues,3,San Jose Sharks,2,Mick McGeough,Thor Nelson,St. Louis Blues,San Jose Sharks
+1995020405,Los Angeles Kings,3,Toronto Maple Leafs,6,Kerry Fraser,Swede Knox,Toronto Maple Leafs,Los Angeles Kings
+1995020406,Philadelphia Flyers,6,Pittsburgh Penguins,5,Terry Gregson,Gordon Broseker,Philadelphia Flyers,Pittsburgh Penguins
+1995020407,Chicago Blackhawks,3,Winnipeg Jets (1979),1,Don Koharski,Ron Asselstine,Chicago Blackhawks,Winnipeg Jets (1979)
+1995020408,Dallas Stars,4,San Jose Sharks,2,Blaine Angus,McElman,Dallas Stars,San Jose Sharks
+1995020409,Vancouver Canucks,4,Ottawa Senators,1,Stephen Walkom,Baron Parker,Vancouver Canucks,Ottawa Senators
+1995020410,Anaheim Ducks,2,Toronto Maple Leafs,3,Mark Faucette,Swede Knox,Toronto Maple Leafs,Anaheim Ducks
+1995020411,Montréal Canadiens,3,Hartford Whalers,2,Don van Massenhove,Champoux,Montréal Canadiens,Hartford Whalers
+1995020412,New York Rangers,3,Washington Capitals,0,Bill McCreary,Bob Hodges,New York Rangers,Washington Capitals
+1995020413,Colorado Avalanche,2,Vancouver Canucks,4,Kerry Fraser,Mike Cvik,Vancouver Canucks,Colorado Avalanche
+1995020414,Edmonton Oilers,3,Ottawa Senators,1,Lance Roberts,Baron Parker,Edmonton Oilers,Ottawa Senators
+1995020415,Pittsburgh Penguins,7,Calgary Flames,1,Paul Stewart,Ron Finn,Pittsburgh Penguins,Calgary Flames
+1995020416,New Jersey Devils,5,Philadelphia Flyers,4,Bill McCreary,Leon Stickle,New Jersey Devils,Philadelphia Flyers
+1995020417,Tampa Bay Lightning,6,Winnipeg Jets (1979),3,Jackson,Pare,Tampa Bay Lightning,Winnipeg Jets (1979)
+1995020418,St. Louis Blues,4,New York Islanders,1,Blaine Angus,Ron Asselstine,St. Louis Blues,New York Islanders
+1995020419,Anaheim Ducks,4,San Jose Sharks,7,Stephen Walkom,Shane Heyer,San Jose Sharks,Anaheim Ducks
+1995020420,Hartford Whalers,2,Calgary Flames,3,Paul Stewart,Kevin Collins,Calgary Flames,Hartford Whalers
+1995020421,Buffalo Sabres,2,Montréal Canadiens,1,Andy van Hellemond,Pierre Racicot,Buffalo Sabres,Montréal Canadiens
+1995020422,Toronto Maple Leafs,2,Chicago Blackhawks,4,Terry Gregson,Don Henderson,Chicago Blackhawks,Toronto Maple Leafs
+1995020423,Edmonton Oilers,1,Colorado Avalanche,4,Rob Shick,Mike Cvik,Colorado Avalanche,Edmonton Oilers
+1995020424,Los Angeles Kings,2,Vancouver Canucks,2,Mark Faucette,Shane Heyer,Los Angeles Kings,Vancouver Canucks
+1995020425,Anaheim Ducks,1,Detroit Red Wings,6,Don Koharski,Jay Sharrers,Detroit Red Wings,Anaheim Ducks
+1995020426,Philadelphia Flyers,1,New York Rangers,2,Dan Marouelli,Pat Dapuzzo,New York Rangers,Philadelphia Flyers
+1995020427,Tampa Bay Lightning,2,New Jersey Devils,2,Richard Trottier,Greg Devorski,Tampa Bay Lightning,New Jersey Devils
+1995020428,Florida Panthers,6,Winnipeg Jets (1979),1,Dave Jackson,Tim Nowak,Florida Panthers,Winnipeg Jets (1979)
+1995020429,Chicago Blackhawks,3,Toronto Maple Leafs,3,Don Van Massenhoven,Jean Morin,Chicago Blackhawks,Toronto Maple Leafs
+1995020430,Dallas Stars,3,New York Islanders,3,Walkom,McCourt,Dallas Stars,New York Islanders
+1995020431,Pittsburgh Penguins,2,Montréal Canadiens,4,Paul Devorski,Bob Hodges,Montréal Canadiens,Pittsburgh Penguins
+1995020432,Buffalo Sabres,2,Boston Bruins,3,Lance Roberts,Ron Asselstine,Boston Bruins,Buffalo Sabres
+1995020433,New York Rangers,3,Hartford Whalers,3,Kerry Fraser,Pat Dapuzzo,New York Rangers,Hartford Whalers
+1995020434,Washington Capitals,6,Edmonton Oilers,3,Dan O'Halloran,Gordon Broseker,Washington Capitals,Edmonton Oilers
+1995020435,Colorado Avalanche,2,St. Louis Blues,1,Mark Faucette,Don Henderson,Colorado Avalanche,St. Louis Blues
+1995020436,Calgary Flames,1,Detroit Red Wings,5,Rob Shick,Mike Cvik,Detroit Red Wings,Calgary Flames
+1995020437,San Jose Sharks,4,Los Angeles Kings,3,Blaine Angus,Parker,San Jose Sharks,Los Angeles Kings
+1995020438,Anaheim Ducks,2,Vancouver Canucks,6,Mick McGeough,Shane Heyer,Vancouver Canucks,Anaheim Ducks
+1995020439,Boston Bruins,7,Tampa Bay Lightning,5,Paul Stewart,Kevin Collins,Boston Bruins,Tampa Bay Lightning
+1995020440,Hartford Whalers,3,Philadelphia Flyers,3,Dave Jackson,Pierre Racicot,Hartford Whalers,Philadelphia Flyers
+1995020441,Ottawa Senators,2,Buffalo Sabres,4,Dan O'Halloran,Wayne Bonney,Buffalo Sabres,Ottawa Senators
+1995020442,Montréal Canadiens,1,Pittsburgh Penguins,0,Gregson,Gauthier,Montréal Canadiens,Pittsburgh Penguins
+1995020443,New York Islanders,3,Washington Capitals,1,Dan Marouelli,Gordon Broseker,New York Islanders,Washington Capitals
+1995020444,Florida Panthers,2,New Jersey Devils,1,Richard Trottier,Greg Devorski,Florida Panthers,New Jersey Devils
+1995020445,Toronto Maple Leafs,6,Edmonton Oilers,1,Bill McCreary,Ron Finn,Toronto Maple Leafs,Edmonton Oilers
+1995020446,Dallas Stars,0,Chicago Blackhawks,2,Faucette,McCourt,Chicago Blackhawks,Dallas Stars
+1995020447,Winnipeg Jets (1979),2,St. Louis Blues,1,Stephen Walkom,Andy McElman,Winnipeg Jets (1979),St. Louis Blues
+1995020448,Vancouver Canucks,0,Detroit Red Wings,1,Rob Schick,Brad Lazarowich,Detroit Red Wings,Vancouver Canucks
+1995020449,Los Angeles Kings,2,Colorado Avalanche,2,Mike McGeough,Baron Parker,Los Angeles Kings,Colorado Avalanche
+1995020450,Pittsburgh Penguins,6,Buffalo Sabres,3,Stephen Walkom,Pierre Champoux,Pittsburgh Penguins,Buffalo Sabres
+1995020451,New York Islanders,3,Boston Bruins,3,Paul Devorski,Jean Morin,New York Islanders,Boston Bruins
+1995020452,New York Rangers,6,Ottawa Senators,4,Richard Trottier,Gerard Gauthier,New York Rangers,Ottawa Senators
+1995020453,Washington Capitals,4,Montréal Canadiens,0,Kerry Fraser,Gordon Broseker,Washington Capitals,Montréal Canadiens
+1995020454,Detroit Red Wings,3,St. Louis Blues,2,Van Hellemond,Ron Asselstine,Detroit Red Wings,St. Louis Blues
+1995020455,Chicago Blackhawks,5,Dallas Stars,3,Lance Roberts,Andy McElman,Chicago Blackhawks,Dallas Stars
+1995020456,Vancouver Canucks,2,Calgary Flames,4,Van Massenhoven,Parker,Calgary Flames,Vancouver Canucks
+1995020457,San Jose Sharks,1,Colorado Avalanche,5,Larue,Mike Cvik,Colorado Avalanche,San Jose Sharks
+1995020458,Buffalo Sabres,3,Ottawa Senators,4,Bill McCreary,Scott Driscoll,Ottawa Senators,Buffalo Sabres
+1995020459,New Jersey Devils,5,New York Islanders,3,Paul Stewart,Gerard Gauthier,New Jersey Devils,New York Islanders
+1995020460,Calgary Flames,4,Toronto Maple Leafs,0,Dan Marouelli,Don Henderson,Calgary Flames,Toronto Maple Leafs
+1995020461,Edmonton Oilers,3,Philadelphia Flyers,2,Don Van Massenhoven,Jay Sharrers,Edmonton Oilers,Philadelphia Flyers
+1995020462,Los Angeles Kings,7,Anaheim Ducks,1,Rob Shick,Mike Cvik,Los Angeles Kings,Anaheim Ducks
+1995020463,Pittsburgh Penguins,9,Hartford Whalers,4,Lance Roberts,Dan McCourt,Pittsburgh Penguins,Hartford Whalers
+1995020464,Tampa Bay Lightning,3,Montréal Canadiens,1,Mark Faucette,Brian Murphy,Tampa Bay Lightning,Montréal Canadiens
+1995020465,Florida Panthers,4,Washington Capitals,5,Steve Walkom #24,Kevin Collins #50,Washington Capitals,Florida Panthers
+1995020466,Chicago Blackhawks,4,Winnipeg Jets (1979),3,Dave Jackson,Greg Devorski,Chicago Blackhawks,Winnipeg Jets (1979)
+1995020467,St. Louis Blues,4,Dallas Stars,1,Don Koharski,Pierre Champoux,St. Louis Blues,Dallas Stars
+1995020468,Vancouver Canucks,2,New York Rangers,3,McGeough,Heyer,New York Rangers,Vancouver Canucks
+1995020469,Buffalo Sabres,2,Chicago Blackhawks,5,Terry Gregson,Ron Asselstine,Chicago Blackhawks,Buffalo Sabres
+1995020470,Dallas Stars,1,Detroit Red Wings,2,McCreary,Finn,Detroit Red Wings,Dallas Stars
+1995020471,Winnipeg Jets (1979),5,New Jersey Devils,3,Andy van Hellemond,Don Henderson,Winnipeg Jets (1979),New Jersey Devils
+1995020472,Colorado Avalanche,3,Toronto Maple Leafs,2,Devorski,Lazarowich,Colorado Avalanche,Toronto Maple Leafs
+1995020473,Calgary Flames,2,Philadelphia Flyers,3,Mick McGeough,Mike Cvik,Philadelphia Flyers,Calgary Flames
+1995020474,Edmonton Oilers,5,Los Angeles Kings,4,Dan Marouelli,Randy Mitton,Edmonton Oilers,Los Angeles Kings
+1995020475,Anaheim Ducks,4,San Jose Sharks,2,Rob Shick,Swede Knox,Anaheim Ducks,San Jose Sharks
+1995020476,Pittsburgh Penguins,6,Florida Panthers,5,Kerry Fraser,Bob Hodges,Pittsburgh Penguins,Florida Panthers
+1995020477,Ottawa Senators,1,Montréal Canadiens,4,Lance Roberts,Wayne Bonney,Montréal Canadiens,Ottawa Senators
+1995020478,Washington Capitals,3,Hartford Whalers,0,Mark Faucette,Gordon Broseker,Washington Capitals,Hartford Whalers
+1995020479,St. Louis Blues,3,Toronto Maple Leafs,4,Bill McCreary,Ron Finn,Toronto Maple Leafs,St. Louis Blues
+1995020480,Edmonton Oilers,3,New York Rangers,8,Don Van Massenhoven,Randy Mitton,New York Rangers,Edmonton Oilers
+1995020481,Buffalo Sabres,2,New York Islanders,5,Stephen Walkom,Greg Devorski,New York Islanders,Buffalo Sabres
+1995020482,Ottawa Senators,0,Tampa Bay Lightning,3,Terry Gergson,Wayne Bonney,Tampa Bay Lightning,Ottawa Senators
+1995020483,Detroit Red Wings,3,Hartford Whalers,2,Koharski,McCourt,Detroit Red Wings,Hartford Whalers
+1995020484,Chicago Blackhawks,5,New Jersey Devils,0,Richard Trottier,Andy McElman,Chicago Blackhawks,New Jersey Devils
+1995020485,Winnipeg Jets (1979),3,Boston Bruins,5,Dave Jackson,Don Henderson,Boston Bruins,Winnipeg Jets (1979)
+1995020486,Calgary Flames,3,New York Rangers,1,Andy van Hellemond,Mike Cvik,Calgary Flames,New York Rangers
+1995020487,Vancouver Canucks,5,Philadelphia Flyers,5,Paul Devorski,Brad Lazarowich,Vancouver Canucks,Philadelphia Flyers
+1995020488,Anaheim Ducks,2,Los Angeles Kings,2,Mick McGeough,Shane Heyer,Anaheim Ducks,Los Angeles Kings
+1995020489,Washington Capitals,4,Pittsburgh Penguins,2,Paul Stewart,Gordon Broseker,Washington Capitals,Pittsburgh Penguins
+1995020490,Florida Panthers,3,New York Islanders,2,Mick McGeough,Gordon Broseker,Florida Panthers,New York Islanders
+1995020491,Dallas Stars,0,Toronto Maple Leafs,1,Shick,Driscoll,Toronto Maple Leafs,Dallas Stars
+1995020492,Boston Bruins,2,Chicago Blackhawks,5,Kerry Fraser,Kevin Collins,Chicago Blackhawks,Boston Bruins
+1995020493,Calgary Flames,10,Tampa Bay Lightning,0,Dave Jackson,Jay Sharrers,Calgary Flames,Tampa Bay Lightning
+1995020494,Hartford Whalers,2,Washington Capitals,0,Bill McCreary,Pierre Champoux,Hartford Whalers,Washington Capitals
+1995020495,Pittsburgh Penguins,4,Ottawa Senators,1,Dennis Larue,Pat Dapuzzo,Pittsburgh Penguins,Ottawa Senators
+1995020496,New York Rangers,7,Montréal Canadiens,4,Don Koharski,Ron Asselstine,New York Rangers,Montréal Canadiens
+1995020497,Toronto Maple Leafs,4,Boston Bruins,4,Andy van Hellemond,Mark Pare,Toronto Maple Leafs,Boston Bruins
+1995020498,Detroit Red Wings,3,Dallas Stars,3,Marouelli,G. Devorski,Detroit Red Wings,Dallas Stars
+1995020499,Colorado Avalanche,0,New Jersey Devils,1,Shick,Wayne Bonney,New Jersey Devils,Colorado Avalanche
+1995020500,Edmonton Oilers,0,Tampa Bay Lightning,5,Stephen Walkom,Shane Heyer,Tampa Bay Lightning,Edmonton Oilers
+1995020501,Vancouver Canucks,7,Florida Panthers,2,Dave Jackson,Brad Lazarowich,Vancouver Canucks,Florida Panthers
+1995020502,San Jose Sharks,1,Philadelphia Flyers,3,Gregson,Mike Cvik,Philadelphia Flyers,San Jose Sharks
+1995020503,Los Angeles Kings,4,Winnipeg Jets (1979),5,Paul Devorski,Pierre Racicot,Winnipeg Jets (1979),Los Angeles Kings
+1995020504,New York Islanders,2,Montréal Canadiens,2,Lance Roberts,Ron Asselstine,New York Islanders,Montréal Canadiens
+1995020505,Chicago Blackhawks,1,St. Louis Blues,3,Mark Faucette,Gerard Gauthier,St. Louis Blues,Chicago Blackhawks
+1995020506,Colorado Avalanche,2,Philadelphia Flyers,2,McGeough,Wayne Bonney,Colorado Avalanche,Philadelphia Flyers
+1995020507,Hartford Whalers,4,Ottawa Senators,2,Don Van Massenhoven,Pierre Champoux,Hartford Whalers,Ottawa Senators
+1995020508,Pittsburgh Penguins,5,Detroit Red Wings,2,Don Koharski,Pat Dapuzzo,Pittsburgh Penguins,Detroit Red Wings
+1995020509,Buffalo Sabres,3,Toronto Maple Leafs,1,Kerry Fraser,Gordon Broseker,Buffalo Sabres,Toronto Maple Leafs
+1995020510,Washington Capitals,4,New York Rangers,4,Bill McCreary,Brian Murphy,Washington Capitals,New York Rangers
+1995020511,Dallas Stars,5,Winnipeg Jets (1979),4,Trottier,McElman,Dallas Stars,Winnipeg Jets (1979)
+1995020512,Calgary Flames,1,Anaheim Ducks,3,Stephen Walkom,Ray Scapinello,Anaheim Ducks,Calgary Flames
+1995020513,Edmonton Oilers,2,Florida Panthers,3,Rob Shick,Shane Heyer,Florida Panthers,Edmonton Oilers
+1995020514,San Jose Sharks,2,Los Angeles Kings,5,Gregson,McCourt,Los Angeles Kings,San Jose Sharks
+1995020515,Boston Bruins,5,Hartford Whalers,2,Don Koharski,Pierre Champoux,Boston Bruins,Hartford Whalers
+1995020516,Montréal Canadiens,6,Buffalo Sabres,7,Marouelli,Collins,Buffalo Sabres,Montréal Canadiens
+1995020517,New York Islanders,5,Ottawa Senators,4,Bill McCreary,Brian Murphy,New York Islanders,Ottawa Senators
+1995020518,New Jersey Devils,3,Washington Capitals,1,Andy van Hellemond,Ron Asselstine,New Jersey Devils,Washington Capitals
+1995020519,Toronto Maple Leafs,5,Colorado Avalanche,2,Lance Roberts,Gordon Broseker,Toronto Maple Leafs,Colorado Avalanche
+1995020520,Detroit Red Wings,3,Chicago Blackhawks,0,Faucette,Stickle,Detroit Red Wings,Chicago Blackhawks
+1995020521,St. Louis Blues,3,Pittsburgh Penguins,2,Kerry Fraser,Gerard Gauthier,St. Louis Blues,Pittsburgh Penguins
+1995020522,Calgary Flames,2,Florida Panthers,0,Paul Stewart,Ray Scapinello,Calgary Flames,Florida Panthers
+1995020523,Vancouver Canucks,9,Tampa Bay Lightning,2,Stephen Walkom,Brad Lazarowich,Vancouver Canucks,Tampa Bay Lightning
+1995020524,Los Angeles Kings,7,San Jose Sharks,5,Mike McGeough,Dan McCourt,Los Angeles Kings,San Jose Sharks
+1995020525,Chicago Blackhawks,5,Dallas Stars,2,Paul Devorski,Gerard Gauthier,Chicago Blackhawks,Dallas Stars
+1995020526,Edmonton Oilers,3,Anaheim Ducks,1,Paul Stewart,Randy Mitton,Edmonton Oilers,Anaheim Ducks
+1995020527,Boston Bruins,0,Colorado Avalanche,3,Don Van Massenhoven,Ron Finn,Colorado Avalanche,Boston Bruins
+1995020528,Pittsburgh Penguins,8,Vancouver Canucks,5,Mark Faucette,Gordon Broseker,Pittsburgh Penguins,Vancouver Canucks
+1995020529,Montréal Canadiens,3,Tampa Bay Lightning,3,Jackson,Champoux,Montréal Canadiens,Tampa Bay Lightning
+1995020530,New York Rangers,3,Washington Capitals,5,Paul Stewart,Brian Murphy,Washington Capitals,New York Rangers
+1995020531,Detroit Red Wings,4,Winnipeg Jets (1979),6,P. Devorski,L. Stickle,Winnipeg Jets (1979),Detroit Red Wings
+1995020532,Dallas Stars,4,Los Angeles Kings,4,Fraser,Mike Cvik,Dallas Stars,Los Angeles Kings
+1995020533,San Jose Sharks,2,Florida Panthers,5,Walkom,Heyer,Florida Panthers,San Jose Sharks
+1995020534,New York Islanders,3,Chicago Blackhawks,3,Richard Trottier,Kevin Collins,New York Islanders,Chicago Blackhawks
+1995020535,New Jersey Devils,4,St. Louis Blues,2,Andy van Hellemond,Brian Murphy,New Jersey Devils,St. Louis Blues
+1995020536,Philadelphia Flyers,2,Anaheim Ducks,2,Blaine Angus,Pierre Racicot,Philadelphia Flyers,Anaheim Ducks
+1995020537,Edmonton Oilers,1,Hartford Whalers,5,Lance Roberts,Baron Parker,Hartford Whalers,Edmonton Oilers
+1995020538,Montréal Canadiens,2,Vancouver Canucks,2,Koharski,Champoux,Montréal Canadiens,Vancouver Canucks
+1995020539,New York Rangers,7,San Jose Sharks,4,Mark Faucette,Ron Finn,New York Rangers,San Jose Sharks
+1995020540,Toronto Maple Leafs,5,Los Angeles Kings,4,Bill McCreary,Ron Asselstine,Toronto Maple Leafs,Los Angeles Kings
+1995020541,Dallas Stars,0,Detroit Red Wings,4,Gregson,Mike Cvik,Detroit Red Wings,Dallas Stars
+1995020542,Winnipeg Jets (1979),4,Buffalo Sabres,1,Paul Stewart,Swede Knox,Winnipeg Jets (1979),Buffalo Sabres
+1995020543,Colorado Avalanche,4,Florida Panthers,4,Fraser,Heyer,Colorado Avalanche,Florida Panthers
+1995020544,Calgary Flames,3,Hartford Whalers,2,Lance Roberts,Jay Sharrers,Calgary Flames,Hartford Whalers
+1995020545,Boston Bruins,7,Anaheim Ducks,2,Mick McGeough,Dan McCourt,Boston Bruins,Anaheim Ducks
+1995020546,New York Islanders,4,Toronto Maple Leafs,3,Don Koharski,Kevin Collins,New York Islanders,Toronto Maple Leafs
+1995020547,New Jersey Devils,1,San Jose Sharks,2,Richard Trottier,Bob Hodges,San Jose Sharks,New Jersey Devils
+1995020548,Philadelphia Flyers,4,St. Louis Blues,4,Andy van Hellemond,Pat Dapuzzo,Philadelphia Flyers,St. Louis Blues
+1995020549,Washington Capitals,6,Ottawa Senators,1,Blaine Angus,Gordon Broseker,Washington Capitals,Ottawa Senators
+1995020550,Pittsburgh Penguins,5,Montréal Canadiens,6,Andy van Hellemond,Ron Asselstine,Montréal Canadiens,Pittsburgh Penguins
+1995020551,Detroit Red Wings,3,Los Angeles Kings,2,Stewart,Morin,Detroit Red Wings,Los Angeles Kings
+1995020552,Chicago Blackhawks,3,Anaheim Ducks,0,Dan Marouelli,Mike Cvik,Chicago Blackhawks,Anaheim Ducks
+1995020553,Dallas Stars,6,Florida Panthers,6,Roberts,Nelson,Dallas Stars,Florida Panthers
+1995020554,Winnipeg Jets (1979),2,Hartford Whalers,3,Terry Gregson,Brad Lazarowich,Hartford Whalers,Winnipeg Jets (1979)
+1995020555,Calgary Flames,3,Buffalo Sabres,1,Bill McCreary,Jay Sharrers,Calgary Flames,Buffalo Sabres
+1995020556,Boston Bruins,3,New Jersey Devils,2,Stephen Walkom,Dan McCourt,Boston Bruins,New Jersey Devils
+1995020557,Pittsburgh Penguins,8,San Jose Sharks,10,Dave Jackson,Ron Asselstine,San Jose Sharks,Pittsburgh Penguins
+1995020558,Montréal Canadiens,3,St. Louis Blues,3,Don v Massenhove,Pierre Racicot,Montréal Canadiens,St. Louis Blues
+1995020559,Philadelphia Flyers,0,New York Rangers,4,Don Koharski,Gordon Broseker,New York Rangers,Philadelphia Flyers
+1995020560,Washington Capitals,2,Detroit Red Wings,4,Paul Devorski,Kevin Collins,Detroit Red Wings,Washington Capitals
+1995020561,Tampa Bay Lightning,4,Ottawa Senators,1,Mick McGeough,Pierre Champoux,Tampa Bay Lightning,Ottawa Senators
+1995020562,Toronto Maple Leafs,2,Vancouver Canucks,5,Paul Stewart,Ray Scapinello,Vancouver Canucks,Toronto Maple Leafs
+1995020563,Edmonton Oilers,5,Buffalo Sabres,4,Bill McCreary,Mark Wheler,Edmonton Oilers,Buffalo Sabres
+1995020564,New York Rangers,3,St. Louis Blues,3,Kerry Fraser,Gordon Broseker,New York Rangers,St. Louis Blues
+1995020565,New Jersey Devils,7,Dallas Stars,2,Dan Marouelli,Dan McCcourt,New Jersey Devils,Dallas Stars
+1995020566,Chicago Blackhawks,5,Los Angeles Kings,2,Dave Jackson,Mike Cvik,Chicago Blackhawks,Los Angeles Kings
+1995020567,Winnipeg Jets (1979),4,Anaheim Ducks,6,Richard Trottier,Swede Knox,Anaheim Ducks,Winnipeg Jets (1979)
+1995020568,Colorado Avalanche,4,Calgary Flames,4,Lance Roberts,Thor Nelson,Colorado Avalanche,Calgary Flames
+1995020569,Boston Bruins,0,Vancouver Canucks,6,Terry Gregson,Kevin Collins,Vancouver Canucks,Boston Bruins
+1995020570,New York Islanders,3,Tampa Bay Lightning,2,Stephen Walkom,Pat Dapuzzo,New York Islanders,Tampa Bay Lightning
+1995020571,Philadelphia Flyers,6,Dallas Stars,1,Paul Devorski,Ron Finn,Philadelphia Flyers,Dallas Stars
+1995020572,Hartford Whalers,3,Vancouver Canucks,0,Paul Stewart,Pierre Racicot,Hartford Whalers,Vancouver Canucks
+1995020573,Pittsburgh Penguins,2,Colorado Avalanche,5,Don Van Massenhoven,Greg Devorski,Colorado Avalanche,Pittsburgh Penguins
+1995020574,Washington Capitals,1,Winnipeg Jets (1979),1,Kerry Fraser,Gordon Broseker,Washington Capitals,Winnipeg Jets (1979)
+1995020575,Florida Panthers,4,San Jose Sharks,1,Mick McGeough,Pierre Champoux,Florida Panthers,San Jose Sharks
+1995020576,St. Louis Blues,1,Edmonton Oilers,5,Don Koharski,Andy McElman,Edmonton Oilers,St. Louis Blues
+1995020577,Los Angeles Kings,5,Calgary Flames,5,Dave Jackson,Baron Parker,Los Angeles Kings,Calgary Flames
+1995020578,Buffalo Sabres,0,Pittsburgh Penguins,1,Andy van Hellemond,Greg Devorski,Pittsburgh Penguins,Buffalo Sabres
+1995020579,Ottawa Senators,0,Montréal Canadiens,3,Bill McCreary,Gerard Gauthier,Montréal Canadiens,Ottawa Senators
+1995020580,New York Islanders,3,Hartford Whalers,6,Mike McGeough,Pierre Racicot,Hartford Whalers,New York Islanders
+1995020581,New Jersey Devils,2,Boston Bruins,4,Terry Gregson,Stephane Provost,Boston Bruins,New Jersey Devils
+1995020582,Tampa Bay Lightning,6,San Jose Sharks,4,Mark Faucette,Scott Driscoll,Tampa Bay Lightning,San Jose Sharks
+1995020583,Toronto Maple Leafs,2,Winnipeg Jets (1979),4,Dan Marouelli,Ron Asselstine,Winnipeg Jets (1979),Toronto Maple Leafs
+1995020584,Detroit Red Wings,3,Colorado Avalanche,2,Trottier,Pare,Detroit Red Wings,Colorado Avalanche
+1995020585,Chicago Blackhawks,2,Washington Capitals,3,Don Koharski,Randy Mitton,Washington Capitals,Chicago Blackhawks
+1995020586,Dallas Stars,3,Edmonton Oilers,4,Van Massenhoven,McElman,Edmonton Oilers,Dallas Stars
+1995020587,Anaheim Ducks,1,Calgary Flames,4,Dave Jackson,Shane Heyer,Calgary Flames,Anaheim Ducks
+1995020588,Pittsburgh Penguins,7,Boston Bruins,6,Paul Devorski,Pat Dapuzzo,Pittsburgh Penguins,Boston Bruins
+1995020589,Ottawa Senators,3,Chicago Blackhawks,7,Dave Jackson,Conrad Hache,Chicago Blackhawks,Ottawa Senators
+1995020590,Montréal Canadiens,1,Tampa Bay Lightning,4,Walkom,Hodges,Tampa Bay Lightning,Montréal Canadiens
+1995020591,New York Rangers,3,Los Angeles Kings,1,Bill McCreary,Kevin Collins,New York Rangers,Los Angeles Kings
+1995020592,Philadelphia Flyers,1,Florida Panthers,1,Kerry Fraser,Brian Murphy,Philadelphia Flyers,Florida Panthers
+1995020593,Colorado Avalanche,4,New York Islanders,3,Vanhellemond,Gordon Broseker,Colorado Avalanche,New York Islanders
+1995020594,Vancouver Canucks,4,Dallas Stars,6,Dan Marouelli,Jay Sharrers,Dallas Stars,Vancouver Canucks
+1995020595,New Jersey Devils,3,Los Angeles Kings,1,Lance Roberts,Kevin Collins,New Jersey Devils,Los Angeles Kings
+1995020596,Washington Capitals,4,Florida Panthers,5,Paul Stewart,Stephane Provost,Florida Panthers,Washington Capitals
+1995020597,Buffalo Sabres,4,Hartford Whalers,2,Terry Gregson,Pat Dapuzzo,Buffalo Sabres,Hartford Whalers
+1995020598,Ottawa Senators,3,Pittsburgh Penguins,4,Stephen Walkom,Scott Driscoll,Pittsburgh Penguins,Ottawa Senators
+1995020599,New York Rangers,4,Philadelphia Flyers,4,Dave Jackson,Brian Murphy,New York Rangers,Philadelphia Flyers
+1995020600,Toronto Maple Leafs,2,Chicago Blackhawks,2,Paul Devorski,Ron Finn,Toronto Maple Leafs,Chicago Blackhawks
+1995020601,Detroit Red Wings,4,San Jose Sharks,2,Blaine Angus,Dan McCourt,Detroit Red Wings,San Jose Sharks
+1995020602,Winnipeg Jets (1979),5,St. Louis Blues,6,Richard Trottier,Dan Schachte,St. Louis Blues,Winnipeg Jets (1979)
+1995020603,Calgary Flames,4,New York Islanders,1,Dan Marouelli,Randy Mitton,Calgary Flames,New York Islanders
+1995020604,Edmonton Oilers,3,Dallas Stars,5,Andy van Hellemond,Swede Knox,Dallas Stars,Edmonton Oilers
+1995020605,Vancouver Canucks,1,Anaheim Ducks,2,Don Koharski,Baron Parker,Anaheim Ducks,Vancouver Canucks
+1995020606,Boston Bruins,4,Tampa Bay Lightning,3,Lance Roberts,Greg Devorski,Boston Bruins,Tampa Bay Lightning
+1995020607,Hartford Whalers,8,Los Angeles Kings,2,Dave Jackson,Ron Asselstine,Hartford Whalers,Los Angeles Kings
+1995020608,Ottawa Senators,2,Detroit Red Wings,4,Don Van Massenhoven,Brad Lazarowich,Detroit Red Wings,Ottawa Senators
+1995020609,New Jersey Devils,3,Washington Capitals,1,Terry Gregson,Kevin Collins,New Jersey Devils,Washington Capitals
+1995020610,Florida Panthers,2,Montréal Canadiens,6,Mark Faucette #11,Tim Nowack #43,Montréal Canadiens,Florida Panthers
+1995020611,Chicago Blackhawks,2,San Jose Sharks,1,Kerry Fraser,Dan McCourt,Chicago Blackhawks,San Jose Sharks
+1995020612,Colorado Avalanche,2,Vancouver Canucks,2,Dan Marouelli,Gordon Broseker,Colorado Avalanche,Vancouver Canucks
+1995020613,Washington Capitals,1,Buffalo Sabres,0,Mick McGeough,Brian Murphy,Washington Capitals,Buffalo Sabres
+1995020614,Calgary Flames,2,Dallas Stars,4,Andy van Hellemond,Swede Knox,Dallas Stars,Calgary Flames
+1995020615,Edmonton Oilers,4,New York Islanders,1,Don Koharski,Wayne Bonney,Edmonton Oilers,New York Islanders
+1995020616,Boston Bruins,3,New York Rangers,5,Don Van Massenhoven,Gerard Gauthier,New York Rangers,Boston Bruins
+1995020617,Hartford Whalers,4,New Jersey Devils,4,Steve Walkom,Kevin Collins,Hartford Whalers,New Jersey Devils
+1995020618,Pittsburgh Penguins,7,Philadelphia Flyers,4,Terry Gregson,Pat Dapuzzo,Pittsburgh Penguins,Philadelphia Flyers
+1995020619,Ottawa Senators,2,Toronto Maple Leafs,2,Dan O'Halloran,Pierre Champoux,Ottawa Senators,Toronto Maple Leafs
+1995020620,Montréal Canadiens,4,Winnipeg Jets (1979),1,Devorski,Racicot,Montréal Canadiens,Winnipeg Jets (1979)
+1995020621,Florida Panthers,6,Buffalo Sabres,3,Paul Stewart,Tim Nowack,Florida Panthers,Buffalo Sabres
+1995020622,Chicago Blackhawks,5,Detroit Red Wings,5,Bill McCreary,Mark Pare,Chicago Blackhawks,Detroit Red Wings
+1995020623,St. Louis Blues,2,Tampa Bay Lightning,1,Kerry Fraser,Dan McCourt,St. Louis Blues,Tampa Bay Lightning
+1995020624,Vancouver Canucks,6,New York Islanders,3,Koharski,Parker,Vancouver Canucks,New York Islanders
+1995020625,San Jose Sharks,3,Colorado Avalanche,4,Trottier,Gordon Broseker,Colorado Avalanche,San Jose Sharks
+1995020626,Los Angeles Kings,5,Anaheim Ducks,4,Dan Marouelli,Randy Mitton,Los Angeles Kings,Anaheim Ducks
+1995020627,Montréal Canadiens,5,Boston Bruins,4,McGeough,Gauthier,Montréal Canadiens,Boston Bruins
+1995020628,Washington Capitals,3,Philadelphia Flyers,2,Don Van Massenhoven,Brian Murphy,Washington Capitals,Philadelphia Flyers
+1995020629,Ottawa Senators,4,St. Louis Blues,2,Mick McGeough,Pierre Champoux,Ottawa Senators,St. Louis Blues
+1995020630,Florida Panthers,2,Pittsburgh Penguins,1,Bill McCreary,Scott Driscoll,Florida Panthers,Pittsburgh Penguins
+1995020631,Dallas Stars,1,Winnipeg Jets (1979),2,Stewart,Mitton,Winnipeg Jets (1979),Dallas Stars
+1995020632,New York Islanders,5,Buffalo Sabres,4,Rob Shick,Pierre Racicot,New York Islanders,Buffalo Sabres
+1995020633,Detroit Red Wings,4,Toronto Maple Leafs,2,Dave Jackson,Stephane Provost,Detroit Red Wings,Toronto Maple Leafs
+1995020634,Calgary Flames,3,Edmonton Oilers,2,Mark Faucette,Mike Cvik,Calgary Flames,Edmonton Oilers
+1995020635,Vancouver Canucks,2,New Jersey Devils,3,Trottier,Sharrers,New Jersey Devils,Vancouver Canucks
+1995020636,San Jose Sharks,8,Hartford Whalers,2,Fraser,Parker,San Jose Sharks,Hartford Whalers
+1995020637,Buffalo Sabres,6,Florida Panthers,1,Mick McGeough,Stephane Provost,Buffalo Sabres,Florida Panthers
+1995020638,Ottawa Senators,1,Boston Bruins,3,Andy van Hellemond,Ron Asselstine,Boston Bruins,Ottawa Senators
+1995020639,Montréal Canadiens,5,Washington Capitals,3,Roberts,Champoux,Montréal Canadiens,Washington Capitals
+1995020640,Tampa Bay Lightning,4,Pittsburgh Penguins,1,Bill McCreary,Scott Driscoll,Tampa Bay Lightning,Pittsburgh Penguins
+1995020641,Toronto Maple Leafs,0,St. Louis Blues,4,Paul Stewart,Pat Dapuzzo,St. Louis Blues,Toronto Maple Leafs
+1995020642,Dallas Stars,1,New York Rangers,1,Koharski,McElman,Dallas Stars,New York Rangers
+1995020643,Edmonton Oilers,0,Chicago Blackhawks,4,Paul Devorski,Dan Schachte,Chicago Blackhawks,Edmonton Oilers
+1995020644,Los Angeles Kings,4,Hartford Whalers,6,Richard Trottier,Mike Cvik,Hartford Whalers,Los Angeles Kings
+1995020645,Anaheim Ducks,2,Colorado Avalanche,1,Kerry Fraser,Swede Knox,Anaheim Ducks,Colorado Avalanche
+1995020646,Boston Bruins,2,Florida Panthers,2,Dave Jackson,Kevin Collins,Boston Bruins,Florida Panthers
+1995020647,Ottawa Senators,2,Washington Capitals,4,Marouelli,Ron Asselstine,Washington Capitals,Ottawa Senators
+1995020648,Philadelphia Flyers,3,Montréal Canadiens,2,Don Van Massenhoven,Bob Hodges,Philadelphia Flyers,Montréal Canadiens
+1995020649,St. Louis Blues,2,Vancouver Canucks,2,Rob Shick,Shane Heyer,St. Louis Blues,Vancouver Canucks
+1995020650,Colorado Avalanche,6,Winnipeg Jets (1979),4,Stephen Walkom,Andy McElman,Colorado Avalanche,Winnipeg Jets (1979)
+1995020651,Calgary Flames,1,New Jersey Devils,1,Paul Devorski,Dan Schachte,Calgary Flames,New Jersey Devils
+1995020652,San Jose Sharks,6,Los Angeles Kings,6,Faucette,Mike Cvik,San Jose Sharks,Los Angeles Kings
+1995020653,Dallas Stars,4,Vancouver Canucks,5,Fraser,McCourt,Vancouver Canucks,Dallas Stars
+1995020654,Anaheim Ducks,3,Hartford Whalers,4,Don Koharski,Baron Parker,Hartford Whalers,Anaheim Ducks
+1995020655,Boston Bruins,4,Buffalo Sabres,2,Paul Stewart,Brian Murphy,Boston Bruins,Buffalo Sabres
+1995020656,Ottawa Senators,2,New Jersey Devils,3,Richard Trottier,Stephane Provost,New Jersey Devils,Ottawa Senators
+1995020657,Washington Capitals,6,New York Islanders,5,Dave Jackson,Gordon Broseker,Washington Capitals,New York Islanders
+1995020658,Tampa Bay Lightning,3,Florida Panthers,5,Don Van Massenhoven,Scott Driscoll,Florida Panthers,Tampa Bay Lightning
+1995020659,Toronto Maple Leafs,1,Montréal Canadiens,4,Andy van Hellemond,Ron Asselstine,Montréal Canadiens,Toronto Maple Leafs
+1995020660,Detroit Red Wings,3,Pittsburgh Penguins,0,Rob Shick,Bob Hodges,Detroit Red Wings,Pittsburgh Penguins
+1995020661,St. Louis Blues,3,Philadelphia Flyers,7,Terry Gregson,Shane Heyer,Philadelphia Flyers,St. Louis Blues
+1995020662,Colorado Avalanche,7,New York Rangers,1,Devorski,McElman,Colorado Avalanche,New York Rangers
+1995020663,Calgary Flames,2,Los Angeles Kings,1,Mark Faucette,Dan Schachte,Calgary Flames,Los Angeles Kings
+1995020664,San Jose Sharks,1,Chicago Blackhawks,4,Walkom (24),Cvik (88),Chicago Blackhawks,San Jose Sharks
+1995020665,Buffalo Sabres,2,Tampa Bay Lightning,5,Dan Marouelli,Bob Hodges,Tampa Bay Lightning,Buffalo Sabres
+1995020666,New York Islanders,5,Dallas Stars,3,Lance Roberts,Gordon Broseker,New York Islanders,Dallas Stars
+1995020667,Winnipeg Jets (1979),2,Vancouver Canucks,4,Terry Gregson,Greg Devorski,Vancouver Canucks,Winnipeg Jets (1979)
+1995020668,Anaheim Ducks,1,Chicago Blackhawks,4,Don Koharski,Baron Parker,Chicago Blackhawks,Anaheim Ducks
+1995020669,Colorado Avalanche,4,Montréal Canadiens,2,Faucette,McCourt,Colorado Avalanche,Montréal Canadiens
+1995020670,San Jose Sharks,6,Toronto Maple Leafs,4,P. Devorski (10),Collins (50),San Jose Sharks,Toronto Maple Leafs
+1995020671,Pittsburgh Penguins,6,Boston Bruins,5,Lance Roberts,Ron Asselstine,Pittsburgh Penguins,Boston Bruins
+1995020672,New York Islanders,2,New York Rangers,4,Kerry Fraser,Gordon Broseker,New York Rangers,New York Islanders
+1995020673,Detroit Red Wings,4,Florida Panthers,2,Paul Stewart,Gerard Gauthier,Detroit Red Wings,Florida Panthers
+1995020674,St. Louis Blues,2,Dallas Stars,5,Andy van Hellemond,Greg Devorski,Dallas Stars,St. Louis Blues
+1995020675,Calgary Flames,3,Ottawa Senators,1,Stephen Walkom,Wayne Bonney,Calgary Flames,Ottawa Senators
+1995020676,Los Angeles Kings,2,Chicago Blackhawks,5,Mike McGeough,Kevin Collins,Chicago Blackhawks,Los Angeles Kings
+1995020677,Buffalo Sabres,2,Boston Bruins,1,Rob Shick,Pierre Champoux,Buffalo Sabres,Boston Bruins
+1995020678,New Jersey Devils,1,Pittsburgh Penguins,1,Richard Trottier,Ron Asselstine,New Jersey Devils,Pittsburgh Penguins
+1995020679,Dallas Stars,2,Montréal Canadiens,4,Faucette,Devorski,Montréal Canadiens,Dallas Stars
+1995020680,Colorado Avalanche,4,Tampa Bay Lightning,4,Larue,McCourt,Colorado Avalanche,Tampa Bay Lightning
+1995020681,Edmonton Oilers,1,Washington Capitals,2,Stephen Walkom,Wayne Bonney,Washington Capitals,Edmonton Oilers
+1995020682,Vancouver Canucks,3,Hartford Whalers,5,Jackson,Sharrers,Hartford Whalers,Vancouver Canucks
+1995020683,Anaheim Ducks,1,Toronto Maple Leafs,2,Mick McGeough,Kevin Collins,Toronto Maple Leafs,Anaheim Ducks
+1995020684,New York Rangers,6,New York Islanders,2,Rob Shick,Rob Finn,New York Rangers,New York Islanders
+1995020685,Philadelphia Flyers,1,Buffalo Sabres,2,Richard Trottier,Pierre Champoux,Buffalo Sabres,Philadelphia Flyers
+1995020686,Florida Panthers,3,Detroit Red Wings,1,Dan Marouelli #6,Bob Hodges #37,Florida Panthers,Detroit Red Wings
+1995020687,St. Louis Blues,1,Chicago Blackhawks,6,Bill McCreary,Gerard Gauthier,Chicago Blackhawks,St. Louis Blues
+1995020688,Winnipeg Jets (1979),6,Ottawa Senators,2,Stephen Walkom,Randy Mitton,Winnipeg Jets (1979),Ottawa Senators
+1995020689,Calgary Flames,4,Washington Capitals,4,Dave Jackson,Mike Cvik,Calgary Flames,Washington Capitals
+1995020690,Los Angeles Kings,4,Toronto Maple Leafs,3,Paul Stewart,Kevin Collins,Los Angeles Kings,Toronto Maple Leafs
+1995020691,Colorado Avalanche,2,Hartford Whalers,3,McGeough,Heyer,Hartford Whalers,Colorado Avalanche
+1995020692,Edmonton Oilers,2,Vancouver Canucks,3,Dave Jackson,Mike Cvik,Vancouver Canucks,Edmonton Oilers
+1995020693,Boston Bruins,2,Philadelphia Flyers,6,Kerry Fraser,Brian Murphy,Philadelphia Flyers,Boston Bruins
+1995020694,Pittsburgh Penguins,6,Chicago Blackhawks,3,Stephen Walkom,Pierre Champoux,Pittsburgh Penguins,Chicago Blackhawks
+1995020695,Montréal Canadiens,3,Ottawa Senators,5,Shick,Hache,Ottawa Senators,Montréal Canadiens
+1995020696,New York Islanders,4,Anaheim Ducks,3,Richard Trottier,Ron Finn,New York Islanders,Anaheim Ducks
+1995020697,New Jersey Devils,3,New York Rangers,0,Terry Gregson,Gordon Broseker,New Jersey Devils,New York Rangers
+1995020698,Tampa Bay Lightning,2,Detroit Red Wings,3,Dan Marouelli,Bob Hodges,Detroit Red Wings,Tampa Bay Lightning
+1995020699,Toronto Maple Leafs,2,Buffalo Sabres,2,Don Van Massenhoven,Scott Driscoll,Toronto Maple Leafs,Buffalo Sabres
+1995020700,Dallas Stars,3,St. Louis Blues,6,McCreary,Gauthier,St. Louis Blues,Dallas Stars
+1995020701,Calgary Flames,2,Winnipeg Jets (1979),3,Paul Stewart,Mike Cvik,Winnipeg Jets (1979),Calgary Flames
+1995020702,Vancouver Canucks,4,Washington Capitals,4,McGeough,Wayne Bonney,Vancouver Canucks,Washington Capitals
+1995020703,Los Angeles Kings,1,San Jose Sharks,6,Don Koharski,Kevin Collins,San Jose Sharks,Los Angeles Kings
+1995020704,New Jersey Devils,2,Anaheim Ducks,4,Blaine Angus,Gordon Broseker,Anaheim Ducks,New Jersey Devils
+1995020705,Philadelphia Flyers,3,Colorado Avalanche,5,Terry Gregson,Stephane Provost,Colorado Avalanche,Philadelphia Flyers
+1995020706,Tampa Bay Lightning,2,New York Rangers,6,Andy van Hellemond,Bob Hodges,New York Rangers,Tampa Bay Lightning
+1995020707,Florida Panthers,2,St. Louis Blues,2,Dan Marouelli #6,Greg Devorski #44,Florida Panthers,St. Louis Blues
+1995020708,Dallas Stars,3,Hartford Whalers,5,Devorski,Gauthier,Hartford Whalers,Dallas Stars
+1995020709,Edmonton Oilers,4,Calgary Flames,2,Don Koharski,Randy Mitton,Edmonton Oilers,Calgary Flames
+1995020710,Montréal Canadiens,3,San Jose Sharks,0,Stewart,Sharrers,Montréal Canadiens,San Jose Sharks
+1995020711,New York Islanders,1,Ottawa Senators,4,Don Van Massenhoven,Gordon Broseker,Ottawa Senators,New York Islanders
+1995020712,Toronto Maple Leafs,4,Pittsburgh Penguins,1,Rob Shick,Ray Scapinello,Toronto Maple Leafs,Pittsburgh Penguins
+1995020713,Washington Capitals,3,Calgary Flames,2,Lance Roberts,Pierre Racicot,Washington Capitals,Calgary Flames
+1995020714,Tampa Bay Lightning,2,St. Louis Blues,3,Andy van Hellemond,Greg Devorski,St. Louis Blues,Tampa Bay Lightning
+1995020715,Detroit Red Wings,9,Los Angeles Kings,4,Paul Devorski,Dan McCourt,Detroit Red Wings,Los Angeles Kings
+1995020716,Vancouver Canucks,5,Winnipeg Jets (1979),4,Koharski,Wayne Bonney,Vancouver Canucks,Winnipeg Jets (1979)
+1995020717,Hartford Whalers,0,Boston Bruins,3,Don Van Massenhoven,Tim Nowak,Boston Bruins,Hartford Whalers
+1995020718,Buffalo Sabres,2,Los Angeles Kings,2,Kerry Fraser,Kevin Collins,Buffalo Sabres,Los Angeles Kings
+1995020719,Florida Panthers,2,Philadelphia Flyers,4,Andy van Hellemond,Greg Devorski,Philadelphia Flyers,Florida Panthers
+1995020720,Toronto Maple Leafs,4,San Jose Sharks,3,Richard Trottier,Bob Hodges,Toronto Maple Leafs,San Jose Sharks
+1995020721,Edmonton Oilers,3,Anaheim Ducks,2,Mick McGeough,Dan McCourt,Edmonton Oilers,Anaheim Ducks
+1995020722,Ottawa Senators,2,San Jose Sharks,2,Dennis Larue,Pierre Champoux,Ottawa Senators,San Jose Sharks
+1995020723,New York Islanders,3,Calgary Flames,6,Lance Roberts,Pat Dapuzzo,Calgary Flames,New York Islanders
+1995020724,New York Rangers,2,Montréal Canadiens,2,Bill McCreary,Brian Murphy,New York Rangers,Montréal Canadiens
+1995020725,Tampa Bay Lightning,4,Colorado Avalanche,2,Terry Gregson,Ron Asselstine,Tampa Bay Lightning,Colorado Avalanche
+1995020726,Detroit Red Wings,4,Washington Capitals,3,M. Faucette,L. Stickle,Detroit Red Wings,Washington Capitals
+1995020727,Chicago Blackhawks,3,Boston Bruins,0,Dave Jackson,Dan McCourt,Chicago Blackhawks,Boston Bruins
+1995020728,Vancouver Canucks,5,Anaheim Ducks,3,Walkom,Knox,Vancouver Canucks,Anaheim Ducks
+1995020729,Buffalo Sabres,2,New Jersey Devils,2,Mark Faucette,Kevin Collins,Buffalo Sabres,New Jersey Devils
+1995020730,Washington Capitals,4,Toronto Maple Leafs,3,Paul Devorski,Tim Nowak,Washington Capitals,Toronto Maple Leafs
+1995020731,Florida Panthers,4,Colorado Avalanche,5,Terry Gregson,Greg Devorski,Colorado Avalanche,Florida Panthers
+1995020732,St. Louis Blues,4,Detroit Red Wings,3,Dave Jackson,Wayne Bonney,St. Louis Blues,Detroit Red Wings
+1995020733,Dallas Stars,6,Edmonton Oilers,1,Stewart,Mitton,Dallas Stars,Edmonton Oilers
+1995020734,Winnipeg Jets (1979),0,Pittsburgh Penguins,1,Mick McGeough,Dan McCourt,Pittsburgh Penguins,Winnipeg Jets (1979)
+1995020735,Hartford Whalers,2,Buffalo Sabres,1,Lance Roberts,Tim Nowak,Hartford Whalers,Buffalo Sabres
+1995020736,Ottawa Senators,1,New York Rangers,2,Don Van Massenhoven,Pierre Racicot,New York Rangers,Ottawa Senators
+1995020737,Montréal Canadiens,5,Calgary Flames,1,Van Hellemond,Champoux,Montréal Canadiens,Calgary Flames
+1995020738,New York Islanders,4,San Jose Sharks,2,Bill McCreary,Brian Murphy,New York Islanders,San Jose Sharks
+1995020739,Tampa Bay Lightning,5,Philadelphia Flyers,2,Terry Gregson,Ron Asselstine,Tampa Bay Lightning,Philadelphia Flyers
+1995020740,Vancouver Canucks,1,Boston Bruins,4,Rob Schick,Swede Knox,Boston Bruins,Vancouver Canucks
+1995020741,Los Angeles Kings,1,Anaheim Ducks,2,Stephan Walkom,Brad Lazarowich,Anaheim Ducks,Los Angeles Kings
+1995020742,Pittsburgh Penguins,4,New York Rangers,3,Paul Stewart,Kevin Collins,Pittsburgh Penguins,New York Rangers
+1995020743,New Jersey Devils,3,Washington Capitals,0,Kerry Fraser,Pat Dapuzzo,New Jersey Devils,Washington Capitals
+1995020744,Florida Panthers,6,Dallas Stars,4,Don Koharski,Ron Asselstine,Florida Panthers,Dallas Stars
+1995020745,Toronto Maple Leafs,2,Detroit Red Wings,3,Dan Marouelli,Gerard Gauthier,Detroit Red Wings,Toronto Maple Leafs
+1995020746,Chicago Blackhawks,4,Edmonton Oilers,1,Mark Faucette,Shane Heyer,Chicago Blackhawks,Edmonton Oilers
+1995020747,St. Louis Blues,3,Winnipeg Jets (1979),0,Richard Trottier,Wayne Bonney,St. Louis Blues,Winnipeg Jets (1979)
+1995020748,Philadelphia Flyers,4,New Jersey Devils,1,Andy van Hellemond,Gordon Broseker,Philadelphia Flyers,New Jersey Devils
+1995020749,Tampa Bay Lightning,4,Dallas Stars,2,Don Koharski,Ron Asselstine,Tampa Bay Lightning,Dallas Stars
+1995020750,Detroit Red Wings,4,Vancouver Canucks,3,Bill McCreary,Bob Hodges,Detroit Red Wings,Vancouver Canucks
+1995020751,Colorado Avalanche,7,Edmonton Oilers,5,Walkom,Parker,Colorado Avalanche,Edmonton Oilers
+1995020752,Los Angeles Kings,3,Boston Bruins,3,Rob Shick,Mike Cvik,Los Angeles Kings,Boston Bruins
+1995020753,St. Louis Blues,1,Ottawa Senators,7,Mark Faucette,Wayne Bonney,Ottawa Senators,St. Louis Blues
+1995020754,Calgary Flames,5,San Jose Sharks,3,Richard Trottier,Swede Knox,Calgary Flames,San Jose Sharks
+1995020755,Hartford Whalers,5,Montréal Canadiens,3,Don Koharski,Kevin Collins,Hartford Whalers,Montréal Canadiens
+1995020756,Buffalo Sabres,6,Pittsburgh Penguins,3,Bill McCreary,Bob Hodges,Buffalo Sabres,Pittsburgh Penguins
+1995020757,New Jersey Devils,1,Florida Panthers,4,Don Van Massenhoven,Ray Scapinello,Florida Panthers,New Jersey Devils
+1995020758,Toronto Maple Leafs,2,Tampa Bay Lightning,3,Paul Devorski,Greg Devorski,Tampa Bay Lightning,Toronto Maple Leafs
+1995020759,Winnipeg Jets (1979),3,Vancouver Canucks,5,Kerry Fraser,Ron Finn,Vancouver Canucks,Winnipeg Jets (1979)
+1995020760,Edmonton Oilers,7,Los Angeles Kings,2,Richard Trottier,Randy Mitton,Edmonton Oilers,Los Angeles Kings
+1995020761,Anaheim Ducks,4,Boston Bruins,3,Mick McGeough,Mike Cvik,Anaheim Ducks,Boston Bruins
+1995020762,New York Rangers,3,New York Islanders,5,Andy van Hellemond,Ray Scampinello,New York Islanders,New York Rangers
+1995020763,Philadelphia Flyers,5,Washington Capitals,3,Dan Marouelli,Pat Dapuzzo,Philadelphia Flyers,Washington Capitals
+1995020764,Detroit Red Wings,5,Toronto Maple Leafs,3,Rob Shick,Gerard Gauthier,Detroit Red Wings,Toronto Maple Leafs
+1995020765,Chicago Blackhawks,3,St. Louis Blues,4,Terry Gregson,Gordon Broseker,St. Louis Blues,Chicago Blackhawks
+1995020766,Dallas Stars,3,Ottawa Senators,2,Faucette,Hache,Dallas Stars,Ottawa Senators
+1995020767,Pittsburgh Penguins,5,Hartford Whalers,4,Don Van Massenhoven,Gerald Gauthier,Pittsburgh Penguins,Hartford Whalers
+1995020768,Buffalo Sabres,7,Philadelphia Flyers,2,Don Koharski,Greg Devorski,Buffalo Sabres,Philadelphia Flyers
+1995020769,New York Islanders,2,Tampa Bay Lightning,3,Paul Stewart,Pierre Champoux,Tampa Bay Lightning,New York Islanders
+1995020770,New Jersey Devils,6,Montréal Canadiens,5,Stephen Walkom,Ray Scapinello,New Jersey Devils,Montréal Canadiens
+1995020771,Winnipeg Jets (1979),1,Chicago Blackhawks,0,Richard Trottier,Ron Finn,Winnipeg Jets (1979),Chicago Blackhawks
+1995020772,Colorado Avalanche,6,Los Angeles Kings,2,McGeough,Gordon Broseker,Colorado Avalanche,Los Angeles Kings
+1995020773,Calgary Flames,3,Anaheim Ducks,2,Paul Devorski,Jay Sharrers,Calgary Flames,Anaheim Ducks
+1995020774,Edmonton Oilers,4,Boston Bruins,7,Kerry Fraser,Mike Cvik,Boston Bruins,Edmonton Oilers
+1995020775,Vancouver Canucks,3,San Jose Sharks,1,Roberts,Parker,Vancouver Canucks,San Jose Sharks
+1995020776,Montréal Canadiens,7,Pittsburgh Penguins,3,Jackson,McCourt,Montréal Canadiens,Pittsburgh Penguins
+1995020777,Washington Capitals,1,New Jersey Devils,2,Terry Gregson,Pierre Champoux,New Jersey Devils,Washington Capitals
+1995020778,Florida Panthers,0,New York Rangers,4,Mark Faucette,Pat Dapuzzo,New York Rangers,Florida Panthers
+1995020779,Toronto Maple Leafs,2,Dallas Stars,3,Andy van Hellemond,Ron Asselstine,Dallas Stars,Toronto Maple Leafs
+1995020780,Detroit Red Wings,2,Tampa Bay Lightning,0,Dan O'Halloran,Gerard Gauthier,Detroit Red Wings,Tampa Bay Lightning
+1995020781,St. Louis Blues,2,Los Angeles Kings,2,Dan Marouelli,Tim Nowak,St. Louis Blues,Los Angeles Kings
+1995020782,Calgary Flames,1,Boston Bruins,2,Kerry Fraser,Jay Sharrers,Boston Bruins,Calgary Flames
+1995020783,Hartford Whalers,2,Dallas Stars,6,Terry Gregson,Scott Driscoll,Dallas Stars,Hartford Whalers
+1995020784,Buffalo Sabres,6,Florida Panthers,1,Stephen Walkom,Stephane Provost,Buffalo Sabres,Florida Panthers
+1995020785,New York Islanders,2,Edmonton Oilers,0,Don Van Massenhoven,Ray Scapinello,New York Islanders,Edmonton Oilers
+1995020786,Philadelphia Flyers,3,Chicago Blackhawks,2,Rob Schick,Pierre Champoux,Philadelphia Flyers,Chicago Blackhawks
+1995020787,Colorado Avalanche,4,Ottawa Senators,2,Roberts,Gordon Broseker,Colorado Avalanche,Ottawa Senators
+1995020788,Anaheim Ducks,4,San Jose Sharks,3,Paul Devorski,Baron Parker,Anaheim Ducks,San Jose Sharks
+1995020789,Winnipeg Jets (1979),4,Los Angeles Kings,3,Bill McCreary,Mark Wheler,Winnipeg Jets (1979),Los Angeles Kings
+1995020790,Colorado Avalanche,3,Anaheim Ducks,2,Fraser,Gordon Broseker,Colorado Avalanche,Anaheim Ducks
+1995020791,San Jose Sharks,7,Montréal Canadiens,4,McGeough (19),Bonney (94),San Jose Sharks,Montréal Canadiens
+1995020792,Boston Bruins,3,Edmonton Oilers,4,Rob Shick,Kevin Collins,Edmonton Oilers,Boston Bruins
+1995020793,New York Islanders,2,Detroit Red Wings,6,Dennis Larue,Pat Dapuzzo,Detroit Red Wings,New York Islanders
+1995020794,Vancouver Canucks,4,Pittsburgh Penguins,7,Devorski,Lazarowich,Pittsburgh Penguins,Vancouver Canucks
+1995020795,Hartford Whalers,4,Edmonton Oilers,4,Dave Jackson,Scott Driscoll,Hartford Whalers,Edmonton Oilers
+1995020796,Ottawa Senators,2,Buffalo Sabres,3,Paul Stewart,Gerard Gauthier,Buffalo Sabres,Ottawa Senators
+1995020797,New York Rangers,1,Boston Bruins,3,Mark Faucette,Pat Dapuzzo,Boston Bruins,New York Rangers
+1995020798,Dallas Stars,4,Philadelphia Flyers,4,Koharski,McElman,Dallas Stars,Philadelphia Flyers
+1995020799,Winnipeg Jets (1979),4,Toronto Maple Leafs,3,Bill McCreary,Dan McCourt,Winnipeg Jets (1979),Toronto Maple Leafs
+1995020800,Los Angeles Kings,1,Tampa Bay Lightning,5,Paul Devorski,Baron Parker,Tampa Bay Lightning,Los Angeles Kings
+1995020801,Anaheim Ducks,5,Montréal Canadiens,2,Andy van Hellemond,Wayne Bonney,Anaheim Ducks,Montréal Canadiens
+1995020802,Florida Panthers,2,Washington Capitals,2,Rob Schick,Jean Motin,Florida Panthers,Washington Capitals
+1995020803,Detroit Red Wings,5,New York Islanders,1,Richard Trottier,Leon Stickle,Detroit Red Wings,New York Islanders
+1995020804,Chicago Blackhawks,4,Colorado Avalanche,3,Don Van Massenhoven,Kevin Collins,Chicago Blackhawks,Colorado Avalanche
+1995020805,Calgary Flames,7,Pittsburgh Penguins,3,Terry Gregson,Mike Cvik,Calgary Flames,Pittsburgh Penguins
+1995020806,Vancouver Canucks,2,St. Louis Blues,2,Marouelli,Lazarowich,Vancouver Canucks,St. Louis Blues
+1995020807,Hartford Whalers,2,Winnipeg Jets (1979),5,Paul Stewart,Gerard Gauthier,Winnipeg Jets (1979),Hartford Whalers
+1995020808,Ottawa Senators,2,Philadelphia Flyers,3,Stephen Walkom,Conrad Hache,Philadelphia Flyers,Ottawa Senators
+1995020809,New York Rangers,3,Buffalo Sabres,3,Dave Jackson,Pierre Racicot,New York Rangers,Buffalo Sabres
+1995020810,New Jersey Devils,6,New York Islanders,2,Mark Faucette,Pierre Champoux,New Jersey Devils,New York Islanders
+1995020811,Colorado Avalanche,5,Chicago Blackhawks,3,Koharski,Collins,Colorado Avalanche,Chicago Blackhawks
+1995020812,Edmonton Oilers,4,Pittsburgh Penguins,5,Bill McCreary,Randy Mitton,Pittsburgh Penguins,Edmonton Oilers
+1995020813,San Jose Sharks,3,Tampa Bay Lightning,7,Andy van Hellemond,Wayne Bonney,Tampa Bay Lightning,San Jose Sharks
+1995020814,Boston Bruins,0,Washington Capitals,2,Richard Trottier,Jean Morin,Washington Capitals,Boston Bruins
+1995020815,Hartford Whalers,7,Florida Panthers,1,Kerry Fraser,Pierre Champoux,Hartford Whalers,Florida Panthers
+1995020816,Ottawa Senators,1,New Jersey Devils,4,Lance Roberts,Conrad Hache,New Jersey Devils,Ottawa Senators
+1995020817,Detroit Red Wings,2,Vancouver Canucks,3,Don Van Massenhoven,Ron Asselstine,Vancouver Canucks,Detroit Red Wings
+1995020818,Dallas Stars,5,Toronto Maple Leafs,1,Marouelli,McElman,Dallas Stars,Toronto Maple Leafs
+1995020819,Los Angeles Kings,5,Montréal Canadiens,4,Terry Gregson,Baron Parker,Los Angeles Kings,Montréal Canadiens
+1995020820,Buffalo Sabres,0,Vancouver Canucks,3,Dave Jackson,Ron Asselstine,Vancouver Canucks,Buffalo Sabres
+1995020821,New York Islanders,5,Winnipeg Jets (1979),7,Stephen Walkom,Gerard Gauthier,Winnipeg Jets (1979),New York Islanders
+1995020822,Washington Capitals,3,Philadelphia Flyers,0,Mark Faucette,Gordon Broseker,Washington Capitals,Philadelphia Flyers
+1995020823,Chicago Blackhawks,2,Detroit Red Wings,6,Dan Marouelli,Bob Hodges,Detroit Red Wings,Chicago Blackhawks
+1995020824,Colorado Avalanche,4,Toronto Maple Leafs,0,Van Hellemond,Collins,Colorado Avalanche,Toronto Maple Leafs
+1995020825,Edmonton Oilers,3,St. Louis Blues,4,Mick McGeough,Randy Mitton,St. Louis Blues,Edmonton Oilers
+1995020826,San Jose Sharks,1,Calgary Flames,5,Koharski,Heyer,Calgary Flames,San Jose Sharks
+1995020827,Anaheim Ducks,2,Tampa Bay Lightning,2,Terry Gregson,Jay Sharrers,Anaheim Ducks,Tampa Bay Lightning
+1995020828,New York Rangers,2,New Jersey Devils,2,Kerry Fraser,Gerard Gauthier,New York Rangers,New Jersey Devils
+1995020829,Pittsburgh Penguins,9,Winnipeg Jets (1979),4,Dave Jackson,Pierre Racicot,Pittsburgh Penguins,Winnipeg Jets (1979)
+1995020830,New York Islanders,5,Boston Bruins,3,Mark Faucette,Gerard Gauthier,New York Islanders,Boston Bruins
+1995020831,Tampa Bay Lightning,2,Chicago Blackhawks,0,Richard Trottier,Scott Driscoll,Tampa Bay Lightning,Chicago Blackhawks
+1995020832,St. Louis Blues,2,Florida Panthers,0,Mick McGeough,Bob Hodges,St. Louis Blues,Florida Panthers
+1995020833,Colorado Avalanche,3,San Jose Sharks,5,Gregson,Collins,San Jose Sharks,Colorado Avalanche
+1995020834,Anaheim Ducks,1,Dallas Stars,3,Don Koharski,Jay Sharrers,Dallas Stars,Anaheim Ducks
+1995020835,Hartford Whalers,2,Detroit Red Wings,4,Mark Faucette,Greg Devorski,Detroit Red Wings,Hartford Whalers
+1995020836,Toronto Maple Leafs,2,New Jersey Devils,2,Lance Roberts,Randy Mitton,Toronto Maple Leafs,New Jersey Devils
+1995020837,Vancouver Canucks,5,Buffalo Sabres,2,Schick,Wayne Bonney,Vancouver Canucks,Buffalo Sabres
+1995020838,San Jose Sharks,1,Dallas Stars,2,Van Massenhoven (21),Nelson (40),Dallas Stars,San Jose Sharks
+1995020839,Los Angeles Kings,3,Edmonton Oilers,2,Don Koharski,Dan Schachte,Los Angeles Kings,Edmonton Oilers
+1995020840,Boston Bruins,4,New York Islanders,3,Paul Devorski,Greg Devorski,Boston Bruins,New York Islanders
+1995020841,Pittsburgh Penguins,5,Ottawa Senators,1,Brad Watson,Pat Depuzzo,Pittsburgh Penguins,Ottawa Senators
+1995020842,Tampa Bay Lightning,5,New York Rangers,2,Stephen Walkom,Scott Driscoll,Tampa Bay Lightning,New York Rangers
+1995020843,St. Louis Blues,2,Calgary Flames,4,Paul Stewart,Brad Lazarowich,Calgary Flames,St. Louis Blues
+1995020844,Winnipeg Jets (1979),5,Florida Panthers,3,Mick McGeough,Stephane Provost,Winnipeg Jets (1979),Florida Panthers
+1995020845,Hartford Whalers,7,Toronto Maple Leafs,4,Paul Devorski,Greg Devorski,Hartford Whalers,Toronto Maple Leafs
+1995020846,Chicago Blackhawks,2,Los Angeles Kings,4,Andy van Hellemond,Ron Asselstine,Los Angeles Kings,Chicago Blackhawks
+1995020847,Colorado Avalanche,2,Detroit Red Wings,4,Rob Schick,Mike Cvik,Detroit Red Wings,Colorado Avalanche
+1995020848,Edmonton Oilers,4,San Jose Sharks,2,Dan Marouelli,Baron Parker,Edmonton Oilers,San Jose Sharks
+1995020849,Anaheim Ducks,3,Buffalo Sabres,2,Don Van Massenhoven,Shane Heyer,Anaheim Ducks,Buffalo Sabres
+1995020850,Boston Bruins,3,Philadelphia Flyers,2,Kerry Fraser,Kevin Collins,Boston Bruins,Philadelphia Flyers
+1995020851,Pittsburgh Penguins,3,New Jersey Devils,4,Mick McGeough,Pat Dapuzzo,New Jersey Devils,Pittsburgh Penguins
+1995020852,Montréal Canadiens,3,Ottawa Senators,2,Stephen Walkom,Leon Stickle,Montréal Canadiens,Ottawa Senators
+1995020853,Washington Capitals,1,New York Rangers,6,Terry Gregson,Gordon Broseker,New York Rangers,Washington Capitals
+1995020854,Toronto Maple Leafs,4,Calgary Flames,3,Bill McCreary,Bob Hodges,Toronto Maple Leafs,Calgary Flames
+1995020855,St. Louis Blues,6,Hartford Whalers,3,Andy van Hellemond,Ron Asselstine,St. Louis Blues,Hartford Whalers
+1995020856,Winnipeg Jets (1979),2,New York Islanders,4,Paul Stewart,Stephane Provost,New York Islanders,Winnipeg Jets (1979)
+1995020857,Vancouver Canucks,5,Colorado Avalanche,7,Van Massenhoven,Wayne Bonney,Colorado Avalanche,Vancouver Canucks
+1995020858,Philadelphia Flyers,2,New Jersey Devils,3,Paul Devorski,Randy Mitton,New Jersey Devils,Philadelphia Flyers
+1995020859,Tampa Bay Lightning,1,Washington Capitals,0,Mark Faucette,Dan McCourt,Tampa Bay Lightning,Washington Capitals
+1995020860,Florida Panthers,1,Boston Bruins,4,Terry Gregson #4,Scott Driscoll #68,Boston Bruins,Florida Panthers
+1995020861,Winnipeg Jets (1979),2,Detroit Red Wings,5,Dan Marouelli,Stephane Provost,Detroit Red Wings,Winnipeg Jets (1979)
+1995020862,San Jose Sharks,6,Buffalo Sabres,4,Trottier,Heyer,San Jose Sharks,Buffalo Sabres
+1995020863,Anaheim Ducks,3,Los Angeles Kings,2,Dave Jackson,Mike Cvik,Anaheim Ducks,Los Angeles Kings
+1995020864,Montréal Canadiens,4,Dallas Stars,1,Andy van Hellemond,Leon Stickle,Montréal Canadiens,Dallas Stars
+1995020865,Chicago Blackhawks,8,Florida Panthers,4,Lance Roberts,Ron Asselstine,Chicago Blackhawks,Florida Panthers
+1995020866,Washington Capitals,9,Vancouver Canucks,0,Mick McGeough,Gordon Broseker,Washington Capitals,Vancouver Canucks
+1995020867,Detroit Red Wings,5,Winnipeg Jets (1979),2,Don Koharski,Bob Hodges,Detroit Red Wings,Winnipeg Jets (1979)
+1995020868,Calgary Flames,4,St. Louis Blues,2,Paul Stewart,Mike Cvik,Calgary Flames,St. Louis Blues
+1995020869,Hartford Whalers,3,Pittsburgh Penguins,2,Terry Gregson,Pierre Racicot,Hartford Whalers,Pittsburgh Penguins
+1995020870,Ottawa Senators,4,Dallas Stars,1,Stephen Walkom,Gerard Gauthier,Ottawa Senators,Dallas Stars
+1995020871,New York Rangers,3,Florida Panthers,3,Don Koharski,Kevin Collins,New York Rangers,Florida Panthers
+1995020872,New Jersey Devils,1,Montréal Canadiens,1,Paul Devorski,Gordon Broseker,New Jersey Devils,Montréal Canadiens
+1995020873,Philadelphia Flyers,1,Tampa Bay Lightning,1,Kerry Fraser,Pierre Champoux,Philadelphia Flyers,Tampa Bay Lightning
+1995020874,Toronto Maple Leafs,3,Winnipeg Jets (1979),3,Mick McGeough,Wayne Bonney,Toronto Maple Leafs,Winnipeg Jets (1979)
+1995020875,San Jose Sharks,3,Edmonton Oilers,8,Jackson (8),Lazarowich (86),Edmonton Oilers,San Jose Sharks
+1995020876,Los Angeles Kings,2,Buffalo Sabres,6,Richard Trottier,Shane Heyer,Buffalo Sabres,Los Angeles Kings
+1995020877,Anaheim Ducks,4,Colorado Avalanche,0,Lance Roberts,Jay Sharrers,Anaheim Ducks,Colorado Avalanche
+1995020878,Boston Bruins,4,Pittsburgh Penguins,2,Mark Faucette,Pierre Racicot,Boston Bruins,Pittsburgh Penguins
+1995020879,Chicago Blackhawks,5,Vancouver Canucks,1,Paul Stewart,Dan McCourt,Chicago Blackhawks,Vancouver Canucks
+1995020880,Buffalo Sabres,1,Calgary Flames,3,Don Koharski,Greg Devorski,Calgary Flames,Buffalo Sabres
+1995020881,Ottawa Senators,2,Vancouver Canucks,0,Terry Gregson,Wayne Bonney,Ottawa Senators,Vancouver Canucks
+1995020882,New Jersey Devils,5,Tampa Bay Lightning,0,Stephen Walkom,Kevin Collins,New Jersey Devils,Tampa Bay Lightning
+1995020883,Washington Capitals,2,Boston Bruins,5,Rob Shick,Pierre Champoux,Boston Bruins,Washington Capitals
+1995020884,Toronto Maple Leafs,3,Dallas Stars,0,Dave Jackson,Ron Asselstine,Toronto Maple Leafs,Dallas Stars
+1995020885,San Jose Sharks,2,St. Louis Blues,4,Roberts (20),Lazarowich (86),St. Louis Blues,San Jose Sharks
+1995020886,Hartford Whalers,2,Buffalo Sabres,1,Mark Faucette,Ray Scapinello,Hartford Whalers,Buffalo Sabres
+1995020887,Pittsburgh Penguins,4,New York Islanders,2,Paul Devorski,Jean Morin,Pittsburgh Penguins,New York Islanders
+1995020888,Montréal Canadiens,4,New York Rangers,2,Fraser,Gauthier,Montréal Canadiens,New York Rangers
+1995020889,Philadelphia Flyers,3,Winnipeg Jets (1979),0,Terry Gregson,Gordon Broseker,Philadelphia Flyers,Winnipeg Jets (1979)
+1995020890,Los Angeles Kings,2,Edmonton Oilers,5,Bill McCreary,Jay Sharrers,Edmonton Oilers,Los Angeles Kings
+1995020891,Ottawa Senators,5,Tampa Bay Lightning,0,Rob Shick,Wayne Bonney,Ottawa Senators,Tampa Bay Lightning
+1995020892,Philadelphia Flyers,8,San Jose Sharks,2,Richard Trottier,Gordon Broseker,Philadelphia Flyers,San Jose Sharks
+1995020893,Washington Capitals,2,Dallas Stars,1,Andy van Hellemond,Kevin Collins,Washington Capitals,Dallas Stars
+1995020894,Florida Panthers,3,New Jersey Devils,0,Don Van Massenhoven,Jean Morin,Florida Panthers,New Jersey Devils
+1995020895,Toronto Maple Leafs,4,Vancouver Canucks,2,Dan Marouelli,Greg Devorski,Toronto Maple Leafs,Vancouver Canucks
+1995020896,Detroit Red Wings,4,Calgary Flames,2,Stephen Walkom,Ron Asselstine,Detroit Red Wings,Calgary Flames
+1995020897,Chicago Blackhawks,5,New York Islanders,1,Don Koharski,Stephave Provost,Chicago Blackhawks,New York Islanders
+1995020898,Colorado Avalanche,8,Edmonton Oilers,1,Lance Roberts,Brad Lazarowich,Colorado Avalanche,Edmonton Oilers
+1995020899,Anaheim Ducks,5,St. Louis Blues,1,Bill McCreary,Andy McElman,Anaheim Ducks,St. Louis Blues
+1995020900,Boston Bruins,3,San Jose Sharks,3,Dan Marouelli,Pat Dapuzzo,Boston Bruins,San Jose Sharks
+1995020901,Hartford Whalers,6,Tampa Bay Lightning,3,Richard Trottier,Gerard Gauthier,Hartford Whalers,Tampa Bay Lightning
+1995020902,Montréal Canadiens,3,Buffalo Sabres,2,Faucettes,Hodges,Montréal Canadiens,Buffalo Sabres
+1995020903,Los Angeles Kings,1,St. Louis Blues,3,Bill McCreary,Jay Sharrers,St. Louis Blues,Los Angeles Kings
+1995020904,New York Rangers,1,Edmonton Oilers,4,Stephen Walkom,Pat Dapuzzo,Edmonton Oilers,New York Rangers
+1995020905,Philadelphia Flyers,4,New York Islanders,1,Rob Shick,Gerard Gauthier,Philadelphia Flyers,New York Islanders
+1995020906,Washington Capitals,1,Anaheim Ducks,2,Richard Trottier,Greg Devorski,Anaheim Ducks,Washington Capitals
+1995020907,Florida Panthers,5,Ottawa Senators,2,Don Van Massenhoven,Jean Morin,Florida Panthers,Ottawa Senators
+1995020908,Detroit Red Wings,6,Toronto Maple Leafs,5,Kerry Fraser,Kevin Collins,Detroit Red Wings,Toronto Maple Leafs
+1995020909,Vancouver Canucks,3,Colorado Avalanche,4,Devorski,Mike Cvik,Colorado Avalanche,Vancouver Canucks
+1995020910,Montréal Canadiens,3,Hartford Whalers,2,Marouelli,Racicot,Montréal Canadiens,Hartford Whalers
+1995020911,New Jersey Devils,1,Boston Bruins,2,Rob Shick,Greg Devorski,Boston Bruins,New Jersey Devils
+1995020912,Toronto Maple Leafs,3,Detroit Red Wings,4,Mark Faucette,Kevin Collins,Detroit Red Wings,Toronto Maple Leafs
+1995020913,Chicago Blackhawks,2,Calgary Flames,3,Kerry Fraser,Ron Asselstine,Calgary Flames,Chicago Blackhawks
+1995020914,Dallas Stars,2,St. Louis Blues,1,Jackson,Heyer,Dallas Stars,St. Louis Blues
+1995020915,Winnipeg Jets (1979),1,San Jose Sharks,7,Paul Devorski,Randy Mitton,San Jose Sharks,Winnipeg Jets (1979)
+1995020916,Los Angeles Kings,2,Colorado Avalanche,5,Paul Stewart,Jay Sharrers,Colorado Avalanche,Los Angeles Kings
+1995020917,Boston Bruins,3,Ottawa Senators,1,Richard Trottier,Scott Driscoll,Boston Bruins,Ottawa Senators
+1995020918,Pittsburgh Penguins,5,Edmonton Oilers,4,Lance Roberts,Conrad Hache,Pittsburgh Penguins,Edmonton Oilers
+1995020919,Tampa Bay Lightning,3,Washington Capitals,3,Andy Van Massenhoven,Jean Morin,Tampa Bay Lightning,Washington Capitals
+1995020920,Buffalo Sabres,1,Montréal Canadiens,4,Jackson,Collins,Montréal Canadiens,Buffalo Sabres
+1995020921,Ottawa Senators,1,Hartford Whalers,1,Blaine Angus,Gerard Gauthier,Ottawa Senators,Hartford Whalers
+1995020922,New Jersey Devils,2,Chicago Blackhawks,4,Bill McCreary,Pat Dapuzzo,Chicago Blackhawks,New Jersey Devils
+1995020923,Detroit Red Wings,7,Colorado Avalanche,0,Rob Shick,Greg Devorski,Detroit Red Wings,Colorado Avalanche
+1995020924,St. Louis Blues,1,Anaheim Ducks,6,Kerry Fraser,Ron Asselstine,Anaheim Ducks,St. Louis Blues
+1995020925,Winnipeg Jets (1979),4,Philadelphia Flyers,1,Terry Gregson,Randy Mitton,Winnipeg Jets (1979),Philadelphia Flyers
+1995020926,Calgary Flames,1,San Jose Sharks,2,Paul Devorski,Mike Cvik,San Jose Sharks,Calgary Flames
+1995020927,Vancouver Canucks,5,Dallas Stars,2,Paul Stewart,B. Lazarowich,Vancouver Canucks,Dallas Stars
+1995020928,Boston Bruins,4,New York Rangers,5,Don Van Massenhoven,Brian Murphy,New York Rangers,Boston Bruins
+1995020929,Pittsburgh Penguins,5,Buffalo Sabres,7,Rob Shick,Conrad Hache,Buffalo Sabres,Pittsburgh Penguins
+1995020930,Montréal Canadiens,5,Edmonton Oilers,6,McCreary,Scapinello,Edmonton Oilers,Montréal Canadiens
+1995020931,New York Islanders,2,New Jersey Devils,3,Dave Jackson,Pat Dapuzzo,New Jersey Devils,New York Islanders
+1995020932,Washington Capitals,2,Hartford Whalers,2,Lance Roberts,Tim Nowak,Washington Capitals,Hartford Whalers
+1995020933,Tampa Bay Lightning,4,Florida Panthers,2,Andy van Hellemond,Gordon Broseker,Tampa Bay Lightning,Florida Panthers
+1995020934,Toronto Maple Leafs,0,Philadelphia Flyers,4,Stephen Walkom,Kevin Collins,Philadelphia Flyers,Toronto Maple Leafs
+1995020935,Vancouver Canucks,0,Calgary Flames,4,Gregson,Parker,Calgary Flames,Vancouver Canucks
+1995020936,Los Angeles Kings,4,Dallas Stars,4,Paul Devorsky,Shane Heyer,Los Angeles Kings,Dallas Stars
+1995020937,Ottawa Senators,2,Edmonton Oilers,3,Richard Trottier,Stephane Provost,Edmonton Oilers,Ottawa Senators
+1995020938,New York Rangers,2,Pittsburgh Penguins,8,Kerry Fraser,Pat Dapuzzo,Pittsburgh Penguins,New York Rangers
+1995020939,Chicago Blackhawks,2,Anaheim Ducks,2,Mick McGeough,Ron Asselstine,Chicago Blackhawks,Anaheim Ducks
+1995020940,St. Louis Blues,2,Detroit Red Wings,2,Mark Faucette,Andy McElman,St. Louis Blues,Detroit Red Wings
+1995020941,Winnipeg Jets (1979),2,Colorado Avalanche,5,Paul Stewart,Randy Mitton,Colorado Avalanche,Winnipeg Jets (1979)
+1995020942,Montréal Canadiens,4,New York Islanders,1,Walkom,Champoux,Montréal Canadiens,New York Islanders
+1995020943,Philadelphia Flyers,3,Hartford Whalers,0,Dave Jackson,Tim Nowak,Philadelphia Flyers,Hartford Whalers
+1995020944,Detroit Red Wings,5,Anaheim Ducks,1,Paul Devorski,Gerard Gauthier,Detroit Red Wings,Anaheim Ducks
+1995020945,Calgary Flames,2,Toronto Maple Leafs,4,Paul Stewart,Mike Cvik,Toronto Maple Leafs,Calgary Flames
+1995020946,Vancouver Canucks,4,Los Angeles Kings,1,Gregson,Lazarowich,Vancouver Canucks,Los Angeles Kings
+1995020947,Pittsburgh Penguins,8,St. Louis Blues,4,Richard Trottier,Gerard Gauthier,Pittsburgh Penguins,St. Louis Blues
+1995020948,New York Islanders,1,Washington Capitals,7,Don Van Massenhoven,Brian Murphy,Washington Capitals,New York Islanders
+1995020949,Tampa Bay Lightning,4,New Jersey Devils,6,Kerry Fraser,Gordon Broseker,New Jersey Devils,Tampa Bay Lightning
+1995020950,Dallas Stars,2,Winnipeg Jets (1979),8,McGeough,McElman,Winnipeg Jets (1979),Dallas Stars
+1995020951,Hartford Whalers,5,Boston Bruins,6,Don Van Massenhoven,Kevin Collins,Boston Bruins,Hartford Whalers
+1995020952,Ottawa Senators,2,Philadelphia Flyers,4,Stephen Walkom,Stephane Provost,Philadelphia Flyers,Ottawa Senators
+1995020953,Montréal Canadiens,0,Washington Capitals,1,Stewart,Ron Asselstine,Washington Capitals,Montréal Canadiens
+1995020954,New York Rangers,3,Florida Panthers,0,Andy van Hellemond,Ray Scapinello,New York Rangers,Florida Panthers
+1995020955,Detroit Red Wings,4,Buffalo Sabres,2,McCreary,Gauthier,Detroit Red Wings,Buffalo Sabres
+1995020956,Colorado Avalanche,1,Winnipeg Jets (1979),3,Lance Roberts,Wayne Bonney,Winnipeg Jets (1979),Colorado Avalanche
+1995020957,Calgary Flames,1,Chicago Blackhawks,0,Terry Gregson,Greg Devorski,Calgary Flames,Chicago Blackhawks
+1995020958,Edmonton Oilers,3,Los Angeles Kings,3,Don Koharski,Randy Mitton,Edmonton Oilers,Los Angeles Kings
+1995020959,Vancouver Canucks,2,Toronto Maple Leafs,6,Faucette,Lazarowich,Toronto Maple Leafs,Vancouver Canucks
+1995020960,Boston Bruins,3,Montréal Canadiens,4,Bill McCreary,Ron Asselstine,Montréal Canadiens,Boston Bruins
+1995020961,Florida Panthers,2,Pittsburgh Penguins,3,Kerry Fraser,Pierre Champoux,Pittsburgh Penguins,Florida Panthers
+1995020962,St. Louis Blues,4,New Jersey Devils,4,Mick McGeough,Scott Driscoll,St. Louis Blues,New Jersey Devils
+1995020963,Dallas Stars,3,Anaheim Ducks,1,Roberts,McElman,Dallas Stars,Anaheim Ducks
+1995020964,San Jose Sharks,3,Colorado Avalanche,8,Faucette,Mike Cvik,Colorado Avalanche,San Jose Sharks
+1995020965,Buffalo Sabres,5,Philadelphia Flyers,6,Stephen Walkom,Pat Dapuzzo,Philadelphia Flyers,Buffalo Sabres
+1995020966,Washington Capitals,5,Ottawa Senators,0,Paul Devorski,Gordon Broseker,Washington Capitals,Ottawa Senators
+1995020967,Calgary Flames,3,Los Angeles Kings,4,Don Koharski,Greg Devorski,Los Angeles Kings,Calgary Flames
+1995020968,Edmonton Oilers,3,Winnipeg Jets (1979),2,Terry Gregson,Wayne Bonney,Edmonton Oilers,Winnipeg Jets (1979)
+1995020969,Vancouver Canucks,4,Chicago Blackhawks,2,Faucette,Lazarowich,Vancouver Canucks,Chicago Blackhawks
+1995020970,Hartford Whalers,3,New York Islanders,1,Lance Roberts,Kevin Collins,Hartford Whalers,New York Islanders
+1995020971,Pittsburgh Penguins,2,New Jersey Devils,1,Mick McGeough,Jean Morin,Pittsburgh Penguins,New Jersey Devils
+1995020972,Ottawa Senators,1,Montréal Canadiens,3,Don Van Massenhoven,Gerard Gauthier,Montréal Canadiens,Ottawa Senators
+1995020973,Florida Panthers,1,Tampa Bay Lightning,2,Kerry Fraser,Pierre Champoux,Tampa Bay Lightning,Florida Panthers
+1995020974,Edmonton Oilers,3,Toronto Maple Leafs,4,Andy van Hellemond,Wayne Bonney,Toronto Maple Leafs,Edmonton Oilers
+1995020975,Buffalo Sabres,5,Boston Bruins,6,Dan Marouelli,Pat Dapuzzo,Boston Bruins,Buffalo Sabres
+1995020976,New York Islanders,1,New York Rangers,4,Richard Trottier,Kevin Collins,New York Rangers,New York Islanders
+1995020977,Philadelphia Flyers,4,Pittsburgh Penguins,1,Bill McCreary,Gordon Broseker,Philadelphia Flyers,Pittsburgh Penguins
+1995020978,Washington Capitals,1,Tampa Bay Lightning,1,Rob Shick,Brian Murphy,Washington Capitals,Tampa Bay Lightning
+1995020979,Detroit Red Wings,8,St. Louis Blues,1,Paul Devorski,Dan McCourt,Detroit Red Wings,St. Louis Blues
+1995020980,Chicago Blackhawks,5,Dallas Stars,3,Mark Faucette,Scott Driscoll,Chicago Blackhawks,Dallas Stars
+1995020981,Calgary Flames,1,Winnipeg Jets (1979),4,Andy van Hellemond,Greg Devorski,Winnipeg Jets (1979),Calgary Flames
+1995020982,San Jose Sharks,2,Anaheim Ducks,4,Don Koharski,Mike Cvik,Anaheim Ducks,San Jose Sharks
+1995020983,Ottawa Senators,1,Boston Bruins,1,Lance Roberts,Ron Asselstine,Ottawa Senators,Boston Bruins
+1995020984,Montréal Canadiens,4,Buffalo Sabres,6,Rob Shick,Pierre Racicot,Buffalo Sabres,Montréal Canadiens
+1995020985,Florida Panthers,3,Hartford Whalers,2,Richard Trottier,Pierre Champoux,Florida Panthers,Hartford Whalers
+1995020986,Vancouver Canucks,2,Edmonton Oilers,6,Van Massenhoven,Sharrers,Edmonton Oilers,Vancouver Canucks
+1995020987,New York Islanders,2,Philadelphia Flyers,6,Lance Roberts,Pat Dapuzzo,Philadelphia Flyers,New York Islanders
+1995020988,New York Rangers,3,New Jersey Devils,1,Bill McCreary,Gord Proseker,New York Rangers,New Jersey Devils
+1995020989,San Jose Sharks,6,Detroit Red Wings,3,Dave Jackson (8),Andy McElman,San Jose Sharks,Detroit Red Wings
+1995020990,Buffalo Sabres,1,Washington Capitals,5,Paul Devorski,Greg Devorski,Washington Capitals,Buffalo Sabres
+1995020991,Ottawa Senators,3,Florida Panthers,2,Rob Shick,Ron Asselstine,Ottawa Senators,Florida Panthers
+1995020992,Montréal Canadiens,1,Boston Bruins,4,McGeough,Morin,Boston Bruins,Montréal Canadiens
+1995020993,Tampa Bay Lightning,4,Hartford Whalers,2,Andy van Hellemond,Tim Nowak,Tampa Bay Lightning,Hartford Whalers
+1995020994,Toronto Maple Leafs,2,Chicago Blackhawks,5,Don Koharski,Bob Hodges,Chicago Blackhawks,Toronto Maple Leafs
+1995020995,Winnipeg Jets (1979),3,Dallas Stars,1,Terry Gregson,Dan Schachte,Winnipeg Jets (1979),Dallas Stars
+1995020996,Colorado Avalanche,3,St. Louis Blues,6,Paul Stewart,Dan McCourt,St. Louis Blues,Colorado Avalanche
+1995020997,Calgary Flames,4,Vancouver Canucks,3,Kerry Fraser,Jay Sharrers,Calgary Flames,Vancouver Canucks
+1995020998,Los Angeles Kings,2,Detroit Red Wings,2,Dave Jackson,Shane Heyer,Los Angeles Kings,Detroit Red Wings
+1995020999,Anaheim Ducks,1,Edmonton Oilers,0,Dan Marouelli,Brad Lazarowich,Anaheim Ducks,Edmonton Oilers
+1995021000,Boston Bruins,3,Montréal Canadiens,3,Paul Devorski,Kevin Collins,Boston Bruins,Montréal Canadiens
+1995021001,Pittsburgh Penguins,4,Washington Capitals,2,Mick McGeough,Scott Driscoll,Pittsburgh Penguins,Washington Capitals
+1995021002,New Jersey Devils,0,Hartford Whalers,1,Stephen Walcom,Pat Dapuzzo,Hartford Whalers,New Jersey Devils
+1995021003,Philadelphia Flyers,4,New York Rangers,1,Don Koharski,Gordon Broseker,Philadelphia Flyers,New York Rangers
+1995021004,St. Louis Blues,1,Toronto Maple Leafs,3,Terry Gregson,Wayne Bonney,Toronto Maple Leafs,St. Louis Blues
+1995021005,San Jose Sharks,5,Edmonton Oilers,3,Van Massenhoven,Heyer,San Jose Sharks,Edmonton Oilers
+1995021006,Ottawa Senators,4,New York Islanders,2,Rob Martell,Pierre Champoux,Ottawa Senators,New York Islanders
+1995021007,New York Rangers,3,Philadelphia Flyers,1,Mark Faucette,Ron Asselstine,New York Rangers,Philadelphia Flyers
+1995021008,Tampa Bay Lightning,3,Buffalo Sabres,4,Rob Shick,Tim Nowak,Buffalo Sabres,Tampa Bay Lightning
+1995021009,Dallas Stars,3,Chicago Blackhawks,3,Trottier,Nelson,Dallas Stars,Chicago Blackhawks
+1995021010,Anaheim Ducks,2,Detroit Red Wings,2,Kerry Fraser,Shane Heyer,Anaheim Ducks,Detroit Red Wings
+1995021011,Hartford Whalers,3,New Jersey Devils,6,Paul Devorski,Pierre Racicot,New Jersey Devils,Hartford Whalers
+1995021012,Pittsburgh Penguins,2,Tampa Bay Lightning,1,Terry Gregson,Pat Depuzzo,Pittsburgh Penguins,Tampa Bay Lightning
+1995021013,Ottawa Senators,3,Washington Capitals,4,Dave Jackson,Pierre Champoux,Washington Capitals,Ottawa Senators
+1995021014,Montréal Canadiens,2,Florida Panthers,1,Koharski,Devorski,Montréal Canadiens,Florida Panthers
+1995021015,New York Islanders,3,Buffalo Sabres,0,Blaine Angus,Jean Morin,New York Islanders,Buffalo Sabres
+1995021016,Toronto Maple Leafs,5,St. Louis Blues,1,Mark Faucette,Gerard Gauthier,Toronto Maple Leafs,St. Louis Blues
+1995021017,Winnipeg Jets (1979),4,Calgary Flames,3,Paul Stewart,Mark Wheler,Winnipeg Jets (1979),Calgary Flames
+1995021018,Colorado Avalanche,5,San Jose Sharks,1,Dennis Larue,Wayne Bonney,Colorado Avalanche,San Jose Sharks
+1995021019,Los Angeles Kings,2,Vancouver Canucks,4,Don Van Massenhoven,Randy Mitton,Vancouver Canucks,Los Angeles Kings
+1995021020,New Jersey Devils,4,New York Rangers,2,Andy van Hellemond,Gordon Broseker,New Jersey Devils,New York Rangers
+1995021021,Philadelphia Flyers,2,Boston Bruins,4,Bill McCreary,Ron Asselstine,Boston Bruins,Philadelphia Flyers
+1995021022,Chicago Blackhawks,1,Detroit Red Wings,4,Mick McGeough,Bob Hodges,Detroit Red Wings,Chicago Blackhawks
+1995021023,Dallas Stars,1,Colorado Avalanche,4,Shick,Nelson,Colorado Avalanche,Dallas Stars
+1995021024,San Jose Sharks,3,Anaheim Ducks,5,Marouelli (6),Heyer (64),Anaheim Ducks,San Jose Sharks
+1995021025,Hartford Whalers,5,Pittsburgh Penguins,4,Lance Roberts,Pierre Racicot,Hartford Whalers,Pittsburgh Penguins
+1995021026,New York Rangers,3,Florida Panthers,5,Terry Gregson,Gordon Broseker,Florida Panthers,New York Rangers
+1995021027,Tampa Bay Lightning,4,New York Islanders,3,Don Koharski,Jean Morin,Tampa Bay Lightning,New York Islanders
+1995021028,St. Louis Blues,2,Winnipeg Jets (1979),2,Bill McCreary,Bob Hodges,St. Louis Blues,Winnipeg Jets (1979)
+1995021029,Edmonton Oilers,2,Calgary Flames,3,Kerry Fraser,Jay Sharrers,Calgary Flames,Edmonton Oilers
+1995021030,Anaheim Ducks,2,Vancouver Canucks,0,Mark Faucette,Wayne Bonney,Anaheim Ducks,Vancouver Canucks
+1995021031,Calgary Flames,3,Dallas Stars,4,Stephen Walkom,Dan Schachte,Dallas Stars,Calgary Flames
+1995021032,Pittsburgh Penguins,2,New York Islanders,6,Paul Stewart,Greg Devorski,New York Islanders,Pittsburgh Penguins
+1995021033,Buffalo Sabres,5,Ottawa Senators,2,Dennis Larue,Scott Driscoll,Buffalo Sabres,Ottawa Senators
+1995021034,New York Rangers,1,Washington Capitals,4,Kerry Fraser,Gerard Gauthier,Washington Capitals,New York Rangers
+1995021035,New Jersey Devils,1,Philadelphia Flyers,5,Dan Marouelli,Pierre Champoux,Philadelphia Flyers,New Jersey Devils
+1995021036,Florida Panthers,1,Tampa Bay Lightning,2,Bill McCreary,Jean Morin,Tampa Bay Lightning,Florida Panthers
+1995021037,Detroit Red Wings,5,Winnipeg Jets (1979),2,Paul Devorski,Randy Mitton,Detroit Red Wings,Winnipeg Jets (1979)
+1995021038,Colorado Avalanche,7,Anaheim Ducks,3,Andy van Hellemond,Bob Hodges,Colorado Avalanche,Anaheim Ducks
+1995021039,Edmonton Oilers,2,Dallas Stars,4,Mick McGeough,Dan Schachte,Dallas Stars,Edmonton Oilers
+1995021040,Los Angeles Kings,6,San Jose Sharks,2,Stephan Walkom,Leon Stickle,Los Angeles Kings,San Jose Sharks
+1995021041,Boston Bruins,3,Hartford Whalers,2,Don Van Massenhoven,Ron Asselstine,Boston Bruins,Hartford Whalers
+1995021042,Ottawa Senators,3,Pittsburgh Penguins,5,Richard Trottier,Gordon Broseker,Pittsburgh Penguins,Ottawa Senators
+1995021043,Philadelphia Flyers,3,Montréal Canadiens,2,Rob Shick,Pat Dapuzzo,Philadelphia Flyers,Montréal Canadiens
+1995021044,Washington Capitals,2,New Jersey Devils,3,Mark Faucette,Gerard Gauthier,New Jersey Devils,Washington Capitals
+1995021045,Chicago Blackhawks,5,Toronto Maple Leafs,2,Paul Stewart,Brad Lazarowich,Chicago Blackhawks,Toronto Maple Leafs
+1995021046,St. Louis Blues,2,Colorado Avalanche,3,Lance Roberts,Kevin Collins,Colorado Avalanche,St. Louis Blues
+1995021047,New York Islanders,1,Florida Panthers,1,Dave Jackson,Pierre Champoux,New York Islanders,Florida Panthers
+1995021048,New York Rangers,2,Tampa Bay Lightning,3,Rob Shick,Gerard Gauthier,Tampa Bay Lightning,New York Rangers
+1995021049,Detroit Red Wings,5,Chicago Blackhawks,3,Trottier,Driscoll,Detroit Red Wings,Chicago Blackhawks
+1995021050,Winnipeg Jets (1979),5,Los Angeles Kings,3,Andy van Hellemond,Bob Hodges,Winnipeg Jets (1979),Los Angeles Kings
+1995021051,San Jose Sharks,0,Calgary Flames,6,Devorski (10),Heyer (64),Calgary Flames,San Jose Sharks
+1995021052,Anaheim Ducks,5,Dallas Stars,3,Terry Gregson,Wayne Bonney,Anaheim Ducks,Dallas Stars
+1995021053,Hartford Whalers,2,Boston Bruins,0,Dan Marouelli,Ron Asselstine,Hartford Whalers,Boston Bruins
+1995021054,Montréal Canadiens,5,New York Islanders,5,Jackson,Racicot,Montréal Canadiens,New York Islanders
+1995021055,New Jersey Devils,2,Ottawa Senators,5,Don Koharski,Greg Devorski,Ottawa Senators,New Jersey Devils
+1995021056,Washington Capitals,2,Buffalo Sabres,3,Lance Roberts,Randy Mitton,Buffalo Sabres,Washington Capitals
+1995021057,Toronto Maple Leafs,6,Edmonton Oilers,3,Don Van Massenhoven,Gordon Broseker,Toronto Maple Leafs,Edmonton Oilers
+1995021058,Vancouver Canucks,5,Calgary Flames,0,Fraser,Heyer,Vancouver Canucks,Calgary Flames
+1995021059,Boston Bruins,6,Pittsburgh Penguins,5,Rob Shick,Ron Asselstine,Boston Bruins,Pittsburgh Penguins
+1995021060,Buffalo Sabres,4,Hartford Whalers,1,Richard Trottier,Gordon Broseker,Buffalo Sabres,Hartford Whalers
+1995021061,Tampa Bay Lightning,1,Philadelphia Flyers,3,Terry Gregson,Pat Dapuzo,Philadelphia Flyers,Tampa Bay Lightning
+1995021062,Florida Panthers,5,New York Rangers,1,Don Koharski,Stephane Provost,Florida Panthers,New York Rangers
+1995021063,Chicago Blackhawks,2,St. Louis Blues,2,Andy van Hellemond,Dan McCourt,Chicago Blackhawks,St. Louis Blues
+1995021064,Dallas Stars,1,Detroit Red Wings,5,McGeough,McElman,Detroit Red Wings,Dallas Stars
+1995021065,Colorado Avalanche,4,Los Angeles Kings,5,Walkon,Lazarowich,Los Angeles Kings,Colorado Avalanche
+1995021066,Anaheim Ducks,5,Winnipeg Jets (1979),2,Bill McCreary,Wayne Bonney,Anaheim Ducks,Winnipeg Jets (1979)

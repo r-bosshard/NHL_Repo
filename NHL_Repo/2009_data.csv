@@ -1,0 +1,1231 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2009020001,Boston Bruins,1,Washington Capitals,4,Dave Jackson,Steve Kozari,Washington Capitals,Boston Bruins
+2009020002,Toronto Maple Leafs,3,Montréal Canadiens,4,Kelly Sutherland,Don VanMassenhoven,Montréal Canadiens,Toronto Maple Leafs
+2009020003,Colorado Avalanche,5,San Jose Sharks,2,Brian Pochmara,Tim Peel,Colorado Avalanche,San Jose Sharks
+2009020004,Calgary Flames,5,Vancouver Canucks,3,Dan O'Halloran,Brad Meier,Calgary Flames,Vancouver Canucks
+2009020005,Carolina Hurricanes,0,Philadelphia Flyers,2,Frederick L'Ecuyer,Chris Lee,Philadelphia Flyers,Carolina Hurricanes
+2009020006,Pittsburgh Penguins,3,New York Rangers,2,Stephen Walkom,Francois StLaurent,Pittsburgh Penguins,New York Rangers
+2009020007,Chicago Blackhawks,3,Florida Panthers,3,Dan Marouelli,Brad Watson,Chicago Blackhawks,Florida Panthers
+2009020008,Detroit Red Wings,3,St. Louis Blues,4,Bill McCreary,Greg Kimmerly,St. Louis Blues,Detroit Red Wings
+2009020009,Colorado Avalanche,3,Vancouver Canucks,0,Rob Martell,Brad Meier,Colorado Avalanche,Vancouver Canucks
+2009020010,Boston Bruins,7,Carolina Hurricanes,2,Chris Rooney,Stephane Auger,Boston Bruins,Carolina Hurricanes
+2009020011,Buffalo Sabres,1,Montréal Canadiens,2,Don VanMassenhoven,Marc Joannette,Montréal Canadiens,Buffalo Sabres
+2009020012,New Jersey Devils,2,Philadelphia Flyers,5,Chris Ciamaga,Chris Lee,Philadelphia Flyers,New Jersey Devils
+2009020013,New York Islanders,3,Pittsburgh Penguins,3,Justin StPierre,Steve Kozari,New York Islanders,Pittsburgh Penguins
+2009020014,New York Rangers,5,Ottawa Senators,2,Frederick L'Ecuyer,Stephen Walkom,New York Rangers,Ottawa Senators
+2009020015,Washington Capitals,6,Toronto Maple Leafs,4,Wes McCauley,Paul Devorski,Washington Capitals,Toronto Maple Leafs
+2009020016,Atlanta Thrashers,6,Tampa Bay Lightning,3,Eric Furlatt,Kevin Pollock,Atlanta Thrashers,Tampa Bay Lightning
+2009020017,Florida Panthers,0,Chicago Blackhawks,4,Dan Marouelli,Brad Watson,Chicago Blackhawks,Florida Panthers
+2009020018,Columbus Blue Jackets,2,Minnesota Wild,1,Ian Walsh,Dean Morton,Columbus Blue Jackets,Minnesota Wild
+2009020019,Dallas Stars,2,Nashville Predators,2,Brian Pochmara,Tim Peel,Dallas Stars,Nashville Predators
+2009020020,St. Louis Blues,5,Detroit Red Wings,3,Bill McCreary,Greg Kimmerly,St. Louis Blues,Detroit Red Wings
+2009020021,Edmonton Oilers,3,Calgary Flames,4,Mike Leggo,Dan O'Halloran,Calgary Flames,Edmonton Oilers
+2009020022,Anaheim Ducks,1,San Jose Sharks,4,Dennis LaRue,Gord Dwyer,San Jose Sharks,Anaheim Ducks
+2009020023,Los Angeles Kings,3,Phoenix Coyotes,6,Dan O'Rourke,Tom Kowal,Phoenix Coyotes,Los Angeles Kings
+2009020024,New Jersey Devils,2,New York Rangers,3,Justin StPierre,Stephane Auger,New York Rangers,New Jersey Devils
+2009020025,Vancouver Canucks,3,Columbus Blue Jackets,5,Mike Leggo,Dan O'Halloran,Columbus Blue Jackets,Vancouver Canucks
+2009020026,Toronto Maple Leafs,1,Ottawa Senators,2,Kerry Fraser,Wes McCauley,Ottawa Senators,Toronto Maple Leafs
+2009020027,Philadelphia Flyers,6,Washington Capitals,5,Dave Jackson,Stephane Auger,Philadelphia Flyers,Washington Capitals
+2009020028,Carolina Hurricanes,1,Tampa Bay Lightning,1,Paul Devorski,Justin StPierre,Carolina Hurricanes,Tampa Bay Lightning
+2009020029,Minnesota Wild,4,Anaheim Ducks,3,Chris Lee,Steve Kozari,Minnesota Wild,Anaheim Ducks
+2009020030,Calgary Flames,4,Montréal Canadiens,3,Mike Leggo,Tom Kowal,Calgary Flames,Montréal Canadiens
+2009020031,Edmonton Oilers,4,Dallas Stars,4,Dan O'Halloran,Brian Pochmara,Edmonton Oilers,Dallas Stars
+2009020032,Los Angeles Kings,6,San Jose Sharks,4,Kelly Sutherland,Marc Joannette,Los Angeles Kings,San Jose Sharks
+2009020033,Pittsburgh Penguins,0,Phoenix Coyotes,3,Don VanMassenhoven,Ian Walsh,Phoenix Coyotes,Pittsburgh Penguins
+2009020034,Vancouver Canucks,7,Montréal Canadiens,1,Mike Leggo,Brian Pochmara,Vancouver Canucks,Montréal Canadiens
+2009020035,Boston Bruins,1,Anaheim Ducks,6,Justin StPierre,Stephen Walkom,Anaheim Ducks,Boston Bruins
+2009020036,Buffalo Sabres,2,Phoenix Coyotes,1,Bill McCreary,Chris Lee,Buffalo Sabres,Phoenix Coyotes
+2009020037,Ottawa Senators,3,New York Islanders,2,Kerry Fraser,Greg Kimmerly,Ottawa Senators,New York Islanders
+2009020038,Philadelphia Flyers,4,Pittsburgh Penguins,5,Eric Furlatt,Dean Morton,Pittsburgh Penguins,Philadelphia Flyers
+2009020039,Washington Capitals,3,New York Rangers,4,Stephane Auger,Ian Walsh,New York Rangers,Washington Capitals
+2009020040,Tampa Bay Lightning,3,New Jersey Devils,3,Dave Jackson,Gord Dwyer,Tampa Bay Lightning,New Jersey Devils
+2009020041,Detroit Red Wings,3,Chicago Blackhawks,2,Wes McCauley,Kevin Pollock,Detroit Red Wings,Chicago Blackhawks
+2009020042,St. Louis Blues,2,Atlanta Thrashers,4,Frederick L'Ecuyer,Tim Peel,Atlanta Thrashers,St. Louis Blues
+2009020043,Nashville Predators,3,Colorado Avalanche,2,Dan O'Rourke,Paul Devorski,Nashville Predators,Colorado Avalanche
+2009020044,Edmonton Oilers,3,Calgary Flames,3,Dennis LaRue,Francois StLaurent,Edmonton Oilers,Calgary Flames
+2009020045,Los Angeles Kings,6,Minnesota Wild,3,Tom Kowal,David Banfield,Los Angeles Kings,Minnesota Wild
+2009020046,San Jose Sharks,6,Columbus Blue Jackets,3,Kelly Sutherland,Marc Joannette,San Jose Sharks,Columbus Blue Jackets
+2009020047,Carolina Hurricanes,7,Florida Panthers,2,Chris Rooney,Stephane Auger,Carolina Hurricanes,Florida Panthers
+2009020048,Calgary Flames,2,Dallas Stars,5,Dennis LaRue,Francois StLaurent,Dallas Stars,Calgary Flames
+2009020049,Boston Bruins,3,New York Islanders,3,Stephen Walkom,Eric Furlatt,Boston Bruins,New York Islanders
+2009020050,Toronto Maple Leafs,2,Pittsburgh Penguins,5,Bill McCreary,Kevin Pollock,Pittsburgh Penguins,Toronto Maple Leafs
+2009020051,Ottawa Senators,4,Atlanta Thrashers,2,Dan Marouelli,Chris Lee,Ottawa Senators,Atlanta Thrashers
+2009020052,Philadelphia Flyers,2,Anaheim Ducks,2,Tim Peel,Chris Ciamaga,Philadelphia Flyers,Anaheim Ducks
+2009020053,Florida Panthers,2,New Jersey Devils,3,Dan O'Rourke,Gord Dwyer,New Jersey Devils,Florida Panthers
+2009020054,Detroit Red Wings,3,Washington Capitals,2,Kerry Fraser,Dan O'Halloran,Detroit Red Wings,Washington Capitals
+2009020055,Tampa Bay Lightning,5,Carolina Hurricanes,2,Dave Jackson,Rob Martell,Tampa Bay Lightning,Carolina Hurricanes
+2009020056,St. Louis Blues,1,Los Angeles Kings,2,Paul Devorski,Dean Morton,Los Angeles Kings,St. Louis Blues
+2009020057,Nashville Predators,0,Buffalo Sabres,1,Wes McCauley,Steve Kozari,Buffalo Sabres,Nashville Predators
+2009020058,Chicago Blackhawks,3,Colorado Avalanche,3,Chris Rooney,Ian Walsh,Chicago Blackhawks,Colorado Avalanche
+2009020059,Phoenix Coyotes,0,Columbus Blue Jackets,2,Kelly Sutherland,Marc Joannette,Columbus Blue Jackets,Phoenix Coyotes
+2009020060,Edmonton Oilers,3,Montréal Canadiens,2,Brad Meier,Kyle Rehman,Edmonton Oilers,Montréal Canadiens
+2009020061,San Jose Sharks,4,Minnesota Wild,2,Tom Kowal,David Banfield,San Jose Sharks,Minnesota Wild
+2009020062,New York Rangers,3,Anaheim Ducks,0,Greg Kimmerly,Brad Watson,New York Rangers,Anaheim Ducks
+2009020063,Vancouver Canucks,3,Dallas Stars,3,Dennis LaRue,Francois StLaurent,Vancouver Canucks,Dallas Stars
+2009020064,Boston Bruins,3,Colorado Avalanche,4,Wes McCauley,Tim Peel,Colorado Avalanche,Boston Bruins
+2009020065,New York Islanders,1,Los Angeles Kings,2,Brad Watson,Stephen Walkom,Los Angeles Kings,New York Islanders
+2009020066,New York Rangers,7,Toronto Maple Leafs,2,Mike Leggo,Rob Martell,New York Rangers,Toronto Maple Leafs
+2009020067,Washington Capitals,2,New Jersey Devils,2,Dan O'Rourke,Chris Lee,Washington Capitals,New Jersey Devils
+2009020068,Ottawa Senators,1,Pittsburgh Penguins,4,Dan O'Halloran,Chris Ciamaga,Pittsburgh Penguins,Ottawa Senators
+2009020069,Tampa Bay Lightning,3,Florida Panthers,2,Paul Devorski,Gord Dwyer,Tampa Bay Lightning,Florida Panthers
+2009020070,Nashville Predators,1,Edmonton Oilers,6,Don VanMassenhoven,Dean Morton,Edmonton Oilers,Nashville Predators
+2009020071,Chicago Blackhawks,6,Calgary Flames,5,Kerry Fraser,Steve Kozari,Chicago Blackhawks,Calgary Flames
+2009020072,San Jose Sharks,0,Phoenix Coyotes,0,Tom Kowal,Brad Meier,San Jose Sharks,Phoenix Coyotes
+2009020073,Buffalo Sabres,6,Detroit Red Wings,2,Mike Leggo,Rob Martell,Buffalo Sabres,Detroit Red Wings
+2009020074,Columbus Blue Jackets,2,Calgary Flames,1,Stephen Walkom,Kevin Pollock,Columbus Blue Jackets,Calgary Flames
+2009020075,Toronto Maple Leafs,1,Colorado Avalanche,4,Greg Kimmerly,Eric Furlatt,Colorado Avalanche,Toronto Maple Leafs
+2009020076,New York Rangers,4,Los Angeles Kings,2,Dan O'Rourke,Dan O'Halloran,New York Rangers,Los Angeles Kings
+2009020077,Chicago Blackhawks,4,Edmonton Oilers,3,Tim Peel,Dean Morton,Chicago Blackhawks,Edmonton Oilers
+2009020078,Dallas Stars,6,Nashville Predators,0,Brad Watson,Ian Walsh,Dallas Stars,Nashville Predators
+2009020079,Anaheim Ducks,3,Minnesota Wild,2,Brian Pochmara,Brad Meier,Anaheim Ducks,Minnesota Wild
+2009020080,Washington Capitals,4,San Jose Sharks,1,Justin StPierre,Rob Martell,Washington Capitals,San Jose Sharks
+2009020081,Carolina Hurricanes,2,Pittsburgh Penguins,2,Don VanMassenhoven,Francois StLaurent,Carolina Hurricanes,Pittsburgh Penguins
+2009020082,Montréal Canadiens,2,Colorado Avalanche,3,Dave Jackson,Marc Joannette,Colorado Avalanche,Montréal Canadiens
+2009020083,Ottawa Senators,7,Tampa Bay Lightning,1,Mike Leggo,Eric Furlatt,Ottawa Senators,Tampa Bay Lightning
+2009020084,Detroit Red Wings,5,Los Angeles Kings,2,Dan Marouelli,Dean Morton,Detroit Red Wings,Los Angeles Kings
+2009020085,Nashville Predators,1,Chicago Blackhawks,3,Kevin Pollock,Francois StLaurent,Chicago Blackhawks,Nashville Predators
+2009020086,Phoenix Coyotes,3,St. Louis Blues,2,Brian Pochmara,Brad Meier,Phoenix Coyotes,St. Louis Blues
+2009020087,New Jersey Devils,2,Atlanta Thrashers,4,Chris Rooney,Don VanMassenhoven,Atlanta Thrashers,New Jersey Devils
+2009020088,Buffalo Sabres,6,New York Islanders,3,Wes McCauley,Dan O'Halloran,Buffalo Sabres,New York Islanders
+2009020089,Florida Panthers,4,Philadelphia Flyers,2,Kevin Pollock,Francois StLaurent,Florida Panthers,Philadelphia Flyers
+2009020090,Dallas Stars,0,Boston Bruins,3,Brad Watson,Ian Walsh,Boston Bruins,Dallas Stars
+2009020091,Calgary Flames,5,Vancouver Canucks,3,Greg Kimmerly,Steve Kozari,Calgary Flames,Vancouver Canucks
+2009020092,Edmonton Oilers,5,Minnesota Wild,2,Tim Peel,Chris Lee,Edmonton Oilers,Minnesota Wild
+2009020093,Buffalo Sabres,2,Atlanta Thrashers,4,Paul Devorski,Stephane Auger,Atlanta Thrashers,Buffalo Sabres
+2009020094,Toronto Maple Leafs,1,New York Rangers,4,Mike Leggo,Marc Joannette,New York Rangers,Toronto Maple Leafs
+2009020095,Montréal Canadiens,1,Ottawa Senators,3,Bill McCreary,Dean Morton,Ottawa Senators,Montréal Canadiens
+2009020096,New Jersey Devils,2,Carolina Hurricanes,0,Kerry Fraser,Wes McCauley,New Jersey Devils,Carolina Hurricanes
+2009020097,New York Islanders,1,San Jose Sharks,4,Dave Jackson,Eric Furlatt,San Jose Sharks,New York Islanders
+2009020098,Washington Capitals,2,Nashville Predators,2,Chris Rooney,Kelly Sutherland,Washington Capitals,Nashville Predators
+2009020099,Detroit Red Wings,3,Colorado Avalanche,3,Dan O'Rourke,Stephen Walkom,Detroit Red Wings,Colorado Avalanche
+2009020100,Columbus Blue Jackets,4,Los Angeles Kings,1,Dan Marouelli,Rob Martell,Columbus Blue Jackets,Los Angeles Kings
+2009020101,Pittsburgh Penguins,4,Tampa Bay Lightning,1,Justin StPierre,Dan O'Halloran,Pittsburgh Penguins,Tampa Bay Lightning
+2009020102,Chicago Blackhawks,3,Dallas Stars,4,Ghislain Hebert,Tom Kowal,Dallas Stars,Chicago Blackhawks
+2009020103,Phoenix Coyotes,4,Boston Bruins,1,Dennis LaRue,Gord Dwyer,Phoenix Coyotes,Boston Bruins
+2009020104,Vancouver Canucks,2,Minnesota Wild,1,Greg Kimmerly,Steve Kozari,Vancouver Canucks,Minnesota Wild
+2009020105,Anaheim Ducks,0,St. Louis Blues,5,Brian Pochmara,Brad Meier,St. Louis Blues,Anaheim Ducks
+2009020106,New York Rangers,3,San Jose Sharks,7,Chris Rooney,Justin StPierre,San Jose Sharks,New York Rangers
+2009020107,Dallas Stars,1,Los Angeles Kings,4,Ghislain Hebert,Brad Meier,Los Angeles Kings,Dallas Stars
+2009020108,Edmonton Oilers,2,Vancouver Canucks,1,Kerry Fraser,Tom Kowal,Edmonton Oilers,Vancouver Canucks
+2009020109,Pittsburgh Penguins,5,St. Louis Blues,1,Paul Devorski,Frederick L'Ecuyer,Pittsburgh Penguins,St. Louis Blues
+2009020110,Montréal Canadiens,1,Atlanta Thrashers,1,Greg Kimmerly,Eric Furlatt,Montréal Canadiens,Atlanta Thrashers
+2009020111,Calgary Flames,6,Columbus Blue Jackets,3,Kerry Fraser,Stephane Auger,Calgary Flames,Columbus Blue Jackets
+2009020112,Boston Bruins,3,Nashville Predators,2,Dennis LaRue,Frederick L'Ecuyer,Boston Bruins,Nashville Predators
+2009020113,New York Islanders,3,Carolina Hurricanes,3,Wes McCauley,Kelly Sutherland,New York Islanders,Carolina Hurricanes
+2009020114,Florida Panthers,2,Buffalo Sabres,5,Stephen Walkom,Ian Walsh,Buffalo Sabres,Florida Panthers
+2009020115,Minnesota Wild,2,Colorado Avalanche,2,Dan Marouelli,Dave Jackson,Minnesota Wild,Colorado Avalanche
+2009020116,Chicago Blackhawks,2,Vancouver Canucks,3,Dan O'Rourke,Dean Morton,Vancouver Canucks,Chicago Blackhawks
+2009020117,Anaheim Ducks,2,Dallas Stars,4,Mike Leggo,Kevin Pollock,Dallas Stars,Anaheim Ducks
+2009020118,Montréal Canadiens,5,New York Islanders,1,Brian Pochmara,Tim Peel,Montréal Canadiens,New York Islanders
+2009020119,New York Rangers,2,New Jersey Devils,4,Kelly Sutherland,Dennis LaRue,New Jersey Devils,New York Rangers
+2009020120,Philadelphia Flyers,3,Boston Bruins,3,Paul Devorski,Steve Kozari,Philadelphia Flyers,Boston Bruins
+2009020121,Atlanta Thrashers,4,Washington Capitals,5,Gord Dwyer,Kyle Rehman,Washington Capitals,Atlanta Thrashers
+2009020122,Ottawa Senators,5,Nashville Predators,6,Bill McCreary,Marc Joannette,Nashville Predators,Ottawa Senators
+2009020123,Tampa Bay Lightning,5,San Jose Sharks,2,Stephen Walkom,Ian Walsh,Tampa Bay Lightning,San Jose Sharks
+2009020124,Edmonton Oilers,6,Columbus Blue Jackets,4,Kerry Fraser,Stephane Auger,Edmonton Oilers,Columbus Blue Jackets
+2009020125,Phoenix Coyotes,3,Detroit Red Wings,2,Brad Watson,Chris Lee,Phoenix Coyotes,Detroit Red Wings
+2009020126,Los Angeles Kings,5,Dallas Stars,4,Mike Leggo,Kevin Pollock,Los Angeles Kings,Dallas Stars
+2009020127,Pittsburgh Penguins,2,Florida Panthers,2,Dan O'Rourke,Rob Martell,Pittsburgh Penguins,Florida Panthers
+2009020128,St. Louis Blues,3,Minnesota Wild,1,Chris Rooney,Dave Jackson,St. Louis Blues,Minnesota Wild
+2009020129,Colorado Avalanche,5,Carolina Hurricanes,4,Dan Marouelli,Francois StLaurent,Colorado Avalanche,Carolina Hurricanes
+2009020130,Montréal Canadiens,5,New York Rangers,4,Dan O'Rourke,Steve Kozari,Montréal Canadiens,New York Rangers
+2009020131,Ottawa Senators,3,Boston Bruins,3,Brian Pochmara,Tim Peel,Ottawa Senators,Boston Bruins
+2009020132,New York Islanders,2,Washington Capitals,3,Gord Dwyer,Rob Martell,Washington Capitals,New York Islanders
+2009020133,Philadelphia Flyers,5,Florida Panthers,1,Kerry Fraser,Kelly Sutherland,Philadelphia Flyers,Florida Panthers
+2009020134,Atlanta Thrashers,3,San Jose Sharks,4,Chris Rooney,Dan O'Halloran,San Jose Sharks,Atlanta Thrashers
+2009020135,Vancouver Canucks,3,Toronto Maple Leafs,1,Stephane Auger,Tom Kowal,Vancouver Canucks,Toronto Maple Leafs
+2009020136,Pittsburgh Penguins,1,New Jersey Devils,4,Dennis LaRue,Dean Morton,New Jersey Devils,Pittsburgh Penguins
+2009020137,Tampa Bay Lightning,2,Buffalo Sabres,2,Stephen Walkom,Ian Walsh,Tampa Bay Lightning,Buffalo Sabres
+2009020138,St. Louis Blues,1,Dallas Stars,4,Dave Jackson,Eric Furlatt,Dallas Stars,St. Louis Blues
+2009020139,Minnesota Wild,3,Carolina Hurricanes,2,Justin StPierre,Brad Meier,Minnesota Wild,Carolina Hurricanes
+2009020140,Chicago Blackhawks,2,Nashville Predators,0,Greg Kimmerly,Marc Joannette,Chicago Blackhawks,Nashville Predators
+2009020141,Colorado Avalanche,3,Detroit Red Wings,1,Brad Watson,Chris Lee,Colorado Avalanche,Detroit Red Wings
+2009020142,Phoenix Coyotes,3,Los Angeles Kings,5,Dan Marouelli,Kyle Rehman,Los Angeles Kings,Phoenix Coyotes
+2009020143,Calgary Flames,5,Edmonton Oilers,2,Bill McCreary,David Banfield,Calgary Flames,Edmonton Oilers
+2009020144,Anaheim Ducks,4,Columbus Blue Jackets,6,Kevin Pollock,Francois StLaurent,Columbus Blue Jackets,Anaheim Ducks
+2009020145,Philadelphia Flyers,1,San Jose Sharks,4,Dennis LaRue,Gord Dwyer,San Jose Sharks,Philadelphia Flyers
+2009020146,Los Angeles Kings,6,Columbus Blue Jackets,2,Kevin Pollock,Francois StLaurent,Los Angeles Kings,Columbus Blue Jackets
+2009020147,Vancouver Canucks,2,Edmonton Oilers,0,Bill McCreary,David Banfield,Vancouver Canucks,Edmonton Oilers
+2009020148,New York Rangers,5,Phoenix Coyotes,2,Rob Martell,Steve Kozari,New York Rangers,Phoenix Coyotes
+2009020149,Montréal Canadiens,3,New York Islanders,2,Stephane Auger,Tim Peel,Montréal Canadiens,New York Islanders
+2009020150,Chicago Blackhawks,3,Minnesota Wild,1,Marc Joannette,Eric Furlatt,Chicago Blackhawks,Minnesota Wild
+2009020151,Anaheim Ducks,3,Toronto Maple Leafs,6,Brad Watson,Kyle Rehman,Toronto Maple Leafs,Anaheim Ducks
+2009020152,Washington Capitals,4,Philadelphia Flyers,2,Dennis LaRue,Tom Kowal,Washington Capitals,Philadelphia Flyers
+2009020153,Edmonton Oilers,0,Colorado Avalanche,3,Wes McCauley,Don VanMassenhoven,Colorado Avalanche,Edmonton Oilers
+2009020154,Vancouver Canucks,4,Detroit Red Wings,5,Bill McCreary,David Banfield,Detroit Red Wings,Vancouver Canucks
+2009020155,New Jersey Devils,1,Buffalo Sabres,4,Dave Jackson,Brian Pochmara,Buffalo Sabres,New Jersey Devils
+2009020156,New York Islanders,3,New York Rangers,1,Dan Marouelli,Greg Kimmerly,New York Islanders,New York Rangers
+2009020157,Carolina Hurricanes,2,St. Louis Blues,5,Marc Joannette,Dean Morton,St. Louis Blues,Carolina Hurricanes
+2009020158,Columbus Blue Jackets,1,Phoenix Coyotes,4,Chris Ciamaga,Eric Furlatt,Phoenix Coyotes,Columbus Blue Jackets
+2009020159,Pittsburgh Penguins,6,Montréal Canadiens,1,Chris Rooney,Tom Kowal,Pittsburgh Penguins,Montréal Canadiens
+2009020160,Florida Panthers,3,Ottawa Senators,4,Justin StPierre,Rob Martell,Ottawa Senators,Florida Panthers
+2009020161,Minnesota Wild,3,Nashville Predators,4,Kelly Sutherland,Kyle Rehman,Nashville Predators,Minnesota Wild
+2009020162,Dallas Stars,4,Toronto Maple Leafs,3,Dan O'Rourke,Gord Dwyer,Dallas Stars,Toronto Maple Leafs
+2009020163,Calgary Flames,2,Colorado Avalanche,3,Wes McCauley,Don VanMassenhoven,Colorado Avalanche,Calgary Flames
+2009020164,San Jose Sharks,1,Los Angeles Kings,1,Paul Devorski,Brad Watson,San Jose Sharks,Los Angeles Kings
+2009020165,Boston Bruins,1,New Jersey Devils,2,Dan Marouelli,Greg Kimmerly,New Jersey Devils,Boston Bruins
+2009020166,Atlanta Thrashers,3,Washington Capitals,4,Brad Meier,Dean Morton,Washington Capitals,Atlanta Thrashers
+2009020167,Tampa Bay Lightning,5,Ottawa Senators,2,Mike Leggo,Justin StPierre,Tampa Bay Lightning,Ottawa Senators
+2009020168,St. Louis Blues,0,Phoenix Coyotes,2,Dan O'Halloran,Ian Walsh,Phoenix Coyotes,St. Louis Blues
+2009020169,Nashville Predators,2,Chicago Blackhawks,0,Stephane Auger,Eric Furlatt,Nashville Predators,Chicago Blackhawks
+2009020170,Edmonton Oilers,5,Detroit Red Wings,5,Wes McCauley,Don VanMassenhoven,Edmonton Oilers,Detroit Red Wings
+2009020171,Los Angeles Kings,1,Vancouver Canucks,1,Kerry Fraser,Stephen Walkom,Los Angeles Kings,Vancouver Canucks
+2009020172,Washington Capitals,3,New York Islanders,4,Dave Jackson,Brian Pochmara,New York Islanders,Washington Capitals
+2009020173,Columbus Blue Jackets,3,Pittsburgh Penguins,3,Gord Dwyer,Ian Walsh,Columbus Blue Jackets,Pittsburgh Penguins
+2009020174,Buffalo Sabres,3,Toronto Maple Leafs,2,Chris Rooney,Tom Kowal,Buffalo Sabres,Toronto Maple Leafs
+2009020175,Minnesota Wild,3,New York Rangers,2,Marc Joannette,Francois StLaurent,Minnesota Wild,New York Rangers
+2009020176,Chicago Blackhawks,3,Montréal Canadiens,2,Dan O'Halloran,Stephane Auger,Chicago Blackhawks,Montréal Canadiens
+2009020177,Dallas Stars,5,Florida Panthers,5,Brad Watson,Steve Kozari,Dallas Stars,Florida Panthers
+2009020178,Anaheim Ducks,7,Vancouver Canucks,2,Paul Devorski,Chris Lee,Anaheim Ducks,Vancouver Canucks
+2009020179,San Jose Sharks,3,Colorado Avalanche,1,Kerry Fraser,Stephen Walkom,San Jose Sharks,Colorado Avalanche
+2009020180,Boston Bruins,2,Edmonton Oilers,0,Mike Leggo,Greg Kimmerly,Boston Bruins,Edmonton Oilers
+2009020181,Philadelphia Flyers,6,Carolina Hurricanes,1,Dave Jackson,Brian Pochmara,Philadelphia Flyers,Carolina Hurricanes
+2009020182,Ottawa Senators,1,Atlanta Thrashers,3,Dan Marouelli,Don VanMassenhoven,Atlanta Thrashers,Ottawa Senators
+2009020183,Tampa Bay Lightning,1,New Jersey Devils,1,Brad Meier,Dean Morton,Tampa Bay Lightning,New Jersey Devils
+2009020184,Montréal Canadiens,4,Toronto Maple Leafs,4,Chris Rooney,Kevin Pollock,Montréal Canadiens,Toronto Maple Leafs
+2009020185,New York Islanders,5,Buffalo Sabres,0,Dan O'Rourke,Tom Kowal,New York Islanders,Buffalo Sabres
+2009020186,Pittsburgh Penguins,1,Minnesota Wild,2,Wes McCauley,Rob Martell,Minnesota Wild,Pittsburgh Penguins
+2009020187,St. Louis Blues,0,Florida Panthers,4,Gord Dwyer,Eric Furlatt,Florida Panthers,St. Louis Blues
+2009020188,Nashville Predators,4,Dallas Stars,2,Justin StPierre,Dan O'Halloran,Nashville Predators,Dallas Stars
+2009020189,Phoenix Coyotes,2,Anaheim Ducks,2,Paul Devorski,Stephen Walkom,Phoenix Coyotes,Anaheim Ducks
+2009020190,Calgary Flames,1,Detroit Red Wings,3,Kelly Sutherland,Tim Peel,Detroit Red Wings,Calgary Flames
+2009020191,New York Rangers,1,Boston Bruins,0,Dan O'Rourke,Ian Walsh,New York Rangers,Boston Bruins
+2009020192,Carolina Hurricanes,1,San Jose Sharks,5,Dave Jackson,Stephane Auger,San Jose Sharks,Carolina Hurricanes
+2009020193,Washington Capitals,4,Columbus Blue Jackets,5,Mike Leggo,Greg Kimmerly,Columbus Blue Jackets,Washington Capitals
+2009020194,Vancouver Canucks,3,Colorado Avalanche,0,Kelly Sutherland,Tim Peel,Vancouver Canucks,Colorado Avalanche
+2009020195,New York Islanders,3,Edmonton Oilers,1,Mike Leggo,Ian Walsh,New York Islanders,Edmonton Oilers
+2009020196,Philadelphia Flyers,6,Tampa Bay Lightning,2,Gord Dwyer,Brad Meier,Philadelphia Flyers,Tampa Bay Lightning
+2009020197,Phoenix Coyotes,3,Los Angeles Kings,5,Stephen Walkom,Chris Lee,Los Angeles Kings,Phoenix Coyotes
+2009020198,Detroit Red Wings,2,Boston Bruins,0,Dan O'Halloran,Kevin Pollock,Detroit Red Wings,Boston Bruins
+2009020199,Toronto Maple Leafs,1,Tampa Bay Lightning,2,Don VanMassenhoven,Dean Morton,Tampa Bay Lightning,Toronto Maple Leafs
+2009020200,Montréal Canadiens,4,Atlanta Thrashers,5,Kerry Fraser,Dennis LaRue,Atlanta Thrashers,Montréal Canadiens
+2009020201,Vancouver Canucks,4,New York Rangers,1,Tim Peel,Brad Watson,Vancouver Canucks,New York Rangers
+2009020202,Anaheim Ducks,3,Pittsburgh Penguins,4,Stephen Walkom,Chris Lee,Pittsburgh Penguins,Anaheim Ducks
+2009020203,Buffalo Sabres,3,New York Islanders,0,Greg Kimmerly,Marc Joannette,Buffalo Sabres,New York Islanders
+2009020204,New Jersey Devils,3,Washington Capitals,2,Mike Leggo,Ian Walsh,New Jersey Devils,Washington Capitals
+2009020205,Columbus Blue Jackets,2,San Jose Sharks,2,Chris Rooney,Dan Marouelli,Columbus Blue Jackets,San Jose Sharks
+2009020206,Florida Panthers,3,Carolina Hurricanes,0,Bill McCreary,Chris Ciamaga,Florida Panthers,Carolina Hurricanes
+2009020207,Dallas Stars,2,Calgary Flames,3,Kelly Sutherland,Rob Martell,Calgary Flames,Dallas Stars
+2009020208,Colorado Avalanche,4,Phoenix Coyotes,1,Brian Pochmara,Brad Meier,Colorado Avalanche,Phoenix Coyotes
+2009020209,Boston Bruins,1,Montréal Canadiens,1,Paul Devorski,Francois StLaurent,Boston Bruins,Montréal Canadiens
+2009020210,Atlanta Thrashers,3,Columbus Blue Jackets,4,Dan O'Rourke,Steve Kozari,Columbus Blue Jackets,Atlanta Thrashers
+2009020211,Ottawa Senators,3,Tampa Bay Lightning,2,Kerry Fraser,Dennis LaRue,Ottawa Senators,Tampa Bay Lightning
+2009020212,Detroit Red Wings,1,San Jose Sharks,1,Wes McCauley,Dan Marouelli,Detroit Red Wings,San Jose Sharks
+2009020213,St. Louis Blues,1,Calgary Flames,2,Justin StPierre,Don VanMassenhoven,Calgary Flames,St. Louis Blues
+2009020214,Minnesota Wild,2,Vancouver Canucks,5,Dan O'Halloran,Kevin Pollock,Vancouver Canucks,Minnesota Wild
+2009020215,Phoenix Coyotes,3,Chicago Blackhawks,1,Kelly Sutherland,Brian Pochmara,Phoenix Coyotes,Chicago Blackhawks
+2009020216,Edmonton Oilers,2,New York Rangers,4,Tim Peel,Brad Watson,New York Rangers,Edmonton Oilers
+2009020217,Anaheim Ducks,4,Nashville Predators,0,Stephane Auger,Tom Kowal,Anaheim Ducks,Nashville Predators
+2009020218,Los Angeles Kings,5,Pittsburgh Penguins,2,Chris Lee,Brad Meier,Los Angeles Kings,Pittsburgh Penguins
+2009020219,New Jersey Devils,2,New York Islanders,1,Marc Joannette,Francois StLaurent,New Jersey Devils,New York Islanders
+2009020220,Carolina Hurricanes,2,Toronto Maple Leafs,3,Don VanMassenhoven,Chris Ciamaga,Toronto Maple Leafs,Carolina Hurricanes
+2009020221,Buffalo Sabres,2,Philadelphia Flyers,5,Kerry Fraser,Eric Furlatt,Philadelphia Flyers,Buffalo Sabres
+2009020222,Florida Panthers,1,Washington Capitals,4,Chris Rooney,Bill McCreary,Washington Capitals,Florida Panthers
+2009020223,Dallas Stars,2,Vancouver Canucks,1,Justin StPierre,Steve Kozari,Dallas Stars,Vancouver Canucks
+2009020224,Colorado Avalanche,3,Chicago Blackhawks,3,Dave Jackson,Rob Martell,Colorado Avalanche,Chicago Blackhawks
+2009020225,Los Angeles Kings,1,Nashville Predators,3,Kelly Sutherland,Brad Meier,Nashville Predators,Los Angeles Kings
+2009020226,Boston Bruins,4,Buffalo Sabres,2,Frederick L'Ecuyer,Marc Joannette,Boston Bruins,Buffalo Sabres
+2009020227,Toronto Maple Leafs,5,Detroit Red Wings,1,Kerry Fraser,Eric Furlatt,Toronto Maple Leafs,Detroit Red Wings
+2009020228,Montréal Canadiens,1,Tampa Bay Lightning,3,Dennis LaRue,Greg Kimmerly,Tampa Bay Lightning,Montréal Canadiens
+2009020229,Ottawa Senators,2,New Jersey Devils,3,Wes McCauley,Paul Devorski,New Jersey Devils,Ottawa Senators
+2009020230,New York Islanders,6,Atlanta Thrashers,3,Gord Dwyer,Chris Ciamaga,New York Islanders,Atlanta Thrashers
+2009020231,Philadelphia Flyers,1,St. Louis Blues,1,Dan Marouelli,Francois StLaurent,Philadelphia Flyers,St. Louis Blues
+2009020232,Washington Capitals,7,Florida Panthers,4,Dan O'Rourke,Dean Morton,Washington Capitals,Florida Panthers
+2009020233,Columbus Blue Jackets,3,Carolina Hurricanes,2,Brian Pochmara,Don VanMassenhoven,Columbus Blue Jackets,Carolina Hurricanes
+2009020234,Minnesota Wild,3,Dallas Stars,2,Chris Lee,Ian Walsh,Minnesota Wild,Dallas Stars
+2009020235,Calgary Flames,3,New York Rangers,1,Dan O'Halloran,Kevin Pollock,Calgary Flames,New York Rangers
+2009020236,Anaheim Ducks,4,Phoenix Coyotes,3,Dave Jackson,Rob Martell,Anaheim Ducks,Phoenix Coyotes
+2009020237,San Jose Sharks,5,Pittsburgh Penguins,0,Stephane Auger,Tom Kowal,San Jose Sharks,Pittsburgh Penguins
+2009020238,Atlanta Thrashers,2,St. Louis Blues,2,Chris Rooney,Bill McCreary,Atlanta Thrashers,St. Louis Blues
+2009020239,Colorado Avalanche,3,Edmonton Oilers,5,Justin StPierre,Steve Kozari,Edmonton Oilers,Colorado Avalanche
+2009020240,Chicago Blackhawks,4,Los Angeles Kings,1,Dennis LaRue,Tom Kowal,Chicago Blackhawks,Los Angeles Kings
+2009020241,Boston Bruins,3,Pittsburgh Penguins,0,Kerry Fraser,Bill McCreary,Boston Bruins,Pittsburgh Penguins
+2009020242,Toronto Maple Leafs,2,Minnesota Wild,5,Greg Kimmerly,Brad Watson,Minnesota Wild,Toronto Maple Leafs
+2009020243,Montréal Canadiens,0,Calgary Flames,1,Dan Marouelli,Don VanMassenhoven,Calgary Flames,Montréal Canadiens
+2009020244,Ottawa Senators,3,Edmonton Oilers,3,Ian Walsh,Kevin Pollock,Ottawa Senators,Edmonton Oilers
+2009020245,St. Louis Blues,6,Vancouver Canucks,1,Dan O'Rourke,Tom Kowal,St. Louis Blues,Vancouver Canucks
+2009020246,San Jose Sharks,4,Nashville Predators,3,Mike Leggo,Rob Martell,San Jose Sharks,Nashville Predators
+2009020247,Buffalo Sabres,3,Edmonton Oilers,1,Chris Rooney,Brad Watson,Buffalo Sabres,Edmonton Oilers
+2009020248,New Jersey Devils,3,Anaheim Ducks,1,Bill McCreary,Eric Furlatt,New Jersey Devils,Anaheim Ducks
+2009020249,Washington Capitals,4,New York Islanders,4,Marc Joannette,Francois StLaurent,Washington Capitals,New York Islanders
+2009020250,Carolina Hurricanes,2,Los Angeles Kings,5,Dennis LaRue,Tim Peel,Los Angeles Kings,Carolina Hurricanes
+2009020251,Columbus Blue Jackets,1,Detroit Red Wings,9,Frederick L'Ecuyer,Stephen Walkom,Detroit Red Wings,Columbus Blue Jackets
+2009020252,Chicago Blackhawks,2,Colorado Avalanche,2,Chris Lee,Steve Kozari,Chicago Blackhawks,Colorado Avalanche
+2009020253,Boston Bruins,0,Florida Panthers,0,Kelly Sutherland,Justin StPierre,Boston Bruins,Florida Panthers
+2009020254,New York Rangers,3,Atlanta Thrashers,5,Kerry Fraser,Eric Furlatt,Atlanta Thrashers,New York Rangers
+2009020255,Philadelphia Flyers,5,Ottawa Senators,1,Wes McCauley,Tim Peel,Philadelphia Flyers,Ottawa Senators
+2009020256,Pittsburgh Penguins,1,New Jersey Devils,4,Frederick L'Ecuyer,Don VanMassenhoven,New Jersey Devils,Pittsburgh Penguins
+2009020257,Tampa Bay Lightning,3,Minnesota Wild,3,Dan O'Halloran,Brian Pochmara,Tampa Bay Lightning,Minnesota Wild
+2009020258,Detroit Red Wings,3,Vancouver Canucks,1,Dave Jackson,Gord Dwyer,Detroit Red Wings,Vancouver Canucks
+2009020259,St. Louis Blues,1,Nashville Predators,3,Mike Leggo,Chris Lee,Nashville Predators,St. Louis Blues
+2009020260,Phoenix Coyotes,2,Montréal Canadiens,4,Rob Martell,Tom Kowal,Montréal Canadiens,Phoenix Coyotes
+2009020261,San Jose Sharks,2,Dallas Stars,2,Brad Meier,Kyle Rehman,San Jose Sharks,Dallas Stars
+2009020262,Washington Capitals,3,Minnesota Wild,1,Tim Peel,Don VanMassenhoven,Washington Capitals,Minnesota Wild
+2009020263,Carolina Hurricanes,3,New York Islanders,4,Kevin Pollock,Steve Kozari,New York Islanders,Carolina Hurricanes
+2009020264,Columbus Blue Jackets,2,Anaheim Ducks,2,Marc Joannette,Francois StLaurent,Columbus Blue Jackets,Anaheim Ducks
+2009020265,Buffalo Sabres,1,Calgary Flames,1,Brad Watson,Dean Morton,Buffalo Sabres,Calgary Flames
+2009020266,Atlanta Thrashers,7,Los Angeles Kings,0,Wes McCauley,Dan O'Halloran,Atlanta Thrashers,Los Angeles Kings
+2009020267,Chicago Blackhawks,3,Toronto Maple Leafs,2,Dave Jackson,Gord Dwyer,Chicago Blackhawks,Toronto Maple Leafs
+2009020268,Toronto Maple Leafs,2,Calgary Flames,5,Dan Marouelli,Brad Watson,Calgary Flames,Toronto Maple Leafs
+2009020269,Ottawa Senators,1,New York Rangers,1,Chris Rooney,Kelly Sutherland,Ottawa Senators,New York Rangers
+2009020270,New Jersey Devils,5,Washington Capitals,2,Don VanMassenhoven,Steve Kozari,New Jersey Devils,Washington Capitals
+2009020271,Philadelphia Flyers,2,Buffalo Sabres,3,Dan O'Halloran,Stephane Auger,Buffalo Sabres,Philadelphia Flyers
+2009020272,Florida Panthers,4,New York Islanders,4,Mike Leggo,Brian Pochmara,Florida Panthers,New York Islanders
+2009020273,Detroit Red Wings,7,Anaheim Ducks,4,Bill McCreary,Ian Walsh,Detroit Red Wings,Anaheim Ducks
+2009020274,Pittsburgh Penguins,6,Boston Bruins,5,Kerry Fraser,Paul Devorski,Pittsburgh Penguins,Boston Bruins
+2009020275,Tampa Bay Lightning,1,Los Angeles Kings,1,Frederick L'Ecuyer,Rob Martell,Tampa Bay Lightning,Los Angeles Kings
+2009020276,St. Louis Blues,1,San Jose Sharks,3,Chris Lee,Kevin Pollock,San Jose Sharks,St. Louis Blues
+2009020277,Nashville Predators,2,Montréal Canadiens,0,Dave Jackson,Gord Dwyer,Nashville Predators,Montréal Canadiens
+2009020278,Phoenix Coyotes,3,Dallas Stars,2,Dan O'Rourke,Greg Kimmerly,Phoenix Coyotes,Dallas Stars
+2009020279,Colorado Avalanche,2,Vancouver Canucks,8,Brad Meier,Kyle Rehman,Vancouver Canucks,Colorado Avalanche
+2009020280,Carolina Hurricanes,4,Minnesota Wild,4,Wes McCauley,Francois StLaurent,Carolina Hurricanes,Minnesota Wild
+2009020281,Atlanta Thrashers,3,Edmonton Oilers,2,Justin StPierre,Marc Joannette,Atlanta Thrashers,Edmonton Oilers
+2009020282,Chicago Blackhawks,4,San Jose Sharks,3,Kerry Fraser,Kevin Pollock,Chicago Blackhawks,San Jose Sharks
+2009020283,Boston Bruins,1,New York Islanders,4,Chris Rooney,Don VanMassenhoven,New York Islanders,Boston Bruins
+2009020284,Philadelphia Flyers,3,New Jersey Devils,2,Kelly Sutherland,Kyle Rehman,Philadelphia Flyers,New Jersey Devils
+2009020285,Columbus Blue Jackets,2,Edmonton Oilers,2,Justin StPierre,Dean Morton,Columbus Blue Jackets,Edmonton Oilers
+2009020286,Pittsburgh Penguins,5,Anaheim Ducks,2,Brad Meier,Steve Kozari,Pittsburgh Penguins,Anaheim Ducks
+2009020287,Florida Panthers,3,Los Angeles Kings,3,Dave Jackson,Stephane Auger,Florida Panthers,Los Angeles Kings
+2009020288,Phoenix Coyotes,1,Tampa Bay Lightning,4,Mike Leggo,Greg Kimmerly,Tampa Bay Lightning,Phoenix Coyotes
+2009020289,New York Rangers,2,Washington Capitals,4,Dan Marouelli,Dean Morton,Washington Capitals,New York Rangers
+2009020290,Montréal Canadiens,2,Carolina Hurricanes,2,Bill McCreary,Eric Furlatt,Montréal Canadiens,Carolina Hurricanes
+2009020291,Ottawa Senators,3,Toronto Maple Leafs,2,Dennis LaRue,Brian Pochmara,Ottawa Senators,Toronto Maple Leafs
+2009020292,Nashville Predators,4,San Jose Sharks,3,Marc Joannette,Francois StLaurent,Nashville Predators,San Jose Sharks
+2009020293,Calgary Flames,2,Colorado Avalanche,3,Paul Devorski,Tom Kowal,Colorado Avalanche,Calgary Flames
+2009020294,Buffalo Sabres,2,Florida Panthers,6,Kevin Pollock,Kyle Rehman,Florida Panthers,Buffalo Sabres
+2009020295,Detroit Red Wings,1,Dallas Stars,3,Dennis LaRue,Stephane Auger,Dallas Stars,Detroit Red Wings
+2009020296,Minnesota Wild,2,Phoenix Coyotes,3,Kelly Sutherland,Stephen Walkom,Phoenix Coyotes,Minnesota Wild
+2009020297,Edmonton Oilers,6,Colorado Avalanche,4,Paul Devorski,Tom Kowal,Edmonton Oilers,Colorado Avalanche
+2009020298,Los Angeles Kings,2,Philadelphia Flyers,3,Gord Dwyer,Brad Watson,Philadelphia Flyers,Los Angeles Kings
+2009020299,Carolina Hurricanes,5,Toronto Maple Leafs,5,Rob Martell,Ian Walsh,Carolina Hurricanes,Toronto Maple Leafs
+2009020300,Atlanta Thrashers,3,Boston Bruins,3,Brian Pochmara,Chris Lee,Atlanta Thrashers,Boston Bruins
+2009020301,Ottawa Senators,6,Pittsburgh Penguins,2,Eric Furlatt,David Banfield,Ottawa Senators,Pittsburgh Penguins
+2009020302,St. Louis Blues,3,Phoenix Coyotes,2,Kerry Fraser,Stephane Auger,St. Louis Blues,Phoenix Coyotes
+2009020303,Nashville Predators,2,New Jersey Devils,2,Dan Marouelli,Stephen Walkom,Nashville Predators,New Jersey Devils
+2009020304,Dallas Stars,1,Columbus Blue Jackets,4,Chris Rooney,Tim Peel,Columbus Blue Jackets,Dallas Stars
+2009020305,Calgary Flames,1,Chicago Blackhawks,7,Paul Devorski,Brad Meier,Chicago Blackhawks,Calgary Flames
+2009020306,Anaheim Ducks,4,Tampa Bay Lightning,3,Dan O'Rourke,Brad Watson,Anaheim Ducks,Tampa Bay Lightning
+2009020307,Washington Capitals,2,Montréal Canadiens,3,Dan O'Halloran,Ian Walsh,Montréal Canadiens,Washington Capitals
+2009020308,Buffalo Sabres,1,Boston Bruins,2,Bill McCreary,Francois StLaurent,Boston Bruins,Buffalo Sabres
+2009020309,Detroit Red Wings,1,Florida Panthers,2,Kelly Sutherland,Steve Kozari,Florida Panthers,Detroit Red Wings
+2009020310,Minnesota Wild,3,New York Islanders,2,Dennis LaRue,Tom Kowal,Minnesota Wild,New York Islanders
+2009020311,Vancouver Canucks,5,Colorado Avalanche,2,Mike Leggo,Gord Dwyer,Vancouver Canucks,Colorado Avalanche
+2009020312,San Jose Sharks,6,Philadelphia Flyers,3,Wes McCauley,Dan O'Rourke,San Jose Sharks,Philadelphia Flyers
+2009020313,Los Angeles Kings,2,Calgary Flames,5,Chris Rooney,Tim Peel,Calgary Flames,Los Angeles Kings
+2009020314,Toronto Maple Leafs,1,Washington Capitals,1,Bill McCreary,David Banfield,Toronto Maple Leafs,Washington Capitals
+2009020315,Montréal Canadiens,2,Detroit Red Wings,2,Dave Jackson,Marc Joannette,Montréal Canadiens,Detroit Red Wings
+2009020316,Ottawa Senators,5,Buffalo Sabres,3,Justin StPierre,Stephane Auger,Ottawa Senators,Buffalo Sabres
+2009020317,New York Rangers,2,Florida Panthers,3,Dan O'Halloran,Francois StLaurent,Florida Panthers,New York Rangers
+2009020318,Carolina Hurricanes,3,Tampa Bay Lightning,1,Greg Kimmerly,Chris Lee,Carolina Hurricanes,Tampa Bay Lightning
+2009020319,Atlanta Thrashers,2,Pittsburgh Penguins,3,Dan Marouelli,Rob Martell,Pittsburgh Penguins,Atlanta Thrashers
+2009020320,St. Louis Blues,4,New York Islanders,1,Kerry Fraser,Steve Kozari,St. Louis Blues,New York Islanders
+2009020321,Nashville Predators,3,Columbus Blue Jackets,3,Stephen Walkom,Tom Kowal,Nashville Predators,Columbus Blue Jackets
+2009020322,Dallas Stars,5,New Jersey Devils,3,Brian Pochmara,Kevin Pollock,Dallas Stars,New Jersey Devils
+2009020323,Phoenix Coyotes,3,Philadelphia Flyers,1,Brad Watson,Dean Morton,Phoenix Coyotes,Philadelphia Flyers
+2009020324,Edmonton Oilers,2,Chicago Blackhawks,5,Paul Devorski,Brad Meier,Chicago Blackhawks,Edmonton Oilers
+2009020325,Anaheim Ducks,2,San Jose Sharks,3,Wes McCauley,Dan O'Rourke,San Jose Sharks,Anaheim Ducks
+2009020326,Atlanta Thrashers,3,Tampa Bay Lightning,4,Stephen Walkom,Ian Walsh,Tampa Bay Lightning,Atlanta Thrashers
+2009020327,Vancouver Canucks,0,Chicago Blackhawks,1,Dennis LaRue,Gord Dwyer,Chicago Blackhawks,Vancouver Canucks
+2009020328,Nashville Predators,3,Detroit Red Wings,1,Chris Lee,Tom Kowal,Nashville Predators,Detroit Red Wings
+2009020329,Toronto Maple Leafs,3,New York Islanders,4,Dave Jackson,Justin StPierre,New York Islanders,Toronto Maple Leafs
+2009020330,New York Rangers,7,Columbus Blue Jackets,4,Kelly Sutherland,David Banfield,New York Rangers,Columbus Blue Jackets
+2009020331,Ottawa Senators,4,Washington Capitals,3,Bill McCreary,Marc Joannette,Ottawa Senators,Washington Capitals
+2009020332,Florida Panthers,2,Pittsburgh Penguins,3,Greg Kimmerly,Kevin Pollock,Pittsburgh Penguins,Florida Panthers
+2009020333,St. Louis Blues,2,Boston Bruins,4,Dan Marouelli,Steve Kozari,Boston Bruins,St. Louis Blues
+2009020334,Dallas Stars,2,Carolina Hurricanes,0,Kerry Fraser,Dan O'Rourke,Dallas Stars,Carolina Hurricanes
+2009020335,Colorado Avalanche,5,Philadelphia Flyers,4,Chris Rooney,Brian Pochmara,Colorado Avalanche,Philadelphia Flyers
+2009020336,Edmonton Oilers,4,Phoenix Coyotes,0,Gord Dwyer,Eric Furlatt,Edmonton Oilers,Phoenix Coyotes
+2009020337,Anaheim Ducks,2,Calgary Flames,2,Wes McCauley,Dean Morton,Anaheim Ducks,Calgary Flames
+2009020338,Montréal Canadiens,5,Columbus Blue Jackets,3,Justin StPierre,Ian Walsh,Montréal Canadiens,Columbus Blue Jackets
+2009020339,New Jersey Devils,3,Ottawa Senators,1,Kerry Fraser,Ian Walsh,New Jersey Devils,Ottawa Senators
+2009020340,New York Islanders,1,Philadelphia Flyers,2,Bill McCreary,Chris Lee,Philadelphia Flyers,New York Islanders
+2009020341,Washington Capitals,2,Buffalo Sabres,0,Paul Devorski,Kelly Sutherland,Washington Capitals,Buffalo Sabres
+2009020342,Tampa Bay Lightning,3,Toronto Maple Leafs,4,Dan Marouelli,Rob Martell,Toronto Maple Leafs,Tampa Bay Lightning
+2009020343,Pittsburgh Penguins,3,Montréal Canadiens,1,Wes McCauley,Stephen Walkom,Pittsburgh Penguins,Montréal Canadiens
+2009020344,Florida Panthers,1,New York Rangers,1,Chris Rooney,Greg Kimmerly,Florida Panthers,New York Rangers
+2009020345,Detroit Red Wings,0,Atlanta Thrashers,2,Dan O'Halloran,Brian Pochmara,Atlanta Thrashers,Detroit Red Wings
+2009020346,Minnesota Wild,1,Boston Bruins,1,Stephane Auger,Brad Meier,Minnesota Wild,Boston Bruins
+2009020347,Dallas Stars,3,St. Louis Blues,3,Gord Dwyer,Tim Peel,Dallas Stars,St. Louis Blues
+2009020348,Colorado Avalanche,3,Nashville Predators,4,Brad Watson,Kevin Pollock,Nashville Predators,Colorado Avalanche
+2009020349,Calgary Flames,2,Phoenix Coyotes,1,Dennis LaRue,Eric Furlatt,Calgary Flames,Phoenix Coyotes
+2009020350,Edmonton Oilers,1,Los Angeles Kings,3,Marc Joannette,Francois StLaurent,Los Angeles Kings,Edmonton Oilers
+2009020351,Anaheim Ducks,3,Carolina Hurricanes,2,Mike Leggo,Kyle Rehman,Anaheim Ducks,Carolina Hurricanes
+2009020352,San Jose Sharks,2,Chicago Blackhawks,7,Tom Kowal,Dean Morton,Chicago Blackhawks,San Jose Sharks
+2009020353,Ottawa Senators,2,Columbus Blue Jackets,1,Dave Jackson,Frederick L'Ecuyer,Ottawa Senators,Columbus Blue Jackets
+2009020354,Vancouver Canucks,4,Los Angeles Kings,1,Eric Furlatt,Francois StLaurent,Vancouver Canucks,Los Angeles Kings
+2009020355,Boston Bruins,1,New Jersey Devils,1,Wes McCauley,Chris Rooney,Boston Bruins,New Jersey Devils
+2009020356,Philadelphia Flyers,2,Buffalo Sabres,4,Paul Devorski,David Banfield,Buffalo Sabres,Philadelphia Flyers
+2009020357,New York Islanders,3,Pittsburgh Penguins,2,Bill McCreary,Kelly Sutherland,New York Islanders,Pittsburgh Penguins
+2009020358,Minnesota Wild,5,Colorado Avalanche,3,Marc Joannette,Kyle Rehman,Minnesota Wild,Colorado Avalanche
+2009020359,Anaheim Ducks,3,Chicago Blackhawks,0,Tom Kowal,Kevin Pollock,Anaheim Ducks,Chicago Blackhawks
+2009020360,Carolina Hurricanes,4,Atlanta Thrashers,6,Greg Kimmerly,Gord Dwyer,Atlanta Thrashers,Carolina Hurricanes
+2009020361,Tampa Bay Lightning,5,New York Rangers,1,Dan Marouelli,Steve Kozari,Tampa Bay Lightning,New York Rangers
+2009020362,Florida Panthers,4,Toronto Maple Leafs,6,Dan O'Rourke,Justin StPierre,Toronto Maple Leafs,Florida Panthers
+2009020363,Detroit Red Wings,0,Calgary Flames,3,Chris Lee,Brad Meier,Calgary Flames,Detroit Red Wings
+2009020364,Nashville Predators,1,St. Louis Blues,3,Dan O'Halloran,Rob Martell,St. Louis Blues,Nashville Predators
+2009020365,Edmonton Oilers,4,San Jose Sharks,4,Stephane Auger,Eric Furlatt,Edmonton Oilers,San Jose Sharks
+2009020366,Phoenix Coyotes,5,Dallas Stars,2,Mike Leggo,Dean Morton,Phoenix Coyotes,Dallas Stars
+2009020367,New Jersey Devils,6,New York Islanders,1,Chris Rooney,Paul Devorski,New Jersey Devils,New York Islanders
+2009020368,Boston Bruins,3,Ottawa Senators,3,Gord Dwyer,Ian Walsh,Boston Bruins,Ottawa Senators
+2009020369,Buffalo Sabres,5,Carolina Hurricanes,1,Kerry Fraser,Kelly Sutherland,Buffalo Sabres,Carolina Hurricanes
+2009020370,Montréal Canadiens,3,Washington Capitals,3,Frederick L'Ecuyer,Brad Watson,Montréal Canadiens,Washington Capitals
+2009020371,Atlanta Thrashers,1,Philadelphia Flyers,0,Greg Kimmerly,Rob Martell,Atlanta Thrashers,Philadelphia Flyers
+2009020372,Columbus Blue Jackets,3,Calgary Flames,3,Bill McCreary,Marc Joannette,Columbus Blue Jackets,Calgary Flames
+2009020373,Pittsburgh Penguins,8,New York Rangers,3,Stephen Walkom,David Banfield,Pittsburgh Penguins,New York Rangers
+2009020374,St. Louis Blues,3,Detroit Red Wings,3,Tim Peel,Kyle Rehman,St. Louis Blues,Detroit Red Wings
+2009020375,Nashville Predators,4,Florida Panthers,1,Brad Meier,Steve Kozari,Nashville Predators,Florida Panthers
+2009020376,Dallas Stars,4,Tampa Bay Lightning,3,Don VanMassenhoven,Dean Morton,Dallas Stars,Tampa Bay Lightning
+2009020377,Colorado Avalanche,2,Minnesota Wild,2,Kevin Pollock,Francois StLaurent,Colorado Avalanche,Minnesota Wild
+2009020378,Vancouver Canucks,7,Edmonton Oilers,3,Dennis LaRue,Stephane Auger,Vancouver Canucks,Edmonton Oilers
+2009020379,Los Angeles Kings,1,Chicago Blackhawks,1,Mike Leggo,Brian Pochmara,Los Angeles Kings,Chicago Blackhawks
+2009020380,Anaheim Ducks,2,Phoenix Coyotes,3,Don VanMassenhoven,Francois StLaurent,Phoenix Coyotes,Anaheim Ducks
+2009020381,Vancouver Canucks,2,San Jose Sharks,4,Eric Furlatt,Chris Lee,San Jose Sharks,Vancouver Canucks
+2009020382,Toronto Maple Leafs,0,Buffalo Sabres,3,Kerry Fraser,Mike Leggo,Buffalo Sabres,Toronto Maple Leafs
+2009020383,New York Rangers,2,Pittsburgh Penguins,5,Kelly Sutherland,Gord Dwyer,Pittsburgh Penguins,New York Rangers
+2009020384,Carolina Hurricanes,2,Washington Capitals,3,Brad Meier,Steve Kozari,Washington Capitals,Carolina Hurricanes
+2009020385,Atlanta Thrashers,4,Florida Panthers,3,Bill McCreary,Chris Ciamaga,Atlanta Thrashers,Florida Panthers
+2009020386,Columbus Blue Jackets,5,St. Louis Blues,2,Stephane Auger,Brad Watson,Columbus Blue Jackets,St. Louis Blues
+2009020387,Tampa Bay Lightning,0,Colorado Avalanche,3,Chris Rooney,Dan O'Rourke,Colorado Avalanche,Tampa Bay Lightning
+2009020388,Detroit Red Wings,4,Dallas Stars,1,Marc Joannette,Rob Martell,Detroit Red Wings,Dallas Stars
+2009020389,Nashville Predators,0,Calgary Flames,5,Justin StPierre,Tim Peel,Calgary Flames,Nashville Predators
+2009020390,Montréal Canadiens,0,Toronto Maple Leafs,3,Kerry Fraser,Greg Kimmerly,Toronto Maple Leafs,Montréal Canadiens
+2009020391,Chicago Blackhawks,3,Columbus Blue Jackets,3,Mike Leggo,Dennis LaRue,Chicago Blackhawks,Columbus Blue Jackets
+2009020392,Anaheim Ducks,3,Los Angeles Kings,4,Dan O'Halloran,Frederick L'Ecuyer,Los Angeles Kings,Anaheim Ducks
+2009020393,San Jose Sharks,5,Ottawa Senators,2,Brian Pochmara,Don VanMassenhoven,San Jose Sharks,Ottawa Senators
+2009020394,Boston Bruins,4,Tampa Bay Lightning,1,Wes McCauley,Brad Watson,Boston Bruins,Tampa Bay Lightning
+2009020395,New Jersey Devils,2,Vancouver Canucks,5,Kelly Sutherland,Rob Martell,Vancouver Canucks,New Jersey Devils
+2009020396,Florida Panthers,5,Colorado Avalanche,5,Chris Rooney,Chris Lee,Florida Panthers,Colorado Avalanche
+2009020397,Minnesota Wild,5,Nashville Predators,4,Paul Devorski,Chris Ciamaga,Minnesota Wild,Nashville Predators
+2009020398,Buffalo Sabres,6,Montréal Canadiens,2,Mike Leggo,Ian Walsh,Buffalo Sabres,Montréal Canadiens
+2009020399,Philadelphia Flyers,0,Vancouver Canucks,3,Brad Watson,Rob Martell,Vancouver Canucks,Philadelphia Flyers
+2009020400,Washington Capitals,6,Florida Panthers,2,Kerry Fraser,Wes McCauley,Washington Capitals,Florida Panthers
+2009020401,Atlanta Thrashers,1,New York Islanders,4,Dan O'Rourke,Chris Lee,New York Islanders,Atlanta Thrashers
+2009020402,Columbus Blue Jackets,3,Toronto Maple Leafs,6,Dennis LaRue,Eric Furlatt,Toronto Maple Leafs,Columbus Blue Jackets
+2009020403,Pittsburgh Penguins,4,Colorado Avalanche,1,Justin StPierre,Tom Kowal,Pittsburgh Penguins,Colorado Avalanche
+2009020404,Detroit Red Wings,1,Edmonton Oilers,4,Greg Kimmerly,Kevin Pollock,Edmonton Oilers,Detroit Red Wings
+2009020405,Dallas Stars,3,Anaheim Ducks,1,Chris Rooney,Steve Kozari,Dallas Stars,Anaheim Ducks
+2009020406,Phoenix Coyotes,2,Calgary Flames,1,Gord Dwyer,Tim Peel,Phoenix Coyotes,Calgary Flames
+2009020407,Los Angeles Kings,6,Ottawa Senators,3,Dan O'Halloran,Don VanMassenhoven,Los Angeles Kings,Ottawa Senators
+2009020408,San Jose Sharks,2,St. Louis Blues,2,Dan Marouelli,Brian Pochmara,San Jose Sharks,St. Louis Blues
+2009020409,New Jersey Devils,3,Tampa Bay Lightning,2,Dennis LaRue,Dean Morton,New Jersey Devils,Tampa Bay Lightning
+2009020410,Montréal Canadiens,5,Boston Bruins,1,Bill McCreary,Stephane Auger,Montréal Canadiens,Boston Bruins
+2009020411,Minnesota Wild,4,Anaheim Ducks,4,Paul Devorski,Kevin Pollock,Minnesota Wild,Anaheim Ducks
+2009020412,Chicago Blackhawks,1,Nashville Predators,4,Stephen Walkom,Chris Lee,Nashville Predators,Chicago Blackhawks
+2009020413,Carolina Hurricanes,5,Vancouver Canucks,3,Marc Joannette,Ian Walsh,Carolina Hurricanes,Vancouver Canucks
+2009020414,Dallas Stars,2,Edmonton Oilers,2,Greg Kimmerly,Eric Furlatt,Dallas Stars,Edmonton Oilers
+2009020415,Los Angeles Kings,4,St. Louis Blues,4,Gord Dwyer,Tim Peel,Los Angeles Kings,St. Louis Blues
+2009020416,Boston Bruins,7,Toronto Maple Leafs,2,Bill McCreary,Dean Morton,Boston Bruins,Toronto Maple Leafs
+2009020417,Buffalo Sabres,1,New York Rangers,2,Wes McCauley,Don VanMassenhoven,New York Rangers,Buffalo Sabres
+2009020418,New Jersey Devils,3,Detroit Red Wings,3,Mike Leggo,Dan O'Rourke,New Jersey Devils,Detroit Red Wings
+2009020419,Philadelphia Flyers,2,Washington Capitals,8,Dennis LaRue,Stephane Auger,Washington Capitals,Philadelphia Flyers
+2009020420,Florida Panthers,1,Atlanta Thrashers,1,Tom Kowal,Francois StLaurent,Florida Panthers,Atlanta Thrashers
+2009020421,Columbus Blue Jackets,2,Colorado Avalanche,3,Justin StPierre,Stephen Walkom,Colorado Avalanche,Columbus Blue Jackets
+2009020422,Pittsburgh Penguins,1,Chicago Blackhawks,2,Brad Watson,Brad Meier,Chicago Blackhawks,Pittsburgh Penguins
+2009020423,Tampa Bay Lightning,4,New York Islanders,0,Kelly Sutherland,Rob Martell,Tampa Bay Lightning,New York Islanders
+2009020424,Nashville Predators,3,Minnesota Wild,5,Kerry Fraser,Brian Pochmara,Minnesota Wild,Nashville Predators
+2009020425,Phoenix Coyotes,3,Ottawa Senators,2,Chris Rooney,Dan O'Halloran,Phoenix Coyotes,Ottawa Senators
+2009020426,San Jose Sharks,1,Calgary Flames,2,Dan Marouelli,Steve Kozari,Calgary Flames,San Jose Sharks
+2009020427,New York Rangers,1,Detroit Red Wings,3,Dan O'Rourke,Marc Joannette,Detroit Red Wings,New York Rangers
+2009020428,Anaheim Ducks,3,Ottawa Senators,3,Chris Rooney,Tim Peel,Anaheim Ducks,Ottawa Senators
+2009020429,Buffalo Sabres,0,New Jersey Devils,3,Brad Watson,Brad Meier,New Jersey Devils,Buffalo Sabres
+2009020430,Toronto Maple Leafs,5,Atlanta Thrashers,2,Wes McCauley,Chris Lee,Toronto Maple Leafs,Atlanta Thrashers
+2009020431,Montréal Canadiens,3,Philadelphia Flyers,1,Mike Leggo,Dan O'Rourke,Montréal Canadiens,Philadelphia Flyers
+2009020432,Pittsburgh Penguins,2,Carolina Hurricanes,3,Dan Marouelli,Dean Morton,Carolina Hurricanes,Pittsburgh Penguins
+2009020433,Tampa Bay Lightning,0,Washington Capitals,3,Kelly Sutherland,Francois StLaurent,Washington Capitals,Tampa Bay Lightning
+2009020434,Florida Panthers,2,Edmonton Oilers,2,Rob Martell,Tom Kowal,Florida Panthers,Edmonton Oilers
+2009020435,St. Louis Blues,0,Colorado Avalanche,4,Dennis LaRue,Stephane Auger,Colorado Avalanche,St. Louis Blues
+2009020436,Phoenix Coyotes,2,Minnesota Wild,0,Dan O'Halloran,Steve Kozari,Phoenix Coyotes,Minnesota Wild
+2009020437,Los Angeles Kings,2,Calgary Flames,1,Greg Kimmerly,Eric Furlatt,Los Angeles Kings,Calgary Flames
+2009020438,Philadelphia Flyers,6,New York Islanders,2,Justin StPierre,Marc Joannette,Philadelphia Flyers,New York Islanders
+2009020439,Ottawa Senators,1,Montréal Canadiens,4,Paul Devorski,Dean Morton,Montréal Canadiens,Ottawa Senators
+2009020440,Nashville Predators,4,Vancouver Canucks,2,Stephane Auger,Stephen Walkom,Nashville Predators,Vancouver Canucks
+2009020441,Anaheim Ducks,4,Dallas Stars,3,Tim Peel,Eric Furlatt,Anaheim Ducks,Dallas Stars
+2009020442,Buffalo Sabres,3,Washington Capitals,0,Marc Joannette,Chris Lee,Buffalo Sabres,Washington Capitals
+2009020443,Toronto Maple Leafs,3,New York Islanders,2,Paul Devorski,Brad Meier,Toronto Maple Leafs,New York Islanders
+2009020444,New Jersey Devils,4,Carolina Hurricanes,2,Dan Marouelli,David Banfield,New Jersey Devils,Carolina Hurricanes
+2009020445,Columbus Blue Jackets,3,Florida Panthers,0,Wes McCauley,Kevin Pollock,Columbus Blue Jackets,Florida Panthers
+2009020446,Tampa Bay Lightning,2,Edmonton Oilers,3,Tom Kowal,Francois StLaurent,Edmonton Oilers,Tampa Bay Lightning
+2009020447,Detroit Red Wings,0,St. Louis Blues,1,Brian Pochmara,Don VanMassenhoven,St. Louis Blues,Detroit Red Wings
+2009020448,Chicago Blackhawks,2,New York Rangers,1,Bill McCreary,Gord Dwyer,Chicago Blackhawks,New York Rangers
+2009020449,Colorado Avalanche,0,Minnesota Wild,1,Kelly Sutherland,Greg Kimmerly,Minnesota Wild,Colorado Avalanche
+2009020450,Calgary Flames,3,Atlanta Thrashers,1,Kerry Fraser,Ian Walsh,Calgary Flames,Atlanta Thrashers
+2009020451,San Jose Sharks,4,Los Angeles Kings,5,Eric Furlatt,Steve Kozari,Los Angeles Kings,San Jose Sharks
+2009020452,Boston Bruins,5,Toronto Maple Leafs,2,Stephen Walkom,Brad Meier,Boston Bruins,Toronto Maple Leafs
+2009020453,Philadelphia Flyers,0,Ottawa Senators,2,Stephane Auger,Marc Joannette,Ottawa Senators,Philadelphia Flyers
+2009020454,Montréal Canadiens,2,Pittsburgh Penguins,3,Paul Devorski,Chris Lee,Pittsburgh Penguins,Montréal Canadiens
+2009020455,Nashville Predators,3,Columbus Blue Jackets,3,Wes McCauley,Gord Dwyer,Nashville Predators,Columbus Blue Jackets
+2009020456,Vancouver Canucks,4,Atlanta Thrashers,2,Kerry Fraser,Ian Walsh,Vancouver Canucks,Atlanta Thrashers
+2009020457,Los Angeles Kings,2,Phoenix Coyotes,2,Justin StPierre,Steve Kozari,Los Angeles Kings,Phoenix Coyotes
+2009020458,New Jersey Devils,2,Florida Panthers,4,Stephane Auger,Kevin Pollock,Florida Panthers,New Jersey Devils
+2009020459,Washington Capitals,4,Carolina Hurricanes,3,Don VanMassenhoven,Stephen Walkom,Washington Capitals,Carolina Hurricanes
+2009020460,Buffalo Sabres,2,Chicago Blackhawks,1,Chris Rooney,Dan O'Rourke,Buffalo Sabres,Chicago Blackhawks
+2009020461,Detroit Red Wings,3,Anaheim Ducks,2,Ghislain Hebert,Eric Furlatt,Detroit Red Wings,Anaheim Ducks
+2009020462,St. Louis Blues,3,Edmonton Oilers,5,Bill McCreary,Gord Dwyer,Edmonton Oilers,St. Louis Blues
+2009020463,Colorado Avalanche,1,Tampa Bay Lightning,1,Mike Leggo,Tom Kowal,Colorado Avalanche,Tampa Bay Lightning
+2009020464,Calgary Flames,1,Minnesota Wild,2,Brad Watson,Ian Walsh,Minnesota Wild,Calgary Flames
+2009020465,San Jose Sharks,2,Dallas Stars,2,Kelly Sutherland,Justin StPierre,San Jose Sharks,Dallas Stars
+2009020466,Toronto Maple Leafs,6,Washington Capitals,3,Chris Rooney,Dan O'Halloran,Toronto Maple Leafs,Washington Capitals
+2009020467,Ottawa Senators,4,Carolina Hurricanes,2,Paul Devorski,Francois StLaurent,Ottawa Senators,Carolina Hurricanes
+2009020468,New Jersey Devils,4,Philadelphia Flyers,1,Brian Pochmara,Stephen Walkom,New Jersey Devils,Philadelphia Flyers
+2009020469,New York Islanders,3,Boston Bruins,2,Dan O'Rourke,Kevin Pollock,New York Islanders,Boston Bruins
+2009020470,New York Rangers,2,Buffalo Sabres,3,Rob Martell,Brad Meier,Buffalo Sabres,New York Rangers
+2009020471,Atlanta Thrashers,4,Montréal Canadiens,3,Bill McCreary,David Banfield,Atlanta Thrashers,Montréal Canadiens
+2009020472,Columbus Blue Jackets,1,Anaheim Ducks,3,Don VanMassenhoven,Kyle Rehman,Anaheim Ducks,Columbus Blue Jackets
+2009020473,Pittsburgh Penguins,3,Florida Panthers,2,Stephane Auger,Marc Joannette,Pittsburgh Penguins,Florida Panthers
+2009020474,Nashville Predators,2,Detroit Red Wings,3,Tim Peel,Dean Morton,Detroit Red Wings,Nashville Predators
+2009020475,Phoenix Coyotes,2,San Jose Sharks,1,Justin StPierre,Dennis LaRue,Phoenix Coyotes,San Jose Sharks
+2009020476,Vancouver Canucks,4,Minnesota Wild,3,Kerry Fraser,Brad Watson,Vancouver Canucks,Minnesota Wild
+2009020477,Los Angeles Kings,2,Dallas Stars,2,Mike Leggo,Kelly Sutherland,Los Angeles Kings,Dallas Stars
+2009020478,Chicago Blackhawks,4,Tampa Bay Lightning,0,Bill McCreary,Steve Kozari,Chicago Blackhawks,Tampa Bay Lightning
+2009020479,Colorado Avalanche,3,Calgary Flames,2,Dennis LaRue,Tom Kowal,Colorado Avalanche,Calgary Flames
+2009020480,Boston Bruins,1,Philadelphia Flyers,3,Chris Rooney,Rob Martell,Philadelphia Flyers,Boston Bruins
+2009020481,Toronto Maple Leafs,3,Ottawa Senators,2,Dan O'Rourke,Tim Peel,Toronto Maple Leafs,Ottawa Senators
+2009020482,New York Islanders,1,Florida Panthers,7,Dan O'Halloran,Francois StLaurent,Florida Panthers,New York Islanders
+2009020483,New York Rangers,2,Atlanta Thrashers,2,Paul Devorski,Dean Morton,New York Rangers,Atlanta Thrashers
+2009020484,Columbus Blue Jackets,3,Nashville Predators,5,Justin StPierre,Brad Meier,Nashville Predators,Columbus Blue Jackets
+2009020485,Montréal Canadiens,3,Buffalo Sabres,4,Brian Pochmara,Eric Furlatt,Buffalo Sabres,Montréal Canadiens
+2009020486,Detroit Red Wings,3,Phoenix Coyotes,2,Kelly Sutherland,Ian Walsh,Detroit Red Wings,Phoenix Coyotes
+2009020487,Vancouver Canucks,3,Los Angeles Kings,1,Don VanMassenhoven,Chris Lee,Vancouver Canucks,Los Angeles Kings
+2009020488,Pittsburgh Penguins,6,Philadelphia Flyers,1,Tim Peel,Francois StLaurent,Pittsburgh Penguins,Philadelphia Flyers
+2009020489,St. Louis Blues,4,Calgary Flames,3,Justin StPierre,Stephen Walkom,St. Louis Blues,Calgary Flames
+2009020490,Nashville Predators,7,Tampa Bay Lightning,4,Kerry Fraser,David Banfield,Nashville Predators,Tampa Bay Lightning
+2009020491,Minnesota Wild,2,Columbus Blue Jackets,1,Bill McCreary,Dennis LaRue,Minnesota Wild,Columbus Blue Jackets
+2009020492,Colorado Avalanche,1,Washington Capitals,6,Gord Dwyer,Brad Watson,Washington Capitals,Colorado Avalanche
+2009020493,Edmonton Oilers,2,Los Angeles Kings,3,Wes McCauley,Chris Lee,Los Angeles Kings,Edmonton Oilers
+2009020494,New Jersey Devils,2,Montréal Canadiens,1,Tim Peel,Rob Martell,New Jersey Devils,Montréal Canadiens
+2009020495,New York Rangers,1,New York Islanders,2,Greg Kimmerly,Eric Furlatt,New York Islanders,New York Rangers
+2009020496,Carolina Hurricanes,5,Dallas Stars,3,Dan O'Rourke,Stephen Walkom,Carolina Hurricanes,Dallas Stars
+2009020497,Toronto Maple Leafs,3,Phoenix Coyotes,6,Brian Pochmara,Kevin Pollock,Phoenix Coyotes,Toronto Maple Leafs
+2009020498,Ottawa Senators,2,Buffalo Sabres,0,Dan O'Halloran,Stephane Auger,Ottawa Senators,Buffalo Sabres
+2009020499,Florida Panthers,4,Atlanta Thrashers,3,Paul Devorski,Dean Morton,Florida Panthers,Atlanta Thrashers
+2009020500,Chicago Blackhawks,3,St. Louis Blues,0,Kerry Fraser,Ian Walsh,Chicago Blackhawks,St. Louis Blues
+2009020501,Vancouver Canucks,2,Anaheim Ducks,3,Chris Rooney,Don VanMassenhoven,Anaheim Ducks,Vancouver Canucks
+2009020502,Montréal Canadiens,1,Minnesota Wild,3,Marc Joannette,Rob Martell,Minnesota Wild,Montréal Canadiens
+2009020503,New York Islanders,2,New York Rangers,5,Kelly Sutherland,Chris Ciamaga,New York Rangers,New York Islanders
+2009020504,Philadelphia Flyers,2,Pittsburgh Penguins,2,Dan O'Rourke,Eric Furlatt,Philadelphia Flyers,Pittsburgh Penguins
+2009020505,Atlanta Thrashers,6,Dallas Stars,5,Justin StPierre,Ian Walsh,Atlanta Thrashers,Dallas Stars
+2009020506,Columbus Blue Jackets,1,Phoenix Coyotes,1,Kevin Pollock,David Banfield,Columbus Blue Jackets,Phoenix Coyotes
+2009020507,Detroit Red Wings,3,Tampa Bay Lightning,0,Stephen Walkom,Francois StLaurent,Detroit Red Wings,Tampa Bay Lightning
+2009020508,Calgary Flames,2,Los Angeles Kings,1,Chris Rooney,Don VanMassenhoven,Calgary Flames,Los Angeles Kings
+2009020509,Edmonton Oilers,3,Nashville Predators,6,Wes McCauley,Steve Kozari,Nashville Predators,Edmonton Oilers
+2009020510,San Jose Sharks,4,Anaheim Ducks,1,Bill McCreary,Gord Dwyer,San Jose Sharks,Anaheim Ducks
+2009020511,New Jersey Devils,4,Ottawa Senators,2,Kelly Sutherland,Brian Pochmara,New Jersey Devils,Ottawa Senators
+2009020512,Buffalo Sabres,5,Toronto Maple Leafs,2,Dan O'Halloran,Chris Ciamaga,Buffalo Sabres,Toronto Maple Leafs
+2009020513,Florida Panthers,6,Carolina Hurricanes,3,Paul Devorski,Dean Morton,Florida Panthers,Carolina Hurricanes
+2009020514,St. Louis Blues,3,Tampa Bay Lightning,6,Greg Kimmerly,Brad Watson,Tampa Bay Lightning,St. Louis Blues
+2009020515,Chicago Blackhawks,4,Boston Bruins,4,Tim Peel,Francois StLaurent,Chicago Blackhawks,Boston Bruins
+2009020516,Vancouver Canucks,3,Washington Capitals,2,Mike Leggo,Brad Meier,Vancouver Canucks,Washington Capitals
+2009020517,Philadelphia Flyers,1,New York Rangers,2,Kerry Fraser,Ian Walsh,New York Rangers,Philadelphia Flyers
+2009020518,Dallas Stars,4,Detroit Red Wings,3,Chris Lee,Tom Kowal,Dallas Stars,Detroit Red Wings
+2009020519,Anaheim Ducks,4,Phoenix Coyotes,2,Dan O'Rourke,Gord Dwyer,Anaheim Ducks,Phoenix Coyotes
+2009020520,Buffalo Sabres,1,Pittsburgh Penguins,1,Bill McCreary,Francois StLaurent,Buffalo Sabres,Pittsburgh Penguins
+2009020521,Toronto Maple Leafs,2,Boston Bruins,0,Kelly Sutherland,Marc Joannette,Toronto Maple Leafs,Boston Bruins
+2009020522,Ottawa Senators,4,Minnesota Wild,1,Ghislain Hebert,Eric Furlatt,Ottawa Senators,Minnesota Wild
+2009020523,New York Islanders,0,Montréal Canadiens,3,Dan O'Halloran,Brian Pochmara,Montréal Canadiens,New York Islanders
+2009020524,Carolina Hurricanes,3,Florida Panthers,2,Justin StPierre,Kevin Pollock,Carolina Hurricanes,Florida Panthers
+2009020525,Atlanta Thrashers,4,New Jersey Devils,5,Greg Kimmerly,Brad Watson,New Jersey Devils,Atlanta Thrashers
+2009020526,Calgary Flames,3,Nashville Predators,5,Wes McCauley,Steve Kozari,Nashville Predators,Calgary Flames
+2009020527,Colorado Avalanche,5,Columbus Blue Jackets,2,Stephane Auger,Don VanMassenhoven,Colorado Avalanche,Columbus Blue Jackets
+2009020528,Edmonton Oilers,2,Washington Capitals,4,Chris Rooney,Dennis LaRue,Washington Capitals,Edmonton Oilers
+2009020529,Chicago Blackhawks,3,Detroit Red Wings,0,Paul Devorski,Kyle Rehman,Chicago Blackhawks,Detroit Red Wings
+2009020530,Vancouver Canucks,1,St. Louis Blues,3,Mike Leggo,Steve Kozari,St. Louis Blues,Vancouver Canucks
+2009020531,Toronto Maple Leafs,2,Buffalo Sabres,3,Dan Marouelli,Ian Walsh,Buffalo Sabres,Toronto Maple Leafs
+2009020532,New York Islanders,2,Tampa Bay Lightning,4,Dan O'Halloran,Ghislain Hebert,Tampa Bay Lightning,New York Islanders
+2009020533,Philadelphia Flyers,1,Florida Panthers,4,Kerry Fraser,Brian Pochmara,Florida Panthers,Philadelphia Flyers
+2009020534,Carolina Hurricanes,1,New York Rangers,3,Frederick L'Ecuyer,Tim Peel,New York Rangers,Carolina Hurricanes
+2009020535,Atlanta Thrashers,3,Montréal Canadiens,4,Dan O'Rourke,Kevin Pollock,Montréal Canadiens,Atlanta Thrashers
+2009020536,Ottawa Senators,0,Boston Bruins,2,Justin StPierre,Marc Joannette,Boston Bruins,Ottawa Senators
+2009020537,Pittsburgh Penguins,0,New Jersey Devils,4,Bill McCreary,Greg Kimmerly,New Jersey Devils,Pittsburgh Penguins
+2009020538,Minnesota Wild,3,Colorado Avalanche,4,Wes McCauley,Stephen Walkom,Colorado Avalanche,Minnesota Wild
+2009020539,Dallas Stars,2,San Jose Sharks,4,Stephane Auger,Brad Watson,San Jose Sharks,Dallas Stars
+2009020540,Edmonton Oilers,2,St. Louis Blues,7,Dennis LaRue,Brad Meier,St. Louis Blues,Edmonton Oilers
+2009020541,Phoenix Coyotes,5,Columbus Blue Jackets,2,Chris Lee,Tom Kowal,Phoenix Coyotes,Columbus Blue Jackets
+2009020542,Chicago Blackhawks,2,San Jose Sharks,3,Eric Furlatt,Steve Kozari,San Jose Sharks,Chicago Blackhawks
+2009020543,Colorado Avalanche,2,Anaheim Ducks,4,Mike Leggo,Rob Martell,Anaheim Ducks,Colorado Avalanche
+2009020544,Vancouver Canucks,4,Nashville Predators,1,Kelly Sutherland,Dennis LaRue,Vancouver Canucks,Nashville Predators
+2009020545,Boston Bruins,6,Atlanta Thrashers,4,Chris Rooney,Stephane Auger,Boston Bruins,Atlanta Thrashers
+2009020546,New York Islanders,3,Toronto Maple Leafs,1,Kerry Fraser,Dean Morton,New York Islanders,Toronto Maple Leafs
+2009020547,New York Rangers,4,Florida Panthers,1,Dan Marouelli,Ghislain Hebert,New York Rangers,Florida Panthers
+2009020548,Pittsburgh Penguins,8,Ottawa Senators,2,Stephen Walkom,Chris Ciamaga,Pittsburgh Penguins,Ottawa Senators
+2009020549,Washington Capitals,5,Buffalo Sabres,2,Paul Devorski,Francois StLaurent,Washington Capitals,Buffalo Sabres
+2009020550,Carolina Hurricanes,1,Montréal Canadiens,5,Greg Kimmerly,Kevin Pollock,Montréal Canadiens,Carolina Hurricanes
+2009020551,Minnesota Wild,3,Edmonton Oilers,1,Brad Watson,Chris Lee,Minnesota Wild,Edmonton Oilers
+2009020552,Tampa Bay Lightning,2,Philadelphia Flyers,5,Frederick L'Ecuyer,Tim Peel,Philadelphia Flyers,Tampa Bay Lightning
+2009020553,Detroit Red Wings,0,Chicago Blackhawks,3,Brian Pochmara,Don VanMassenhoven,Chicago Blackhawks,Detroit Red Wings
+2009020554,Dallas Stars,3,Columbus Blue Jackets,1,Gord Dwyer,Tom Kowal,Dallas Stars,Columbus Blue Jackets
+2009020555,Phoenix Coyotes,4,Anaheim Ducks,0,Mike Leggo,Rob Martell,Phoenix Coyotes,Anaheim Ducks
+2009020556,Calgary Flames,1,St. Louis Blues,1,Brad Meier,Kyle Rehman,Calgary Flames,St. Louis Blues
+2009020557,Buffalo Sabres,2,Ottawa Senators,2,Greg Kimmerly,Don VanMassenhoven,Buffalo Sabres,Ottawa Senators
+2009020558,Toronto Maple Leafs,2,Montréal Canadiens,3,Justin StPierre,Marc Joannette,Montréal Canadiens,Toronto Maple Leafs
+2009020559,New York Rangers,2,New York Islanders,3,Stephen Walkom,Dean Morton,New York Islanders,New York Rangers
+2009020560,Washington Capitals,4,New Jersey Devils,1,Chris Ciamaga,Eric Furlatt,Washington Capitals,New Jersey Devils
+2009020561,Carolina Hurricanes,3,Philadelphia Flyers,3,Wes McCauley,Chris Rooney,Carolina Hurricanes,Philadelphia Flyers
+2009020562,Detroit Red Wings,2,Columbus Blue Jackets,1,Dan O'Halloran,Kevin Pollock,Detroit Red Wings,Columbus Blue Jackets
+2009020563,Tampa Bay Lightning,4,Atlanta Thrashers,3,Dan O'Rourke,Rob Martell,Tampa Bay Lightning,Atlanta Thrashers
+2009020564,Nashville Predators,1,Chicago Blackhawks,4,Brian Pochmara,Ian Walsh,Chicago Blackhawks,Nashville Predators
+2009020565,Minnesota Wild,4,St. Louis Blues,3,Gord Dwyer,Chris Lee,Minnesota Wild,St. Louis Blues
+2009020566,Phoenix Coyotes,3,Los Angeles Kings,2,Dennis LaRue,Kyle Rehman,Phoenix Coyotes,Los Angeles Kings
+2009020567,Colorado Avalanche,4,Dallas Stars,1,Brad Watson,Steve Kozari,Colorado Avalanche,Dallas Stars
+2009020568,Vancouver Canucks,4,Edmonton Oilers,1,Kelly Sutherland,Brad Meier,Vancouver Canucks,Edmonton Oilers
+2009020569,San Jose Sharks,5,Anaheim Ducks,2,Mike Leggo,David Banfield,San Jose Sharks,Anaheim Ducks
+2009020570,New York Islanders,1,Philadelphia Flyers,2,Dan Marouelli,Francois StLaurent,Philadelphia Flyers,New York Islanders
+2009020571,Florida Panthers,1,Boston Bruins,2,Dan O'Rourke,Rob Martell,Boston Bruins,Florida Panthers
+2009020572,St. Louis Blues,3,Buffalo Sabres,5,Tim Peel,Dean Morton,Buffalo Sabres,St. Louis Blues
+2009020573,Pittsburgh Penguins,3,Toronto Maple Leafs,4,Paul Devorski,Stephane Auger,Toronto Maple Leafs,Pittsburgh Penguins
+2009020574,Chicago Blackhawks,5,Nashville Predators,4,Chris Ciamaga,Marc Joannette,Chicago Blackhawks,Nashville Predators
+2009020575,Calgary Flames,1,Vancouver Canucks,5,Kelly Sutherland,Tom Kowal,Vancouver Canucks,Calgary Flames
+2009020576,New Jersey Devils,3,Atlanta Thrashers,2,Stephen Walkom,Francois StLaurent,New Jersey Devils,Atlanta Thrashers
+2009020577,Washington Capitals,3,Carolina Hurricanes,6,Dan Marouelli,Stephane Auger,Carolina Hurricanes,Washington Capitals
+2009020578,Columbus Blue Jackets,1,Detroit Red Wings,0,Chris Rooney,Justin StPierre,Columbus Blue Jackets,Detroit Red Wings
+2009020579,Ottawa Senators,4,Montréal Canadiens,2,Kerry Fraser,Bill McCreary,Ottawa Senators,Montréal Canadiens
+2009020580,Tampa Bay Lightning,2,Boston Bruins,1,Wes McCauley,Don VanMassenhoven,Tampa Bay Lightning,Boston Bruins
+2009020581,Edmonton Oilers,1,Calgary Flames,4,Mike Leggo,Gord Dwyer,Calgary Flames,Edmonton Oilers
+2009020582,Los Angeles Kings,3,Minnesota Wild,4,Dennis LaRue,Brad Meier,Minnesota Wild,Los Angeles Kings
+2009020583,San Jose Sharks,2,Phoenix Coyotes,2,Greg Kimmerly,Brad Watson,San Jose Sharks,Phoenix Coyotes
+2009020584,Buffalo Sabres,4,Pittsburgh Penguins,3,Brian Pochmara,Tim Peel,Buffalo Sabres,Pittsburgh Penguins
+2009020585,New York Islanders,1,Columbus Blue Jackets,1,Paul Devorski,Ian Walsh,New York Islanders,Columbus Blue Jackets
+2009020586,St. Louis Blues,3,Nashville Predators,4,Eric Furlatt,Chris Lee,Nashville Predators,St. Louis Blues
+2009020587,Dallas Stars,5,Chicago Blackhawks,4,Marc Joannette,Dean Morton,Dallas Stars,Chicago Blackhawks
+2009020588,Phoenix Coyotes,2,Vancouver Canucks,2,Greg Kimmerly,Brad Watson,Phoenix Coyotes,Vancouver Canucks
+2009020589,Anaheim Ducks,4,Minnesota Wild,2,Dennis LaRue,Tom Kowal,Anaheim Ducks,Minnesota Wild
+2009020590,Boston Bruins,4,Atlanta Thrashers,0,Kerry Fraser,Justin StPierre,Boston Bruins,Atlanta Thrashers
+2009020591,New Jersey Devils,2,Pittsburgh Penguins,0,Chris Rooney,Dan Marouelli,New Jersey Devils,Pittsburgh Penguins
+2009020592,New York Rangers,0,Philadelphia Flyers,6,Paul Devorski,Stephane Auger,Philadelphia Flyers,New York Rangers
+2009020593,Tampa Bay Lightning,1,Montréal Canadiens,2,Wes McCauley,Don VanMassenhoven,Montréal Canadiens,Tampa Bay Lightning
+2009020594,Ottawa Senators,3,Colorado Avalanche,4,Ian Walsh,Steve Kozari,Colorado Avalanche,Ottawa Senators
+2009020595,Calgary Flames,2,Los Angeles Kings,1,Mike Leggo,Gord Dwyer,Calgary Flames,Los Angeles Kings
+2009020596,Edmonton Oilers,3,Toronto Maple Leafs,1,Dan O'Rourke,Kevin Pollock,Edmonton Oilers,Toronto Maple Leafs
+2009020597,San Jose Sharks,5,Washington Capitals,2,Dennis LaRue,Brad Meier,San Jose Sharks,Washington Capitals
+2009020598,Florida Panthers,4,Montréal Canadiens,5,Wes McCauley,Chris Lee,Montréal Canadiens,Florida Panthers
+2009020599,Ottawa Senators,2,New York Islanders,2,Ian Walsh,Steve Kozari,Ottawa Senators,New York Islanders
+2009020600,Detroit Red Wings,4,Colorado Avalanche,2,Kelly Sutherland,Stephane Auger,Detroit Red Wings,Colorado Avalanche
+2009020601,Columbus Blue Jackets,1,Nashville Predators,2,Dan Marouelli,Tim Peel,Nashville Predators,Columbus Blue Jackets
+2009020602,Phoenix Coyotes,2,San Jose Sharks,2,Brad Meier,Dean Morton,Phoenix Coyotes,San Jose Sharks
+2009020603,Carolina Hurricanes,1,New York Rangers,2,Dan O'Halloran,Rob Martell,New York Rangers,Carolina Hurricanes
+2009020604,St. Louis Blues,3,Vancouver Canucks,4,Brian Pochmara,Tom Kowal,Vancouver Canucks,St. Louis Blues
+2009020605,Minnesota Wild,2,Los Angeles Kings,5,Eric Furlatt,Francois StLaurent,Los Angeles Kings,Minnesota Wild
+2009020606,Dallas Stars,5,Anaheim Ducks,3,Greg Kimmerly,Marc Joannette,Dallas Stars,Anaheim Ducks
+2009020607,Chicago Blackhawks,5,New Jersey Devils,1,Justin StPierre,Brad Watson,Chicago Blackhawks,New Jersey Devils
+2009020608,Calgary Flames,2,Edmonton Oilers,1,Dan O'Rourke,Kevin Pollock,Calgary Flames,Edmonton Oilers
+2009020609,Boston Bruins,2,Philadelphia Flyers,1,Kerry Fraser,Chris Rooney,Boston Bruins,Philadelphia Flyers
+2009020610,Buffalo Sabres,4,Atlanta Thrashers,3,Paul Devorski,Frederick L'Ecuyer,Buffalo Sabres,Atlanta Thrashers
+2009020611,New York Rangers,1,Carolina Hurricanes,2,Ian Walsh,Tom Kowal,Carolina Hurricanes,New York Rangers
+2009020612,Dallas Stars,1,Vancouver Canucks,3,Wes McCauley,Gord Dwyer,Vancouver Canucks,Dallas Stars
+2009020613,Tampa Bay Lightning,3,Pittsburgh Penguins,1,Dan O'Halloran,Chris Lee,Tampa Bay Lightning,Pittsburgh Penguins
+2009020614,Los Angeles Kings,2,Washington Capitals,1,Mike Leggo,Justin StPierre,Los Angeles Kings,Washington Capitals
+2009020615,New York Islanders,5,Atlanta Thrashers,5,Don VanMassenhoven,Steve Kozari,New York Islanders,Atlanta Thrashers
+2009020616,Columbus Blue Jackets,2,Colorado Avalanche,3,Kelly Sutherland,Rob Martell,Colorado Avalanche,Columbus Blue Jackets
+2009020617,Calgary Flames,3,Toronto Maple Leafs,1,Dan O'Rourke,Kevin Pollock,Calgary Flames,Toronto Maple Leafs
+2009020618,St. Louis Blues,3,Chicago Blackhawks,6,Dan Marouelli,David Banfield,Chicago Blackhawks,St. Louis Blues
+2009020619,Nashville Predators,3,Anaheim Ducks,1,Greg Kimmerly,Stephen Walkom,Nashville Predators,Anaheim Ducks
+2009020620,Minnesota Wild,3,New Jersey Devils,5,Brian Pochmara,Brad Meier,New Jersey Devils,Minnesota Wild
+2009020621,Phoenix Coyotes,1,Detroit Red Wings,4,Eric Furlatt,Francois StLaurent,Detroit Red Wings,Phoenix Coyotes
+2009020622,San Jose Sharks,4,Edmonton Oilers,1,Marc Joannette,Dean Morton,San Jose Sharks,Edmonton Oilers
+2009020623,Montréal Canadiens,0,Buffalo Sabres,1,Stephane Auger,Tom Kowal,Buffalo Sabres,Montréal Canadiens
+2009020624,Ottawa Senators,7,Philadelphia Flyers,4,Bill McCreary,Frederick L'Ecuyer,Ottawa Senators,Philadelphia Flyers
+2009020625,Florida Panthers,6,Pittsburgh Penguins,2,Dan O'Halloran,Chris Lee,Florida Panthers,Pittsburgh Penguins
+2009020626,Chicago Blackhawks,5,Anaheim Ducks,2,Dennis LaRue,Rob Martell,Chicago Blackhawks,Anaheim Ducks
+2009020627,New York Rangers,3,Boston Bruins,2,Mike Leggo,Tim Peel,New York Rangers,Boston Bruins
+2009020628,San Jose Sharks,2,Los Angeles Kings,6,Dan O'Rourke,Francois StLaurent,Los Angeles Kings,San Jose Sharks
+2009020629,Toronto Maple Leafs,3,Florida Panthers,2,Wes McCauley,Dan Marouelli,Toronto Maple Leafs,Florida Panthers
+2009020630,New Jersey Devils,4,Dallas Stars,0,Kerry Fraser,Stephane Auger,New Jersey Devils,Dallas Stars
+2009020631,Washington Capitals,4,Montréal Canadiens,2,Gord Dwyer,Tim Peel,Washington Capitals,Montréal Canadiens
+2009020632,Ottawa Senators,1,Boston Bruins,4,Don VanMassenhoven,Tom Kowal,Boston Bruins,Ottawa Senators
+2009020633,Pittsburgh Penguins,5,Atlanta Thrashers,2,Mike Leggo,Justin StPierre,Pittsburgh Penguins,Atlanta Thrashers
+2009020634,Nashville Predators,1,Calgary Flames,3,Dan O'Halloran,Rob Martell,Calgary Flames,Nashville Predators
+2009020635,Chicago Blackhawks,4,Minnesota Wild,1,Chris Rooney,Chris Lee,Chicago Blackhawks,Minnesota Wild
+2009020636,Edmonton Oilers,4,Phoenix Coyotes,5,Stephen Walkom,Ian Walsh,Phoenix Coyotes,Edmonton Oilers
+2009020637,Vancouver Canucks,7,Columbus Blue Jackets,3,Bill McCreary,Brian Pochmara,Vancouver Canucks,Columbus Blue Jackets
+2009020638,Anaheim Ducks,4,Detroit Red Wings,1,Brad Watson,Francois StLaurent,Anaheim Ducks,Detroit Red Wings
+2009020639,Buffalo Sabres,5,Tampa Bay Lightning,3,Wes McCauley,Steve Kozari,Buffalo Sabres,Tampa Bay Lightning
+2009020640,New York Rangers,5,Dallas Stars,2,Greg Kimmerly,Kevin Pollock,New York Rangers,Dallas Stars
+2009020641,Philadelphia Flyers,6,Toronto Maple Leafs,2,Gord Dwyer,Brad Meier,Philadelphia Flyers,Toronto Maple Leafs
+2009020642,Minnesota Wild,4,Calgary Flames,1,Chris Rooney,Dan O'Halloran,Minnesota Wild,Calgary Flames
+2009020643,Colorado Avalanche,2,New York Islanders,3,Dennis LaRue,Dean Morton,New York Islanders,Colorado Avalanche
+2009020644,San Jose Sharks,2,St. Louis Blues,1,Dan O'Rourke,Paul Devorski,San Jose Sharks,St. Louis Blues
+2009020645,Boston Bruins,2,Chicago Blackhawks,5,Stephane Auger,Kevin Pollock,Chicago Blackhawks,Boston Bruins
+2009020646,Washington Capitals,5,Ottawa Senators,2,Mike Leggo,Greg Kimmerly,Washington Capitals,Ottawa Senators
+2009020647,Atlanta Thrashers,1,New York Rangers,1,Wes McCauley,Gord Dwyer,Atlanta Thrashers,New York Rangers
+2009020648,Montréal Canadiens,2,Florida Panthers,0,Dan Marouelli,Brad Meier,Montréal Canadiens,Florida Panthers
+2009020649,Pittsburgh Penguins,4,Philadelphia Flyers,7,Don VanMassenhoven,Steve Kozari,Philadelphia Flyers,Pittsburgh Penguins
+2009020650,Nashville Predators,4,Carolina Hurricanes,2,Marc Joannette,Chris Lee,Nashville Predators,Carolina Hurricanes
+2009020651,Edmonton Oilers,2,Columbus Blue Jackets,4,Bill McCreary,Brian Pochmara,Columbus Blue Jackets,Edmonton Oilers
+2009020652,Vancouver Canucks,4,Phoenix Coyotes,0,Stephen Walkom,Ian Walsh,Vancouver Canucks,Phoenix Coyotes
+2009020653,Anaheim Ducks,4,St. Louis Blues,2,Kerry Fraser,Dan O'Rourke,Anaheim Ducks,St. Louis Blues
+2009020654,Los Angeles Kings,1,Detroit Red Wings,2,Paul Devorski,Brad Watson,Detroit Red Wings,Los Angeles Kings
+2009020655,New Jersey Devils,2,Tampa Bay Lightning,4,Tim Peel,Steve Kozari,Tampa Bay Lightning,New Jersey Devils
+2009020656,Carolina Hurricanes,2,Colorado Avalanche,1,Eric Furlatt,Dean Morton,Carolina Hurricanes,Colorado Avalanche
+2009020657,Buffalo Sabres,3,Toronto Maple Leafs,2,Justin StPierre,Marc Joannette,Buffalo Sabres,Toronto Maple Leafs
+2009020658,Dallas Stars,4,New York Islanders,3,Kelly Sutherland,Dennis LaRue,Dallas Stars,New York Islanders
+2009020659,Calgary Flames,2,Columbus Blue Jackets,3,Chris Rooney,Ian Walsh,Columbus Blue Jackets,Calgary Flames
+2009020660,Boston Bruins,1,New York Rangers,3,Dan Marouelli,Greg Kimmerly,New York Rangers,Boston Bruins
+2009020661,Buffalo Sabres,3,Colorado Avalanche,3,Ghislain Hebert,Kevin Pollock,Buffalo Sabres,Colorado Avalanche
+2009020662,Toronto Maple Leafs,1,Pittsburgh Penguins,4,Don VanMassenhoven,Marc Joannette,Pittsburgh Penguins,Toronto Maple Leafs
+2009020663,Montréal Canadiens,1,New Jersey Devils,2,Mike Leggo,Stephane Auger,New Jersey Devils,Montréal Canadiens
+2009020664,Ottawa Senators,0,Florida Panthers,3,Brad Meier,Francois StLaurent,Florida Panthers,Ottawa Senators
+2009020665,Philadelphia Flyers,4,Tampa Bay Lightning,1,Justin StPierre,Tim Peel,Philadelphia Flyers,Tampa Bay Lightning
+2009020666,Atlanta Thrashers,1,Washington Capitals,8,Rob Martell,Eric Furlatt,Washington Capitals,Atlanta Thrashers
+2009020667,Nashville Predators,2,Anaheim Ducks,3,Dennis LaRue,Dean Morton,Anaheim Ducks,Nashville Predators
+2009020668,Minnesota Wild,5,Chicago Blackhawks,5,Gord Dwyer,Tom Kowal,Minnesota Wild,Chicago Blackhawks
+2009020669,Phoenix Coyotes,4,New York Islanders,4,Paul Devorski,Brian Pochmara,Phoenix Coyotes,New York Islanders
+2009020670,Vancouver Canucks,2,Calgary Flames,2,Bill McCreary,Stephen Walkom,Vancouver Canucks,Calgary Flames
+2009020671,Los Angeles Kings,3,St. Louis Blues,4,Kelly Sutherland,Brad Watson,St. Louis Blues,Los Angeles Kings
+2009020672,San Jose Sharks,1,Detroit Red Wings,4,Kerry Fraser,Wes McCauley,Detroit Red Wings,San Jose Sharks
+2009020673,Carolina Hurricanes,4,Ottawa Senators,1,Dan O'Halloran,Rob Martell,Carolina Hurricanes,Ottawa Senators
+2009020674,Columbus Blue Jackets,2,Dallas Stars,0,Dan Marouelli,Dean Morton,Columbus Blue Jackets,Dallas Stars
+2009020675,Chicago Blackhawks,1,Anaheim Ducks,3,Justin StPierre,Brad Meier,Anaheim Ducks,Chicago Blackhawks
+2009020676,Minnesota Wild,4,Pittsburgh Penguins,3,Brian Pochmara,Eric Furlatt,Minnesota Wild,Pittsburgh Penguins
+2009020677,Calgary Flames,2,Colorado Avalanche,2,Bill McCreary,Chris Lee,Calgary Flames,Colorado Avalanche
+2009020678,Vancouver Canucks,2,Nashville Predators,3,Dennis LaRue,Stephane Auger,Nashville Predators,Vancouver Canucks
+2009020679,Los Angeles Kings,1,San Jose Sharks,2,Wes McCauley,Kelly Sutherland,San Jose Sharks,Los Angeles Kings
+2009020680,Toronto Maple Leafs,2,Carolina Hurricanes,4,Dan O'Halloran,Ian Walsh,Carolina Hurricanes,Toronto Maple Leafs
+2009020681,New York Islanders,6,Detroit Red Wings,0,Ghislain Hebert,Brad Meier,New York Islanders,Detroit Red Wings
+2009020682,New York Rangers,0,New Jersey Devils,0,Dan Marouelli,Justin StPierre,New York Rangers,New Jersey Devils
+2009020683,Philadelphia Flyers,6,Dallas Stars,3,Don VanMassenhoven,Stephen Walkom,Philadelphia Flyers,Dallas Stars
+2009020684,Atlanta Thrashers,6,Ottawa Senators,1,Tim Peel,Dean Morton,Atlanta Thrashers,Ottawa Senators
+2009020685,Tampa Bay Lightning,7,Washington Capitals,4,Marc Joannette,Francois StLaurent,Tampa Bay Lightning,Washington Capitals
+2009020686,St. Louis Blues,4,Columbus Blue Jackets,1,Eric Furlatt,Steve Kozari,St. Louis Blues,Columbus Blue Jackets
+2009020687,Edmonton Oilers,3,Nashville Predators,5,Bill McCreary,Tom Kowal,Nashville Predators,Edmonton Oilers
+2009020688,Phoenix Coyotes,1,San Jose Sharks,3,Kelly Sutherland,Frederick L'Ecuyer,San Jose Sharks,Phoenix Coyotes
+2009020689,Minnesota Wild,5,Vancouver Canucks,2,Kevin Pollock,David Banfield,Minnesota Wild,Vancouver Canucks
+2009020690,Florida Panthers,4,Washington Capitals,4,Greg Kimmerly,Marc Joannette,Florida Panthers,Washington Capitals
+2009020691,Calgary Flames,1,Pittsburgh Penguins,3,Stephane Auger,Brad Watson,Pittsburgh Penguins,Calgary Flames
+2009020692,Anaheim Ducks,4,Boston Bruins,3,Mike Leggo,Wes McCauley,Anaheim Ducks,Boston Bruins
+2009020693,Toronto Maple Leafs,4,Philadelphia Flyers,0,Bill McCreary,Dean Morton,Toronto Maple Leafs,Philadelphia Flyers
+2009020694,New York Rangers,0,Ottawa Senators,2,Dan O'Halloran,Eric Furlatt,Ottawa Senators,New York Rangers
+2009020695,Atlanta Thrashers,1,Buffalo Sabres,2,Dan O'Rourke,Tom Kowal,Buffalo Sabres,Atlanta Thrashers
+2009020696,Montréal Canadiens,5,Dallas Stars,3,Paul Devorski,Chris Ciamaga,Montréal Canadiens,Dallas Stars
+2009020697,Tampa Bay Lightning,2,Florida Panthers,3,Greg Kimmerly,Marc Joannette,Florida Panthers,Tampa Bay Lightning
+2009020698,Detroit Red Wings,3,Carolina Hurricanes,1,Kerry Fraser,Gord Dwyer,Detroit Red Wings,Carolina Hurricanes
+2009020699,St. Louis Blues,1,Minnesota Wild,0,Ian Walsh,Kevin Pollock,St. Louis Blues,Minnesota Wild
+2009020700,Chicago Blackhawks,3,Columbus Blue Jackets,0,Frederick L'Ecuyer,Stephen Walkom,Chicago Blackhawks,Columbus Blue Jackets
+2009020701,Phoenix Coyotes,4,New Jersey Devils,3,Dennis LaRue,Francois StLaurent,Phoenix Coyotes,New Jersey Devils
+2009020702,Edmonton Oilers,2,Pittsburgh Penguins,3,Stephane Auger,Brad Watson,Pittsburgh Penguins,Edmonton Oilers
+2009020703,Los Angeles Kings,4,Anaheim Ducks,0,Don VanMassenhoven,Rob Martell,Los Angeles Kings,Anaheim Ducks
+2009020704,San Jose Sharks,1,Boston Bruins,1,Mike Leggo,Brian Pochmara,San Jose Sharks,Boston Bruins
+2009020705,Washington Capitals,6,Toronto Maple Leafs,1,Chris Rooney,Dan O'Halloran,Washington Capitals,Toronto Maple Leafs
+2009020706,Calgary Flames,0,Nashville Predators,1,Stephane Auger,Brad Meier,Nashville Predators,Calgary Flames
+2009020707,Columbus Blue Jackets,5,Chicago Blackhawks,6,Dan O'Rourke,Greg Kimmerly,Chicago Blackhawks,Columbus Blue Jackets
+2009020708,Dallas Stars,2,Detroit Red Wings,2,Mike Leggo,Rob Martell,Dallas Stars,Detroit Red Wings
+2009020709,Colorado Avalanche,3,New Jersey Devils,1,Brad Watson,Kyle Rehman,Colorado Avalanche,New Jersey Devils
+2009020710,Los Angeles Kings,3,Boston Bruins,3,Kerry Fraser,Brian Pochmara,Los Angeles Kings,Boston Bruins
+2009020711,San Jose Sharks,4,Edmonton Oilers,2,Dennis LaRue,Tim Peel,San Jose Sharks,Edmonton Oilers
+2009020712,Montréal Canadiens,2,Ottawa Senators,4,Gord Dwyer,Eric Furlatt,Ottawa Senators,Montréal Canadiens
+2009020713,New York Islanders,2,Buffalo Sabres,2,Chris Lee,Ian Walsh,New York Islanders,Buffalo Sabres
+2009020714,Florida Panthers,5,Tampa Bay Lightning,2,Justin StPierre,Kevin Pollock,Florida Panthers,Tampa Bay Lightning
+2009020715,Carolina Hurricanes,3,Atlanta Thrashers,5,Chris Rooney,Tom Kowal,Atlanta Thrashers,Carolina Hurricanes
+2009020716,St. Louis Blues,4,New York Rangers,1,Marc Joannette,Steve Kozari,St. Louis Blues,New York Rangers
+2009020717,Phoenix Coyotes,6,Minnesota Wild,4,Paul Devorski,Don VanMassenhoven,Phoenix Coyotes,Minnesota Wild
+2009020718,Vancouver Canucks,6,Pittsburgh Penguins,2,Brad Meier,Francois StLaurent,Vancouver Canucks,Pittsburgh Penguins
+2009020719,Washington Capitals,5,Philadelphia Flyers,3,Dan Marouelli,Kelly Sutherland,Washington Capitals,Philadelphia Flyers
+2009020720,Detroit Red Wings,3,Chicago Blackhawks,3,Bill McCreary,Greg Kimmerly,Detroit Red Wings,Chicago Blackhawks
+2009020721,New York Rangers,6,Montréal Canadiens,2,Chris Lee,Tom Kowal,New York Rangers,Montréal Canadiens
+2009020722,Anaheim Ducks,5,Calgary Flames,4,Tim Peel,Don VanMassenhoven,Anaheim Ducks,Calgary Flames
+2009020723,Boston Bruins,1,Ottawa Senators,5,Wes McCauley,Dan O'Rourke,Ottawa Senators,Boston Bruins
+2009020724,New York Islanders,4,New Jersey Devils,0,Dan Marouelli,Gord Dwyer,New York Islanders,New Jersey Devils
+2009020725,Carolina Hurricanes,2,Tampa Bay Lightning,3,Brad Watson,David Banfield,Tampa Bay Lightning,Carolina Hurricanes
+2009020726,Columbus Blue Jackets,4,St. Louis Blues,2,Bill McCreary,Marc Joannette,Columbus Blue Jackets,St. Louis Blues
+2009020727,Phoenix Coyotes,2,Buffalo Sabres,7,Chris Rooney,Dan O'Halloran,Buffalo Sabres,Phoenix Coyotes
+2009020728,Florida Panthers,1,Atlanta Thrashers,0,Ian Walsh,Steve Kozari,Florida Panthers,Atlanta Thrashers
+2009020729,Nashville Predators,3,Toronto Maple Leafs,4,Justin StPierre,Stephen Walkom,Toronto Maple Leafs,Nashville Predators
+2009020730,Dallas Stars,4,Minnesota Wild,3,Kerry Fraser,Brian Pochmara,Dallas Stars,Minnesota Wild
+2009020731,Colorado Avalanche,6,Edmonton Oilers,0,Paul Devorski,Rob Martell,Colorado Avalanche,Edmonton Oilers
+2009020732,San Jose Sharks,9,Calgary Flames,1,Don VanMassenhoven,Kyle Rehman,San Jose Sharks,Calgary Flames
+2009020733,New York Rangers,8,Tampa Bay Lightning,2,Brad Watson,Chris Lee,New York Rangers,Tampa Bay Lightning
+2009020734,Philadelphia Flyers,5,Columbus Blue Jackets,3,Marc Joannette,Tom Kowal,Philadelphia Flyers,Columbus Blue Jackets
+2009020735,Washington Capitals,3,Detroit Red Wings,2,Dan O'Rourke,Dean Morton,Washington Capitals,Detroit Red Wings
+2009020736,Atlanta Thrashers,4,Toronto Maple Leafs,3,Kelly Sutherland,Stephen Walkom,Atlanta Thrashers,Toronto Maple Leafs
+2009020737,Ottawa Senators,4,Chicago Blackhawks,1,Stephane Auger,Kevin Pollock,Ottawa Senators,Chicago Blackhawks
+2009020738,Pittsburgh Penguins,6,New York Islanders,4,Dan Marouelli,Justin StPierre,Pittsburgh Penguins,New York Islanders
+2009020739,Anaheim Ducks,5,Buffalo Sabres,4,Chris Rooney,Dan O'Halloran,Anaheim Ducks,Buffalo Sabres
+2009020740,Los Angeles Kings,1,San Jose Sharks,5,Tim Peel,Rob Martell,San Jose Sharks,Los Angeles Kings
+2009020741,New Jersey Devils,2,Florida Panthers,0,Gord Dwyer,Ian Walsh,New Jersey Devils,Florida Panthers
+2009020742,Montréal Canadiens,3,St. Louis Blues,4,Bill McCreary,Francois StLaurent,St. Louis Blues,Montréal Canadiens
+2009020743,Edmonton Oilers,2,Vancouver Canucks,3,Eric Furlatt,Kyle Rehman,Vancouver Canucks,Edmonton Oilers
+2009020744,Boston Bruins,2,Columbus Blue Jackets,3,Tom Kowal,Dean Morton,Columbus Blue Jackets,Boston Bruins
+2009020745,Ottawa Senators,3,St. Louis Blues,2,Brad Watson,Chris Ciamaga,Ottawa Senators,St. Louis Blues
+2009020746,New York Islanders,1,Florida Panthers,1,Kerry Fraser,David Banfield,New York Islanders,Florida Panthers
+2009020747,Philadelphia Flyers,2,New York Rangers,0,Paul Devorski,Gord Dwyer,Philadelphia Flyers,New York Rangers
+2009020748,Atlanta Thrashers,2,Carolina Hurricanes,5,Brian Pochmara,Stephen Walkom,Carolina Hurricanes,Atlanta Thrashers
+2009020749,Tampa Bay Lightning,3,Toronto Maple Leafs,2,Stephane Auger,Chris Lee,Tampa Bay Lightning,Toronto Maple Leafs
+2009020750,Pittsburgh Penguins,3,Washington Capitals,6,Dan O'Rourke,Kevin Pollock,Washington Capitals,Pittsburgh Penguins
+2009020751,Minnesota Wild,3,Detroit Red Wings,3,Mike Leggo,Greg Kimmerly,Minnesota Wild,Detroit Red Wings
+2009020752,Phoenix Coyotes,4,Nashville Predators,2,Chris Rooney,Dan Marouelli,Phoenix Coyotes,Nashville Predators
+2009020753,Calgary Flames,1,Chicago Blackhawks,3,Wes McCauley,Eric Furlatt,Chicago Blackhawks,Calgary Flames
+2009020754,Vancouver Canucks,4,Dallas Stars,3,Dennis LaRue,Rob Martell,Vancouver Canucks,Dallas Stars
+2009020755,Los Angeles Kings,3,Buffalo Sabres,3,Tim Peel,Brad Meier,Los Angeles Kings,Buffalo Sabres
+2009020756,San Jose Sharks,3,Anaheim Ducks,1,Dan O'Halloran,Steve Kozari,San Jose Sharks,Anaheim Ducks
+2009020757,New Jersey Devils,1,Montréal Canadiens,3,Brad Watson,Dean Morton,Montréal Canadiens,New Jersey Devils
+2009020758,Colorado Avalanche,2,Nashville Predators,1,Chris Rooney,Francois StLaurent,Colorado Avalanche,Nashville Predators
+2009020759,Edmonton Oilers,3,Dallas Stars,4,Wes McCauley,Justin StPierre,Dallas Stars,Edmonton Oilers
+2009020760,Boston Bruins,1,Ottawa Senators,2,Kelly Sutherland,Marc Joannette,Ottawa Senators,Boston Bruins
+2009020761,Philadelphia Flyers,4,Carolina Hurricanes,2,Ian Walsh,Kevin Pollock,Philadelphia Flyers,Carolina Hurricanes
+2009020762,Montréal Canadiens,6,New York Rangers,0,Don VanMassenhoven,Dean Morton,Montréal Canadiens,New York Rangers
+2009020763,New York Islanders,2,New Jersey Devils,4,Dan O'Rourke,Tom Kowal,New Jersey Devils,New York Islanders
+2009020764,Washington Capitals,4,Phoenix Coyotes,2,Bill McCreary,Chris Ciamaga,Washington Capitals,Phoenix Coyotes
+2009020765,Florida Panthers,2,Toronto Maple Leafs,0,Paul Devorski,Brian Pochmara,Florida Panthers,Toronto Maple Leafs
+2009020766,Detroit Red Wings,2,Los Angeles Kings,3,Dan O'Halloran,Chris Lee,Los Angeles Kings,Detroit Red Wings
+2009020767,Tampa Bay Lightning,1,Atlanta Thrashers,1,Stephane Auger,Brad Meier,Tampa Bay Lightning,Atlanta Thrashers
+2009020768,St. Louis Blues,3,Anaheim Ducks,3,Dennis LaRue,Greg Kimmerly,St. Louis Blues,Anaheim Ducks
+2009020769,Minnesota Wild,4,Columbus Blue Jackets,2,Mike Leggo,Tim Peel,Minnesota Wild,Columbus Blue Jackets
+2009020770,Vancouver Canucks,5,Chicago Blackhawks,1,Wes McCauley,Eric Furlatt,Vancouver Canucks,Chicago Blackhawks
+2009020771,San Jose Sharks,5,Buffalo Sabres,2,Dan Marouelli,Steve Kozari,San Jose Sharks,Buffalo Sabres
+2009020772,Philadelphia Flyers,1,Pittsburgh Penguins,2,Kevin Pollock,Francois StLaurent,Pittsburgh Penguins,Philadelphia Flyers
+2009020773,Carolina Hurricanes,5,Boston Bruins,1,Dan O'Rourke,Chris Ciamaga,Carolina Hurricanes,Boston Bruins
+2009020774,Colorado Avalanche,4,Dallas Stars,0,Justin StPierre,Brad Watson,Colorado Avalanche,Dallas Stars
+2009020775,New York Rangers,2,Pittsburgh Penguins,4,Dennis LaRue,Brad Meier,Pittsburgh Penguins,New York Rangers
+2009020776,Calgary Flames,0,St. Louis Blues,2,Eric Furlatt,Tom Kowal,St. Louis Blues,Calgary Flames
+2009020777,Vancouver Canucks,3,Buffalo Sabres,2,Kerry Fraser,Mike Leggo,Vancouver Canucks,Buffalo Sabres
+2009020778,Toronto Maple Leafs,3,Los Angeles Kings,5,Dan Marouelli,David Banfield,Los Angeles Kings,Toronto Maple Leafs
+2009020779,New York Islanders,2,Washington Capitals,7,Dennis LaRue,Don VanMassenhoven,Washington Capitals,New York Islanders
+2009020780,Atlanta Thrashers,2,Anaheim Ducks,1,Kelly Sutherland,Gord Dwyer,Atlanta Thrashers,Anaheim Ducks
+2009020781,Columbus Blue Jackets,3,Nashville Predators,2,Dan O'Halloran,Francois StLaurent,Columbus Blue Jackets,Nashville Predators
+2009020782,Ottawa Senators,3,New Jersey Devils,0,Marc Joannette,Dean Morton,Ottawa Senators,New Jersey Devils
+2009020783,Florida Panthers,2,Montréal Canadiens,1,Stephen Walkom,Rob Martell,Florida Panthers,Montréal Canadiens
+2009020784,Detroit Red Wings,4,Phoenix Coyotes,5,Justin StPierre,Kevin Pollock,Phoenix Coyotes,Detroit Red Wings
+2009020785,Edmonton Oilers,2,Chicago Blackhawks,4,Kerry Fraser,Mike Leggo,Chicago Blackhawks,Edmonton Oilers
+2009020786,Buffalo Sabres,1,New Jersey Devils,1,Bill McCreary,Greg Kimmerly,Buffalo Sabres,New Jersey Devils
+2009020787,New York Rangers,1,Carolina Hurricanes,5,Brian Pochmara,Don VanMassenhoven,Carolina Hurricanes,New York Rangers
+2009020788,Washington Capitals,5,Anaheim Ducks,1,Wes McCauley,Brad Meier,Washington Capitals,Anaheim Ducks
+2009020789,Tampa Bay Lightning,3,Montréal Canadiens,0,Stephen Walkom,Rob Martell,Tampa Bay Lightning,Montréal Canadiens
+2009020790,Minnesota Wild,5,Detroit Red Wings,2,Justin StPierre,Eric Furlatt,Minnesota Wild,Detroit Red Wings
+2009020791,Dallas Stars,3,Calgary Flames,3,Kelly Sutherland,Ian Walsh,Dallas Stars,Calgary Flames
+2009020792,Vancouver Canucks,3,St. Louis Blues,2,Chris Lee,Tom Kowal,Vancouver Canucks,St. Louis Blues
+2009020793,Philadelphia Flyers,3,Atlanta Thrashers,4,Wes McCauley,Dan Marouelli,Atlanta Thrashers,Philadelphia Flyers
+2009020794,Pittsburgh Penguins,1,Ottawa Senators,4,Dennis LaRue,Dean Morton,Ottawa Senators,Pittsburgh Penguins
+2009020795,Carolina Hurricanes,4,New York Islanders,1,Tim Peel,Brad Meier,Carolina Hurricanes,New York Islanders
+2009020796,Columbus Blue Jackets,1,Los Angeles Kings,4,Paul Devorski,Justin StPierre,Los Angeles Kings,Columbus Blue Jackets
+2009020797,Colorado Avalanche,0,Minnesota Wild,1,Marc Joannette,Steve Kozari,Minnesota Wild,Colorado Avalanche
+2009020798,Phoenix Coyotes,2,Calgary Flames,2,Gord Dwyer,Brad Watson,Phoenix Coyotes,Calgary Flames
+2009020799,Edmonton Oilers,1,St. Louis Blues,2,Kerry Fraser,Mike Leggo,St. Louis Blues,Edmonton Oilers
+2009020800,San Jose Sharks,3,Chicago Blackhawks,4,Dan O'Halloran,Ian Walsh,Chicago Blackhawks,San Jose Sharks
+2009020801,New Jersey Devils,5,Toronto Maple Leafs,4,Chris Rooney,Kelly Sutherland,New Jersey Devils,Toronto Maple Leafs
+2009020802,Washington Capitals,4,Florida Panthers,1,Don VanMassenhoven,Dean Morton,Washington Capitals,Florida Panthers
+2009020803,Buffalo Sabres,2,Boston Bruins,1,Dennis LaRue,Kevin Pollock,Buffalo Sabres,Boston Bruins
+2009020804,Tampa Bay Lightning,1,Anaheim Ducks,1,Greg Kimmerly,Stephen Walkom,Tampa Bay Lightning,Anaheim Ducks
+2009020805,Detroit Red Wings,4,Nashville Predators,2,Bill McCreary,Brian Pochmara,Detroit Red Wings,Nashville Predators
+2009020806,Dallas Stars,3,Colorado Avalanche,2,Dan O'Rourke,Chris Lee,Dallas Stars,Colorado Avalanche
+2009020807,Ottawa Senators,3,Montréal Canadiens,2,Wes McCauley,Tim Peel,Ottawa Senators,Montréal Canadiens
+2009020808,Boston Bruins,2,Los Angeles Kings,2,Don VanMassenhoven,Eric Furlatt,Boston Bruins,Los Angeles Kings
+2009020809,Toronto Maple Leafs,3,Vancouver Canucks,5,Kelly Sutherland,Francois StLaurent,Vancouver Canucks,Toronto Maple Leafs
+2009020810,Philadelphia Flyers,2,New York Islanders,1,Kerry Fraser,Rob Martell,Philadelphia Flyers,New York Islanders
+2009020811,Carolina Hurricanes,4,Chicago Blackhawks,2,Dan Marouelli,Steve Kozari,Carolina Hurricanes,Chicago Blackhawks
+2009020812,St. Louis Blues,2,Columbus Blue Jackets,3,Dan O'Rourke,Greg Kimmerly,Columbus Blue Jackets,St. Louis Blues
+2009020813,Nashville Predators,4,Atlanta Thrashers,3,Paul Devorski,Brad Watson,Nashville Predators,Atlanta Thrashers
+2009020814,Phoenix Coyotes,3,New York Rangers,2,Stephane Auger,Chris Lee,Phoenix Coyotes,New York Rangers
+2009020815,Calgary Flames,6,Edmonton Oilers,1,Dan O'Halloran,Brad Meier,Calgary Flames,Edmonton Oilers
+2009020816,San Jose Sharks,5,Minnesota Wild,2,Gord Dwyer,Marc Joannette,San Jose Sharks,Minnesota Wild
+2009020817,Pittsburgh Penguins,1,Detroit Red Wings,1,Stephen Walkom,Rob Martell,Pittsburgh Penguins,Detroit Red Wings
+2009020818,Washington Capitals,3,Tampa Bay Lightning,2,Chris Rooney,Ian Walsh,Washington Capitals,Tampa Bay Lightning
+2009020819,New Jersey Devils,2,Los Angeles Kings,3,Brian Pochmara,Kevin Pollock,Los Angeles Kings,New Jersey Devils
+2009020820,Florida Panthers,2,New York Islanders,0,Dan Marouelli,Steve Kozari,Florida Panthers,New York Islanders
+2009020821,Dallas Stars,2,Phoenix Coyotes,4,Paul Devorski,Tom Kowal,Phoenix Coyotes,Dallas Stars
+2009020822,Colorado Avalanche,1,New York Rangers,3,Bill McCreary,Stephane Auger,New York Rangers,Colorado Avalanche
+2009020823,Pittsburgh Penguins,5,Buffalo Sabres,4,Brian Pochmara,Brad Watson,Pittsburgh Penguins,Buffalo Sabres
+2009020824,Florida Panthers,0,Anaheim Ducks,3,Tim Peel,Chris Ciamaga,Anaheim Ducks,Florida Panthers
+2009020825,Calgary Flames,0,Philadelphia Flyers,3,Dan O'Rourke,Dan O'Halloran,Philadelphia Flyers,Calgary Flames
+2009020826,Edmonton Oilers,4,Carolina Hurricanes,2,Gord Dwyer,Marc Joannette,Edmonton Oilers,Carolina Hurricanes
+2009020827,Boston Bruins,1,Washington Capitals,4,Kevin Pollock,Francois StLaurent,Washington Capitals,Boston Bruins
+2009020828,Toronto Maple Leafs,3,New Jersey Devils,0,Kerry Fraser,Steve Kozari,Toronto Maple Leafs,New Jersey Devils
+2009020829,Atlanta Thrashers,1,Tampa Bay Lightning,2,Wes McCauley,Ian Walsh,Tampa Bay Lightning,Atlanta Thrashers
+2009020830,Montréal Canadiens,3,Vancouver Canucks,2,Chris Rooney,Greg Kimmerly,Montréal Canadiens,Vancouver Canucks
+2009020831,Nashville Predators,0,Phoenix Coyotes,0,Dan Marouelli,Rob Martell,Nashville Predators,Phoenix Coyotes
+2009020832,Dallas Stars,4,Minnesota Wild,2,Paul Devorski,Stephane Auger,Dallas Stars,Minnesota Wild
+2009020833,Colorado Avalanche,5,Columbus Blue Jackets,1,Stephen Walkom,Brad Meier,Colorado Avalanche,Columbus Blue Jackets
+2009020834,Los Angeles Kings,2,New York Rangers,1,Bill McCreary,Kyle Rehman,Los Angeles Kings,New York Rangers
+2009020835,San Jose Sharks,2,Detroit Red Wings,4,Tom Kowal,Dean Morton,Detroit Red Wings,San Jose Sharks
+2009020836,Buffalo Sabres,2,Ottawa Senators,4,Brad Watson,Steve Kozari,Ottawa Senators,Buffalo Sabres
+2009020837,Chicago Blackhawks,2,St. Louis Blues,3,Wes McCauley,Dan Marouelli,St. Louis Blues,Chicago Blackhawks
+2009020838,Calgary Flames,4,Carolina Hurricanes,1,Gord Dwyer,Marc Joannette,Calgary Flames,Carolina Hurricanes
+2009020839,Edmonton Oilers,1,Philadelphia Flyers,0,Dan O'Rourke,Dan O'Halloran,Edmonton Oilers,Philadelphia Flyers
+2009020840,Anaheim Ducks,3,Detroit Red Wings,1,Bill McCreary,Tom Kowal,Anaheim Ducks,Detroit Red Wings
+2009020841,Boston Bruins,2,Montréal Canadiens,2,Brad Watson,Steve Kozari,Boston Bruins,Montréal Canadiens
+2009020842,New York Rangers,5,Washington Capitals,6,Justin StPierre,Eric Furlatt,Washington Capitals,New York Rangers
+2009020843,Columbus Blue Jackets,2,Dallas Stars,1,Rob Martell,Chris Lee,Columbus Blue Jackets,Dallas Stars
+2009020844,Ottawa Senators,3,Vancouver Canucks,1,Greg Kimmerly,Kevin Pollock,Ottawa Senators,Vancouver Canucks
+2009020845,Tampa Bay Lightning,5,New York Islanders,2,Dennis LaRue,Brian Pochmara,Tampa Bay Lightning,New York Islanders
+2009020846,St. Louis Blues,2,San Jose Sharks,4,Kelly Sutherland,Stephane Auger,San Jose Sharks,St. Louis Blues
+2009020847,Nashville Predators,5,Colorado Avalanche,3,Ian Walsh,Brad Meier,Nashville Predators,Colorado Avalanche
+2009020848,Minnesota Wild,4,Edmonton Oilers,2,Frederick L'Ecuyer,Stephen Walkom,Minnesota Wild,Edmonton Oilers
+2009020849,Los Angeles Kings,6,Anaheim Ducks,4,Bill McCreary,Dean Morton,Los Angeles Kings,Anaheim Ducks
+2009020850,New Jersey Devils,4,Toronto Maple Leafs,3,Justin StPierre,Eric Furlatt,New Jersey Devils,Toronto Maple Leafs
+2009020851,Washington Capitals,5,Atlanta Thrashers,2,Tim Peel,Tom Kowal,Washington Capitals,Atlanta Thrashers
+2009020852,Buffalo Sabres,3,Carolina Hurricanes,4,Don VanMassenhoven,Chris Lee,Carolina Hurricanes,Buffalo Sabres
+2009020853,Florida Panthers,1,Calgary Flames,2,Dennis LaRue,Brian Pochmara,Calgary Flames,Florida Panthers
+2009020854,Chicago Blackhawks,1,Phoenix Coyotes,1,Brad Meier,Francois StLaurent,Chicago Blackhawks,Phoenix Coyotes
+2009020855,Boston Bruins,2,Vancouver Canucks,2,Chris Rooney,Frederick L'Ecuyer,Boston Bruins,Vancouver Canucks
+2009020856,Montréal Canadiens,5,Pittsburgh Penguins,3,Dan Marouelli,Steve Kozari,Montréal Canadiens,Pittsburgh Penguins
+2009020857,Los Angeles Kings,4,Detroit Red Wings,3,Kelly Sutherland,Ian Walsh,Los Angeles Kings,Detroit Red Wings
+2009020858,Dallas Stars,4,Phoenix Coyotes,0,Kerry Fraser,Gord Dwyer,Dallas Stars,Phoenix Coyotes
+2009020859,Toronto Maple Leafs,5,Ottawa Senators,0,Don VanMassenhoven,Chris Lee,Toronto Maple Leafs,Ottawa Senators
+2009020860,New York Islanders,1,Carolina Hurricanes,3,Justin StPierre,Eric Furlatt,Carolina Hurricanes,New York Islanders
+2009020861,New York Rangers,3,New Jersey Devils,1,Paul Devorski,Tom Kowal,New York Rangers,New Jersey Devils
+2009020862,Atlanta Thrashers,4,Florida Panthers,2,Dan O'Rourke,Stephane Auger,Atlanta Thrashers,Florida Panthers
+2009020863,Tampa Bay Lightning,2,Calgary Flames,1,Dennis LaRue,Brian Pochmara,Tampa Bay Lightning,Calgary Flames
+2009020864,Columbus Blue Jackets,4,Buffalo Sabres,0,Kevin Pollock,David Banfield,Columbus Blue Jackets,Buffalo Sabres
+2009020865,St. Louis Blues,1,Chicago Blackhawks,2,Dan O'Halloran,Francois StLaurent,Chicago Blackhawks,St. Louis Blues
+2009020866,Nashville Predators,3,San Jose Sharks,4,Wes McCauley,Brad Watson,San Jose Sharks,Nashville Predators
+2009020867,Minnesota Wild,2,Philadelphia Flyers,1,Stephen Walkom,Rob Martell,Minnesota Wild,Philadelphia Flyers
+2009020868,Colorado Avalanche,3,Edmonton Oilers,0,Bill McCreary,Dean Morton,Colorado Avalanche,Edmonton Oilers
+2009020869,Montréal Canadiens,0,Boston Bruins,3,Marc Joannette,Brad Meier,Boston Bruins,Montréal Canadiens
+2009020870,Washington Capitals,5,Pittsburgh Penguins,4,Frederick L'Ecuyer,Tim Peel,Washington Capitals,Pittsburgh Penguins
+2009020871,Toronto Maple Leafs,2,San Jose Sharks,3,Bill McCreary,Greg Kimmerly,San Jose Sharks,Toronto Maple Leafs
+2009020872,Philadelphia Flyers,3,New Jersey Devils,2,Paul Devorski,David Banfield,Philadelphia Flyers,New Jersey Devils
+2009020873,Colorado Avalanche,5,St. Louis Blues,2,Dennis LaRue,Dean Morton,Colorado Avalanche,St. Louis Blues
+2009020874,Phoenix Coyotes,6,Edmonton Oilers,1,Kerry Fraser,Ian Walsh,Phoenix Coyotes,Edmonton Oilers
+2009020875,Anaheim Ducks,4,Los Angeles Kings,2,Kelly Sutherland,Brian Pochmara,Anaheim Ducks,Los Angeles Kings
+2009020876,Buffalo Sabres,2,Boston Bruins,2,Stephen Walkom,Brad Meier,Buffalo Sabres,Boston Bruins
+2009020877,New York Islanders,3,Nashville Predators,3,Frederick L'Ecuyer,Marc Joannette,New York Islanders,Nashville Predators
+2009020878,Carolina Hurricanes,4,Florida Panthers,1,Tim Peel,Francois StLaurent,Carolina Hurricanes,Florida Panthers
+2009020879,Ottawa Senators,3,Calgary Flames,2,Stephane Auger,Kevin Pollock,Ottawa Senators,Calgary Flames
+2009020880,Tampa Bay Lightning,3,Vancouver Canucks,1,Dan Marouelli,Steve Kozari,Tampa Bay Lightning,Vancouver Canucks
+2009020881,St. Louis Blues,3,Detroit Red Wings,3,Chris Rooney,Gord Dwyer,St. Louis Blues,Detroit Red Wings
+2009020882,Chicago Blackhawks,3,Dallas Stars,3,Greg Kimmerly,Don VanMassenhoven,Chicago Blackhawks,Dallas Stars
+2009020883,New Jersey Devils,2,Philadelphia Flyers,3,Frederick L'Ecuyer,Marc Joannette,Philadelphia Flyers,New Jersey Devils
+2009020884,New York Rangers,1,Nashville Predators,2,Rob Martell,Ian Walsh,Nashville Predators,New York Rangers
+2009020885,Columbus Blue Jackets,3,San Jose Sharks,0,Dan O'Halloran,Dean Morton,Columbus Blue Jackets,San Jose Sharks
+2009020886,Montréal Canadiens,6,Washington Capitals,5,Eric Furlatt,Kyle Rehman,Montréal Canadiens,Washington Capitals
+2009020887,Pittsburgh Penguins,3,New York Islanders,1,Stephen Walkom,Chris Lee,Pittsburgh Penguins,New York Islanders
+2009020888,Minnesota Wild,2,Phoenix Coyotes,3,Dennis LaRue,Gord Dwyer,Phoenix Coyotes,Minnesota Wild
+2009020889,Colorado Avalanche,4,Atlanta Thrashers,3,Wes McCauley,Brad Watson,Colorado Avalanche,Atlanta Thrashers
+2009020890,Anaheim Ducks,3,Edmonton Oilers,2,Dan O'Rourke,Kelly Sutherland,Anaheim Ducks,Edmonton Oilers
+2009020891,Ottawa Senators,6,Washington Capitals,5,Brian Pochmara,Brad Meier,Ottawa Senators,Washington Capitals
+2009020892,Carolina Hurricanes,4,Buffalo Sabres,3,Tim Peel,Francois StLaurent,Carolina Hurricanes,Buffalo Sabres
+2009020893,Tampa Bay Lightning,4,Boston Bruins,5,Dan Marouelli,Justin StPierre,Boston Bruins,Tampa Bay Lightning
+2009020894,Florida Panthers,0,Vancouver Canucks,3,Chris Rooney,Don VanMassenhoven,Vancouver Canucks,Florida Panthers
+2009020895,Detroit Red Wings,2,San Jose Sharks,2,Dan O'Halloran,Gord Dwyer,Detroit Red Wings,San Jose Sharks
+2009020896,Calgary Flames,1,Dallas Stars,3,Greg Kimmerly,Tom Kowal,Dallas Stars,Calgary Flames
+2009020897,Los Angeles Kings,2,Edmonton Oilers,2,Wes McCauley,Kevin Pollock,Los Angeles Kings,Edmonton Oilers
+2009020898,New Jersey Devils,5,Nashville Predators,2,Kerry Fraser,Stephane Auger,New Jersey Devils,Nashville Predators
+2009020899,Philadelphia Flyers,3,Montréal Canadiens,2,Kelly Sutherland,Rob Martell,Philadelphia Flyers,Montréal Canadiens
+2009020900,Columbus Blue Jackets,3,Vancouver Canucks,4,Chris Lee,Ian Walsh,Vancouver Canucks,Columbus Blue Jackets
+2009020901,Pittsburgh Penguins,2,New York Rangers,3,Eric Furlatt,Steve Kozari,New York Rangers,Pittsburgh Penguins
+2009020902,St. Louis Blues,4,Toronto Maple Leafs,0,Don VanMassenhoven,Ghislain Hebert,St. Louis Blues,Toronto Maple Leafs
+2009020903,Minnesota Wild,2,Atlanta Thrashers,3,Tim Peel,Dean Morton,Atlanta Thrashers,Minnesota Wild
+2009020904,Colorado Avalanche,2,Phoenix Coyotes,1,Dan O'Rourke,Brad Watson,Colorado Avalanche,Phoenix Coyotes
+2009020905,New York Islanders,5,Tampa Bay Lightning,4,Kerry Fraser,Francois StLaurent,New York Islanders,Tampa Bay Lightning
+2009020906,Buffalo Sabres,3,San Jose Sharks,1,Eric Furlatt,Steve Kozari,Buffalo Sabres,San Jose Sharks
+2009020907,Montréal Canadiens,2,Philadelphia Flyers,6,Brian Pochmara,Marc Joannette,Philadelphia Flyers,Montréal Canadiens
+2009020908,Carolina Hurricanes,5,New Jersey Devils,2,Stephane Auger,Rob Martell,Carolina Hurricanes,New Jersey Devils
+2009020909,Florida Panthers,2,Boston Bruins,2,Dan Marouelli,Justin StPierre,Florida Panthers,Boston Bruins
+2009020910,Detroit Red Wings,4,Ottawa Senators,1,Stephen Walkom,Kyle Rehman,Detroit Red Wings,Ottawa Senators
+2009020911,St. Louis Blues,3,Washington Capitals,3,Don VanMassenhoven,Ian Walsh,St. Louis Blues,Washington Capitals
+2009020912,Phoenix Coyotes,0,Dallas Stars,3,Dan O'Rourke,Tom Kowal,Dallas Stars,Phoenix Coyotes
+2009020913,Chicago Blackhawks,4,Atlanta Thrashers,4,Gord Dwyer,Chris Lee,Chicago Blackhawks,Atlanta Thrashers
+2009020914,Calgary Flames,3,Anaheim Ducks,1,Greg Kimmerly,Brad Meier,Calgary Flames,Anaheim Ducks
+2009020915,Los Angeles Kings,3,Colorado Avalanche,0,Wes McCauley,Kevin Pollock,Los Angeles Kings,Colorado Avalanche
+2009020916,New York Rangers,5,Tampa Bay Lightning,2,Kerry Fraser,Francois StLaurent,New York Rangers,Tampa Bay Lightning
+2009020917,Pittsburgh Penguins,3,Nashville Predators,3,Kelly Sutherland,Chris Ciamaga,Pittsburgh Penguins,Nashville Predators
+2009020918,Minnesota Wild,6,Vancouver Canucks,2,Tim Peel,Dean Morton,Minnesota Wild,Vancouver Canucks
+2009020919,New York Islanders,3,Ottawa Senators,4,Rob Martell,Eric Furlatt,Ottawa Senators,New York Islanders
+2009020920,Columbus Blue Jackets,4,Chicago Blackhawks,4,Stephen Walkom,Steve Kozari,Columbus Blue Jackets,Chicago Blackhawks
+2009020921,Edmonton Oilers,3,Anaheim Ducks,7,Greg Kimmerly,Brad Meier,Anaheim Ducks,Edmonton Oilers
+2009020922,Colorado Avalanche,2,Detroit Red Wings,3,Kerry Fraser,Ian Walsh,Detroit Red Wings,Colorado Avalanche
+2009020923,Boston Bruins,1,Montréal Canadiens,4,Mike Leggo,Stephane Auger,Montréal Canadiens,Boston Bruins
+2009020924,Toronto Maple Leafs,1,Carolina Hurricanes,5,Frederick L'Ecuyer,Stephen Walkom,Carolina Hurricanes,Toronto Maple Leafs
+2009020925,New York Islanders,5,Chicago Blackhawks,3,Tim Peel,Dean Morton,New York Islanders,Chicago Blackhawks
+2009020926,Atlanta Thrashers,4,Florida Panthers,2,Gord Dwyer,Chris Lee,Atlanta Thrashers,Florida Panthers
+2009020927,Columbus Blue Jackets,3,Vancouver Canucks,4,Dan O'Rourke,Steve Kozari,Vancouver Canucks,Columbus Blue Jackets
+2009020928,Ottawa Senators,1,New York Rangers,4,Wes McCauley,Tom Kowal,New York Rangers,Ottawa Senators
+2009020929,Pittsburgh Penguins,3,Buffalo Sabres,2,Kelly Sutherland,Greg Kimmerly,Pittsburgh Penguins,Buffalo Sabres
+2009020930,Tampa Bay Lightning,2,Philadelphia Flyers,7,Eric Furlatt,Kyle Rehman,Philadelphia Flyers,Tampa Bay Lightning
+2009020931,Nashville Predators,4,Edmonton Oilers,3,Justin StPierre,Brian Pochmara,Nashville Predators,Edmonton Oilers
+2009020932,Dallas Stars,1,Los Angeles Kings,5,Dan Marouelli,Francois StLaurent,Los Angeles Kings,Dallas Stars
+2009020933,Phoenix Coyotes,2,St. Louis Blues,5,Kerry Fraser,Ian Walsh,St. Louis Blues,Phoenix Coyotes
+2009020934,San Jose Sharks,3,New Jersey Devils,4,Rob Martell,Brad Meier,New Jersey Devils,San Jose Sharks
+2009020935,Buffalo Sabres,1,Washington Capitals,3,Wes McCauley,Stephen Walkom,Washington Capitals,Buffalo Sabres
+2009020936,Florida Panthers,7,Philadelphia Flyers,4,Eric Furlatt,Kyle Rehman,Florida Panthers,Philadelphia Flyers
+2009020937,Detroit Red Wings,3,Vancouver Canucks,6,Dan O'Halloran,Gord Dwyer,Vancouver Canucks,Detroit Red Wings
+2009020938,Chicago Blackhawks,5,Edmonton Oilers,2,Kelly Sutherland,Brian Pochmara,Chicago Blackhawks,Edmonton Oilers
+2009020939,Calgary Flames,0,Minnesota Wild,4,Dennis LaRue,Kevin Pollock,Minnesota Wild,Calgary Flames
+2009020940,Anaheim Ducks,3,Colorado Avalanche,4,Dan Marouelli,Francois StLaurent,Colorado Avalanche,Anaheim Ducks
+2009020941,Boston Bruins,2,Toronto Maple Leafs,2,Dan O'Rourke,Tom Kowal,Boston Bruins,Toronto Maple Leafs
+2009020942,New York Rangers,4,Pittsburgh Penguins,5,Wes McCauley,Tim Peel,Pittsburgh Penguins,New York Rangers
+2009020943,Washington Capitals,5,Tampa Bay Lightning,4,Paul Devorski,Steve Kozari,Washington Capitals,Tampa Bay Lightning
+2009020944,Carolina Hurricanes,4,Ottawa Senators,1,Kerry Fraser,Dean Morton,Carolina Hurricanes,Ottawa Senators
+2009020945,Atlanta Thrashers,6,New York Islanders,3,Mike Leggo,Greg Kimmerly,Atlanta Thrashers,New York Islanders
+2009020946,Nashville Predators,4,Los Angeles Kings,2,Stephane Auger,Eric Furlatt,Nashville Predators,Los Angeles Kings
+2009020947,Dallas Stars,1,St. Louis Blues,6,Rob Martell,Brad Meier,St. Louis Blues,Dallas Stars
+2009020948,Phoenix Coyotes,3,Colorado Avalanche,1,Dan Marouelli,Justin StPierre,Phoenix Coyotes,Colorado Avalanche
+2009020949,San Jose Sharks,3,Montréal Canadiens,2,Chris Lee,Ian Walsh,San Jose Sharks,Montréal Canadiens
+2009020950,Buffalo Sabres,3,Philadelphia Flyers,2,Gord Dwyer,Stephen Walkom,Buffalo Sabres,Philadelphia Flyers
+2009020951,Detroit Red Wings,5,Nashville Predators,2,Tim Peel,Francois StLaurent,Detroit Red Wings,Nashville Predators
+2009020952,Chicago Blackhawks,6,Vancouver Canucks,3,Mike Leggo,Paul Devorski,Chicago Blackhawks,Vancouver Canucks
+2009020953,Calgary Flames,5,New Jersey Devils,3,Brian Pochmara,Kevin Pollock,Calgary Flames,New Jersey Devils
+2009020954,Edmonton Oilers,1,Minnesota Wild,1,Kelly Sutherland,Dennis LaRue,Edmonton Oilers,Minnesota Wild
+2009020955,Pittsburgh Penguins,6,Dallas Stars,3,Dan O'Rourke,Tom Kowal,Pittsburgh Penguins,Dallas Stars
+2009020956,New York Islanders,2,Boston Bruins,3,Marc Joannette,Dean Morton,Boston Bruins,New York Islanders
+2009020957,Ottawa Senators,1,Toronto Maple Leafs,1,Gord Dwyer,Stephen Walkom,Ottawa Senators,Toronto Maple Leafs
+2009020958,Washington Capitals,2,New York Rangers,0,Chris Rooney,Bill McCreary,Washington Capitals,New York Rangers
+2009020959,Florida Panthers,4,Carolina Hurricanes,1,Stephane Auger,Brad Meier,Florida Panthers,Carolina Hurricanes
+2009020960,Tampa Bay Lightning,6,Atlanta Thrashers,2,Kerry Fraser,Greg Kimmerly,Tampa Bay Lightning,Atlanta Thrashers
+2009020961,Phoenix Coyotes,4,Anaheim Ducks,0,Dan O'Halloran,David Banfield,Phoenix Coyotes,Anaheim Ducks
+2009020962,Colorado Avalanche,7,St. Louis Blues,3,Eric Furlatt,Chris Lee,Colorado Avalanche,St. Louis Blues
+2009020963,Los Angeles Kings,2,Montréal Canadiens,4,Justin StPierre,Brad Watson,Montréal Canadiens,Los Angeles Kings
+2009020964,San Jose Sharks,2,Columbus Blue Jackets,1,Dan Marouelli,Ian Walsh,San Jose Sharks,Columbus Blue Jackets
+2009020965,Pittsburgh Penguins,2,Boston Bruins,1,Tim Peel,Marc Joannette,Pittsburgh Penguins,Boston Bruins
+2009020966,Nashville Predators,2,Vancouver Canucks,4,Paul Devorski,Frederick L'Ecuyer,Vancouver Canucks,Nashville Predators
+2009020967,Minnesota Wild,2,Calgary Flames,5,Kelly Sutherland,Chris Ciamaga,Calgary Flames,Minnesota Wild
+2009020968,Atlanta Thrashers,0,Carolina Hurricanes,4,Brad Meier,Francois StLaurent,Carolina Hurricanes,Atlanta Thrashers
+2009020969,New York Rangers,1,Buffalo Sabres,2,Bill McCreary,Dan O'Rourke,Buffalo Sabres,New York Rangers
+2009020970,Philadelphia Flyers,3,Toronto Maple Leafs,1,Chris Rooney,Tom Kowal,Philadelphia Flyers,Toronto Maple Leafs
+2009020971,Chicago Blackhawks,4,Detroit Red Wings,5,Mike Leggo,Steve Kozari,Detroit Red Wings,Chicago Blackhawks
+2009020972,Edmonton Oilers,2,New Jersey Devils,0,Rob Martell,Kevin Pollock,Edmonton Oilers,New Jersey Devils
+2009020973,Anaheim Ducks,3,Montréal Canadiens,3,Brad Watson,David Banfield,Anaheim Ducks,Montréal Canadiens
+2009020974,Washington Capitals,3,Dallas Stars,3,Stephen Walkom,Tom Kowal,Washington Capitals,Dallas Stars
+2009020975,Los Angeles Kings,6,Columbus Blue Jackets,0,Dan O'Halloran,Chris Lee,Los Angeles Kings,Columbus Blue Jackets
+2009020976,Toronto Maple Leafs,4,Boston Bruins,3,Wes McCauley,Greg Kimmerly,Toronto Maple Leafs,Boston Bruins
+2009020977,Philadelphia Flyers,3,New York Islanders,2,Paul Devorski,Francois StLaurent,Philadelphia Flyers,New York Islanders
+2009020978,Atlanta Thrashers,1,Nashville Predators,2,Chris Rooney,Dan O'Rourke,Nashville Predators,Atlanta Thrashers
+2009020979,Montréal Canadiens,5,Tampa Bay Lightning,3,Frederick L'Ecuyer,Eric Furlatt,Montréal Canadiens,Tampa Bay Lightning
+2009020980,Detroit Red Wings,2,Calgary Flames,4,Marc Joannette,Steve Kozari,Calgary Flames,Detroit Red Wings
+2009020981,Minnesota Wild,2,Florida Panthers,2,Mike Leggo,Tim Peel,Minnesota Wild,Florida Panthers
+2009020982,Colorado Avalanche,4,Vancouver Canucks,6,Kelly Sutherland,Kevin Pollock,Vancouver Canucks,Colorado Avalanche
+2009020983,Edmonton Oilers,1,Ottawa Senators,4,Rob Martell,Brad Meier,Ottawa Senators,Edmonton Oilers
+2009020984,Anaheim Ducks,2,Columbus Blue Jackets,5,Brad Watson,Chris Lee,Columbus Blue Jackets,Anaheim Ducks
+2009020985,Buffalo Sabres,5,Dallas Stars,3,Bill McCreary,Francois StLaurent,Buffalo Sabres,Dallas Stars
+2009020986,New Jersey Devils,6,New York Rangers,3,Paul Devorski,Chris Ciamaga,New Jersey Devils,New York Rangers
+2009020987,Washington Capitals,4,Carolina Hurricanes,3,Justin StPierre,Ian Walsh,Washington Capitals,Carolina Hurricanes
+2009020988,Chicago Blackhawks,3,Los Angeles Kings,2,Dennis LaRue,Marc Joannette,Chicago Blackhawks,Los Angeles Kings
+2009020989,Phoenix Coyotes,3,Vancouver Canucks,3,Dan O'Halloran,Brian Pochmara,Phoenix Coyotes,Vancouver Canucks
+2009020990,Toronto Maple Leafs,4,Tampa Bay Lightning,3,Dennis LaRue,Stephane Auger,Toronto Maple Leafs,Tampa Bay Lightning
+2009020991,New York Islanders,1,St. Louis Blues,1,Paul Devorski,David Banfield,New York Islanders,St. Louis Blues
+2009020992,Philadelphia Flyers,1,Boston Bruins,5,Greg Kimmerly,Stephen Walkom,Boston Bruins,Philadelphia Flyers
+2009020993,Carolina Hurricanes,4,Pittsburgh Penguins,3,Dan O'Rourke,Steve Kozari,Carolina Hurricanes,Pittsburgh Penguins
+2009020994,Columbus Blue Jackets,2,Atlanta Thrashers,1,Chris Rooney,Kyle Rehman,Columbus Blue Jackets,Atlanta Thrashers
+2009020995,Montréal Canadiens,4,Edmonton Oilers,4,Kerry Fraser,Dean Morton,Montréal Canadiens,Edmonton Oilers
+2009020996,Detroit Red Wings,5,Minnesota Wild,1,Wes McCauley,Eric Furlatt,Detroit Red Wings,Minnesota Wild
+2009020997,Colorado Avalanche,3,Florida Panthers,0,Gord Dwyer,Brad Watson,Colorado Avalanche,Florida Panthers
+2009020998,Calgary Flames,2,Ottawa Senators,0,Rob Martell,Tom Kowal,Calgary Flames,Ottawa Senators
+2009020999,San Jose Sharks,8,Nashville Predators,5,Mike Leggo,Chris Lee,San Jose Sharks,Nashville Predators
+2009021000,New Jersey Devils,3,Pittsburgh Penguins,1,Bill McCreary,Greg Kimmerly,New Jersey Devils,Pittsburgh Penguins
+2009021001,Washington Capitals,2,Tampa Bay Lightning,3,Dan O'Rourke,Kelly Sutherland,Tampa Bay Lightning,Washington Capitals
+2009021002,Buffalo Sabres,2,Minnesota Wild,3,Frederick L'Ecuyer,Kevin Pollock,Minnesota Wild,Buffalo Sabres
+2009021003,Atlanta Thrashers,2,New York Rangers,5,Justin StPierre,Eric Furlatt,New York Rangers,Atlanta Thrashers
+2009021004,Dallas Stars,1,Los Angeles Kings,1,Gord Dwyer,Marc Joannette,Dallas Stars,Los Angeles Kings
+2009021005,Anaheim Ducks,0,Nashville Predators,1,Dan O'Halloran,Brian Pochmara,Nashville Predators,Anaheim Ducks
+2009021006,Philadelphia Flyers,3,Chicago Blackhawks,2,Paul Devorski,Stephane Auger,Philadelphia Flyers,Chicago Blackhawks
+2009021007,Toronto Maple Leafs,6,Edmonton Oilers,4,Dan O'Rourke,Steve Kozari,Toronto Maple Leafs,Edmonton Oilers
+2009021008,Montréal Canadiens,3,Boston Bruins,2,Dennis LaRue,Francois StLaurent,Montréal Canadiens,Boston Bruins
+2009021009,New York Islanders,4,New Jersey Devils,2,Chris Rooney,Kelly Sutherland,New York Islanders,New Jersey Devils
+2009021010,Carolina Hurricanes,0,Phoenix Coyotes,4,Eric Furlatt,Kyle Rehman,Phoenix Coyotes,Carolina Hurricanes
+2009021011,Detroit Red Wings,3,Buffalo Sabres,2,Tom Kowal,Kevin Pollock,Detroit Red Wings,Buffalo Sabres
+2009021012,Columbus Blue Jackets,1,St. Louis Blues,5,Kerry Fraser,Wes McCauley,St. Louis Blues,Columbus Blue Jackets
+2009021013,Vancouver Canucks,5,Ottawa Senators,1,Brad Watson,Brad Meier,Vancouver Canucks,Ottawa Senators
+2009021014,San Jose Sharks,2,Florida Panthers,3,Tim Peel,Dean Morton,Florida Panthers,San Jose Sharks
+2009021015,New York Rangers,3,Philadelphia Flyers,1,Chris Rooney,Kelly Sutherland,New York Rangers,Philadelphia Flyers
+2009021016,Dallas Stars,3,Colorado Avalanche,5,Justin StPierre,Marc Joannette,Colorado Avalanche,Dallas Stars
+2009021017,Los Angeles Kings,2,Nashville Predators,3,Tim Peel,Dean Morton,Nashville Predators,Los Angeles Kings
+2009021018,New York Islanders,4,Toronto Maple Leafs,1,Dennis LaRue,Stephane Auger,New York Islanders,Toronto Maple Leafs
+2009021019,Atlanta Thrashers,2,Phoenix Coyotes,2,Kerry Fraser,Wes McCauley,Atlanta Thrashers,Phoenix Coyotes
+2009021020,Tampa Bay Lightning,1,Pittsburgh Penguins,2,Bill McCreary,Rob Martell,Pittsburgh Penguins,Tampa Bay Lightning
+2009021021,Minnesota Wild,4,St. Louis Blues,2,Gord Dwyer,Chris Lee,Minnesota Wild,St. Louis Blues
+2009021022,Chicago Blackhawks,3,Washington Capitals,4,Dan O'Halloran,Frederick L'Ecuyer,Washington Capitals,Chicago Blackhawks
+2009021023,Anaheim Ducks,4,San Jose Sharks,2,Mike Leggo,Brian Pochmara,Anaheim Ducks,San Jose Sharks
+2009021024,Vancouver Canucks,3,Calgary Flames,1,Brad Watson,Ian Walsh,Vancouver Canucks,Calgary Flames
+2009021025,New Jersey Devils,3,Boston Bruins,2,Stephen Walkom,Steve Kozari,New Jersey Devils,Boston Bruins
+2009021026,Columbus Blue Jackets,5,Edmonton Oilers,3,Eric Furlatt,Tom Kowal,Columbus Blue Jackets,Edmonton Oilers
+2009021027,Calgary Flames,1,Detroit Red Wings,2,Mike Leggo,Ian Walsh,Detroit Red Wings,Calgary Flames
+2009021028,New York Rangers,1,Montréal Canadiens,3,Stephen Walkom,Steve Kozari,Montréal Canadiens,New York Rangers
+2009021029,Carolina Hurricanes,2,Boston Bruins,5,Stephane Auger,Tom Kowal,Boston Bruins,Carolina Hurricanes
+2009021030,Atlanta Thrashers,4,Buffalo Sabres,3,Eric Furlatt,Dean Morton,Atlanta Thrashers,Buffalo Sabres
+2009021031,Ottawa Senators,1,Toronto Maple Leafs,4,Marc Joannette,Francois StLaurent,Toronto Maple Leafs,Ottawa Senators
+2009021032,Tampa Bay Lightning,1,Phoenix Coyotes,2,Bill McCreary,Brian Pochmara,Phoenix Coyotes,Tampa Bay Lightning
+2009021033,Florida Panthers,3,Washington Capitals,7,Kerry Fraser,Rob Martell,Washington Capitals,Florida Panthers
+2009021034,St. Louis Blues,3,Colorado Avalanche,5,Chris Rooney,Dan O'Rourke,Colorado Avalanche,St. Louis Blues
+2009021035,Nashville Predators,3,Philadelphia Flyers,3,Kelly Sutherland,Dennis LaRue,Nashville Predators,Philadelphia Flyers
+2009021036,Minnesota Wild,4,Edmonton Oilers,2,Justin StPierre,Brad Meier,Minnesota Wild,Edmonton Oilers
+2009021037,Dallas Stars,8,San Jose Sharks,2,Brad Watson,Chris Lee,Dallas Stars,San Jose Sharks
+2009021038,Vancouver Canucks,2,New York Islanders,5,Gord Dwyer,Tim Peel,New York Islanders,Vancouver Canucks
+2009021039,New Jersey Devils,5,Pittsburgh Penguins,2,Dan O'Halloran,Francois StLaurent,New Jersey Devils,Pittsburgh Penguins
+2009021040,Colorado Avalanche,2,Calgary Flames,3,Mike Leggo,Brad Meier,Calgary Flames,Colorado Avalanche
+2009021041,Anaheim Ducks,4,Chicago Blackhawks,2,Paul Devorski,Ian Walsh,Anaheim Ducks,Chicago Blackhawks
+2009021042,Boston Bruins,0,Pittsburgh Penguins,3,Bill McCreary,Stephen Walkom,Pittsburgh Penguins,Boston Bruins
+2009021043,New York Rangers,3,St. Louis Blues,4,Kevin Pollock,Dean Morton,St. Louis Blues,New York Rangers
+2009021044,Carolina Hurricanes,4,Washington Capitals,3,Tom Kowal,Steve Kozari,Carolina Hurricanes,Washington Capitals
+2009021045,Atlanta Thrashers,6,Ottawa Senators,3,Stephane Auger,Brad Watson,Atlanta Thrashers,Ottawa Senators
+2009021046,Toronto Maple Leafs,1,New Jersey Devils,1,Dan O'Halloran,Francois StLaurent,Toronto Maple Leafs,New Jersey Devils
+2009021047,Tampa Bay Lightning,2,Buffalo Sabres,6,Chris Rooney,Brian Pochmara,Buffalo Sabres,Tampa Bay Lightning
+2009021048,Florida Panthers,3,Phoenix Coyotes,3,Dennis LaRue,Chris Lee,Florida Panthers,Phoenix Coyotes
+2009021049,Nashville Predators,5,Minnesota Wild,0,Dan O'Rourke,Eric Furlatt,Nashville Predators,Minnesota Wild
+2009021050,Dallas Stars,2,Philadelphia Flyers,3,Mike Leggo,Wes McCauley,Philadelphia Flyers,Dallas Stars
+2009021051,Vancouver Canucks,3,San Jose Sharks,2,Greg Kimmerly,Tim Peel,Vancouver Canucks,San Jose Sharks
+2009021052,Los Angeles Kings,0,Chicago Blackhawks,3,Paul Devorski,Ian Walsh,Chicago Blackhawks,Los Angeles Kings
+2009021053,Columbus Blue Jackets,4,Minnesota Wild,2,Stephane Auger,Brad Watson,Columbus Blue Jackets,Minnesota Wild
+2009021054,Calgary Flames,4,San Jose Sharks,3,Marc Joannette,Brad Meier,Calgary Flames,San Jose Sharks
+2009021055,Edmonton Oilers,2,Detroit Red Wings,2,Dan Marouelli,Greg Kimmerly,Edmonton Oilers,Detroit Red Wings
+2009021056,Anaheim Ducks,5,New York Islanders,4,Mike Leggo,Gord Dwyer,Anaheim Ducks,New York Islanders
+2009021057,Pittsburgh Penguins,2,Carolina Hurricanes,3,Eric Furlatt,Kevin Pollock,Carolina Hurricanes,Pittsburgh Penguins
+2009021058,Dallas Stars,5,Ottawa Senators,4,Kelly Sutherland,Dean Morton,Dallas Stars,Ottawa Senators
+2009021059,Toronto Maple Leafs,2,Montréal Canadiens,2,Dan O'Rourke,Tom Kowal,Toronto Maple Leafs,Montréal Canadiens
+2009021060,New Jersey Devils,0,St. Louis Blues,1,Justin StPierre,Stephen Walkom,St. Louis Blues,New Jersey Devils
+2009021061,Atlanta Thrashers,5,Philadelphia Flyers,2,Chris Lee,Steve Kozari,Atlanta Thrashers,Philadelphia Flyers
+2009021062,Florida Panthers,1,Buffalo Sabres,3,Chris Rooney,Brian Pochmara,Buffalo Sabres,Florida Panthers
+2009021063,Tampa Bay Lightning,1,Washington Capitals,3,Wes McCauley,Dennis LaRue,Washington Capitals,Tampa Bay Lightning
+2009021064,Nashville Predators,1,Columbus Blue Jackets,0,Dan O'Halloran,Francois StLaurent,Nashville Predators,Columbus Blue Jackets
+2009021065,Phoenix Coyotes,4,Chicago Blackhawks,4,Gord Dwyer,Tim Peel,Phoenix Coyotes,Chicago Blackhawks
+2009021066,Vancouver Canucks,3,Detroit Red Wings,4,Marc Joannette,Ian Walsh,Detroit Red Wings,Vancouver Canucks
+2009021067,Los Angeles Kings,1,New York Islanders,0,Paul Devorski,Rob Martell,Los Angeles Kings,New York Islanders
+2009021068,Boston Bruins,2,New York Rangers,1,Eric Furlatt,Kevin Pollock,Boston Bruins,New York Rangers
+2009021069,Minnesota Wild,4,Calgary Flames,3,Greg Kimmerly,Brad Watson,Minnesota Wild,Calgary Flames
+2009021070,Carolina Hurricanes,3,Buffalo Sabres,5,Stephen Walkom,Chris Lee,Buffalo Sabres,Carolina Hurricanes
+2009021071,Florida Panthers,5,Tampa Bay Lightning,2,Wes McCauley,Chris Rooney,Florida Panthers,Tampa Bay Lightning
+2009021072,St. Louis Blues,2,Nashville Predators,3,Stephane Auger,Brad Meier,Nashville Predators,St. Louis Blues
+2009021073,Philadelphia Flyers,1,Atlanta Thrashers,3,Kerry Fraser,Justin StPierre,Atlanta Thrashers,Philadelphia Flyers
+2009021074,Dallas Stars,2,Phoenix Coyotes,2,Mike Leggo,Kelly Sutherland,Dallas Stars,Phoenix Coyotes
+2009021075,Edmonton Oilers,5,San Jose Sharks,1,Dan Marouelli,Marc Joannette,Edmonton Oilers,San Jose Sharks
+2009021076,Anaheim Ducks,5,Colorado Avalanche,2,Paul Devorski,Rob Martell,Anaheim Ducks,Colorado Avalanche
+2009021077,Detroit Red Wings,3,Pittsburgh Penguins,1,Brian Pochmara,Tim Peel,Detroit Red Wings,Pittsburgh Penguins
+2009021078,Montréal Canadiens,0,Ottawa Senators,2,Bill McCreary,Gord Dwyer,Ottawa Senators,Montréal Canadiens
+2009021079,Los Angeles Kings,4,Colorado Avalanche,3,Dan O'Halloran,Francois StLaurent,Los Angeles Kings,Colorado Avalanche
+2009021080,Toronto Maple Leafs,1,Florida Panthers,4,Kevin Pollock,Dean Morton,Florida Panthers,Toronto Maple Leafs
+2009021081,New Jersey Devils,6,Columbus Blue Jackets,3,Wes McCauley,Dan O'Rourke,New Jersey Devils,Columbus Blue Jackets
+2009021082,Atlanta Thrashers,0,Boston Bruins,4,Mike Leggo,Brad Meier,Boston Bruins,Atlanta Thrashers
+2009021083,Ottawa Senators,2,Philadelphia Flyers,0,Bill McCreary,Gord Dwyer,Ottawa Senators,Philadelphia Flyers
+2009021084,Tampa Bay Lightning,3,Carolina Hurricanes,2,Kerry Fraser,Chris Lee,Tampa Bay Lightning,Carolina Hurricanes
+2009021085,Nashville Predators,1,Dallas Stars,3,Chris Rooney,Steve Kozari,Dallas Stars,Nashville Predators
+2009021086,Minnesota Wild,1,San Jose Sharks,4,Kelly Sutherland,Rob Martell,San Jose Sharks,Minnesota Wild
+2009021087,Chicago Blackhawks,2,Phoenix Coyotes,0,Greg Kimmerly,Stephen Walkom,Chicago Blackhawks,Phoenix Coyotes
+2009021088,Calgary Flames,3,Anaheim Ducks,1,Dan Marouelli,Marc Joannette,Calgary Flames,Anaheim Ducks
+2009021089,Edmonton Oilers,3,Vancouver Canucks,2,Dennis LaRue,Tom Kowal,Edmonton Oilers,Vancouver Canucks
+2009021090,New York Rangers,5,New York Islanders,0,Dan O'Rourke,Stephen Walkom,New York Rangers,New York Islanders
+2009021091,Washington Capitals,3,Pittsburgh Penguins,3,Paul Devorski,Ian Walsh,Washington Capitals,Pittsburgh Penguins
+2009021092,Buffalo Sabres,2,Montréal Canadiens,2,Brad Meier,Dean Morton,Buffalo Sabres,Montréal Canadiens
+2009021093,Detroit Red Wings,4,St. Louis Blues,2,Bill McCreary,Greg Kimmerly,Detroit Red Wings,St. Louis Blues
+2009021094,Colorado Avalanche,3,Los Angeles Kings,3,Dan O'Halloran,Brian Pochmara,Colorado Avalanche,Los Angeles Kings
+2009021095,Vancouver Canucks,4,Anaheim Ducks,1,Marc Joannette,Francois StLaurent,Vancouver Canucks,Anaheim Ducks
+2009021096,Boston Bruins,3,Tampa Bay Lightning,5,Eric Furlatt,Chris Lee,Tampa Bay Lightning,Boston Bruins
+2009021097,New Jersey Devils,3,New York Rangers,3,Wes McCauley,Brad Meier,New Jersey Devils,New York Rangers
+2009021098,New York Islanders,3,Calgary Flames,2,Chris Rooney,Kevin Pollock,New York Islanders,Calgary Flames
+2009021099,Philadelphia Flyers,3,Minnesota Wild,4,Gord Dwyer,Stephen Walkom,Minnesota Wild,Philadelphia Flyers
+2009021100,Carolina Hurricanes,2,Washington Capitals,2,Frederick L'Ecuyer,Ian Walsh,Carolina Hurricanes,Washington Capitals
+2009021101,Atlanta Thrashers,1,Toronto Maple Leafs,2,Kelly Sutherland,Justin StPierre,Toronto Maple Leafs,Atlanta Thrashers
+2009021102,Columbus Blue Jackets,8,Chicago Blackhawks,3,Mike Leggo,Chris Ciamaga,Columbus Blue Jackets,Chicago Blackhawks
+2009021103,Montréal Canadiens,4,Florida Panthers,1,Paul Devorski,Stephane Auger,Montréal Canadiens,Florida Panthers
+2009021104,St. Louis Blues,3,Los Angeles Kings,1,Tim Peel,Steve Kozari,St. Louis Blues,Los Angeles Kings
+2009021105,Nashville Predators,3,Phoenix Coyotes,3,Kerry Fraser,Dean Morton,Nashville Predators,Phoenix Coyotes
+2009021106,San Jose Sharks,3,Dallas Stars,0,Brad Watson,Rob Martell,San Jose Sharks,Dallas Stars
+2009021107,Buffalo Sabres,2,Ottawa Senators,4,Kerry Fraser,Greg Kimmerly,Ottawa Senators,Buffalo Sabres
+2009021108,Detroit Red Wings,6,Minnesota Wild,2,Dan O'Rourke,Dennis LaRue,Detroit Red Wings,Minnesota Wild
+2009021109,Edmonton Oilers,2,Anaheim Ducks,3,Dan O'Halloran,Francois StLaurent,Anaheim Ducks,Edmonton Oilers
+2009021110,Boston Bruins,5,Calgary Flames,0,Chris Rooney,Paul Devorski,Boston Bruins,Calgary Flames
+2009021111,Pittsburgh Penguins,4,Philadelphia Flyers,1,Dan Marouelli,Brian Pochmara,Pittsburgh Penguins,Philadelphia Flyers
+2009021112,Buffalo Sabres,7,Tampa Bay Lightning,1,Kevin Pollock,Steve Kozari,Buffalo Sabres,Tampa Bay Lightning
+2009021113,Toronto Maple Leafs,3,New York Rangers,2,Kerry Fraser,Wes McCauley,Toronto Maple Leafs,New York Rangers
+2009021114,Montréal Canadiens,2,New Jersey Devils,4,Marc Joannette,Chris Lee,New Jersey Devils,Montréal Canadiens
+2009021115,Ottawa Senators,3,Florida Panthers,2,Dennis LaRue,Ian Walsh,Ottawa Senators,Florida Panthers
+2009021116,Carolina Hurricanes,0,Atlanta Thrashers,4,Mike Leggo,Gord Dwyer,Atlanta Thrashers,Carolina Hurricanes
+2009021117,Columbus Blue Jackets,3,New York Islanders,4,Kelly Sutherland,Dean Morton,New York Islanders,Columbus Blue Jackets
+2009021118,Nashville Predators,0,Detroit Red Wings,0,Justin StPierre,Brad Watson,Nashville Predators,Detroit Red Wings
+2009021119,Phoenix Coyotes,6,Colorado Avalanche,2,Tim Peel,Rob Martell,Phoenix Coyotes,Colorado Avalanche
+2009021120,San Jose Sharks,4,Vancouver Canucks,2,Bill McCreary,Tom Kowal,San Jose Sharks,Vancouver Canucks
+2009021121,Los Angeles Kings,1,Dallas Stars,4,Stephane Auger,Eric Furlatt,Dallas Stars,Los Angeles Kings
+2009021122,Washington Capitals,3,Calgary Flames,5,Dan Marouelli,Greg Kimmerly,Calgary Flames,Washington Capitals
+2009021123,Pittsburgh Penguins,4,Toronto Maple Leafs,4,Frederick L'Ecuyer,Stephen Walkom,Pittsburgh Penguins,Toronto Maple Leafs
+2009021124,St. Louis Blues,2,Edmonton Oilers,1,Mike Leggo,Gord Dwyer,St. Louis Blues,Edmonton Oilers
+2009021125,Philadelphia Flyers,5,New Jersey Devils,1,Paul Devorski,Dean Morton,Philadelphia Flyers,New Jersey Devils
+2009021126,Chicago Blackhawks,2,Columbus Blue Jackets,4,Justin StPierre,Kevin Pollock,Columbus Blue Jackets,Chicago Blackhawks
+2009021127,San Jose Sharks,4,Colorado Avalanche,3,Bill McCreary,Tom Kowal,San Jose Sharks,Colorado Avalanche
+2009021128,Boston Bruins,2,Buffalo Sabres,3,Dennis LaRue,Marc Joannette,Buffalo Sabres,Boston Bruins
+2009021129,Atlanta Thrashers,1,Carolina Hurricanes,4,Chris Rooney,Dan O'Rourke,Carolina Hurricanes,Atlanta Thrashers
+2009021130,Florida Panthers,2,Nashville Predators,3,Brad Watson,Ian Walsh,Nashville Predators,Florida Panthers
+2009021131,Minnesota Wild,3,Los Angeles Kings,2,Kerry Fraser,Brian Pochmara,Minnesota Wild,Los Angeles Kings
+2009021132,Anaheim Ducks,3,Dallas Stars,1,Stephane Auger,Eric Furlatt,Anaheim Ducks,Dallas Stars
+2009021133,Toronto Maple Leafs,2,Atlanta Thrashers,3,Dan Marouelli,Greg Kimmerly,Atlanta Thrashers,Toronto Maple Leafs
+2009021134,New Jersey Devils,0,Boston Bruins,1,Dan O'Rourke,Kelly Sutherland,Boston Bruins,New Jersey Devils
+2009021135,New York Islanders,3,New York Rangers,4,Justin StPierre,Dennis LaRue,New York Rangers,New York Islanders
+2009021136,Washington Capitals,4,Ottawa Senators,5,Wes McCauley,Marc Joannette,Ottawa Senators,Washington Capitals
+2009021137,Columbus Blue Jackets,3,Tampa Bay Lightning,2,Dan O'Halloran,Frederick L'Ecuyer,Columbus Blue Jackets,Tampa Bay Lightning
+2009021138,Detroit Red Wings,5,Edmonton Oilers,4,Brad Meier,Steve Kozari,Detroit Red Wings,Edmonton Oilers
+2009021139,St. Louis Blues,4,Chicago Blackhawks,2,Tom Kowal,Kevin Pollock,St. Louis Blues,Chicago Blackhawks
+2009021140,Nashville Predators,0,Los Angeles Kings,2,Mike Leggo,Chris Rooney,Los Angeles Kings,Nashville Predators
+2009021141,Vancouver Canucks,4,Phoenix Coyotes,1,Bill McCreary,Chris Lee,Vancouver Canucks,Phoenix Coyotes
+2009021142,Buffalo Sabres,6,Florida Panthers,2,Dan O'Rourke,Paul Devorski,Buffalo Sabres,Florida Panthers
+2009021143,Montréal Canadiens,1,Carolina Hurricanes,2,Kerry Fraser,Dean Morton,Carolina Hurricanes,Montréal Canadiens
+2009021144,Pittsburgh Penguins,0,Tampa Bay Lightning,2,Wes McCauley,Justin StPierre,Tampa Bay Lightning,Pittsburgh Penguins
+2009021145,Minnesota Wild,0,Chicago Blackhawks,4,Stephane Auger,Tim Peel,Chicago Blackhawks,Minnesota Wild
+2009021146,Dallas Stars,5,San Jose Sharks,1,Kevin Pollock,Francois StLaurent,Dallas Stars,San Jose Sharks
+2009021147,Colorado Avalanche,2,Anaheim Ducks,5,Stephen Walkom,Ian Walsh,Anaheim Ducks,Colorado Avalanche
+2009021148,Calgary Flames,2,Phoenix Coyotes,1,Bill McCreary,Brian Pochmara,Calgary Flames,Phoenix Coyotes
+2009021149,Boston Bruins,0,Florida Panthers,1,Wes McCauley,Kelly Sutherland,Florida Panthers,Boston Bruins
+2009021150,Toronto Maple Leafs,4,Buffalo Sabres,2,Chris Rooney,Frederick L'Ecuyer,Toronto Maple Leafs,Buffalo Sabres
+2009021151,New York Islanders,6,Philadelphia Flyers,4,Marc Joannette,Steve Kozari,New York Islanders,Philadelphia Flyers
+2009021152,Washington Capitals,2,Atlanta Thrashers,1,Justin StPierre,Dennis LaRue,Washington Capitals,Atlanta Thrashers
+2009021153,Ottawa Senators,3,Carolina Hurricanes,3,Brad Meier,Dean Morton,Ottawa Senators,Carolina Hurricanes
+2009021154,Detroit Red Wings,3,Columbus Blue Jackets,2,Tim Peel,Tom Kowal,Detroit Red Wings,Columbus Blue Jackets
+2009021155,Nashville Predators,3,St. Louis Blues,2,Rob Martell,Kevin Pollock,Nashville Predators,St. Louis Blues
+2009021156,Los Angeles Kings,8,Vancouver Canucks,3,Mike Leggo,Brad Watson,Los Angeles Kings,Vancouver Canucks
+2009021157,New Jersey Devils,1,Chicago Blackhawks,1,Paul Devorski,Greg Kimmerly,New Jersey Devils,Chicago Blackhawks
+2009021158,Philadelphia Flyers,0,Montréal Canadiens,1,Dennis LaRue,Brad Meier,Montréal Canadiens,Philadelphia Flyers
+2009021159,Tampa Bay Lightning,0,New York Rangers,5,Dan O'Rourke,Dan O'Halloran,New York Rangers,Tampa Bay Lightning
+2009021160,Minnesota Wild,2,San Jose Sharks,3,Dan Marouelli,Chris Lee,San Jose Sharks,Minnesota Wild
+2009021161,Dallas Stars,6,Edmonton Oilers,3,Gord Dwyer,Tim Peel,Dallas Stars,Edmonton Oilers
+2009021162,Colorado Avalanche,1,Calgary Flames,2,Stephen Walkom,Francois StLaurent,Calgary Flames,Colorado Avalanche
+2009021163,Anaheim Ducks,4,Vancouver Canucks,4,Brian Pochmara,Brad Watson,Anaheim Ducks,Vancouver Canucks
+2009021164,Pittsburgh Penguins,4,Atlanta Thrashers,3,Marc Joannette,Tom Kowal,Pittsburgh Penguins,Atlanta Thrashers
+2009021165,New York Islanders,4,Ottawa Senators,1,Rob Martell,Ian Walsh,New York Islanders,Ottawa Senators
+2009021166,Detroit Red Wings,3,Nashville Predators,4,Kerry Fraser,Wes McCauley,Nashville Predators,Detroit Red Wings
+2009021167,Toronto Maple Leafs,1,Boston Bruins,2,Bill McCreary,Kyle Rehman,Boston Bruins,Toronto Maple Leafs
+2009021168,Montréal Canadiens,3,Buffalo Sabres,0,Chris Rooney,Eric Furlatt,Montréal Canadiens,Buffalo Sabres
+2009021169,Carolina Hurricanes,0,New Jersey Devils,4,Kelly Sutherland,Frederick L'Ecuyer,New Jersey Devils,Carolina Hurricanes
+2009021170,Florida Panthers,1,New York Rangers,4,Dan O'Halloran,Greg Kimmerly,New York Rangers,Florida Panthers
+2009021171,Columbus Blue Jackets,2,Washington Capitals,3,Stephane Auger,Dean Morton,Washington Capitals,Columbus Blue Jackets
+2009021172,St. Louis Blues,2,Dallas Stars,1,Justin StPierre,Chris Lee,St. Louis Blues,Dallas Stars
+2009021173,Phoenix Coyotes,2,Edmonton Oilers,2,Mike Leggo,Brian Pochmara,Phoenix Coyotes,Edmonton Oilers
+2009021174,Los Angeles Kings,1,Anaheim Ducks,1,Gord Dwyer,Stephen Walkom,Los Angeles Kings,Anaheim Ducks
+2009021175,Philadelphia Flyers,4,Detroit Red Wings,3,Paul Devorski,Ian Walsh,Philadelphia Flyers,Detroit Red Wings
+2009021176,Chicago Blackhawks,4,Calgary Flames,1,Kerry Fraser,Francois StLaurent,Chicago Blackhawks,Calgary Flames
+2009021177,Colorado Avalanche,5,San Jose Sharks,4,Tim Peel,Brad Watson,Colorado Avalanche,San Jose Sharks
+2009021178,Vancouver Canucks,4,Minnesota Wild,3,Dennis LaRue,Brad Meier,Vancouver Canucks,Minnesota Wild
+2009021179,Washington Capitals,3,Boston Bruins,2,Bill McCreary,Steve Kozari,Washington Capitals,Boston Bruins
+2009021180,St. Louis Blues,2,Columbus Blue Jackets,1,Francis Charron,Dan O'Halloran,St. Louis Blues,Columbus Blue Jackets
+2009021181,Edmonton Oilers,4,Minnesota Wild,1,Gord Dwyer,Stephen Walkom,Edmonton Oilers,Minnesota Wild
+2009021182,Buffalo Sabres,5,New York Rangers,2,Bill McCreary,Justin StPierre,Buffalo Sabres,New York Rangers
+2009021183,Toronto Maple Leafs,0,Philadelphia Flyers,2,Eric Furlatt,Chris Lee,Philadelphia Flyers,Toronto Maple Leafs
+2009021184,New York Islanders,3,Montréal Canadiens,3,Dan O'Rourke,Kelly Sutherland,New York Islanders,Montréal Canadiens
+2009021185,Atlanta Thrashers,0,New Jersey Devils,3,Wes McCauley,Brian Pochmara,New Jersey Devils,Atlanta Thrashers
+2009021186,Pittsburgh Penguins,3,Washington Capitals,6,Paul Devorski,Ian Walsh,Washington Capitals,Pittsburgh Penguins
+2009021187,Tampa Bay Lightning,5,Carolina Hurricanes,8,Tim Peel,Ghislain Hebert,Carolina Hurricanes,Tampa Bay Lightning
+2009021188,Florida Panthers,2,Ottawa Senators,5,Dan O'Halloran,Dean Morton,Ottawa Senators,Florida Panthers
+2009021189,Dallas Stars,2,Chicago Blackhawks,5,Dennis LaRue,Francois StLaurent,Chicago Blackhawks,Dallas Stars
+2009021190,Calgary Flames,1,San Jose Sharks,2,Gord Dwyer,Stephen Walkom,San Jose Sharks,Calgary Flames
+2009021191,Vancouver Canucks,3,Colorado Avalanche,3,Mike Leggo,Kevin Pollock,Vancouver Canucks,Colorado Avalanche
+2009021192,Anaheim Ducks,4,Los Angeles Kings,4,Chris Rooney,Greg Kimmerly,Anaheim Ducks,Los Angeles Kings
+2009021193,New York Rangers,5,Toronto Maple Leafs,1,Kerry Fraser,Kelly Sutherland,New York Rangers,Toronto Maple Leafs
+2009021194,Detroit Red Wings,4,Columbus Blue Jackets,3,Wes McCauley,Paul Devorski,Detroit Red Wings,Columbus Blue Jackets
+2009021195,Chicago Blackhawks,6,St. Louis Blues,5,Stephen Walkom,Steve Kozari,Chicago Blackhawks,St. Louis Blues
+2009021196,Edmonton Oilers,5,Colorado Avalanche,4,Mike Leggo,Kevin Pollock,Edmonton Oilers,Colorado Avalanche
+2009021197,Phoenix Coyotes,5,Nashville Predators,2,Brad Watson,Tom Kowal,Phoenix Coyotes,Nashville Predators
+2009021198,Boston Bruins,3,Buffalo Sabres,1,Kerry Fraser,Ian Walsh,Boston Bruins,Buffalo Sabres
+2009021199,Carolina Hurricanes,5,Montréal Canadiens,2,Justin StPierre,Marc Joannette,Carolina Hurricanes,Montréal Canadiens
+2009021200,Pittsburgh Penguins,7,New York Islanders,3,Eric Furlatt,Dean Morton,Pittsburgh Penguins,New York Islanders
+2009021201,Tampa Bay Lightning,3,Ottawa Senators,3,Brian Pochmara,Chris Lee,Tampa Bay Lightning,Ottawa Senators
+2009021202,Florida Panthers,3,New Jersey Devils,2,Tim Peel,Rob Martell,Florida Panthers,New Jersey Devils
+2009021203,Dallas Stars,2,Anaheim Ducks,2,Dan O'Halloran,Kyle Rehman,Dallas Stars,Anaheim Ducks
+2009021204,Calgary Flames,1,Minnesota Wild,1,Mike Leggo,Kevin Pollock,Calgary Flames,Minnesota Wild
+2009021205,Los Angeles Kings,2,Phoenix Coyotes,2,Chris Rooney,Greg Kimmerly,Los Angeles Kings,Phoenix Coyotes
+2009021206,San Jose Sharks,4,Vancouver Canucks,2,Dennis LaRue,Frederick L'Ecuyer,San Jose Sharks,Vancouver Canucks
+2009021207,New York Rangers,4,Philadelphia Flyers,3,Dan O'Rourke,Paul Devorski,New York Rangers,Philadelphia Flyers
+2009021208,Washington Capitals,5,Atlanta Thrashers,2,Kelly Sutherland,Steve Kozari,Washington Capitals,Atlanta Thrashers
+2009021209,Columbus Blue Jackets,0,Detroit Red Wings,0,Bill McCreary,Justin StPierre,Columbus Blue Jackets,Detroit Red Wings
+2009021210,St. Louis Blues,6,Anaheim Ducks,3,Stephane Auger,Brian Pochmara,St. Louis Blues,Anaheim Ducks
+2009021211,Colorado Avalanche,2,Chicago Blackhawks,5,Dan O'Halloran,Tom Kowal,Chicago Blackhawks,Colorado Avalanche
+2009021212,Boston Bruins,4,Carolina Hurricanes,2,Marc Joannette,Chris Lee,Boston Bruins,Carolina Hurricanes
+2009021213,Los Angeles Kings,3,Edmonton Oilers,3,Frederick L'Ecuyer,Brad Watson,Los Angeles Kings,Edmonton Oilers
+2009021214,Montréal Canadiens,3,Toronto Maple Leafs,4,Wes McCauley,Dan Marouelli,Toronto Maple Leafs,Montréal Canadiens
+2009021215,Ottawa Senators,2,Buffalo Sabres,5,Eric Furlatt,Dean Morton,Buffalo Sabres,Ottawa Senators
+2009021216,New Jersey Devils,7,New York Islanders,1,Tim Peel,Kyle Rehman,New Jersey Devils,New York Islanders
+2009021217,Atlanta Thrashers,1,Pittsburgh Penguins,0,Dan O'Rourke,Stephane Auger,Atlanta Thrashers,Pittsburgh Penguins
+2009021218,Tampa Bay Lightning,3,Florida Panthers,3,Rob Martell,Francois StLaurent,Tampa Bay Lightning,Florida Panthers
+2009021219,Nashville Predators,1,St. Louis Blues,1,Chris Rooney,Brian Pochmara,Nashville Predators,St. Louis Blues
+2009021220,Minnesota Wild,3,Dallas Stars,3,Gord Dwyer,Tom Kowal,Minnesota Wild,Dallas Stars
+2009021221,Vancouver Canucks,7,Calgary Flames,3,Kevin Pollock,Brad Meier,Vancouver Canucks,Calgary Flames
+2009021222,San Jose Sharks,2,Phoenix Coyotes,2,Mike Leggo,Greg Kimmerly,San Jose Sharks,Phoenix Coyotes
+2009021223,Philadelphia Flyers,1,New York Rangers,1,Kerry Fraser,Kelly Sutherland,Philadelphia Flyers,New York Rangers
+2009021224,Washington Capitals,3,Boston Bruins,3,Marc Joannette,Chris Lee,Washington Capitals,Boston Bruins
+2009021225,Chicago Blackhawks,2,Detroit Red Wings,3,Dan O'Halloran,Dennis LaRue,Detroit Red Wings,Chicago Blackhawks
+2009021226,Colorado Avalanche,1,Los Angeles Kings,2,Bill McCreary,Ian Walsh,Los Angeles Kings,Colorado Avalanche
+2009021227,New Jersey Devils,2,Buffalo Sabres,1,Paul Devorski,Steve Kozari,New Jersey Devils,Buffalo Sabres
+2009021228,New York Islanders,5,Pittsburgh Penguins,6,Stephane Auger,Tim Peel,Pittsburgh Penguins,New York Islanders
+2009021229,Florida Panthers,1,Tampa Bay Lightning,3,Justin StPierre,Francois StLaurent,Tampa Bay Lightning,Florida Panthers
+2009021230,Anaheim Ducks,7,Edmonton Oilers,2,Frederick L'Ecuyer,Brad Watson,Anaheim Ducks,Edmonton Oilers

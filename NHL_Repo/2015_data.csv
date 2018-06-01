@@ -1,0 +1,1231 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2015020001,Toronto Maple Leafs,1,Montréal Canadiens,3,Dan O'Rourke,Frederick L'Ecuyer,Montréal Canadiens,Toronto Maple Leafs
+2015020002,Chicago Blackhawks,2,New York Rangers,3,Ghislain Hebert,Steve Kozari,New York Rangers,Chicago Blackhawks
+2015020003,Calgary Flames,1,Vancouver Canucks,5,Chris Lee,Ian Walsh,Vancouver Canucks,Calgary Flames
+2015020004,Los Angeles Kings,1,San Jose Sharks,5,Brian Pochmara,Brad Meier,San Jose Sharks,Los Angeles Kings
+2015020005,Boston Bruins,2,Winnipeg Jets,6,Greg Kimmerly,Francois St-Laurent,Winnipeg Jets,Boston Bruins
+2015020006,Buffalo Sabres,1,Ottawa Senators,3,Dan O'Rourke,Frederick L'Ecuyer,Ottawa Senators,Buffalo Sabres
+2015020007,Tampa Bay Lightning,3,Philadelphia Flyers,2,Gord Dwyer,Dean Morton,Tampa Bay Lightning,Philadelphia Flyers
+2015020008,St. Louis Blues,3,Edmonton Oilers,1,Francis Charron,Ghislain Hebert,St. Louis Blues,Edmonton Oilers
+2015020009,Nashville Predators,2,Carolina Hurricanes,1,Chris Rooney,Kyle Rehman,Nashville Predators,Carolina Hurricanes
+2015020010,Dallas Stars,3,Pittsburgh Penguins,0,Graham Skilliter,Tom Kowal,Dallas Stars,Pittsburgh Penguins
+2015020011,Colorado Avalanche,4,Minnesota Wild,5,Brian Pochmara,Brad Meier,Minnesota Wild,Colorado Avalanche
+2015020012,New Jersey Devils,1,Winnipeg Jets,3,Greg Kimmerly,Eric Furlatt,Winnipeg Jets,New Jersey Devils
+2015020013,Columbus Blue Jackets,2,New York Rangers,4,Marc Joannette,Rob Martell,New York Rangers,Columbus Blue Jackets
+2015020014,Detroit Red Wings,4,Toronto Maple Leafs,0,Tim Peel,Thomas John Luxmore,Detroit Red Wings,Toronto Maple Leafs
+2015020015,New York Islanders,2,Chicago Blackhawks,3,Jean Hebert,Brad Watson,Chicago Blackhawks,New York Islanders
+2015020016,Los Angeles Kings,1,Arizona Coyotes,4,Wes McCauley,Justin St. Pierre ,Arizona Coyotes,Los Angeles Kings
+2015020017,Buffalo Sabres,1,Tampa Bay Lightning,4,Kelly Sutherland,Ghislain Hebert,Tampa Bay Lightning,Buffalo Sabres
+2015020018,Boston Bruins,2,Montréal Canadiens,4,Dan O'Rourke,Mark Lemelin,Montréal Canadiens,Boston Bruins
+2015020019,Toronto Maple Leafs,4,Ottawa Senators,4,Kevin Pollock,Francois St-Laurent,Toronto Maple Leafs,Ottawa Senators
+2015020020,Florida Panthers,7,Philadelphia Flyers,1,Gord Dwyer,Dean Morton,Florida Panthers,Philadelphia Flyers
+2015020021,New York Rangers,5,Columbus Blue Jackets,2,Dave Jackson,Eric Furlatt,New York Rangers,Columbus Blue Jackets
+2015020022,Washington Capitals,5,New Jersey Devils,3,Jean Hebert,Brad Watson,Washington Capitals,New Jersey Devils
+2015020023,Carolina Hurricanes,3,Detroit Red Wings,4,Rob Martell,Steve Kozari,Detroit Red Wings,Carolina Hurricanes
+2015020024,Nashville Predators,2,Edmonton Oilers,0,Francis Charron,Marc Joannette,Nashville Predators,Edmonton Oilers
+2015020025,Minnesota Wild,3,St. Louis Blues,2,Graham Skilliter,Brad Meier,Minnesota Wild,St. Louis Blues
+2015020026,Chicago Blackhawks,4,New York Islanders,1,Chris Rooney,Kyle Rehman,Chicago Blackhawks,New York Islanders
+2015020027,Colorado Avalanche,6,Dallas Stars,3,Dan O'Halloran,Chris Lee,Colorado Avalanche,Dallas Stars
+2015020028,Vancouver Canucks,2,Calgary Flames,3,Mike Leggo,Ian Walsh,Calgary Flames,Vancouver Canucks
+2015020029,Arizona Coyotes,2,Pittsburgh Penguins,1,Brian Pochmara,Tom Kowal,Arizona Coyotes,Pittsburgh Penguins
+2015020030,San Jose Sharks,2,Anaheim Ducks,0,Wes McCauley,Justin St. Pierre ,San Jose Sharks,Anaheim Ducks
+2015020031,Ottawa Senators,1,Montréal Canadiens,3,Tim Peel,Thomas John Luxmore,Montréal Canadiens,Ottawa Senators
+2015020032,Boston Bruins,3,Tampa Bay Lightning,6,Dave Jackson,Trevor Hanson,Tampa Bay Lightning,Boston Bruins
+2015020033,New York Islanders,4,Winnipeg Jets,2,Eric Furlatt,Garrett Rank,New York Islanders,Winnipeg Jets
+2015020034,Buffalo Sabres,4,Columbus Blue Jackets,2,Jean Hebert,Francois St-Laurent,Buffalo Sabres,Columbus Blue Jackets
+2015020035,Philadelphia Flyers,1,Florida Panthers,0,Brad Watson,Kyle Rehman,Philadelphia Flyers,Florida Panthers
+2015020036,Anaheim Ducks,1,Vancouver Canucks,1,Wes McCauley,Justin St. Pierre ,Anaheim Ducks,Vancouver Canucks
+2015020037,New Jersey Devils,1,Nashville Predators,3,Dave Jackson,Kevin Pollock,Nashville Predators,New Jersey Devils
+2015020038,New York Rangers,1,Winnipeg Jets,4,Jean Hebert,Trevor Hanson,Winnipeg Jets,New York Rangers
+2015020039,Pittsburgh Penguins,2,Montréal Canadiens,3,Greg Kimmerly,Brad Watson,Montréal Canadiens,Pittsburgh Penguins
+2015020040,Washington Capitals,0,San Jose Sharks,5,Tim Peel,Thomas John Luxmore,San Jose Sharks,Washington Capitals
+2015020041,Carolina Hurricanes,1,Florida Panthers,4,Dan O'Rourke,Mark Lemelin,Florida Panthers,Carolina Hurricanes
+2015020042,Detroit Red Wings,3,Tampa Bay Lightning,1,Dan O'Halloran,Kendrick Nicholson,Detroit Red Wings,Tampa Bay Lightning
+2015020043,Dallas Stars,4,Edmonton Oilers,2,Mike Leggo,Rob Martell,Dallas Stars,Edmonton Oilers
+2015020044,Calgary Flames,3,St. Louis Blues,4,Tom Kowal,Brad Meier,St. Louis Blues,Calgary Flames
+2015020045,Los Angeles Kings,0,Vancouver Canucks,3,Justin St. Pierre ,Steve Kozari,Vancouver Canucks,Los Angeles Kings
+2015020046,Columbus Blue Jackets,3,Ottawa Senators,7,Francis Charron,Greg Kimmerly,Ottawa Senators,Columbus Blue Jackets
+2015020047,Philadelphia Flyers,3,Chicago Blackhawks,0,Eric Furlatt,Garrett Rank,Philadelphia Flyers,Chicago Blackhawks
+2015020048,Colorado Avalanche,2,Boston Bruins,6,Mike Leggo,Rob Martell,Boston Bruins,Colorado Avalanche
+2015020049,Anaheim Ducks,0,Arizona Coyotes,4,Ian Walsh,Steve Kozari,Arizona Coyotes,Anaheim Ducks
+2015020050,New York Islanders,4,Nashville Predators,3,Dave Jackson,Frederick L'Ecuyer,New York Islanders,Nashville Predators
+2015020051,Pittsburgh Penguins,2,Ottawa Senators,0,Dan O'Halloran,Evgeny Romasko,Pittsburgh Penguins,Ottawa Senators
+2015020052,Washington Capitals,4,Chicago Blackhawks,1,Marc Joannette,Francois St-Laurent,Washington Capitals,Chicago Blackhawks
+2015020053,Montréal Canadiens,3,New York Rangers,0,Brad Watson,Dean Morton,Montréal Canadiens,New York Rangers
+2015020054,Tampa Bay Lightning,3,Dallas Stars,5,Thomas John Luxmore,Kevin Pollock,Dallas Stars,Tampa Bay Lightning
+2015020055,Florida Panthers,3,Buffalo Sabres,2,Chris Rooney,Trevor Hanson,Florida Panthers,Buffalo Sabres
+2015020056,Edmonton Oilers,2,St. Louis Blues,4,Kelly Sutherland,Chris Lee,St. Louis Blues,Edmonton Oilers
+2015020057,Arizona Coyotes,3,Minnesota Wild,4,Gord Dwyer,Ian Walsh,Minnesota Wild,Arizona Coyotes
+2015020058,New Jersey Devils,1,San Jose Sharks,1,Dan O'Halloran,Evgeny Romasko,New Jersey Devils,San Jose Sharks
+2015020059,Columbus Blue Jackets,3,Toronto Maple Leafs,6,Justin St. Pierre ,Ghislain Hebert,Toronto Maple Leafs,Columbus Blue Jackets
+2015020060,Detroit Red Wings,3,Carolina Hurricanes,5,Mike Leggo,Brad Meier,Carolina Hurricanes,Detroit Red Wings
+2015020061,Winnipeg Jets,3,Calgary Flames,1,Francis Charron,Kelly Sutherland,Winnipeg Jets,Calgary Flames
+2015020062,Vancouver Canucks,3,St. Louis Blues,4,Graham Skilliter,Chris Lee,St. Louis Blues,Vancouver Canucks
+2015020063,Anaheim Ducks,0,Colorado Avalanche,3,Tim Peel,Ian Walsh,Colorado Avalanche,Anaheim Ducks
+2015020064,Los Angeles Kings,2,Minnesota Wild,1,Rob Martell,Steve Kozari,Los Angeles Kings,Minnesota Wild
+2015020065,Montréal Canadiens,4,Detroit Red Wings,1,Dave Jackson,Marc Joannette,Montréal Canadiens,Detroit Red Wings
+2015020066,Ottawa Senators,3,Nashville Predators,3,Wes McCauley,Eric Furlatt,Ottawa Senators,Nashville Predators
+2015020067,Tampa Bay Lightning,2,Buffalo Sabres,1,Chris Rooney,Frederick L'Ecuyer,Tampa Bay Lightning,Buffalo Sabres
+2015020068,Florida Panthers,2,Dallas Stars,4,Thomas John Luxmore,Kevin Pollock,Dallas Stars,Florida Panthers
+2015020069,Pittsburgh Penguins,2,Toronto Maple Leafs,1,Jean Hebert,Ghislain Hebert,Pittsburgh Penguins,Toronto Maple Leafs
+2015020070,Washington Capitals,4,Carolina Hurricanes,1,Dan O'Halloran,Dean Morton,Washington Capitals,Carolina Hurricanes
+2015020071,New York Islanders,6,San Jose Sharks,3,Francois St-Laurent,Trevor Hanson,New York Islanders,San Jose Sharks
+2015020072,Chicago Blackhawks,4,Columbus Blue Jackets,1,Francis Charron,Brad Meier,Chicago Blackhawks,Columbus Blue Jackets
+2015020073,Calgary Flames,2,Edmonton Oilers,5,Greg Kimmerly,Gord Dwyer,Edmonton Oilers,Calgary Flames
+2015020074,Arizona Coyotes,3,Boston Bruins,5,Tim Peel,Kyle Rehman,Boston Bruins,Arizona Coyotes
+2015020075,New York Rangers,1,New Jersey Devils,2,Mike Leggo,Justin St. Pierre ,New Jersey Devils,New York Rangers
+2015020076,Winnipeg Jets,2,St. Louis Blues,4,Dan O'Rourke,Tom Kowal,St. Louis Blues,Winnipeg Jets
+2015020077,Anaheim Ducks,4,Minnesota Wild,1,Graham Skilliter,Rob Martell,Anaheim Ducks,Minnesota Wild
+2015020078,Vancouver Canucks,1,Edmonton Oilers,2,Kelly Sutherland,Gord Dwyer,Edmonton Oilers,Vancouver Canucks
+2015020079,Los Angeles Kings,2,Colorado Avalanche,1,Tim Peel,Kyle Rehman,Los Angeles Kings,Colorado Avalanche
+2015020080,New York Rangers,4,San Jose Sharks,0,Chris Rooney,Ghislain Hebert,New York Rangers,San Jose Sharks
+2015020081,New Jersey Devils,3,Arizona Coyotes,2,Ghislain Hebert,Marc Joannette,New Jersey Devils,Arizona Coyotes
+2015020082,Philadelphia Flyers,1,Dallas Stars,2,Eric Furlatt,Tom Kowal,Dallas Stars,Philadelphia Flyers
+2015020083,Pittsburgh Penguins,3,Florida Panthers,2,Mike Leggo,Wes McCauley,Pittsburgh Penguins,Florida Panthers
+2015020084,Columbus Blue Jackets,0,New York Islanders,4,Dean Morton,Steve Kozari,New York Islanders,Columbus Blue Jackets
+2015020085,Montréal Canadiens,3,St. Louis Blues,0,Chris Rooney,Brian Pochmara,Montréal Canadiens,St. Louis Blues
+2015020086,Nashville Predators,4,Tampa Bay Lightning,4,Justin St. Pierre ,Brad Watson,Nashville Predators,Tampa Bay Lightning
+2015020087,Calgary Flames,2,Washington Capitals,6,Dan O'Rourke,Greg Kimmerly,Washington Capitals,Calgary Flames
+2015020088,Buffalo Sabres,1,Toronto Maple Leafs,1,Steve Kozari,Jon McIsaac,Buffalo Sabres,Toronto Maple Leafs
+2015020089,Boston Bruins,4,Philadelphia Flyers,5,Thomas John Luxmore,Marc Joannette,Philadelphia Flyers,Boston Bruins
+2015020090,Edmonton Oilers,3,Detroit Red Wings,1,Dan O'Rourke,Kyle Rehman,Edmonton Oilers,Detroit Red Wings
+2015020091,Colorado Avalanche,0,Carolina Hurricanes,1,Gord Dwyer,Brad Meier,Carolina Hurricanes,Colorado Avalanche
+2015020092,New York Rangers,4,Arizona Coyotes,1,Thomas John Luxmore,Kevin Pollock,New York Rangers,Arizona Coyotes
+2015020093,Pittsburgh Penguins,1,Dallas Stars,4,Francis Charron,Dean Morton,Dallas Stars,Pittsburgh Penguins
+2015020094,Ottawa Senators,4,New Jersey Devils,4,Brian Pochmara,Tom Kowal,Ottawa Senators,New Jersey Devils
+2015020095,Nashville Predators,5,Anaheim Ducks,1,Jean Hebert,Francois St-Laurent,Nashville Predators,Anaheim Ducks
+2015020096,Minnesota Wild,3,Columbus Blue Jackets,2,Greg Kimmerly,Chris Lee,Minnesota Wild,Columbus Blue Jackets
+2015020097,Chicago Blackhawks,3,Florida Panthers,2,Justin St. Pierre ,Ian Walsh,Chicago Blackhawks,Florida Panthers
+2015020098,Vancouver Canucks,2,Washington Capitals,3,Dave Jackson,Kyle Rehman,Washington Capitals,Vancouver Canucks
+2015020099,San Jose Sharks,1,Los Angeles Kings,4,Dan O'Halloran,Frederick L'Ecuyer,Los Angeles Kings,San Jose Sharks
+2015020100,Buffalo Sabres,2,Montréal Canadiens,7,Francis Charron,Brian Pochmara,Montréal Canadiens,Buffalo Sabres
+2015020101,New York Islanders,3,Boston Bruins,5,Kelly Sutherland,Kevin Pollock,Boston Bruins,New York Islanders
+2015020102,Winnipeg Jets,3,Tampa Bay Lightning,4,Ian Walsh,Brad Meier,Tampa Bay Lightning,Winnipeg Jets
+2015020103,Calgary Flames,3,Detroit Red Wings,2,Rob Martell,Kyle Rehman,Calgary Flames,Detroit Red Wings
+2015020104,Edmonton Oilers,4,Washington Capitals,7,Dave Jackson,Brad Watson,Washington Capitals,Edmonton Oilers
+2015020105,Los Angeles Kings,3,Carolina Hurricanes,0,Gord Dwyer,Graham Skilliter,Los Angeles Kings,Carolina Hurricanes
+2015020106,Minnesota Wild,3,Anaheim Ducks,0,Jean Hebert,Marc Joannette,Minnesota Wild,Anaheim Ducks
+2015020107,Buffalo Sabres,3,New Jersey Devils,4,Greg Kimmerly,Tom Kowal,New Jersey Devils,Buffalo Sabres
+2015020108,Montréal Canadiens,5,Toronto Maple Leafs,3,Wes McCauley,Eric Furlatt,Montréal Canadiens,Toronto Maple Leafs
+2015020109,Ottawa Senators,1,Arizona Coyotes,4,Chris Rooney,Chris Lee,Arizona Coyotes,Ottawa Senators
+2015020110,Philadelphia Flyers,2,New York Rangers,2,Kelly Sutherland,Brian Pochmara,Philadelphia Flyers,New York Rangers
+2015020111,St. Louis Blues,2,New York Islanders,3,Justin St. Pierre ,Thomas John Luxmore,New York Islanders,St. Louis Blues
+2015020112,Nashville Predators,1,Pittsburgh Penguins,2,Ghislain Hebert,Dean Morton,Pittsburgh Penguins,Nashville Predators
+2015020113,Dallas Stars,2,Florida Panthers,6,Dan O'Halloran,Frederick L'Ecuyer,Florida Panthers,Dallas Stars
+2015020114,Chicago Blackhawks,1,Tampa Bay Lightning,0,Tim Peel,Brad Meier,Chicago Blackhawks,Tampa Bay Lightning
+2015020115,Colorado Avalanche,3,Columbus Blue Jackets,4,Francois St-Laurent,Trevor Hanson,Columbus Blue Jackets,Colorado Avalanche
+2015020116,Vancouver Canucks,2,Detroit Red Wings,3,Dan O'Rourke,Brad Watson,Detroit Red Wings,Vancouver Canucks
+2015020117,San Jose Sharks,5,Carolina Hurricanes,2,Mike Leggo,Graham Skilliter,San Jose Sharks,Carolina Hurricanes
+2015020118,Winnipeg Jets,5,Minnesota Wild,4,Marc Joannette,Kyle Rehman,Winnipeg Jets,Minnesota Wild
+2015020119,New York Rangers,4,Calgary Flames,1,Kevin Pollock,Furman Furman,New York Rangers,Calgary Flames
+2015020120,Edmonton Oilers,2,Los Angeles Kings,3,Dan O'Rourke,Rob Martell,Los Angeles Kings,Edmonton Oilers
+2015020121,New York Islanders,4,Calgary Flames,0,Ghislain Hebert,Chris Lee,New York Islanders,Calgary Flames
+2015020122,Toronto Maple Leafs,3,Arizona Coyotes,4,Tom Kowal,Dean Morton,Arizona Coyotes,Toronto Maple Leafs
+2015020123,Chicago Blackhawks,1,Anaheim Ducks,0,Francois St-Laurent,Trevor Hanson,Chicago Blackhawks,Anaheim Ducks
+2015020124,Boston Bruins,6,Arizona Coyotes,0,Wes McCauley,Francis Charron,Boston Bruins,Arizona Coyotes
+2015020125,New Jersey Devils,1,Columbus Blue Jackets,3,Kelly Sutherland,Frederick L'Ecuyer,Columbus Blue Jackets,New Jersey Devils
+2015020126,Philadelphia Flyers,3,Buffalo Sabres,4,Chris Lee,Ian Walsh,Buffalo Sabres,Philadelphia Flyers
+2015020127,Detroit Red Wings,1,Carolina Hurricanes,3,Tom Kowal,Dean Morton,Carolina Hurricanes,Detroit Red Wings
+2015020128,Florida Panthers,4,Colorado Avalanche,1,Eric Furlatt,Steve Kozari,Florida Panthers,Colorado Avalanche
+2015020129,St. Louis Blues,2,Tampa Bay Lightning,0,Marc Joannette,Kyle Rehman,St. Louis Blues,Tampa Bay Lightning
+2015020130,Minnesota Wild,4,Edmonton Oilers,3,Mike Leggo,Trevor Hanson,Minnesota Wild,Edmonton Oilers
+2015020131,Winnipeg Jets,1,Los Angeles Kings,4,Dave Jackson,Thomas John Luxmore,Los Angeles Kings,Winnipeg Jets
+2015020132,Dallas Stars,4,Anaheim Ducks,3,Chris Rooney,Gord Dwyer,Dallas Stars,Anaheim Ducks
+2015020133,Vancouver Canucks,5,Montréal Canadiens,1,Rob Martell,Brad Meier,Vancouver Canucks,Montréal Canadiens
+2015020134,Ottawa Senators,4,Calgary Flames,4,Francis Charron,Dan O'Halloran,Ottawa Senators,Calgary Flames
+2015020135,Washington Capitals,1,Pittsburgh Penguins,3,Frederick L'Ecuyer,Ian Walsh,Pittsburgh Penguins,Washington Capitals
+2015020136,San Jose Sharks,1,Nashville Predators,2,Rob Martell,Brad Meier,Nashville Predators,San Jose Sharks
+2015020137,New York Islanders,2,Carolina Hurricanes,3,Chris Rooney,Tim Peel,Carolina Hurricanes,New York Islanders
+2015020138,Philadelphia Flyers,1,New Jersey Devils,4,Wes McCauley,Frederick L'Ecuyer,New Jersey Devils,Philadelphia Flyers
+2015020139,Pittsburgh Penguins,4,Buffalo Sabres,3,Kelly Sutherland,Chris Lee,Pittsburgh Penguins,Buffalo Sabres
+2015020140,Tampa Bay Lightning,1,Colorado Avalanche,2,Justin St. Pierre ,Eric Furlatt,Colorado Avalanche,Tampa Bay Lightning
+2015020141,St. Louis Blues,2,Anaheim Ducks,1,Mike Leggo,Steve Kozari,St. Louis Blues,Anaheim Ducks
+2015020142,Winnipeg Jets,3,Chicago Blackhawks,1,Dave Jackson,Graham Skilliter,Winnipeg Jets,Chicago Blackhawks
+2015020143,Dallas Stars,4,Vancouver Canucks,3,Brian Pochmara,Trevor Hanson,Dallas Stars,Vancouver Canucks
+2015020144,Edmonton Oilers,4,Montréal Canadiens,3,Jean Hebert,Thomas John Luxmore,Edmonton Oilers,Montréal Canadiens
+2015020145,Buffalo Sabres,3,Philadelphia Flyers,1,Tim Peel,Kevin Pollock,Buffalo Sabres,Philadelphia Flyers
+2015020146,New York Rangers,3,Toronto Maple Leafs,1,Chris Rooney,Francis Charron,New York Rangers,Toronto Maple Leafs
+2015020147,Washington Capitals,2,Columbus Blue Jackets,1,Ghislain Hebert,Chris Lee,Washington Capitals,Columbus Blue Jackets
+2015020148,Carolina Hurricanes,3,Colorado Avalanche,2,Justin St. Pierre ,Dan O'Halloran,Carolina Hurricanes,Colorado Avalanche
+2015020149,Detroit Red Wings,1,Ottawa Senators,3,Kelly Sutherland,Gord Dwyer,Ottawa Senators,Detroit Red Wings
+2015020150,Florida Panthers,1,Boston Bruins,3,Brad Watson,Eric Furlatt,Boston Bruins,Florida Panthers
+2015020151,Minnesota Wild,5,Chicago Blackhawks,4,Dan O'Rourke,Ian Walsh,Minnesota Wild,Chicago Blackhawks
+2015020152,Calgary Flames,2,Montréal Canadiens,6,Jean Hebert,Graham Skilliter,Montréal Canadiens,Calgary Flames
+2015020153,Arizona Coyotes,3,Vancouver Canucks,4,Brian Pochmara,Rob Martell,Vancouver Canucks,Arizona Coyotes
+2015020154,New Jersey Devils,2,New York Islanders,2,Wes McCauley,Francois St-Laurent,New Jersey Devils,New York Islanders
+2015020155,Dallas Stars,5,San Jose Sharks,3,Dave Jackson,Kyle Rehman,Dallas Stars,San Jose Sharks
+2015020156,Los Angeles Kings,4,Nashville Predators,3,Mike Leggo,Tom Chmielewski,Los Angeles Kings,Nashville Predators
+2015020157,Toronto Maple Leafs,0,Pittsburgh Penguins,4,Tim Peel,Thomas John Luxmore,Pittsburgh Penguins,Toronto Maple Leafs
+2015020158,Ottawa Senators,3,Detroit Red Wings,5,Marc Joannette,Steve Kozari,Detroit Red Wings,Ottawa Senators
+2015020159,Tampa Bay Lightning,1,Boston Bruins,3,Brad Watson,Eric Furlatt,Boston Bruins,Tampa Bay Lightning
+2015020160,Florida Panthers,1,Washington Capitals,2,Dan O'Halloran,Frederick L'Ecuyer,Washington Capitals,Florida Panthers
+2015020161,Columbus Blue Jackets,2,Winnipeg Jets,3,Gord Dwyer,Kevin Pollock,Winnipeg Jets,Columbus Blue Jackets
+2015020162,St. Louis Blues,3,Minnesota Wild,2,Dan O'Rourke,Trevor Hanson,St. Louis Blues,Minnesota Wild
+2015020163,Edmonton Oilers,4,Calgary Flames,5,Jean Hebert,Dean Morton,Calgary Flames,Edmonton Oilers
+2015020164,Colorado Avalanche,3,San Jose Sharks,4,Graham Skilliter,Ian Walsh,San Jose Sharks,Colorado Avalanche
+2015020165,Carolina Hurricanes,3,Tampa Bay Lightning,4,Kelly Sutherland,Francois St-Laurent,Tampa Bay Lightning,Carolina Hurricanes
+2015020166,Montréal Canadiens,5,Winnipeg Jets,1,Ghislain Hebert,Steve Kozari,Montréal Canadiens,Winnipeg Jets
+2015020167,New York Islanders,1,Buffalo Sabres,2,Wes McCauley,Marc Joannette,Buffalo Sabres,New York Islanders
+2015020168,Anaheim Ducks,4,Nashville Predators,2,Brian Pochmara,Tom Kowal,Anaheim Ducks,Nashville Predators
+2015020169,Toronto Maple Leafs,4,Dallas Stars,1,Greg Kimmerly,Eric Furlatt,Toronto Maple Leafs,Dallas Stars
+2015020170,Chicago Blackhawks,4,Los Angeles Kings,2,Kevin Pollock,Dean Morton,Chicago Blackhawks,Los Angeles Kings
+2015020171,Vancouver Canucks,4,Philadelphia Flyers,1,Mike Leggo,Jean Hebert,Vancouver Canucks,Philadelphia Flyers
+2015020172,Boston Bruins,3,Dallas Stars,5,Justin St. Pierre ,Steve Kozari,Dallas Stars,Boston Bruins
+2015020173,New York Islanders,2,New Jersey Devils,1,Brad Meier,Kendrick Nicholson,New York Islanders,New Jersey Devils
+2015020174,New York Rangers,5,Washington Capitals,2,Wes McCauley,Marc Joannette,New York Rangers,Washington Capitals
+2015020175,Montréal Canadiens,1,Ottawa Senators,2,Chris Lee,Garrett Rank,Ottawa Senators,Montréal Canadiens
+2015020176,Detroit Red Wings,2,Tampa Bay Lightning,1,Francis Charron,Ghislain Hebert,Detroit Red Wings,Tampa Bay Lightning
+2015020177,St. Louis Blues,0,Los Angeles Kings,3,Kevin Pollock,Dean Morton,Los Angeles Kings,St. Louis Blues
+2015020178,Colorado Avalanche,6,Calgary Flames,3,Brian Pochmara,Brad Watson,Colorado Avalanche,Calgary Flames
+2015020179,Edmonton Oilers,4,Philadelphia Flyers,2,Chris Rooney,Ian Walsh,Edmonton Oilers,Philadelphia Flyers
+2015020180,San Jose Sharks,2,Columbus Blue Jackets,5,Dave Jackson,Tom Kowal,Columbus Blue Jackets,San Jose Sharks
+2015020181,Toronto Maple Leafs,2,Winnipeg Jets,4,Dan O'Halloran,Chris Lee,Winnipeg Jets,Toronto Maple Leafs
+2015020182,Chicago Blackhawks,5,St. Louis Blues,6,Frederick L'Ecuyer,Gord Dwyer,St. Louis Blues,Chicago Blackhawks
+2015020183,Vancouver Canucks,2,Pittsburgh Penguins,3,Chris Rooney,Jon McIsaac,Pittsburgh Penguins,Vancouver Canucks
+2015020184,Anaheim Ducks,2,Florida Panthers,2,Dave Jackson,Tom Chmielewski,Anaheim Ducks,Florida Panthers
+2015020185,Buffalo Sabres,1,Tampa Bay Lightning,4,Thomas John Luxmore,Marc Joannette,Tampa Bay Lightning,Buffalo Sabres
+2015020186,Washington Capitals,4,Boston Bruins,1,Greg Kimmerly,Brad Meier,Washington Capitals,Boston Bruins
+2015020187,Montréal Canadiens,4,New York Islanders,1,Justin St. Pierre ,Dan O'Halloran,Montréal Canadiens,New York Islanders
+2015020188,Ottawa Senators,2,Winnipeg Jets,2,Ghislain Hebert,Francois St-Laurent,Ottawa Senators,Winnipeg Jets
+2015020189,Minnesota Wild,2,Nashville Predators,3,Frederick L'Ecuyer,Rob Martell,Nashville Predators,Minnesota Wild
+2015020190,Calgary Flames,2,Philadelphia Flyers,1,Chris Rooney,Tim Peel,Calgary Flames,Philadelphia Flyers
+2015020191,Arizona Coyotes,4,Colorado Avalanche,2,Jean Hebert,Kevin Pollock,Arizona Coyotes,Colorado Avalanche
+2015020192,Los Angeles Kings,2,Columbus Blue Jackets,3,Brad Watson,Tom Kowal,Columbus Blue Jackets,Los Angeles Kings
+2015020193,San Jose Sharks,5,Florida Panthers,2,Ian Walsh,Tom Chmielewski,San Jose Sharks,Florida Panthers
+2015020194,Toronto Maple Leafs,1,Detroit Red Wings,2,Gord Dwyer,Francois St-Laurent,Detroit Red Wings,Toronto Maple Leafs
+2015020195,New Jersey Devils,4,Chicago Blackhawks,2,Thomas John Luxmore,Chris Lee,New Jersey Devils,Chicago Blackhawks
+2015020196,Carolina Hurricanes,1,Dallas Stars,4,Greg Kimmerly,Marc Joannette,Dallas Stars,Carolina Hurricanes
+2015020197,Colorado Avalanche,1,New York Rangers,2,Mike Leggo,Jean Hebert,New York Rangers,Colorado Avalanche
+2015020198,Edmonton Oilers,1,Pittsburgh Penguins,2,Tim Peel,Graham Skilliter,Pittsburgh Penguins,Edmonton Oilers
+2015020199,Anaheim Ducks,4,Columbus Blue Jackets,2,Brad Watson,Eric Furlatt,Anaheim Ducks,Columbus Blue Jackets
+2015020200,Buffalo Sabres,3,Vancouver Canucks,2,Francis Charron,Dean Morton,Buffalo Sabres,Vancouver Canucks
+2015020201,Los Angeles Kings,4,Florida Panthers,1,Ian Walsh,Tom Kowal,Los Angeles Kings,Florida Panthers
+2015020202,Montréal Canadiens,4,Boston Bruins,2,Thomas John Luxmore,Chris Lee,Montréal Canadiens,Boston Bruins
+2015020203,Washington Capitals,2,Toronto Maple Leafs,2,Kelly Sutherland,Brad Meier,Washington Capitals,Toronto Maple Leafs
+2015020204,Carolina Hurricanes,3,Ottawa Senators,2,Wes McCauley,Kyle Rehman,Carolina Hurricanes,Ottawa Senators
+2015020205,Winnipeg Jets,0,Philadelphia Flyers,3,Rob Martell,Steve Kozari,Philadelphia Flyers,Winnipeg Jets
+2015020206,Nashville Predators,0,St. Louis Blues,4,Justin St. Pierre ,Trevor Hanson,St. Louis Blues,Nashville Predators
+2015020207,Minnesota Wild,1,Tampa Bay Lightning,0,Dan O'Halloran,Brian Pochmara,Minnesota Wild,Tampa Bay Lightning
+2015020208,Arizona Coyotes,1,New York Rangers,4,Mike Leggo,Ghislain Hebert,New York Rangers,Arizona Coyotes
+2015020209,Calgary Flames,5,Pittsburgh Penguins,2,Chris Rooney,Frederick L'Ecuyer,Calgary Flames,Pittsburgh Penguins
+2015020210,San Jose Sharks,0,Anaheim Ducks,1,Eric Furlatt,Kevin Pollock,Anaheim Ducks,San Jose Sharks
+2015020211,Detroit Red Wings,1,Dallas Stars,4,Graham Skilliter,Francois St-Laurent,Dallas Stars,Detroit Red Wings
+2015020212,New Jersey Devils,4,Vancouver Canucks,3,Francis Charron,Kyle Rehman,New Jersey Devils,Vancouver Canucks
+2015020213,New York Islanders,1,Boston Bruins,2,Gord Dwyer,Brad Meier,Boston Bruins,New York Islanders
+2015020214,Chicago Blackhawks,4,Edmonton Oilers,2,Brian Pochmara,Trevor Hanson,Chicago Blackhawks,Edmonton Oilers
+2015020215,Anaheim Ducks,3,Arizona Coyotes,4,Chris Rooney,Ghislain Hebert,Arizona Coyotes,Anaheim Ducks
+2015020216,New Jersey Devils,0,St. Louis Blues,2,Gord Dwyer,Rob Martell,St. Louis Blues,New Jersey Devils
+2015020217,New York Rangers,3,Carolina Hurricanes,0,Justin St. Pierre ,Frederick L'Ecuyer,New York Rangers,Carolina Hurricanes
+2015020218,Philadelphia Flyers,0,Colorado Avalanche,4,Francis Charron,Greg Kimmerly,Colorado Avalanche,Philadelphia Flyers
+2015020219,Columbus Blue Jackets,3,Vancouver Canucks,5,Wes McCauley,Evgeny Romasko,Vancouver Canucks,Columbus Blue Jackets
+2015020220,Detroit Red Wings,1,Washington Capitals,0,Chris Lee,Trevor Hanson,Detroit Red Wings,Washington Capitals
+2015020221,Tampa Bay Lightning,1,Buffalo Sabres,4,Kyle Rehman,Steve Kozari,Buffalo Sabres,Tampa Bay Lightning
+2015020222,Florida Panthers,4,Calgary Flames,3,Brian Pochmara,Dean Morton,Florida Panthers,Calgary Flames
+2015020223,Nashville Predators,7,Ottawa Senators,5,Kelly Sutherland,Graham Skilliter,Nashville Predators,Ottawa Senators
+2015020224,Minnesota Wild,5,Winnipeg Jets,3,Thomas John Luxmore,Brad Watson,Minnesota Wild,Winnipeg Jets
+2015020225,Dallas Stars,2,Toronto Maple Leafs,3,Mike Leggo,Jean Hebert,Toronto Maple Leafs,Dallas Stars
+2015020226,Los Angeles Kings,2,Arizona Coyotes,3,Dave Jackson,Tim Peel,Arizona Coyotes,Los Angeles Kings
+2015020227,San Jose Sharks,2,New York Islanders,4,Ghislain Hebert,Francois St-Laurent,New York Islanders,San Jose Sharks
+2015020228,Pittsburgh Penguins,3,Montréal Canadiens,3,Graham Skilliter,Marc Joannette,Pittsburgh Penguins,Montréal Canadiens
+2015020229,Anaheim Ducks,3,Edmonton Oilers,4,Tim Peel,Ghislain Hebert,Edmonton Oilers,Anaheim Ducks
+2015020230,Boston Bruins,2,Colorado Avalanche,3,Chris Rooney,Graham Skilliter,Colorado Avalanche,Boston Bruins
+2015020231,New York Rangers,6,St. Louis Blues,3,Dan O'Halloran,Greg Kimmerly,New York Rangers,St. Louis Blues
+2015020232,Philadelphia Flyers,2,Washington Capitals,5,Tom Kowal,Evgeny Romasko,Washington Capitals,Philadelphia Flyers
+2015020233,Carolina Hurricanes,2,Minnesota Wild,3,Jean Hebert,Dean Morton,Minnesota Wild,Carolina Hurricanes
+2015020234,Ottawa Senators,3,Vancouver Canucks,2,Frederick L'Ecuyer,Eric Furlatt,Ottawa Senators,Vancouver Canucks
+2015020235,Tampa Bay Lightning,3,Calgary Flames,1,Wes McCauley,Steve Kozari,Tampa Bay Lightning,Calgary Flames
+2015020236,Florida Panthers,2,Buffalo Sabres,3,Brian Pochmara,Rob Martell,Buffalo Sabres,Florida Panthers
+2015020237,Nashville Predators,1,Toronto Maple Leafs,1,Marc Joannette,Kyle Rehman,Nashville Predators,Toronto Maple Leafs
+2015020238,Chicago Blackhawks,2,New Jersey Devils,3,Mike Leggo,Kelly Sutherland,New Jersey Devils,Chicago Blackhawks
+2015020239,Dallas Stars,6,Winnipeg Jets,3,Chris Lee,Ian Walsh,Dallas Stars,Winnipeg Jets
+2015020240,Arizona Coyotes,4,Edmonton Oilers,1,Francois St-Laurent,Jake Brenk,Arizona Coyotes,Edmonton Oilers
+2015020241,Los Angeles Kings,2,New York Islanders,1,Brad Watson,Furman Furman,Los Angeles Kings,New York Islanders
+2015020242,Pittsburgh Penguins,1,Columbus Blue Jackets,2,Dan O'Halloran,Trevor Hanson,Columbus Blue Jackets,Pittsburgh Penguins
+2015020243,Washington Capitals,2,Calgary Flames,3,Tom Kowal,Kevin Pollock,Calgary Flames,Washington Capitals
+2015020244,Detroit Red Wings,2,San Jose Sharks,3,Jean Hebert,Thomas John Luxmore,San Jose Sharks,Detroit Red Wings
+2015020245,Anaheim Ducks,1,New York Islanders,4,Francois St-Laurent,Furman Furman,New York Islanders,Anaheim Ducks
+2015020246,Ottawa Senators,1,New York Rangers,1,Greg Kimmerly,Brad Meier,Ottawa Senators,New York Rangers
+2015020247,Boston Bruins,3,Detroit Red Wings,1,Frederick L'Ecuyer,Tom Kowal,Boston Bruins,Detroit Red Wings
+2015020248,Buffalo Sabres,1,San Jose Sharks,2,Gord Dwyer,Graham Skilliter,San Jose Sharks,Buffalo Sabres
+2015020249,Toronto Maple Leafs,4,Vancouver Canucks,2,Justin St. Pierre ,Trevor Hanson,Toronto Maple Leafs,Vancouver Canucks
+2015020250,Montréal Canadiens,1,Colorado Avalanche,6,Chris Rooney,Ghislain Hebert,Colorado Avalanche,Montréal Canadiens
+2015020251,Tampa Bay Lightning,4,Florida Panthers,4,Marc Joannette,Rob Martell,Tampa Bay Lightning,Florida Panthers
+2015020252,New Jersey Devils,4,Pittsburgh Penguins,0,Eric Furlatt,Kevin Pollock,New Jersey Devils,Pittsburgh Penguins
+2015020253,Carolina Hurricanes,2,Philadelphia Flyers,3,Brian Pochmara,Ian Walsh,Philadelphia Flyers,Carolina Hurricanes
+2015020254,Columbus Blue Jackets,5,Arizona Coyotes,2,Mike Leggo,Thomas John Luxmore,Columbus Blue Jackets,Arizona Coyotes
+2015020255,Nashville Predators,7,Winnipeg Jets,0,Wes McCauley,Dean Morton,Nashville Predators,Winnipeg Jets
+2015020256,St. Louis Blues,2,Chicago Blackhawks,4,Kelly Sutherland,Tim Peel,Chicago Blackhawks,St. Louis Blues
+2015020257,Dallas Stars,3,Minnesota Wild,2,Evgeny Romasko,Steve Kozari,Dallas Stars,Minnesota Wild
+2015020258,Los Angeles Kings,4,Edmonton Oilers,3,Chris Lee,Francois St-Laurent,Los Angeles Kings,Edmonton Oilers
+2015020259,New York Rangers,4,Toronto Maple Leafs,3,Francis Charron,Dan O'Halloran,New York Rangers,Toronto Maple Leafs
+2015020260,Chicago Blackhawks,4,Calgary Flames,1,Wes McCauley,Furman Furman,Chicago Blackhawks,Calgary Flames
+2015020261,New York Islanders,5,Arizona Coyotes,2,Frederick L'Ecuyer,Eric Furlatt,New York Islanders,Arizona Coyotes
+2015020262,Carolina Hurricanes,1,Anaheim Ducks,4,Justin St. Pierre ,Ian Walsh,Anaheim Ducks,Carolina Hurricanes
+2015020263,Montréal Canadiens,4,Vancouver Canucks,3,Gord Dwyer,Tim Peel,Montréal Canadiens,Vancouver Canucks
+2015020264,Ottawa Senators,3,Detroit Red Wings,4,Mike Leggo,Chris Rooney,Detroit Red Wings,Ottawa Senators
+2015020265,Florida Panthers,1,Tampa Bay Lightning,0,Kelly Sutherland,Tom Kowal,Florida Panthers,Tampa Bay Lightning
+2015020266,St. Louis Blues,3,Winnipeg Jets,2,Kevin Pollock,Mark Lemelin,St. Louis Blues,Winnipeg Jets
+2015020267,Boston Bruins,4,San Jose Sharks,5,Francis Charron,Rob Martell,San Jose Sharks,Boston Bruins
+2015020268,Buffalo Sabres,1,Dallas Stars,3,Justin St. Pierre ,Ian Walsh,Dallas Stars,Buffalo Sabres
+2015020269,Philadelphia Flyers,2,Los Angeles Kings,2,Dan O'Halloran,Garrett Rank,Philadelphia Flyers,Los Angeles Kings
+2015020270,Pittsburgh Penguins,4,Minnesota Wild,3,Thomas John Luxmore,Francois St-Laurent,Pittsburgh Penguins,Minnesota Wild
+2015020271,Columbus Blue Jackets,3,St. Louis Blues,1,Jean Hebert,Kyle Rehman,Columbus Blue Jackets,St. Louis Blues
+2015020272,Toronto Maple Leafs,5,Colorado Avalanche,1,Mike Leggo,Gord Dwyer,Toronto Maple Leafs,Colorado Avalanche
+2015020273,Nashville Predators,3,Anaheim Ducks,2,Brad Watson,Mark Lemelin,Nashville Predators,Anaheim Ducks
+2015020274,Calgary Flames,3,New Jersey Devils,2,Dave Jackson,Brad Meier,Calgary Flames,New Jersey Devils
+2015020275,Winnipeg Jets,4,Vancouver Canucks,1,Chris Rooney,Tim Peel,Winnipeg Jets,Vancouver Canucks
+2015020276,Detroit Red Wings,1,Washington Capitals,2,Greg Kimmerly,Steve Kozari,Washington Capitals,Detroit Red Wings
+2015020277,Edmonton Oilers,3,Chicago Blackhawks,4,Dave Jackson,Brad Meier,Chicago Blackhawks,Edmonton Oilers
+2015020278,Boston Bruins,4,Minnesota Wild,2,Ian Walsh,Dean Morton,Boston Bruins,Minnesota Wild
+2015020279,Philadelphia Flyers,0,San Jose Sharks,1,Brian Pochmara,Rob Martell,San Jose Sharks,Philadelphia Flyers
+2015020280,Pittsburgh Penguins,4,Colorado Avalanche,3,Kelly Sutherland,Kendrick Nicholson,Pittsburgh Penguins,Colorado Avalanche
+2015020281,Washington Capitals,2,Dallas Stars,3,Wes McCauley,Kyle Rehman,Dallas Stars,Washington Capitals
+2015020282,Montréal Canadiens,2,Arizona Coyotes,3,Eric Furlatt,Furman Furman,Arizona Coyotes,Montréal Canadiens
+2015020283,Ottawa Senators,3,Columbus Blue Jackets,0,Justin St. Pierre ,Kevin Pollock,Ottawa Senators,Columbus Blue Jackets
+2015020284,Tampa Bay Lightning,2,New York Rangers,1,Jean Hebert,Mark Lemelin,Tampa Bay Lightning,New York Rangers
+2015020285,Florida Panthers,1,Anaheim Ducks,3,Francis Charron,Thomas John Luxmore,Anaheim Ducks,Florida Panthers
+2015020286,St. Louis Blues,2,Buffalo Sabres,2,Ghislain Hebert,Brad Watson,St. Louis Blues,Buffalo Sabres
+2015020287,Carolina Hurricanes,1,Toronto Maple Leafs,1,Greg Kimmerly,Chris Lee,Carolina Hurricanes,Toronto Maple Leafs
+2015020288,Columbus Blue Jackets,4,Nashville Predators,0,Kelly Sutherland,Ghislain Hebert,Columbus Blue Jackets,Nashville Predators
+2015020289,Detroit Red Wings,3,Los Angeles Kings,2,Chris Rooney,Frederick L'Ecuyer,Detroit Red Wings,Los Angeles Kings
+2015020290,New York Islanders,3,Montréal Canadiens,5,Brian Pochmara,Dean Morton,Montréal Canadiens,New York Islanders
+2015020291,Calgary Flames,2,Chicago Blackhawks,1,Marc Joannette,Tom Kowal,Calgary Flames,Chicago Blackhawks
+2015020292,Edmonton Oilers,5,New Jersey Devils,1,Steve Kozari,Trevor Hanson,Edmonton Oilers,New Jersey Devils
+2015020293,Boston Bruins,2,Toronto Maple Leafs,0,Kevin Pollock,Garrett Rank,Boston Bruins,Toronto Maple Leafs
+2015020294,Ottawa Senators,4,Philadelphia Flyers,0,Jean Hebert,Graham Skilliter,Ottawa Senators,Philadelphia Flyers
+2015020295,Tampa Bay Lightning,5,Anaheim Ducks,0,Greg Kimmerly,Chris Lee,Tampa Bay Lightning,Anaheim Ducks
+2015020296,Florida Panthers,4,New York Rangers,5,Mike Leggo,Mark Lemelin,New York Rangers,Florida Panthers
+2015020297,Pittsburgh Penguins,1,San Jose Sharks,3,Gord Dwyer,Kyle Rehman,San Jose Sharks,Pittsburgh Penguins
+2015020298,Washington Capitals,7,Colorado Avalanche,3,Rob Martell,Dean Morton,Washington Capitals,Colorado Avalanche
+2015020299,Winnipeg Jets,3,Arizona Coyotes,2,Brad Watson,Brad Meier,Winnipeg Jets,Arizona Coyotes
+2015020300,St. Louis Blues,3,Detroit Red Wings,4,Francis Charron,Eric Furlatt,Detroit Red Wings,St. Louis Blues
+2015020301,Dallas Stars,3,Buffalo Sabres,0,Dave Jackson,Thomas John Luxmore,Dallas Stars,Buffalo Sabres
+2015020302,Minnesota Wild,4,Nashville Predators,0,Kelly Sutherland,Dan O'Halloran,Minnesota Wild,Nashville Predators
+2015020303,Vancouver Canucks,6,Chicago Blackhawks,3,Marc Joannette,Tom Kowal,Vancouver Canucks,Chicago Blackhawks
+2015020304,Carolina Hurricanes,4,Los Angeles Kings,3,Tim Peel,Ghislain Hebert,Carolina Hurricanes,Los Angeles Kings
+2015020305,Columbus Blue Jackets,3,San Jose Sharks,5,Brian Pochmara,Frederick L'Ecuyer,San Jose Sharks,Columbus Blue Jackets
+2015020306,Montréal Canadiens,4,New York Islanders,2,Wes McCauley,Graham Skilliter,Montréal Canadiens,New York Islanders
+2015020307,Vancouver Canucks,2,New Jersey Devils,3,Marc Joannette,Steve Kozari,New Jersey Devils,Vancouver Canucks
+2015020308,Buffalo Sabres,1,St. Louis Blues,2,Wes McCauley,Rob Martell,St. Louis Blues,Buffalo Sabres
+2015020309,New York Rangers,3,Nashville Predators,0,Gord Dwyer,Chris Lee,New York Rangers,Nashville Predators
+2015020310,Philadelphia Flyers,3,Carolina Hurricanes,2,Dan O'Halloran,Kevin Pollock,Philadelphia Flyers,Carolina Hurricanes
+2015020311,Washington Capitals,1,Edmonton Oilers,0,Frederick L'Ecuyer,Eric Furlatt,Washington Capitals,Edmonton Oilers
+2015020312,Toronto Maple Leafs,3,Boston Bruins,3,Jean Hebert,Graham Skilliter,Toronto Maple Leafs,Boston Bruins
+2015020313,Florida Panthers,1,Los Angeles Kings,3,Dave Jackson,Greg Kimmerly,Los Angeles Kings,Florida Panthers
+2015020314,Winnipeg Jets,1,Colorado Avalanche,4,Kelly Sutherland,Justin St. Pierre ,Colorado Avalanche,Winnipeg Jets
+2015020315,Dallas Stars,4,Ottawa Senators,7,Tim Peel,Brad Watson,Ottawa Senators,Dallas Stars
+2015020316,Anaheim Ducks,5,Calgary Flames,3,Marc Joannette,Kyle Rehman,Anaheim Ducks,Calgary Flames
+2015020317,Buffalo Sabres,2,Nashville Predators,3,Eric Furlatt,Trevor Hanson,Nashville Predators,Buffalo Sabres
+2015020318,New Jersey Devils,1,Columbus Blue Jackets,2,Jean Hebert,Graham Skilliter,Columbus Blue Jackets,New Jersey Devils
+2015020319,New York Islanders,3,Philadelphia Flyers,1,Justin St. Pierre ,Gord Dwyer,New York Islanders,Philadelphia Flyers
+2015020320,New York Rangers,1,Montréal Canadiens,5,Tom Kowal,Evgeny Romasko,Montréal Canadiens,New York Rangers
+2015020321,Pittsburgh Penguins,4,St. Louis Blues,3,Wes McCauley,Francis Charron,Pittsburgh Penguins,St. Louis Blues
+2015020322,Washington Capitals,5,Winnipeg Jets,3,Chris Rooney,Kelly Sutherland,Washington Capitals,Winnipeg Jets
+2015020323,Carolina Hurricanes,4,Edmonton Oilers,1,Frederick L'Ecuyer,Mark Lemelin,Carolina Hurricanes,Edmonton Oilers
+2015020324,Minnesota Wild,2,Vancouver Canucks,3,Chris Lee,Kevin Pollock,Vancouver Canucks,Minnesota Wild
+2015020325,Detroit Red Wings,2,Boston Bruins,3,Dan O'Halloran,Brian Pochmara,Boston Bruins,Detroit Red Wings
+2015020326,Tampa Bay Lightning,1,Los Angeles Kings,1,Mike Leggo,Rob Martell,Tampa Bay Lightning,Los Angeles Kings
+2015020327,Arizona Coyotes,4,Anaheim Ducks,2,Brad Meier,Kyle Rehman,Arizona Coyotes,Anaheim Ducks
+2015020328,Colorado Avalanche,3,Ottawa Senators,5,Dave Jackson,Tom Chmielewski,Ottawa Senators,Colorado Avalanche
+2015020329,San Jose Sharks,2,Chicago Blackhawks,5,Dean Morton,Garrett Rank,Chicago Blackhawks,San Jose Sharks
+2015020330,Boston Bruins,4,New York Rangers,3,Wes McCauley,Chris Rooney,Boston Bruins,New York Rangers
+2015020331,Philadelphia Flyers,3,Nashville Predators,2,Francis Charron,Kendrick Nicholson,Philadelphia Flyers,Nashville Predators
+2015020332,Minnesota Wild,1,Winnipeg Jets,3,Graham Skilliter,Jon McIsaac,Winnipeg Jets,Minnesota Wild
+2015020333,Anaheim Ducks,2,Chicago Blackhawks,3,Thomas John Luxmore,Dean Morton,Chicago Blackhawks,Anaheim Ducks
+2015020334,Washington Capitals,4,Tampa Bay Lightning,2,Brian Pochmara,Trevor Hanson,Washington Capitals,Tampa Bay Lightning
+2015020335,Buffalo Sabres,4,Carolina Hurricanes,1,Eric Furlatt,Tom Kowal,Buffalo Sabres,Carolina Hurricanes
+2015020336,New Jersey Devils,2,Montréal Canadiens,2,Frederick L'Ecuyer,Brad Watson,New Jersey Devils,Montréal Canadiens
+2015020337,Columbus Blue Jackets,2,Pittsburgh Penguins,1,Brad Meier,Steve Kozari,Columbus Blue Jackets,Pittsburgh Penguins
+2015020338,Detroit Red Wings,4,Edmonton Oilers,3,Justin St. Pierre ,Kevin Pollock,Detroit Red Wings,Edmonton Oilers
+2015020339,Florida Panthers,2,New York Islanders,2,Mike Leggo,Jean Hebert,Florida Panthers,New York Islanders
+2015020340,Dallas Stars,2,Vancouver Canucks,2,Gord Dwyer,Ghislain Hebert,Dallas Stars,Vancouver Canucks
+2015020341,Arizona Coyotes,2,Calgary Flames,1,Ian Walsh,Tom Chmielewski,Arizona Coyotes,Calgary Flames
+2015020342,New York Rangers,0,Philadelphia Flyers,3,Kelly Sutherland,Brad Watson,Philadelphia Flyers,New York Rangers
+2015020343,Toronto Maple Leafs,2,Washington Capitals,4,Marc Joannette,Rob Martell,Washington Capitals,Toronto Maple Leafs
+2015020344,Montréal Canadiens,2,New Jersey Devils,3,Francis Charron,Trevor Hanson,New Jersey Devils,Montréal Canadiens
+2015020345,Tampa Bay Lightning,2,New York Islanders,3,Mike Leggo,Jean Hebert,New York Islanders,Tampa Bay Lightning
+2015020346,Pittsburgh Penguins,2,Edmonton Oilers,2,Brian Pochmara,Tom Kowal,Pittsburgh Penguins,Edmonton Oilers
+2015020347,St. Louis Blues,3,Columbus Blue Jackets,1,Graham Skilliter,Brad Meier,St. Louis Blues,Columbus Blue Jackets
+2015020348,Nashville Predators,1,Buffalo Sabres,4,Dan O'Halloran,Steve Kozari,Buffalo Sabres,Nashville Predators
+2015020349,Minnesota Wild,3,Dallas Stars,4,Justin St. Pierre ,Tim Peel,Dallas Stars,Minnesota Wild
+2015020350,Colorado Avalanche,5,Winnipeg Jets,3,Ghislain Hebert,Ian Walsh,Colorado Avalanche,Winnipeg Jets
+2015020351,Arizona Coyotes,4,Ottawa Senators,3,Gord Dwyer,Thomas John Luxmore,Arizona Coyotes,Ottawa Senators
+2015020352,San Jose Sharks,5,Calgary Flames,2,Chris Lee,Dean Morton,San Jose Sharks,Calgary Flames
+2015020353,Los Angeles Kings,3,Chicago Blackhawks,2,Dave Jackson,Kyle Rehman,Los Angeles Kings,Chicago Blackhawks
+2015020354,Detroit Red Wings,1,Florida Panthers,2,Wes McCauley,Jon McIsaac,Florida Panthers,Detroit Red Wings
+2015020355,New York Islanders,5,Colorado Avalanche,3,Francis Charron,Tom Kowal,New York Islanders,Colorado Avalanche
+2015020356,New York Rangers,4,Carolina Hurricanes,3,Brad Watson,Trevor Hanson,New York Rangers,Carolina Hurricanes
+2015020357,Toronto Maple Leafs,3,Edmonton Oilers,0,Chris Rooney,Greg Kimmerly,Toronto Maple Leafs,Edmonton Oilers
+2015020358,Anaheim Ducks,4,Vancouver Canucks,0,Jean Hebert,Dean Morton,Anaheim Ducks,Vancouver Canucks
+2015020359,New Jersey Devils,1,Colorado Avalanche,2,Wes McCauley,Garrett Rank,Colorado Avalanche,New Jersey Devils
+2015020360,Montréal Canadiens,2,Columbus Blue Jackets,1,Kelly Sutherland,Kevin Pollock,Montréal Canadiens,Columbus Blue Jackets
+2015020361,Ottawa Senators,2,Philadelphia Flyers,4,Ghislain Hebert,Kyle Rehman,Philadelphia Flyers,Ottawa Senators
+2015020362,Detroit Red Wings,4,Buffalo Sabres,4,Thomas John Luxmore,Ian Walsh,Detroit Red Wings,Buffalo Sabres
+2015020363,St. Louis Blues,1,Florida Panthers,3,Tim Peel,Tom Kowal,Florida Panthers,St. Louis Blues
+2015020364,Nashville Predators,5,Arizona Coyotes,2,Dan O'Rourke,Justin St. Pierre ,Nashville Predators,Arizona Coyotes
+2015020365,Chicago Blackhawks,1,Minnesota Wild,2,Dan O'Halloran,Rob Martell,Minnesota Wild,Chicago Blackhawks
+2015020366,Calgary Flames,3,Dallas Stars,3,Brian Pochmara,Graham Skilliter,Calgary Flames,Dallas Stars
+2015020367,Los Angeles Kings,2,Vancouver Canucks,1,Jean Hebert,Frederick L'Ecuyer,Los Angeles Kings,Vancouver Canucks
+2015020368,San Jose Sharks,1,Pittsburgh Penguins,5,Mike Leggo,Eric Furlatt,Pittsburgh Penguins,San Jose Sharks
+2015020369,Winnipeg Jets,6,Toronto Maple Leafs,1,Brian Pochmara,Rob Martell,Winnipeg Jets,Toronto Maple Leafs
+2015020370,New York Islanders,1,New York Rangers,1,Tim Peel,Trevor Hanson,New York Islanders,New York Rangers
+2015020371,Edmonton Oilers,2,Boston Bruins,2,Graham Skilliter,Brad Meier,Edmonton Oilers,Boston Bruins
+2015020372,Anaheim Ducks,1,Tampa Bay Lightning,2,Frederick L'Ecuyer,Eric Furlatt,Tampa Bay Lightning,Anaheim Ducks
+2015020373,New York Rangers,1,Colorado Avalanche,2,Wes McCauley,Marc Joannette,Colorado Avalanche,New York Rangers
+2015020374,Carolina Hurricanes,1,New Jersey Devils,5,Francis Charron,Thomas John Luxmore,New Jersey Devils,Carolina Hurricanes
+2015020375,Montréal Canadiens,2,Washington Capitals,3,Gord Dwyer,Kyle Rehman,Washington Capitals,Montréal Canadiens
+2015020376,Ottawa Senators,4,Chicago Blackhawks,3,Ian Walsh,Trevor Hanson,Ottawa Senators,Chicago Blackhawks
+2015020377,Detroit Red Wings,5,Arizona Coyotes,1,Dan O'Halloran,Garrett Rank,Detroit Red Wings,Arizona Coyotes
+2015020378,Nashville Predators,1,Florida Panthers,2,Chris Lee,Kevin Pollock,Florida Panthers,Nashville Predators
+2015020379,Minnesota Wild,1,Toronto Maple Leafs,0,Dave Jackson,Ghislain Hebert,Minnesota Wild,Toronto Maple Leafs
+2015020380,Vancouver Canucks,2,Dallas Stars,4,Kelly Sutherland,Graham Skilliter,Dallas Stars,Vancouver Canucks
+2015020381,Buffalo Sabres,5,Arizona Coyotes,2,Mike Leggo,Dan O'Halloran,Buffalo Sabres,Arizona Coyotes
+2015020382,New Jersey Devils,3,Philadelphia Flyers,4,Greg Kimmerly,Brad Meier,Philadelphia Flyers,New Jersey Devils
+2015020383,Columbus Blue Jackets,1,Florida Panthers,1,Dan O'Rourke,Tim Peel,Columbus Blue Jackets,Florida Panthers
+2015020384,New York Islanders,1,St. Louis Blues,1,Thomas John Luxmore,Marc Joannette,New York Islanders,St. Louis Blues
+2015020385,Calgary Flames,5,Boston Bruins,4,Kelly Sutherland,Furman Furman,Calgary Flames,Boston Bruins
+2015020386,Edmonton Oilers,2,Dallas Stars,1,Brian Pochmara,Tom Kowal,Edmonton Oilers,Dallas Stars
+2015020387,Anaheim Ducks,1,San Jose Sharks,0,Frederick L'Ecuyer,Steve Kozari,Anaheim Ducks,San Jose Sharks
+2015020388,Winnipeg Jets,2,Washington Capitals,1,Justin St. Pierre ,Dean Morton,Winnipeg Jets,Washington Capitals
+2015020389,Los Angeles Kings,5,Pittsburgh Penguins,3,Brad Watson,Eric Furlatt,Los Angeles Kings,Pittsburgh Penguins
+2015020390,Ottawa Senators,3,New York Islanders,2,Gord Dwyer,Marc Joannette,Ottawa Senators,New York Islanders
+2015020391,Detroit Red Wings,5,Nashville Predators,4,Dan O'Rourke,Ghislain Hebert,Detroit Red Wings,Nashville Predators
+2015020392,Carolina Hurricanes,3,Montréal Canadiens,2,Dave Jackson,Jean Hebert,Carolina Hurricanes,Montréal Canadiens
+2015020393,St. Louis Blues,1,Toronto Maple Leafs,4,Ian Walsh,Kevin Pollock,Toronto Maple Leafs,St. Louis Blues
+2015020394,Philadelphia Flyers,1,Columbus Blue Jackets,4,Dan O'Halloran,Chris Lee,Columbus Blue Jackets,Philadelphia Flyers
+2015020395,Minnesota Wild,3,Colorado Avalanche,0,Kyle Rehman,Trevor Hanson,Minnesota Wild,Colorado Avalanche
+2015020396,Vancouver Canucks,0,Boston Bruins,4,Tom Kowal,Furman Furman,Boston Bruins,Vancouver Canucks
+2015020397,San Jose Sharks,3,Tampa Bay Lightning,4,Francis Charron,Steve Kozari,Tampa Bay Lightning,San Jose Sharks
+2015020398,Carolina Hurricanes,5,Arizona Coyotes,4,Chris Lee,Evgeny Romasko,Carolina Hurricanes,Arizona Coyotes
+2015020399,Chicago Blackhawks,3,Winnipeg Jets,1,Mike Leggo,Greg Kimmerly,Chicago Blackhawks,Winnipeg Jets
+2015020400,New Jersey Devils,4,Florida Panthers,2,Dave Jackson,Gord Dwyer,New Jersey Devils,Florida Panthers
+2015020401,New York Rangers,4,Ottawa Senators,1,Tim Peel,Brad Meier,New York Rangers,Ottawa Senators
+2015020402,Edmonton Oilers,4,Buffalo Sabres,2,Kelly Sutherland,Furman Furman,Edmonton Oilers,Buffalo Sabres
+2015020403,Anaheim Ducks,2,Pittsburgh Penguins,1,Francis Charron,Brad Watson,Anaheim Ducks,Pittsburgh Penguins
+2015020404,Los Angeles Kings,3,Tampa Bay Lightning,1,Graham Skilliter,Steve Kozari,Los Angeles Kings,Tampa Bay Lightning
+2015020405,Boston Bruins,2,Nashville Predators,3,Tim Peel,Dean Morton,Nashville Predators,Boston Bruins
+2015020406,Colorado Avalanche,2,Minnesota Wild,1,Eric Furlatt,Kevin Pollock,Colorado Avalanche,Minnesota Wild
+2015020407,Vancouver Canucks,5,Buffalo Sabres,2,Wes McCauley,Trevor Hanson,Vancouver Canucks,Buffalo Sabres
+2015020408,Philadelphia Flyers,3,New York Islanders,3,Dave Jackson,Greg Kimmerly,Philadelphia Flyers,New York Islanders
+2015020409,Washington Capitals,2,Detroit Red Wings,2,Dan O'Rourke,Justin St. Pierre ,Washington Capitals,Detroit Red Wings
+2015020410,Columbus Blue Jackets,2,Los Angeles Kings,3,Chris Rooney,Jon McIsaac,Los Angeles Kings,Columbus Blue Jackets
+2015020411,Toronto Maple Leafs,2,New Jersey Devils,2,Dan O'Halloran,Thomas John Luxmore,Toronto Maple Leafs,New Jersey Devils
+2015020412,Florida Panthers,2,Ottawa Senators,4,Jean Hebert,Rob Martell,Ottawa Senators,Florida Panthers
+2015020413,St. Louis Blues,4,Arizona Coyotes,1,Frederick L'Ecuyer,Steve Kozari,St. Louis Blues,Arizona Coyotes
+2015020414,Chicago Blackhawks,4,Nashville Predators,1,Mike Leggo,Chris Lee,Chicago Blackhawks,Nashville Predators
+2015020415,Dallas Stars,6,Carolina Hurricanes,5,Brad Meier,Kendrick Nicholson,Dallas Stars,Carolina Hurricanes
+2015020416,Calgary Flames,4,San Jose Sharks,2,Wes McCauley,Trevor Hanson,Calgary Flames,San Jose Sharks
+2015020417,Montréal Canadiens,1,Boston Bruins,3,Mike Leggo,Dan O'Halloran,Boston Bruins,Montréal Canadiens
+2015020418,Colorado Avalanche,2,Pittsburgh Penguins,4,Brian Pochmara,Frederick L'Ecuyer,Pittsburgh Penguins,Colorado Avalanche
+2015020419,Edmonton Oilers,4,San Jose Sharks,3,Wes McCauley,Brad Watson,Edmonton Oilers,San Jose Sharks
+2015020420,Vancouver Canucks,2,New York Rangers,1,Graham Skilliter,Ian Walsh,Vancouver Canucks,New York Rangers
+2015020421,Detroit Red Wings,3,Montréal Canadiens,2,Justin St. Pierre ,Dean Morton,Detroit Red Wings,Montréal Canadiens
+2015020422,Tampa Bay Lightning,4,Ottawa Senators,1,Ghislain Hebert,Brad Meier,Tampa Bay Lightning,Ottawa Senators
+2015020423,Florida Panthers,4,Washington Capitals,1,Francis Charron,Steve Kozari,Florida Panthers,Washington Capitals
+2015020424,St. Louis Blues,2,Philadelphia Flyers,4,Tim Peel,Jon McIsaac,Philadelphia Flyers,St. Louis Blues
+2015020425,Nashville Predators,5,Chicago Blackhawks,1,Gord Dwyer,Rob Martell,Nashville Predators,Chicago Blackhawks
+2015020426,Winnipeg Jets,6,Columbus Blue Jackets,4,Dan O'Rourke,Trevor Hanson,Winnipeg Jets,Columbus Blue Jackets
+2015020427,Calgary Flames,4,Buffalo Sabres,3,Brad Watson,Kyle Rehman,Calgary Flames,Buffalo Sabres
+2015020428,New Jersey Devils,3,Detroit Red Wings,2,Eric Furlatt,Ian Walsh,New Jersey Devils,Detroit Red Wings
+2015020429,Pittsburgh Penguins,2,Los Angeles Kings,2,Marc Joannette,Kevin Pollock,Pittsburgh Penguins,Los Angeles Kings
+2015020430,Chicago Blackhawks,2,Winnipeg Jets,0,Frederick L'Ecuyer,Graham Skilliter,Chicago Blackhawks,Winnipeg Jets
+2015020431,Dallas Stars,3,Philadelphia Flyers,1,Gord Dwyer,Rob Martell,Dallas Stars,Philadelphia Flyers
+2015020432,Edmonton Oilers,7,New York Rangers,5,Thomas John Luxmore,Kyle Rehman,Edmonton Oilers,New York Rangers
+2015020433,Arizona Coyotes,2,Minnesota Wild,1,Jean Hebert,Tom Kowal,Arizona Coyotes,Minnesota Wild
+2015020434,Anaheim Ducks,1,Carolina Hurricanes,5,Brian Pochmara,Greg Kimmerly,Carolina Hurricanes,Anaheim Ducks
+2015020435,Boston Bruins,3,Florida Panthers,1,Kelly Sutherland,Ghislain Hebert,Boston Bruins,Florida Panthers
+2015020436,Buffalo Sabres,2,Los Angeles Kings,1,Chris Lee,Dean Morton,Buffalo Sabres,Los Angeles Kings
+2015020437,Montréal Canadiens,3,Ottawa Senators,1,Chris Rooney,Trevor Hanson,Montréal Canadiens,Ottawa Senators
+2015020438,Tampa Bay Lightning,1,Washington Capitals,2,Francis Charron,Tim Peel,Washington Capitals,Tampa Bay Lightning
+2015020439,Columbus Blue Jackets,2,New York Islanders,3,Eric Furlatt,Ian Walsh,New York Islanders,Columbus Blue Jackets
+2015020440,St. Louis Blues,3,Dallas Stars,0,Marc Joannette,Tom Chmielewski,St. Louis Blues,Dallas Stars
+2015020441,Nashville Predators,2,Colorado Avalanche,3,Dave Jackson,Graham Skilliter,Colorado Avalanche,Nashville Predators
+2015020442,Arizona Coyotes,4,Carolina Hurricanes,5,Jean Hebert,Brian Pochmara,Carolina Hurricanes,Arizona Coyotes
+2015020443,Calgary Flames,5,New York Rangers,4,Dan O'Rourke,Thomas John Luxmore,Calgary Flames,New York Rangers
+2015020444,San Jose Sharks,0,Minnesota Wild,2,Greg Kimmerly,Tom Kowal,Minnesota Wild,San Jose Sharks
+2015020445,New York Islanders,4,New Jersey Devils,0,Chris Rooney,Ghislain Hebert,New York Islanders,New Jersey Devils
+2015020446,St. Louis Blues,1,Colorado Avalanche,3,Frederick L'Ecuyer,Rob Martell,Colorado Avalanche,St. Louis Blues
+2015020447,Chicago Blackhawks,4,Vancouver Canucks,0,Dan O'Halloran,Steve Kozari,Chicago Blackhawks,Vancouver Canucks
+2015020448,Boston Bruins,2,Edmonton Oilers,3,Eric Furlatt,Chris Lee,Edmonton Oilers,Boston Bruins
+2015020449,Pittsburgh Penguins,1,Washington Capitals,4,Dave Jackson,Trevor Hanson,Washington Capitals,Pittsburgh Penguins
+2015020450,Columbus Blue Jackets,1,Tampa Bay Lightning,2,Dan O'Halloran,Tom Chmielewski,Tampa Bay Lightning,Columbus Blue Jackets
+2015020451,Ottawa Senators,5,Los Angeles Kings,3,Kelly Sutherland,Evgeny Romasko,Ottawa Senators,Los Angeles Kings
+2015020452,Detroit Red Wings,1,Buffalo Sabres,2,Greg Kimmerly,Graham Skilliter,Buffalo Sabres,Detroit Red Wings
+2015020453,Buffalo Sabres,0,New Jersey Devils,2,Rob Martell,Kevin Pollock,New Jersey Devils,Buffalo Sabres
+2015020454,New York Islanders,1,Florida Panthers,5,Chris Lee,Trevor Hanson,Florida Panthers,New York Islanders
+2015020455,New York Rangers,4,Edmonton Oilers,2,Gord Dwyer,Dean Morton,New York Rangers,Edmonton Oilers
+2015020456,Philadelphia Flyers,4,Carolina Hurricanes,3,Dave Jackson,Ghislain Hebert,Philadelphia Flyers,Carolina Hurricanes
+2015020457,Toronto Maple Leafs,4,Tampa Bay Lightning,5,Wes McCauley,Brad Watson,Tampa Bay Lightning,Toronto Maple Leafs
+2015020458,Montréal Canadiens,1,San Jose Sharks,3,Kelly Sutherland,Marc Joannette,San Jose Sharks,Montréal Canadiens
+2015020459,Nashville Predators,1,Calgary Flames,2,Jean Hebert,Garrett Rank,Calgary Flames,Nashville Predators
+2015020460,Minnesota Wild,6,Vancouver Canucks,2,Thomas John Luxmore,Brad Meier,Minnesota Wild,Vancouver Canucks
+2015020461,Winnipeg Jets,3,St. Louis Blues,4,Brian Pochmara,Tom Kowal,St. Louis Blues,Winnipeg Jets
+2015020462,Chicago Blackhawks,0,Colorado Avalanche,3,Dan O'Rourke,Kyle Rehman,Colorado Avalanche,Chicago Blackhawks
+2015020463,Dallas Stars,5,Columbus Blue Jackets,1,Mike Leggo,Steve Kozari,Dallas Stars,Columbus Blue Jackets
+2015020464,Washington Capitals,2,Ottawa Senators,1,Wes McCauley,Jon McIsaac,Washington Capitals,Ottawa Senators
+2015020465,Boston Bruins,3,Pittsburgh Penguins,0,Justin St. Pierre ,Kevin Pollock,Boston Bruins,Pittsburgh Penguins
+2015020466,Buffalo Sabres,3,Anaheim Ducks,0,Mike Leggo,Gord Dwyer,Buffalo Sabres,Anaheim Ducks
+2015020467,New Jersey Devils,1,Florida Panthers,5,Tim Peel,Marc Joannette,Florida Panthers,New Jersey Devils
+2015020468,Philadelphia Flyers,2,Vancouver Canucks,0,Dan O'Rourke,Rob Martell,Philadelphia Flyers,Vancouver Canucks
+2015020469,Toronto Maple Leafs,4,San Jose Sharks,5,Chris Lee,Kendrick Nicholson,San Jose Sharks,Toronto Maple Leafs
+2015020470,Montréal Canadiens,0,Los Angeles Kings,3,Eric Furlatt,Garrett Rank,Los Angeles Kings,Montréal Canadiens
+2015020471,St. Louis Blues,2,Nashville Predators,1,Jean Hebert,Kyle Rehman,St. Louis Blues,Nashville Predators
+2015020472,Minnesota Wild,5,New York Rangers,2,Brian Pochmara,Ghislain Hebert,Minnesota Wild,New York Rangers
+2015020473,Chicago Blackhawks,4,Edmonton Oilers,0,Chris Rooney,Brad Watson,Chicago Blackhawks,Edmonton Oilers
+2015020474,Dallas Stars,1,Calgary Flames,3,Dave Jackson,Frederick L'Ecuyer,Calgary Flames,Dallas Stars
+2015020475,Colorado Avalanche,2,New York Islanders,1,Thomas John Luxmore,Steve Kozari,Colorado Avalanche,New York Islanders
+2015020476,Arizona Coyotes,5,Columbus Blue Jackets,7,Kelly Sutherland,Greg Kimmerly,Columbus Blue Jackets,Arizona Coyotes
+2015020477,Pittsburgh Penguins,2,Boston Bruins,6,Ian Walsh,Dean Morton,Boston Bruins,Pittsburgh Penguins
+2015020478,Washington Capitals,5,Tampa Bay Lightning,3,Dan O'Rourke,Evgeny Romasko,Washington Capitals,Tampa Bay Lightning
+2015020479,Carolina Hurricanes,0,Florida Panthers,2,Brad Watson,Kevin Pollock,Florida Panthers,Carolina Hurricanes
+2015020480,Ottawa Senators,4,San Jose Sharks,2,Graham Skilliter,Chris Lee,Ottawa Senators,San Jose Sharks
+2015020481,Detroit Red Wings,3,Vancouver Canucks,3,Gord Dwyer,Tim Peel,Detroit Red Wings,Vancouver Canucks
+2015020482,Winnipeg Jets,5,New York Rangers,2,Dan O'Halloran,Brad Meier,Winnipeg Jets,New York Rangers
+2015020483,Buffalo Sabres,2,Chicago Blackhawks,2,Justin St. Pierre ,Jean Hebert,Buffalo Sabres,Chicago Blackhawks
+2015020484,St. Louis Blues,3,Calgary Flames,2,Dave Jackson,Eric Furlatt,St. Louis Blues,Calgary Flames
+2015020485,Toronto Maple Leafs,5,Los Angeles Kings,0,Marc Joannette,Trevor Hanson,Toronto Maple Leafs,Los Angeles Kings
+2015020486,New Jersey Devils,1,Anaheim Ducks,2,Dan O'Rourke,Brian Pochmara,Anaheim Ducks,New Jersey Devils
+2015020487,Pittsburgh Penguins,1,Carolina Hurricanes,2,Wes McCauley,Rob Martell,Carolina Hurricanes,Pittsburgh Penguins
+2015020488,Columbus Blue Jackets,2,Philadelphia Flyers,2,Mike Leggo,Tom Kowal,Columbus Blue Jackets,Philadelphia Flyers
+2015020489,Dallas Stars,6,Montréal Canadiens,2,Francis Charron,Frederick L'Ecuyer,Dallas Stars,Montréal Canadiens
+2015020490,Nashville Predators,3,Minnesota Wild,2,Steve Kozari,Mark Lemelin,Nashville Predators,Minnesota Wild
+2015020491,Arizona Coyotes,1,New York Islanders,0,Kelly Sutherland,Greg Kimmerly,Arizona Coyotes,New York Islanders
+2015020492,Colorado Avalanche,5,Edmonton Oilers,1,Dan O'Halloran,Thomas John Luxmore,Colorado Avalanche,Edmonton Oilers
+2015020493,Florida Panthers,4,Vancouver Canucks,4,Brad Watson,Kyle Rehman,Florida Panthers,Vancouver Canucks
+2015020494,Boston Bruins,1,New Jersey Devils,1,Mike Leggo,Gord Dwyer,Boston Bruins,New Jersey Devils
+2015020495,Tampa Bay Lightning,5,Ottawa Senators,2,Kevin Pollock,Dean Morton,Tampa Bay Lightning,Ottawa Senators
+2015020496,Detroit Red Wings,4,Calgary Flames,2,Jean Hebert,Trevor Hanson,Detroit Red Wings,Calgary Flames
+2015020497,New York Rangers,3,Washington Capitals,7,Graham Skilliter,Ian Walsh,Washington Capitals,New York Rangers
+2015020498,Chicago Blackhawks,4,San Jose Sharks,3,Justin St. Pierre ,Tim Peel,Chicago Blackhawks,San Jose Sharks
+2015020499,New York Islanders,5,Anaheim Ducks,2,Dan O'Rourke,Furman Furman,New York Islanders,Anaheim Ducks
+2015020500,Philadelphia Flyers,4,St. Louis Blues,3,Wes McCauley,Evgeny Romasko,Philadelphia Flyers,St. Louis Blues
+2015020501,Pittsburgh Penguins,5,Columbus Blue Jackets,2,Dave Jackson,Thomas John Luxmore,Pittsburgh Penguins,Columbus Blue Jackets
+2015020502,Carolina Hurricanes,1,Washington Capitals,2,Ghislain Hebert,Eric Furlatt,Washington Capitals,Carolina Hurricanes
+2015020503,Nashville Predators,5,Montréal Canadiens,1,Tom Kowal,Kevin Pollock,Nashville Predators,Montréal Canadiens
+2015020504,Minnesota Wild,3,Dallas Stars,6,Marc Joannette,Trevor Hanson,Dallas Stars,Minnesota Wild
+2015020505,Colorado Avalanche,4,Toronto Maple Leafs,7,Francis Charron,Tom Chmielewski,Toronto Maple Leafs,Colorado Avalanche
+2015020506,Edmonton Oilers,3,Winnipeg Jets,1,Steve Kozari,Garrett Rank,Edmonton Oilers,Winnipeg Jets
+2015020507,Boston Bruins,0,St. Louis Blues,2,Chris Rooney,Ian Walsh,St. Louis Blues,Boston Bruins
+2015020508,New York Rangers,3,Anaheim Ducks,2,Kelly Sutherland,Jon McIsaac,New York Rangers,Anaheim Ducks
+2015020509,Detroit Red Wings,3,New Jersey Devils,4,Dan O'Halloran,Brian Pochmara,New Jersey Devils,Detroit Red Wings
+2015020510,Tampa Bay Lightning,1,Vancouver Canucks,2,Frederick L'Ecuyer,Dean Morton,Vancouver Canucks,Tampa Bay Lightning
+2015020511,Florida Panthers,1,Ottawa Senators,1,Jean Hebert,Kyle Rehman,Florida Panthers,Ottawa Senators
+2015020512,Minnesota Wild,2,Montréal Canadiens,1,Justin St. Pierre ,Chris Lee,Minnesota Wild,Montréal Canadiens
+2015020513,Dallas Stars,4,Chicago Blackhawks,0,Gord Dwyer,Brad Watson,Dallas Stars,Chicago Blackhawks
+2015020514,Calgary Flames,4,Winnipeg Jets,1,Brad Meier,Steve Kozari,Calgary Flames,Winnipeg Jets
+2015020515,Arizona Coyotes,3,Toronto Maple Leafs,2,Tim Peel,Graham Skilliter,Arizona Coyotes,Toronto Maple Leafs
+2015020516,Los Angeles Kings,3,San Jose Sharks,5,Mike Leggo,Francis Charron,San Jose Sharks,Los Angeles Kings
+2015020517,Boston Bruins,3,Buffalo Sabres,6,Wes McCauley,Mark Lemelin,Buffalo Sabres,Boston Bruins
+2015020518,Tampa Bay Lightning,5,Columbus Blue Jackets,2,Jean Hebert,Thomas John Luxmore,Tampa Bay Lightning,Columbus Blue Jackets
+2015020519,Washington Capitals,3,Montréal Canadiens,1,Kelly Sutherland,Ghislain Hebert,Washington Capitals,Montréal Canadiens
+2015020520,Carolina Hurricanes,3,New Jersey Devils,1,Chris Rooney,Frederick L'Ecuyer,Carolina Hurricanes,New Jersey Devils
+2015020521,St. Louis Blues,2,Dallas Stars,2,Tim Peel,Chris Lee,St. Louis Blues,Dallas Stars
+2015020522,Nashville Predators,2,Detroit Red Wings,3,Brian Pochmara,Rob Martell,Detroit Red Wings,Nashville Predators
+2015020523,Minnesota Wild,1,Pittsburgh Penguins,3,Gord Dwyer,Kendrick Nicholson,Pittsburgh Penguins,Minnesota Wild
+2015020524,Arizona Coyotes,3,Los Angeles Kings,4,Justin St. Pierre ,Kyle Rehman,Los Angeles Kings,Arizona Coyotes
+2015020525,Vancouver Canucks,2,Edmonton Oilers,1,Dan O'Rourke,Graham Skilliter,Vancouver Canucks,Edmonton Oilers
+2015020526,Ottawa Senators,3,Boston Bruins,1,Francis Charron,Eric Furlatt,Ottawa Senators,Boston Bruins
+2015020527,Florida Panthers,3,Columbus Blue Jackets,2,Frederick L'Ecuyer,Marc Joannette,Florida Panthers,Columbus Blue Jackets
+2015020528,New York Islanders,1,Toronto Maple Leafs,3,Kelly Sutherland,Dean Morton,Toronto Maple Leafs,New York Islanders
+2015020529,Dallas Stars,3,St. Louis Blues,0,Rob Martell,Brad Meier,Dallas Stars,St. Louis Blues
+2015020530,Chicago Blackhawks,1,Carolina Hurricanes,2,Chris Rooney,Steve Kozari,Carolina Hurricanes,Chicago Blackhawks
+2015020531,Winnipeg Jets,1,Pittsburgh Penguins,0,Gord Dwyer,Kendrick Nicholson,Winnipeg Jets,Pittsburgh Penguins
+2015020532,Colorado Avalanche,1,Arizona Coyotes,2,Dave Jackson,Brad Watson,Arizona Coyotes,Colorado Avalanche
+2015020533,Anaheim Ducks,4,Philadelphia Flyers,2,Mike Leggo,Dan O'Halloran,Anaheim Ducks,Philadelphia Flyers
+2015020534,Calgary Flames,5,Edmonton Oilers,3,Ian Walsh,Tom Kowal,Calgary Flames,Edmonton Oilers
+2015020535,Buffalo Sabres,0,Washington Capitals,2,Chris Rooney,Furman Furman,Washington Capitals,Buffalo Sabres
+2015020536,Tampa Bay Lightning,3,Montréal Canadiens,3,Brian Pochmara,Thomas John Luxmore,Tampa Bay Lightning,Montréal Canadiens
+2015020537,Nashville Predators,5,New York Rangers,3,Marc Joannette,Chris Lee,Nashville Predators,New York Rangers
+2015020538,Minnesota Wild,3,Detroit Red Wings,1,Wes McCauley,Kevin Pollock,Minnesota Wild,Detroit Red Wings
+2015020539,Vancouver Canucks,0,Los Angeles Kings,5,Tim Peel,Tom Kowal,Los Angeles Kings,Vancouver Canucks
+2015020540,San Jose Sharks,3,Colorado Avalanche,6,Dan O'Rourke,Justin St. Pierre ,Colorado Avalanche,San Jose Sharks
+2015020541,Boston Bruins,7,Ottawa Senators,3,Frederick L'Ecuyer,Kyle Rehman,Boston Bruins,Ottawa Senators
+2015020542,Toronto Maple Leafs,3,New York Islanders,6,Rob Martell,Steve Kozari,New York Islanders,Toronto Maple Leafs
+2015020543,New Jersey Devils,3,Carolina Hurricanes,2,Kelly Sutherland,Dean Morton,New Jersey Devils,Carolina Hurricanes
+2015020544,Columbus Blue Jackets,6,Dallas Stars,3,Dave Jackson,Evgeny Romasko,Columbus Blue Jackets,Dallas Stars
+2015020545,Florida Panthers,3,Montréal Canadiens,1,Brad Meier,Tom Chmielewski,Florida Panthers,Montréal Canadiens
+2015020546,St. Louis Blues,4,Nashville Predators,3,Mike Leggo,Brad Watson,St. Louis Blues,Nashville Predators
+2015020547,Winnipeg Jets,4,Detroit Red Wings,1,Wes McCauley,Eric Furlatt,Winnipeg Jets,Detroit Red Wings
+2015020548,Calgary Flames,0,Anaheim Ducks,1,Tim Peel,Graham Skilliter,Anaheim Ducks,Calgary Flames
+2015020549,Edmonton Oilers,2,Los Angeles Kings,5,Gord Dwyer,Ian Walsh,Los Angeles Kings,Edmonton Oilers
+2015020550,Arizona Coyotes,5,Chicago Blackhawks,7,Dan O'Halloran,Trevor Hanson,Chicago Blackhawks,Arizona Coyotes
+2015020551,Pittsburgh Penguins,2,Toronto Maple Leafs,2,Chris Rooney,Brian Pochmara,Pittsburgh Penguins,Toronto Maple Leafs
+2015020552,Washington Capitals,5,Buffalo Sabres,2,Jean Hebert,Thomas John Luxmore,Washington Capitals,Buffalo Sabres
+2015020553,Ottawa Senators,0,New Jersey Devils,3,Rob Martell,Dean Morton,New Jersey Devils,Ottawa Senators
+2015020554,Tampa Bay Lightning,2,New York Rangers,5,Brad Meier,Tom Chmielewski,New York Rangers,Tampa Bay Lightning
+2015020555,San Jose Sharks,4,Philadelphia Flyers,2,Dan O'Rourke,Trevor Hanson,San Jose Sharks,Philadelphia Flyers
+2015020556,Buffalo Sabres,1,New York Islanders,2,Frederick L'Ecuyer,Kyle Rehman,New York Islanders,Buffalo Sabres
+2015020557,Detroit Red Wings,2,Pittsburgh Penguins,5,Kelly Sutherland,Jean Hebert,Pittsburgh Penguins,Detroit Red Wings
+2015020558,Carolina Hurricanes,4,Washington Capitals,2,Mike Leggo,Steve Kozari,Carolina Hurricanes,Washington Capitals
+2015020559,St. Louis Blues,1,Minnesota Wild,3,Francis Charron,Dave Jackson,Minnesota Wild,St. Louis Blues
+2015020560,Colorado Avalanche,3,Chicago Blackhawks,4,Ghislain Hebert,Tom Kowal,Chicago Blackhawks,Colorado Avalanche
+2015020561,Dallas Stars,5,Nashville Predators,1,Dan O'Halloran,Ian Walsh,Dallas Stars,Nashville Predators
+2015020562,Calgary Flames,1,Los Angeles Kings,4,Gord Dwyer,Eric Furlatt,Los Angeles Kings,Calgary Flames
+2015020563,Edmonton Oilers,0,Anaheim Ducks,1,Tim Peel,Graham Skilliter,Anaheim Ducks,Edmonton Oilers
+2015020564,Arizona Coyotes,4,Winnipeg Jets,2,Dan O'Rourke,Brad Watson,Arizona Coyotes,Winnipeg Jets
+2015020565,Boston Bruins,1,Montréal Canadiens,5,Wes McCauley,Kevin Pollock,Montréal Canadiens,Boston Bruins
+2015020566,Vancouver Canucks,1,Anaheim Ducks,1,Justin St. Pierre ,Eric Furlatt,Vancouver Canucks,Anaheim Ducks
+2015020567,Buffalo Sabres,3,Detroit Red Wings,4,Kelly Sutherland,Frederick L'Ecuyer,Detroit Red Wings,Buffalo Sabres
+2015020568,Edmonton Oilers,3,Arizona Coyotes,3,Marc Joannette,Brad Meier,Edmonton Oilers,Arizona Coyotes
+2015020569,Los Angeles Kings,2,Philadelphia Flyers,1,Ghislain Hebert,Brad Watson,Los Angeles Kings,Philadelphia Flyers
+2015020570,Toronto Maple Leafs,4,St. Louis Blues,1,Jean Hebert,Brian Pochmara,Toronto Maple Leafs,St. Louis Blues
+2015020571,Tampa Bay Lightning,2,Minnesota Wild,2,Dan O'Halloran,Rob Martell,Tampa Bay Lightning,Minnesota Wild
+2015020572,Florida Panthers,3,New York Rangers,0,Evgeny Romasko,Steve Kozari,Florida Panthers,New York Rangers
+2015020573,New Jersey Devils,3,Dallas Stars,2,Chris Rooney,Kyle Rehman,New Jersey Devils,Dallas Stars
+2015020574,Pittsburgh Penguins,5,New York Islanders,2,Thomas John Luxmore,Chris Lee,Pittsburgh Penguins,New York Islanders
+2015020575,Carolina Hurricanes,1,Nashville Predators,2,Francis Charron,Ian Walsh,Nashville Predators,Carolina Hurricanes
+2015020576,Columbus Blue Jackets,4,Washington Capitals,4,Graham Skilliter,Dean Morton,Columbus Blue Jackets,Washington Capitals
+2015020577,Colorado Avalanche,0,Calgary Flames,4,Mike Leggo,Dan O'Rourke,Calgary Flames,Colorado Avalanche
+2015020578,San Jose Sharks,1,Winnipeg Jets,4,Dave Jackson,Tom Kowal,Winnipeg Jets,San Jose Sharks
+2015020579,New York Islanders,6,Dallas Stars,5,Chris Rooney,Ian Walsh,New York Islanders,Dallas Stars
+2015020580,Florida Panthers,2,Minnesota Wild,1,Francis Charron,Steve Kozari,Florida Panthers,Minnesota Wild
+2015020581,Chicago Blackhawks,3,Ottawa Senators,0,Wes McCauley,Thomas John Luxmore,Chicago Blackhawks,Ottawa Senators
+2015020582,Anaheim Ducks,4,Winnipeg Jets,1,Dave Jackson,Trevor Hanson,Anaheim Ducks,Winnipeg Jets
+2015020583,New Jersey Devils,0,Detroit Red Wings,1,Chris Lee,Jon McIsaac,Detroit Red Wings,New Jersey Devils
+2015020584,St. Louis Blues,2,Ottawa Senators,3,Mike Leggo,Justin St. Pierre ,Ottawa Senators,St. Louis Blues
+2015020585,Colorado Avalanche,4,Los Angeles Kings,1,Brad Meier,Trevor Hanson,Colorado Avalanche,Los Angeles Kings
+2015020586,Edmonton Oilers,1,Carolina Hurricanes,0,Marc Joannette,Tom Kowal,Edmonton Oilers,Carolina Hurricanes
+2015020587,Vancouver Canucks,2,Arizona Coyotes,3,Ghislain Hebert,Kevin Pollock,Arizona Coyotes,Vancouver Canucks
+2015020588,Boston Bruins,2,Washington Capitals,3,Gord Dwyer,Jon McIsaac,Washington Capitals,Boston Bruins
+2015020589,Buffalo Sabres,1,Florida Panthers,5,Dan O'Halloran,Dean Morton,Florida Panthers,Buffalo Sabres
+2015020590,New York Rangers,6,Dallas Stars,2,Frederick L'Ecuyer,Eric Furlatt,New York Rangers,Dallas Stars
+2015020591,Philadelphia Flyers,4,Montréal Canadiens,3,Francis Charron,Ian Walsh,Philadelphia Flyers,Montréal Canadiens
+2015020592,Pittsburgh Penguins,2,Chicago Blackhawks,3,Chris Lee,Steve Kozari,Chicago Blackhawks,Pittsburgh Penguins
+2015020593,Columbus Blue Jackets,2,Minnesota Wild,4,Justin St. Pierre ,Tim Peel,Minnesota Wild,Columbus Blue Jackets
+2015020594,Nashville Predators,1,Winnipeg Jets,4,Mike Leggo,Thomas John Luxmore,Winnipeg Jets,Nashville Predators
+2015020595,Calgary Flames,3,Tampa Bay Lightning,1,Wes McCauley,Kelly Sutherland,Calgary Flames,Tampa Bay Lightning
+2015020596,Montréal Canadiens,2,New Jersey Devils,1,Graham Skilliter,Tom Kowal,Montréal Canadiens,New Jersey Devils
+2015020597,Chicago Blackhawks,3,Pittsburgh Penguins,1,Dan O'Rourke,Mark Lemelin,Chicago Blackhawks,Pittsburgh Penguins
+2015020598,Colorado Avalanche,4,St. Louis Blues,3,Marc Joannette,Kendrick Nicholson,Colorado Avalanche,St. Louis Blues
+2015020599,Vancouver Canucks,3,Carolina Hurricanes,2,Brad Watson,Kevin Pollock,Vancouver Canucks,Carolina Hurricanes
+2015020600,Anaheim Ducks,0,Toronto Maple Leafs,4,Brad Meier,Tom Chmielewski,Toronto Maple Leafs,Anaheim Ducks
+2015020601,New York Islanders,1,Washington Capitals,4,Gord Dwyer,Tim Peel,Washington Capitals,New York Islanders
+2015020602,Ottawa Senators,2,Florida Panthers,3,Brian Pochmara,Graham Skilliter,Florida Panthers,Ottawa Senators
+2015020603,Minnesota Wild,3,Philadelphia Flyers,4,Wes McCauley,Dave Jackson,Philadelphia Flyers,Minnesota Wild
+2015020604,Dallas Stars,1,Winnipeg Jets,1,Greg Kimmerly,Dean Morton,Dallas Stars,Winnipeg Jets
+2015020605,Calgary Flames,1,Arizona Coyotes,2,Francis Charron,Justin St. Pierre ,Arizona Coyotes,Calgary Flames
+2015020606,Los Angeles Kings,2,Toronto Maple Leafs,1,Kelly Sutherland,Thomas John Luxmore,Los Angeles Kings,Toronto Maple Leafs
+2015020607,San Jose Sharks,1,Detroit Red Wings,2,Brad Meier,Kyle Rehman,Detroit Red Wings,San Jose Sharks
+2015020608,New Jersey Devils,1,Boston Bruins,4,Dan O'Halloran,Ghislain Hebert,Boston Bruins,New Jersey Devils
+2015020609,Carolina Hurricanes,4,Columbus Blue Jackets,1,Gord Dwyer,Marc Joannette,Carolina Hurricanes,Columbus Blue Jackets
+2015020610,Chicago Blackhawks,3,Buffalo Sabres,1,Tom Kowal,Evgeny Romasko,Chicago Blackhawks,Buffalo Sabres
+2015020611,Colorado Avalanche,5,Nashville Predators,3,Greg Kimmerly,Dean Morton,Colorado Avalanche,Nashville Predators
+2015020612,Edmonton Oilers,2,Tampa Bay Lightning,3,Francis Charron,Kevin Pollock,Tampa Bay Lightning,Edmonton Oilers
+2015020613,Anaheim Ducks,3,St. Louis Blues,3,Brad Watson,Kyle Rehman,Anaheim Ducks,St. Louis Blues
+2015020614,New York Rangers,3,Washington Capitals,4,Dan O'Halloran,Brian Pochmara,Washington Capitals,New York Rangers
+2015020615,Philadelphia Flyers,4,New York Islanders,0,Eric Furlatt,Trevor Hanson,Philadelphia Flyers,New York Islanders
+2015020616,Montréal Canadiens,1,Pittsburgh Penguins,3,Dan O'Rourke,Steve Kozari,Pittsburgh Penguins,Montréal Canadiens
+2015020617,Ottawa Senators,2,Boston Bruins,1,Justin St. Pierre ,Ghislain Hebert,Ottawa Senators,Boston Bruins
+2015020618,Columbus Blue Jackets,3,Carolina Hurricanes,4,Wes McCauley,Frederick L'Ecuyer,Carolina Hurricanes,Columbus Blue Jackets
+2015020619,San Jose Sharks,7,Toronto Maple Leafs,0,Dave Jackson,Tom Chmielewski,San Jose Sharks,Toronto Maple Leafs
+2015020620,Dallas Stars,1,Minnesota Wild,2,Kelly Sutherland,Garrett Rank,Minnesota Wild,Dallas Stars
+2015020621,Arizona Coyotes,4,Nashville Predators,0,Tim Peel,Graham Skilliter,Arizona Coyotes,Nashville Predators
+2015020622,Vancouver Canucks,2,Tampa Bay Lightning,3,Mike Leggo,Ian Walsh,Tampa Bay Lightning,Vancouver Canucks
+2015020623,Los Angeles Kings,1,St. Louis Blues,1,Thomas John Luxmore,Chris Lee,Los Angeles Kings,St. Louis Blues
+2015020624,Winnipeg Jets,2,Buffalo Sabres,4,Chris Rooney,Francis Charron,Buffalo Sabres,Winnipeg Jets
+2015020625,Washington Capitals,7,Ottawa Senators,1,Eric Furlatt,Trevor Hanson,Washington Capitals,Ottawa Senators
+2015020626,Chicago Blackhawks,6,Colorado Avalanche,3,Jean Hebert,Kevin Pollock,Chicago Blackhawks,Colorado Avalanche
+2015020627,Minnesota Wild,1,New Jersey Devils,2,Tom Kowal,Kyle Rehman,New Jersey Devils,Minnesota Wild
+2015020628,Anaheim Ducks,1,Detroit Red Wings,2,Chris Lee,Dean Morton,Detroit Red Wings,Anaheim Ducks
+2015020629,Edmonton Oilers,1,Florida Panthers,2,Mike Leggo,Greg Kimmerly,Florida Panthers,Edmonton Oilers
+2015020630,New York Rangers,2,Boston Bruins,1,Dan O'Rourke,Steve Kozari,New York Rangers,Boston Bruins
+2015020631,Calgary Flames,4,San Jose Sharks,5,Brad Watson,Kendrick Nicholson,San Jose Sharks,Calgary Flames
+2015020632,Vancouver Canucks,3,Florida Panthers,2,Greg Kimmerly,Brad Meier,Vancouver Canucks,Florida Panthers
+2015020633,Los Angeles Kings,4,Detroit Red Wings,2,Chris Lee,Dean Morton,Los Angeles Kings,Detroit Red Wings
+2015020634,New York Islanders,5,Columbus Blue Jackets,2,Ian Walsh,Steve Kozari,New York Islanders,Columbus Blue Jackets
+2015020635,Carolina Hurricanes,3,Pittsburgh Penguins,2,Dan O'Halloran,Trevor Hanson,Carolina Hurricanes,Pittsburgh Penguins
+2015020636,St. Louis Blues,5,New Jersey Devils,2,Gord Dwyer,Evgeny Romasko,St. Louis Blues,New Jersey Devils
+2015020637,Minnesota Wild,2,Buffalo Sabres,3,Ghislain Hebert,Eric Furlatt,Buffalo Sabres,Minnesota Wild
+2015020638,Winnipeg Jets,1,San Jose Sharks,4,Chris Rooney,Brad Watson,San Jose Sharks,Winnipeg Jets
+2015020639,Chicago Blackhawks,3,Nashville Predators,2,Brian Pochmara,Kyle Rehman,Chicago Blackhawks,Nashville Predators
+2015020640,Colorado Avalanche,0,Tampa Bay Lightning,4,Jean Hebert,Tim Peel,Tampa Bay Lightning,Colorado Avalanche
+2015020641,Arizona Coyotes,4,Edmonton Oilers,3,Francis Charron,Dave Jackson,Arizona Coyotes,Edmonton Oilers
+2015020642,Toronto Maple Leafs,1,Columbus Blue Jackets,3,Marc Joannette,Dean Morton,Columbus Blue Jackets,Toronto Maple Leafs
+2015020643,Philadelphia Flyers,3,Boston Bruins,2,Dan O'Rourke,Thomas John Luxmore,Philadelphia Flyers,Boston Bruins
+2015020644,Calgary Flames,6,Florida Panthers,0,Chris Rooney,Brad Meier,Calgary Flames,Florida Panthers
+2015020645,Anaheim Ducks,4,Ottawa Senators,1,Frederick L'Ecuyer,Chris Lee,Anaheim Ducks,Ottawa Senators
+2015020646,New York Islanders,3,New York Rangers,1,Graham Skilliter,Kevin Pollock,New York Islanders,New York Rangers
+2015020647,Washington Capitals,4,Vancouver Canucks,1,Kelly Sutherland,Dan O'Halloran,Washington Capitals,Vancouver Canucks
+2015020648,Montréal Canadiens,1,Chicago Blackhawks,2,Dave Jackson,Ian Walsh,Chicago Blackhawks,Montréal Canadiens
+2015020649,St. Louis Blues,1,Carolina Hurricanes,4,Jean Hebert,Steve Kozari,Carolina Hurricanes,St. Louis Blues
+2015020650,Winnipeg Jets,5,Nashville Predators,4,Justin St. Pierre ,Tim Peel,Winnipeg Jets,Nashville Predators
+2015020651,Colorado Avalanche,3,New Jersey Devils,0,Brad Watson,Kyle Rehman,Colorado Avalanche,New Jersey Devils
+2015020652,Arizona Coyotes,2,Detroit Red Wings,3,Mike Leggo,Evgeny Romasko,Detroit Red Wings,Arizona Coyotes
+2015020653,San Jose Sharks,1,Edmonton Oilers,1,Wes McCauley,Frederick L'Ecuyer,San Jose Sharks,Edmonton Oilers
+2015020654,Buffalo Sabres,1,Boston Bruins,4,Marc Joannette,Brad Meier,Boston Bruins,Buffalo Sabres
+2015020655,Toronto Maple Leafs,1,Chicago Blackhawks,4,Chris Rooney,Greg Kimmerly,Chicago Blackhawks,Toronto Maple Leafs
+2015020656,Carolina Hurricanes,2,Vancouver Canucks,3,Dan O'Rourke,Furman Furman,Vancouver Canucks,Carolina Hurricanes
+2015020657,Tampa Bay Lightning,5,Pittsburgh Penguins,4,Gord Dwyer,Dean Morton,Tampa Bay Lightning,Pittsburgh Penguins
+2015020658,Minnesota Wild,0,Winnipeg Jets,1,Brian Pochmara,Tim Peel,Winnipeg Jets,Minnesota Wild
+2015020659,Anaheim Ducks,4,Dallas Stars,2,Wes McCauley,Tom Kowal,Anaheim Ducks,Dallas Stars
+2015020660,Philadelphia Flyers,2,New York Rangers,2,Francis Charron,Graham Skilliter,Philadelphia Flyers,New York Rangers
+2015020661,Los Angeles Kings,3,Ottawa Senators,5,Wes McCauley,Jean Hebert,Ottawa Senators,Los Angeles Kings
+2015020662,Boston Bruins,3,Toronto Maple Leafs,2,Dave Jackson,Justin St. Pierre ,Boston Bruins,Toronto Maple Leafs
+2015020663,Buffalo Sabres,4,Washington Capitals,1,Ian Walsh,Brad Meier,Buffalo Sabres,Washington Capitals
+2015020664,Columbus Blue Jackets,2,Colorado Avalanche,1,Ghislain Hebert,Marc Joannette,Columbus Blue Jackets,Colorado Avalanche
+2015020665,St. Louis Blues,4,Montréal Canadiens,3,Kelly Sutherland,Frederick L'Ecuyer,St. Louis Blues,Montréal Canadiens
+2015020666,Nashville Predators,3,Minnesota Wild,0,Dan O'Rourke,Furman Furman,Nashville Predators,Minnesota Wild
+2015020667,Arizona Coyotes,0,New Jersey Devils,2,Eric Furlatt,Steve Kozari,New Jersey Devils,Arizona Coyotes
+2015020668,Edmonton Oilers,1,Calgary Flames,1,Dan O'Halloran,Trevor Hanson,Edmonton Oilers,Calgary Flames
+2015020669,San Jose Sharks,4,Dallas Stars,3,Mike Leggo,Kevin Pollock,San Jose Sharks,Dallas Stars
+2015020670,Pittsburgh Penguins,5,Carolina Hurricanes,0,Greg Kimmerly,Tim Peel,Pittsburgh Penguins,Carolina Hurricanes
+2015020671,New York Islanders,1,Vancouver Canucks,1,Brian Pochmara,Graham Skilliter,New York Islanders,Vancouver Canucks
+2015020672,Tampa Bay Lightning,3,Florida Panthers,1,Gord Dwyer,Tom Kowal,Tampa Bay Lightning,Florida Panthers
+2015020673,Washington Capitals,5,New York Rangers,2,Francis Charron,Justin St. Pierre ,Washington Capitals,New York Rangers
+2015020674,Chicago Blackhawks,5,Montréal Canadiens,2,Chris Lee,Dean Morton,Chicago Blackhawks,Montréal Canadiens
+2015020675,Detroit Red Wings,1,Philadelphia Flyers,1,Dave Jackson,Ghislain Hebert,Detroit Red Wings,Philadelphia Flyers
+2015020676,Anaheim Ducks,2,Los Angeles Kings,3,Mike Leggo,Jean Hebert,Los Angeles Kings,Anaheim Ducks
+2015020677,Florida Panthers,2,Edmonton Oilers,4,Dan O'Rourke,Thomas John Luxmore,Edmonton Oilers,Florida Panthers
+2015020678,St. Louis Blues,5,Pittsburgh Penguins,2,Wes McCauley,Ian Walsh,St. Louis Blues,Pittsburgh Penguins
+2015020679,Winnipeg Jets,1,Colorado Avalanche,2,Dan O'Halloran,Chris Lee,Colorado Avalanche,Winnipeg Jets
+2015020680,Arizona Coyotes,1,Buffalo Sabres,2,Eric Furlatt,Furman Furman,Buffalo Sabres,Arizona Coyotes
+2015020681,San Jose Sharks,3,Ottawa Senators,3,Kevin Pollock,Trevor Hanson,San Jose Sharks,Ottawa Senators
+2015020682,New Jersey Devils,4,Calgary Flames,2,Justin St. Pierre ,Ghislain Hebert,New Jersey Devils,Calgary Flames
+2015020683,New York Rangers,3,Vancouver Canucks,2,Chris Rooney,Dean Morton,New York Rangers,Vancouver Canucks
+2015020684,Philadelphia Flyers,2,Toronto Maple Leafs,3,Frederick L'Ecuyer,Brad Watson,Toronto Maple Leafs,Philadelphia Flyers
+2015020685,Columbus Blue Jackets,3,Washington Capitals,6,Graham Skilliter,Tom Kowal,Washington Capitals,Columbus Blue Jackets
+2015020686,Montréal Canadiens,1,Boston Bruins,4,Greg Kimmerly,Marc Joannette,Boston Bruins,Montréal Canadiens
+2015020687,Tampa Bay Lightning,6,Edmonton Oilers,4,Jean Hebert,Kyle Rehman,Tampa Bay Lightning,Edmonton Oilers
+2015020688,Nashville Predators,1,Chicago Blackhawks,4,Francis Charron,Gord Dwyer,Chicago Blackhawks,Nashville Predators
+2015020689,Los Angeles Kings,3,Dallas Stars,2,Kevin Pollock,Trevor Hanson,Los Angeles Kings,Dallas Stars
+2015020690,Detroit Red Wings,1,St. Louis Blues,2,Brian Pochmara,Tom Kowal,St. Louis Blues,Detroit Red Wings
+2015020691,Colorado Avalanche,2,Buffalo Sabres,1,Dave Jackson,Jon McIsaac,Colorado Avalanche,Buffalo Sabres
+2015020692,Anaheim Ducks,3,Minnesota Wild,1,Kevin Pollock,Trevor Hanson,Anaheim Ducks,Minnesota Wild
+2015020693,Boston Bruins,2,Vancouver Canucks,4,Greg Kimmerly,Steve Kozari,Vancouver Canucks,Boston Bruins
+2015020694,New Jersey Devils,6,Ottawa Senators,3,Brad Watson,Marc Joannette,New Jersey Devils,Ottawa Senators
+2015020695,Pittsburgh Penguins,4,Philadelphia Flyers,3,Justin St. Pierre ,Brad Meier,Pittsburgh Penguins,Philadelphia Flyers
+2015020696,Columbus Blue Jackets,2,Calgary Flames,4,Francis Charron,Brian Pochmara,Calgary Flames,Columbus Blue Jackets
+2015020697,Toronto Maple Leafs,0,Carolina Hurricanes,1,Eric Furlatt,Garrett Rank,Carolina Hurricanes,Toronto Maple Leafs
+2015020698,Tampa Bay Lightning,2,Chicago Blackhawks,1,Dan O'Rourke,Graham Skilliter,Tampa Bay Lightning,Chicago Blackhawks
+2015020699,Winnipeg Jets,1,Nashville Predators,4,Frederick L'Ecuyer,Gord Dwyer,Nashville Predators,Winnipeg Jets
+2015020700,Dallas Stars,3,Edmonton Oilers,2,Ghislain Hebert,Kyle Rehman,Dallas Stars,Edmonton Oilers
+2015020701,Arizona Coyotes,1,San Jose Sharks,3,Kelly Sutherland,Chris Lee,San Jose Sharks,Arizona Coyotes
+2015020702,Los Angeles Kings,0,Minnesota Wild,3,Chris Rooney,Jon McIsaac,Minnesota Wild,Los Angeles Kings
+2015020703,Buffalo Sabres,0,Detroit Red Wings,3,Tim Peel,Brad Watson,Detroit Red Wings,Buffalo Sabres
+2015020704,Washington Capitals,0,Anaheim Ducks,2,Wes McCauley,Graham Skilliter,Anaheim Ducks,Washington Capitals
+2015020705,Carolina Hurricanes,1,New York Rangers,4,Thomas John Luxmore,Tom Kowal,New York Rangers,Carolina Hurricanes
+2015020706,Ottawa Senators,2,New York Islanders,5,Dan O'Halloran,Garrett Rank,New York Islanders,Ottawa Senators
+2015020707,Florida Panthers,4,Chicago Blackhawks,0,Jean Hebert,Graham Skilliter,Florida Panthers,Chicago Blackhawks
+2015020708,Colorado Avalanche,1,St. Louis Blues,1,Kelly Sutherland,Trevor Hanson,Colorado Avalanche,St. Louis Blues
+2015020709,Pittsburgh Penguins,5,Vancouver Canucks,4,Ghislain Hebert,Eric Furlatt,Pittsburgh Penguins,Vancouver Canucks
+2015020710,San Jose Sharks,4,Minnesota Wild,3,Chris Rooney,Chris Lee,San Jose Sharks,Minnesota Wild
+2015020711,Boston Bruins,2,Columbus Blue Jackets,2,Brian Pochmara,Dean Morton,Boston Bruins,Columbus Blue Jackets
+2015020712,Toronto Maple Leafs,2,Montréal Canadiens,2,Brad Watson,Kevin Pollock,Toronto Maple Leafs,Montréal Canadiens
+2015020713,Detroit Red Wings,3,Anaheim Ducks,4,Dan O'Halloran,Kendrick Nicholson,Anaheim Ducks,Detroit Red Wings
+2015020714,Florida Panthers,5,Tampa Bay Lightning,2,Dave Jackson,Marc Joannette,Florida Panthers,Tampa Bay Lightning
+2015020715,Winnipeg Jets,1,New Jersey Devils,3,Mike Leggo,Francis Charron,New Jersey Devils,Winnipeg Jets
+2015020716,New York Islanders,2,Philadelphia Flyers,5,Dave Jackson,Steve Kozari,Philadelphia Flyers,New York Islanders
+2015020717,Dallas Stars,1,Colorado Avalanche,3,Dan O'Rourke,Gord Dwyer,Colorado Avalanche,Dallas Stars
+2015020718,Arizona Coyotes,3,Los Angeles Kings,2,Brad Meier,Evgeny Romasko,Arizona Coyotes,Los Angeles Kings
+2015020719,Edmonton Oilers,1,Nashville Predators,4,Frederick L'Ecuyer,Ian Walsh,Nashville Predators,Edmonton Oilers
+2015020720,Washington Capitals,3,Pittsburgh Penguins,2,Kelly Sutherland,Evgeny Romasko,Washington Capitals,Pittsburgh Penguins
+2015020721,Ottawa Senators,3,New York Rangers,0,Tim Peel,Garrett Rank,Ottawa Senators,New York Rangers
+2015020722,Carolina Hurricanes,5,Calgary Flames,2,Jean Hebert,Thomas John Luxmore,Carolina Hurricanes,Calgary Flames
+2015020723,Chicago Blackhawks,2,St. Louis Blues,0,Mike Leggo,Eric Furlatt,Chicago Blackhawks,St. Louis Blues
+2015020724,San Jose Sharks,2,Los Angeles Kings,3,Kelly Sutherland,Kyle Rehman,Los Angeles Kings,San Jose Sharks
+2015020725,New York Islanders,2,Detroit Red Wings,4,Wes McCauley,Greg Kimmerly,Detroit Red Wings,New York Islanders
+2015020726,New York Rangers,6,Buffalo Sabres,3,Justin St. Pierre ,Brian Pochmara,New York Rangers,Buffalo Sabres
+2015020727,Philadelphia Flyers,2,Boston Bruins,3,Dan O'Halloran,Frederick L'Ecuyer,Boston Bruins,Philadelphia Flyers
+2015020728,Columbus Blue Jackets,5,Montréal Canadiens,2,Marc Joannette,Kendrick Nicholson,Columbus Blue Jackets,Montréal Canadiens
+2015020729,Dallas Stars,2,Calgary Flames,1,Dave Jackson,Brad Watson,Dallas Stars,Calgary Flames
+2015020730,Minnesota Wild,1,Arizona Coyotes,1,Ian Walsh,Brad Meier,Minnesota Wild,Arizona Coyotes
+2015020731,Boston Bruins,2,Anaheim Ducks,6,Chris Rooney,Thomas John Luxmore,Anaheim Ducks,Boston Bruins
+2015020732,Pittsburgh Penguins,2,New Jersey Devils,0,Tim Peel,Tom Chmielewski,Pittsburgh Penguins,New Jersey Devils
+2015020733,Carolina Hurricanes,5,Chicago Blackhawks,0,Kelly Sutherland,Evgeny Romasko,Carolina Hurricanes,Chicago Blackhawks
+2015020734,Montréal Canadiens,2,Columbus Blue Jackets,5,Mike Leggo,Justin St. Pierre ,Columbus Blue Jackets,Montréal Canadiens
+2015020735,Ottawa Senators,2,Buffalo Sabres,3,Ghislain Hebert,Kevin Pollock,Buffalo Sabres,Ottawa Senators
+2015020736,Florida Panthers,5,Toronto Maple Leafs,1,Dan O'Rourke,Kyle Rehman,Florida Panthers,Toronto Maple Leafs
+2015020737,Winnipeg Jets,5,Arizona Coyotes,2,Chris Lee,Ian Walsh,Winnipeg Jets,Arizona Coyotes
+2015020738,Vancouver Canucks,1,Nashville Predators,2,Eric Furlatt,Trevor Hanson,Nashville Predators,Vancouver Canucks
+2015020739,San Jose Sharks,6,Colorado Avalanche,1,Francis Charron,Gord Dwyer,San Jose Sharks,Colorado Avalanche
+2015020740,Tampa Bay Lightning,1,Toronto Maple Leafs,0,Brian Pochmara,Kyle Rehman,Tampa Bay Lightning,Toronto Maple Leafs
+2015020741,Washington Capitals,3,Philadelphia Flyers,4,Kevin Pollock,Dean Morton,Philadelphia Flyers,Washington Capitals
+2015020742,Calgary Flames,1,Nashville Predators,2,Trevor Hanson,Tom Kowal,Nashville Predators,Calgary Flames
+2015020743,Los Angeles Kings,3,Colorado Avalanche,4,Francis Charron,Graham Skilliter,Colorado Avalanche,Los Angeles Kings
+2015020744,Boston Bruins,3,Toronto Maple Leafs,4,Tom Kowal,Francois St-Laurent,Toronto Maple Leafs,Boston Bruins
+2015020745,New Jersey Devils,3,New York Rangers,2,Tim Peel,Dean Morton,New Jersey Devils,New York Rangers
+2015020746,New York Islanders,5,Minnesota Wild,3,Wes McCauley,Francis Charron,New York Islanders,Minnesota Wild
+2015020747,Philadelphia Flyers,4,Montréal Canadiens,2,Kyle Rehman,Steve Kozari,Philadelphia Flyers,Montréal Canadiens
+2015020748,Pittsburgh Penguins,6,Ottawa Senators,5,Chris Rooney,Brian Pochmara,Pittsburgh Penguins,Ottawa Senators
+2015020749,Washington Capitals,2,Florida Panthers,5,Justin St. Pierre ,Eric Furlatt,Florida Panthers,Washington Capitals
+2015020750,Nashville Predators,0,St. Louis Blues,1,Dave Jackson,Thomas John Luxmore,St. Louis Blues,Nashville Predators
+2015020751,Winnipeg Jets,3,Dallas Stars,5,Jean Hebert,Ghislain Hebert,Dallas Stars,Winnipeg Jets
+2015020752,Colorado Avalanche,1,Chicago Blackhawks,2,Frederick L'Ecuyer,Brad Watson,Chicago Blackhawks,Colorado Avalanche
+2015020753,Edmonton Oilers,5,Columbus Blue Jackets,1,Brad Meier,Jon McIsaac,Edmonton Oilers,Columbus Blue Jackets
+2015020754,Arizona Coyotes,2,Los Angeles Kings,6,Gord Dwyer,Trevor Hanson,Los Angeles Kings,Arizona Coyotes
+2015020755,Anaheim Ducks,3,San Jose Sharks,2,Graham Skilliter,Marc Joannette,Anaheim Ducks,San Jose Sharks
+2015020756,Montréal Canadiens,2,Buffalo Sabres,4,Dan O'Halloran,Kevin Pollock,Buffalo Sabres,Montréal Canadiens
+2015020757,Tampa Bay Lightning,3,Detroit Red Wings,1,Dan O'Rourke,Kelly Sutherland,Tampa Bay Lightning,Detroit Red Wings
+2015020758,Calgary Flames,4,Carolina Hurricanes,1,Mike Leggo,Jon McIsaac,Calgary Flames,Carolina Hurricanes
+2015020759,Buffalo Sabres,2,Boston Bruins,2,Tim Peel,Kyle Rehman,Buffalo Sabres,Boston Bruins
+2015020760,New York Rangers,4,Minnesota Wild,2,Dave Jackson,Eric Furlatt,New York Rangers,Minnesota Wild
+2015020761,Washington Capitals,3,New York Islanders,2,Brad Watson,Tom Kowal,Washington Capitals,New York Islanders
+2015020762,Toronto Maple Leafs,2,New Jersey Devils,2,Francois St-Laurent,Steve Kozari,Toronto Maple Leafs,New Jersey Devils
+2015020763,Ottawa Senators,2,Edmonton Oilers,7,Brian Pochmara,Kevin Pollock,Edmonton Oilers,Ottawa Senators
+2015020764,Florida Panthers,6,Detroit Red Wings,3,Chris Rooney,Garrett Rank,Florida Panthers,Detroit Red Wings
+2015020765,St. Louis Blues,1,San Jose Sharks,3,Jean Hebert,Ghislain Hebert,San Jose Sharks,St. Louis Blues
+2015020766,Nashville Predators,3,Philadelphia Flyers,6,Thomas John Luxmore,Brad Meier,Philadelphia Flyers,Nashville Predators
+2015020767,Colorado Avalanche,3,Dallas Stars,4,Trevor Hanson,Dean Morton,Dallas Stars,Colorado Avalanche
+2015020768,Arizona Coyotes,4,Chicago Blackhawks,5,Marc Joannette,Mark Lemelin,Chicago Blackhawks,Arizona Coyotes
+2015020769,Vancouver Canucks,1,Columbus Blue Jackets,1,Mike Leggo,Ian Walsh,Vancouver Canucks,Columbus Blue Jackets
+2015020770,Los Angeles Kings,2,Anaheim Ducks,4,Wes McCauley,Frederick L'Ecuyer,Anaheim Ducks,Los Angeles Kings
+2015020771,Tampa Bay Lightning,6,Pittsburgh Penguins,3,Chris Rooney,Garrett Rank,Tampa Bay Lightning,Pittsburgh Penguins
+2015020772,Winnipeg Jets,3,Carolina Hurricanes,5,Justin St. Pierre ,Dan O'Halloran,Carolina Hurricanes,Winnipeg Jets
+2015020773,Calgary Flames,1,Columbus Blue Jackets,2,Chris Lee,Ian Walsh,Columbus Blue Jackets,Calgary Flames
+2015020774,Anaheim Ducks,5,Arizona Coyotes,2,Gord Dwyer,Dean Morton,Anaheim Ducks,Arizona Coyotes
+2015020775,New Jersey Devils,2,Washington Capitals,2,Brian Pochmara,Kevin Pollock,New Jersey Devils,Washington Capitals
+2015020776,Philadelphia Flyers,2,New York Rangers,2,Kelly Sutherland,Furman Furman,Philadelphia Flyers,New York Rangers
+2015020777,Montréal Canadiens,5,Edmonton Oilers,1,Tim Peel,Francois St-Laurent,Montréal Canadiens,Edmonton Oilers
+2015020778,Detroit Red Wings,5,New York Islanders,1,Jean Hebert,Ghislain Hebert,Detroit Red Wings,New York Islanders
+2015020779,Boston Bruins,2,Buffalo Sabres,1,Dave Jackson,Brad Watson,Boston Bruins,Buffalo Sabres
+2015020780,Ottawa Senators,6,Toronto Maple Leafs,1,Dan O'Rourke,Tom Kowal,Ottawa Senators,Toronto Maple Leafs
+2015020781,Florida Panthers,2,Pittsburgh Penguins,3,Francis Charron,Trevor Hanson,Pittsburgh Penguins,Florida Panthers
+2015020782,St. Louis Blues,4,Minnesota Wild,1,Graham Skilliter,Eric Furlatt,St. Louis Blues,Minnesota Wild
+2015020783,Nashville Predators,6,San Jose Sharks,2,Marc Joannette,Steve Kozari,Nashville Predators,San Jose Sharks
+2015020784,Dallas Stars,1,Chicago Blackhawks,5,Thomas John Luxmore,Brad Meier,Chicago Blackhawks,Dallas Stars
+2015020785,Colorado Avalanche,2,Winnipeg Jets,4,Wes McCauley,Gord Dwyer,Winnipeg Jets,Colorado Avalanche
+2015020786,Vancouver Canucks,1,Calgary Flames,4,Mike Leggo,Frederick L'Ecuyer,Calgary Flames,Vancouver Canucks
+2015020787,Washington Capitals,3,Philadelphia Flyers,2,Chris Rooney,Furman Furman,Washington Capitals,Philadelphia Flyers
+2015020788,Montréal Canadiens,1,Carolina Hurricanes,1,Ian Walsh,Francois St-Laurent,Montréal Canadiens,Carolina Hurricanes
+2015020789,New York Islanders,8,Edmonton Oilers,1,Kelly Sutherland,Justin St. Pierre ,New York Islanders,Edmonton Oilers
+2015020790,New York Rangers,2,New Jersey Devils,1,Dan O'Rourke,Trevor Hanson,New York Rangers,New Jersey Devils
+2015020791,Pittsburgh Penguins,6,Anaheim Ducks,2,Tom Kowal,Dean Morton,Pittsburgh Penguins,Anaheim Ducks
+2015020792,Ottawa Senators,5,Tampa Bay Lightning,1,Brad Watson,Ian Walsh,Ottawa Senators,Tampa Bay Lightning
+2015020793,Detroit Red Wings,3,Florida Panthers,0,Graham Skilliter,Brad Meier,Detroit Red Wings,Florida Panthers
+2015020794,Boston Bruins,2,Los Angeles Kings,9,Wes McCauley,Kelly Sutherland,Los Angeles Kings,Boston Bruins
+2015020795,Buffalo Sabres,4,Florida Panthers,7,Thomas John Luxmore,Dean Morton,Florida Panthers,Buffalo Sabres
+2015020796,New Jersey Devils,2,Edmonton Oilers,1,Justin St. Pierre ,Trevor Hanson,New Jersey Devils,Edmonton Oilers
+2015020797,Philadelphia Flyers,1,Anaheim Ducks,4,Francis Charron,Kevin Pollock,Anaheim Ducks,Philadelphia Flyers
+2015020798,Columbus Blue Jackets,2,New York Islanders,2,Dan O'Rourke,Jon McIsaac,Columbus Blue Jackets,New York Islanders
+2015020799,Montréal Canadiens,4,Tampa Bay Lightning,2,Ghislain Hebert,Eric Furlatt,Montréal Canadiens,Tampa Bay Lightning
+2015020800,St. Louis Blues,1,Winnipeg Jets,1,Tim Peel,Furman Furman,St. Louis Blues,Winnipeg Jets
+2015020801,Nashville Predators,3,Washington Capitals,5,Graham Skilliter,Brad Meier,Washington Capitals,Nashville Predators
+2015020802,Minnesota Wild,3,Dallas Stars,4,Chris Lee,Tom Chmielewski,Dallas Stars,Minnesota Wild
+2015020803,Chicago Blackhawks,0,San Jose Sharks,2,Tom Kowal,Steve Kozari,San Jose Sharks,Chicago Blackhawks
+2015020804,Colorado Avalanche,1,Vancouver Canucks,3,Dave Jackson,Evgeny Romasko,Vancouver Canucks,Colorado Avalanche
+2015020805,Calgary Flames,4,Toronto Maple Leafs,3,Gord Dwyer,Kendrick Nicholson,Calgary Flames,Toronto Maple Leafs
+2015020806,Detroit Red Wings,3,Ottawa Senators,1,Justin St. Pierre ,Ian Walsh,Detroit Red Wings,Ottawa Senators
+2015020807,Pittsburgh Penguins,0,New York Rangers,3,Marc Joannette,Kevin Pollock,New York Rangers,Pittsburgh Penguins
+2015020808,Arizona Coyotes,1,Vancouver Canucks,2,Dave Jackson,Jean Hebert,Vancouver Canucks,Arizona Coyotes
+2015020809,New York Islanders,5,Los Angeles Kings,2,Dan O'Halloran,Francois St-Laurent,New York Islanders,Los Angeles Kings
+2015020810,Philadelphia Flyers,5,Buffalo Sabres,1,Chris Lee,Steve Kozari,Philadelphia Flyers,Buffalo Sabres
+2015020811,Columbus Blue Jackets,3,Anaheim Ducks,3,Chris Rooney,Dan O'Rourke,Columbus Blue Jackets,Anaheim Ducks
+2015020812,Ottawa Senators,3,Colorado Avalanche,4,Thomas John Luxmore,Brad Meier,Colorado Avalanche,Ottawa Senators
+2015020813,Minnesota Wild,3,Washington Capitals,4,Mike Leggo,Frederick L'Ecuyer,Washington Capitals,Minnesota Wild
+2015020814,Winnipeg Jets,2,Boston Bruins,6,Tim Peel,Kendrick Nicholson,Boston Bruins,Winnipeg Jets
+2015020815,Chicago Blackhawks,2,Dallas Stars,4,Brad Watson,Ian Walsh,Dallas Stars,Chicago Blackhawks
+2015020816,Edmonton Oilers,5,Toronto Maple Leafs,2,Brian Pochmara,Gord Dwyer,Edmonton Oilers,Toronto Maple Leafs
+2015020817,San Jose Sharks,5,Calgary Flames,5,Jean Hebert,Eric Furlatt,San Jose Sharks,Calgary Flames
+2015020818,Buffalo Sabres,6,Montréal Canadiens,4,Greg Kimmerly,Garrett Rank,Buffalo Sabres,Montréal Canadiens
+2015020819,New York Rangers,4,Los Angeles Kings,5,Dan O'Halloran,Furman Furman,Los Angeles Kings,New York Rangers
+2015020820,Carolina Hurricanes,1,Pittsburgh Penguins,1,Francis Charron,Dan O'Rourke,Carolina Hurricanes,Pittsburgh Penguins
+2015020821,Detroit Red Wings,2,Colorado Avalanche,2,Mike Leggo,Chris Rooney,Detroit Red Wings,Colorado Avalanche
+2015020822,Tampa Bay Lightning,4,Nashville Predators,3,Justin St. Pierre ,Marc Joannette,Tampa Bay Lightning,Nashville Predators
+2015020823,Florida Panthers,3,St. Louis Blues,5,Wes McCauley,Ghislain Hebert,St. Louis Blues,Florida Panthers
+2015020824,Arizona Coyotes,4,Calgary Flames,1,Eric Furlatt,Kyle Rehman,Arizona Coyotes,Calgary Flames
+2015020825,Philadelphia Flyers,1,New Jersey Devils,2,Thomas John Luxmore,Francois St-Laurent,New Jersey Devils,Philadelphia Flyers
+2015020826,Minnesota Wild,2,Boston Bruins,4,Brian Pochmara,Brad Watson,Boston Bruins,Minnesota Wild
+2015020827,Florida Panthers,0,Nashville Predators,5,Wes McCauley,Chris Lee,Nashville Predators,Florida Panthers
+2015020828,Carolina Hurricanes,6,New York Islanders,3,Dave Jackson,Marc Joannette,Carolina Hurricanes,New York Islanders
+2015020829,Columbus Blue Jackets,4,Ottawa Senators,2,Tim Peel,Dean Morton,Columbus Blue Jackets,Ottawa Senators
+2015020830,Vancouver Canucks,2,Toronto Maple Leafs,5,Jean Hebert,Trevor Hanson,Toronto Maple Leafs,Vancouver Canucks
+2015020831,Dallas Stars,4,Washington Capitals,3,Graham Skilliter,Steve Kozari,Dallas Stars,Washington Capitals
+2015020832,Chicago Blackhawks,2,Anaheim Ducks,3,Kelly Sutherland,Frederick L'Ecuyer,Anaheim Ducks,Chicago Blackhawks
+2015020833,Edmonton Oilers,1,Winnipeg Jets,1,Ian Walsh,Brad Meier,Edmonton Oilers,Winnipeg Jets
+2015020834,San Jose Sharks,4,Arizona Coyotes,1,Tom Kowal,Kyle Rehman,San Jose Sharks,Arizona Coyotes
+2015020835,Buffalo Sabres,4,Colorado Avalanche,1,Ghislain Hebert,Francois St-Laurent,Buffalo Sabres,Colorado Avalanche
+2015020836,New Jersey Devils,1,Los Angeles Kings,0,Chris Rooney,Thomas John Luxmore,New Jersey Devils,Los Angeles Kings
+2015020837,Detroit Red Wings,6,Boston Bruins,5,Mike Leggo,Francis Charron,Detroit Red Wings,Boston Bruins
+2015020838,Tampa Bay Lightning,1,St. Louis Blues,2,Dan O'Halloran,Chris Lee,St. Louis Blues,Tampa Bay Lightning
+2015020839,New York Rangers,3,Philadelphia Flyers,1,Dave Jackson,Kelly Sutherland,New York Rangers,Philadelphia Flyers
+2015020840,New York Islanders,4,Detroit Red Wings,1,Greg Kimmerly,Garrett Rank,New York Islanders,Detroit Red Wings
+2015020841,Calgary Flames,4,Anaheim Ducks,6,Kevin Pollock,Brad Meier,Anaheim Ducks,Calgary Flames
+2015020842,Florida Panthers,1,Pittsburgh Penguins,1,Jean Hebert,Chris Lee,Florida Panthers,Pittsburgh Penguins
+2015020843,Nashville Predators,2,Dallas Stars,3,Wes McCauley,Jon McIsaac,Dallas Stars,Nashville Predators
+2015020844,Chicago Blackhawks,7,Toronto Maple Leafs,2,Tim Peel,Brad Watson,Chicago Blackhawks,Toronto Maple Leafs
+2015020845,Arizona Coyotes,6,Montréal Canadiens,2,Graham Skilliter,Tom Kowal,Arizona Coyotes,Montréal Canadiens
+2015020846,Vancouver Canucks,2,Minnesota Wild,5,Dean Morton,Kyle Rehman,Minnesota Wild,Vancouver Canucks
+2015020847,New Jersey Devils,3,Philadelphia Flyers,6,Greg Kimmerly,Garrett Rank,Philadelphia Flyers,New Jersey Devils
+2015020848,Washington Capitals,3,Los Angeles Kings,1,Francis Charron,Brian Pochmara,Washington Capitals,Los Angeles Kings
+2015020849,Carolina Hurricanes,2,Winnipeg Jets,1,Frederick L'Ecuyer,Francois St-Laurent,Carolina Hurricanes,Winnipeg Jets
+2015020850,Columbus Blue Jackets,1,Boston Bruins,2,Dave Jackson,Trevor Hanson,Boston Bruins,Columbus Blue Jackets
+2015020851,Ottawa Senators,1,Buffalo Sabres,1,Marc Joannette,Eric Furlatt,Ottawa Senators,Buffalo Sabres
+2015020852,Tampa Bay Lightning,2,San Jose Sharks,4,Gord Dwyer,Jon McIsaac,San Jose Sharks,Tampa Bay Lightning
+2015020853,St. Louis Blues,2,Dallas Stars,1,Kelly Sutherland,Dan O'Halloran,St. Louis Blues,Dallas Stars
+2015020854,Edmonton Oilers,3,Anaheim Ducks,5,Dean Morton,Kendrick Nicholson,Anaheim Ducks,Edmonton Oilers
+2015020855,New York Rangers,3,Chicago Blackhawks,5,Justin St. Pierre ,Brian Pochmara,Chicago Blackhawks,New York Rangers
+2015020856,Colorado Avalanche,3,Montréal Canadiens,2,Chris Lee,Steve Kozari,Colorado Avalanche,Montréal Canadiens
+2015020857,Calgary Flames,3,Minnesota Wild,5,Kevin Pollock,Kyle Rehman,Minnesota Wild,Calgary Flames
+2015020858,New York Islanders,2,Washington Capitals,3,Mike Leggo,Trevor Hanson,Washington Capitals,New York Islanders
+2015020859,Pittsburgh Penguins,6,Detroit Red Wings,3,Kelly Sutherland,Justin St. Pierre ,Pittsburgh Penguins,Detroit Red Wings
+2015020860,Toronto Maple Leafs,2,New York Rangers,4,Chris Rooney,Eric Furlatt,New York Rangers,Toronto Maple Leafs
+2015020861,Ottawa Senators,4,Carolina Hurricanes,2,Greg Kimmerly,Kendrick Nicholson,Ottawa Senators,Carolina Hurricanes
+2015020862,Tampa Bay Lightning,5,Winnipeg Jets,5,Dan O'Rourke,Francois St-Laurent,Tampa Bay Lightning,Winnipeg Jets
+2015020863,Florida Panthers,1,San Jose Sharks,1,Dan O'Halloran,Gord Dwyer,Florida Panthers,San Jose Sharks
+2015020864,St. Louis Blues,2,Los Angeles Kings,1,Francis Charron,Dean Morton,St. Louis Blues,Los Angeles Kings
+2015020865,Nashville Predators,2,Boston Bruins,0,Jean Hebert,Evgeny Romasko,Nashville Predators,Boston Bruins
+2015020866,Edmonton Oilers,2,Minnesota Wild,5,Ghislain Hebert,Graham Skilliter,Minnesota Wild,Edmonton Oilers
+2015020867,Arizona Coyotes,6,Dallas Stars,3,Brad Watson,Steve Kozari,Arizona Coyotes,Dallas Stars
+2015020868,Vancouver Canucks,2,Anaheim Ducks,5,Thomas John Luxmore,Brad Meier,Anaheim Ducks,Vancouver Canucks
+2015020869,New Jersey Devils,0,New York Islanders,1,Brian Pochmara,Ian Walsh,New York Islanders,New Jersey Devils
+2015020870,Carolina Hurricanes,5,San Jose Sharks,2,Wes McCauley,Dean Morton,Carolina Hurricanes,San Jose Sharks
+2015020871,Columbus Blue Jackets,0,Buffalo Sabres,4,Francis Charron,Tim Peel,Buffalo Sabres,Columbus Blue Jackets
+2015020872,Montréal Canadiens,2,Philadelphia Flyers,2,Marc Joannette,Trevor Hanson,Montréal Canadiens,Philadelphia Flyers
+2015020873,Calgary Flames,5,Vancouver Canucks,2,Thomas John Luxmore,Ghislain Hebert,Calgary Flames,Vancouver Canucks
+2015020874,Pittsburgh Penguins,2,Tampa Bay Lightning,4,Mike Leggo,Eric Furlatt,Tampa Bay Lightning,Pittsburgh Penguins
+2015020875,Toronto Maple Leafs,4,Philadelphia Flyers,5,Ian Walsh,Kevin Pollock,Philadelphia Flyers,Toronto Maple Leafs
+2015020876,Ottawa Senators,2,Detroit Red Wings,2,Trevor Hanson,Tom Kowal,Ottawa Senators,Detroit Red Wings
+2015020877,Florida Panthers,3,Winnipeg Jets,1,Justin St. Pierre ,Gord Dwyer,Florida Panthers,Winnipeg Jets
+2015020878,Washington Capitals,4,New Jersey Devils,3,Wes McCauley,Kelly Sutherland,Washington Capitals,New Jersey Devils
+2015020879,Nashville Predators,1,Los Angeles Kings,2,Chris Rooney,Frederick L'Ecuyer,Los Angeles Kings,Nashville Predators
+2015020880,Dallas Stars,3,Boston Bruins,7,Jean Hebert,Francois St-Laurent,Boston Bruins,Dallas Stars
+2015020881,Arizona Coyotes,4,St. Louis Blues,6,Dave Jackson,Graham Skilliter,St. Louis Blues,Arizona Coyotes
+2015020882,Edmonton Oilers,2,Colorado Avalanche,3,Thomas John Luxmore,Kyle Rehman,Colorado Avalanche,Edmonton Oilers
+2015020883,Buffalo Sabres,3,Pittsburgh Penguins,4,Kevin Pollock,Brad Meier,Pittsburgh Penguins,Buffalo Sabres
+2015020884,Minnesota Wild,6,Chicago Blackhawks,1,Chris Lee,Steve Kozari,Minnesota Wild,Chicago Blackhawks
+2015020885,New York Rangers,1,Detroit Red Wings,0,Francis Charron,Frederick L'Ecuyer,New York Rangers,Detroit Red Wings
+2015020886,Carolina Hurricanes,2,Tampa Bay Lightning,4,Brian Pochmara,Tim Peel,Tampa Bay Lightning,Carolina Hurricanes
+2015020887,Anaheim Ducks,5,Calgary Flames,2,Dave Jackson,Graham Skilliter,Anaheim Ducks,Calgary Flames
+2015020888,Vancouver Canucks,5,Colorado Avalanche,1,Brad Watson,Tom Chmielewski,Vancouver Canucks,Colorado Avalanche
+2015020889,Boston Bruins,4,Columbus Blue Jackets,6,Chris Rooney,Eric Furlatt,Columbus Blue Jackets,Boston Bruins
+2015020890,Washington Capitals,3,Arizona Coyotes,2,Tim Peel,Garrett Rank,Washington Capitals,Arizona Coyotes
+2015020891,Montréal Canadiens,1,Nashville Predators,1,Mike Leggo,Greg Kimmerly,Montréal Canadiens,Nashville Predators
+2015020892,St. Louis Blues,3,San Jose Sharks,6,Dan O'Rourke,Evgeny Romasko,San Jose Sharks,St. Louis Blues
+2015020893,New Jersey Devils,5,New York Rangers,2,Mike Leggo,Mark Lemelin,New Jersey Devils,New York Rangers
+2015020894,Carolina Hurricanes,3,Philadelphia Flyers,1,Justin St. Pierre ,Kevin Pollock,Carolina Hurricanes,Philadelphia Flyers
+2015020895,Toronto Maple Leafs,2,Nashville Predators,3,Dan O'Halloran,Brad Meier,Nashville Predators,Toronto Maple Leafs
+2015020896,Detroit Red Wings,1,Columbus Blue Jackets,1,Wes McCauley,Thomas John Luxmore,Detroit Red Wings,Columbus Blue Jackets
+2015020897,Tampa Bay Lightning,2,Arizona Coyotes,1,Jean Hebert,Frederick L'Ecuyer,Tampa Bay Lightning,Arizona Coyotes
+2015020898,Minnesota Wild,1,New York Islanders,4,Francis Charron,Gord Dwyer,New York Islanders,Minnesota Wild
+2015020899,Winnipeg Jets,3,Dallas Stars,5,Marc Joannette,Kyle Rehman,Dallas Stars,Winnipeg Jets
+2015020900,Edmonton Oilers,1,Ottawa Senators,4,Kelly Sutherland,Brad Watson,Ottawa Senators,Edmonton Oilers
+2015020901,Los Angeles Kings,2,Calgary Flames,1,Dave Jackson,Graham Skilliter,Los Angeles Kings,Calgary Flames
+2015020902,Washington Capitals,3,Montréal Canadiens,4,Chris Lee,Mark Lemelin,Montréal Canadiens,Washington Capitals
+2015020903,Boston Bruins,5,Pittsburgh Penguins,1,Brian Pochmara,Dean Morton,Boston Bruins,Pittsburgh Penguins
+2015020904,Colorado Avalanche,3,San Jose Sharks,3,Chris Rooney,Ian Walsh,Colorado Avalanche,San Jose Sharks
+2015020905,Anaheim Ducks,1,Buffalo Sabres,0,Dan O'Rourke,Evgeny Romasko,Anaheim Ducks,Buffalo Sabres
+2015020906,Philadelphia Flyers,3,Minnesota Wild,2,Brad Meier,Dean Morton,Philadelphia Flyers,Minnesota Wild
+2015020907,Columbus Blue Jackets,6,New Jersey Devils,1,Justin St. Pierre ,Chris Lee,Columbus Blue Jackets,New Jersey Devils
+2015020908,Toronto Maple Leafs,3,Carolina Hurricanes,1,Marc Joannette,Furman Furman,Toronto Maple Leafs,Carolina Hurricanes
+2015020909,Florida Panthers,3,Arizona Coyotes,2,Ghislain Hebert,Francois St-Laurent,Florida Panthers,Arizona Coyotes
+2015020910,St. Louis Blues,1,New York Rangers,2,Tim Peel,Kyle Rehman,New York Rangers,St. Louis Blues
+2015020911,Chicago Blackhawks,1,Nashville Predators,3,Francis Charron,Kevin Pollock,Nashville Predators,Chicago Blackhawks
+2015020912,Dallas Stars,3,Winnipeg Jets,6,Mike Leggo,Wes McCauley,Winnipeg Jets,Dallas Stars
+2015020913,Calgary Flames,1,New York Islanders,2,Brad Watson,Tom Kowal,New York Islanders,Calgary Flames
+2015020914,Vancouver Canucks,5,Ottawa Senators,3,Kelly Sutherland,Graham Skilliter,Vancouver Canucks,Ottawa Senators
+2015020915,Los Angeles Kings,2,Edmonton Oilers,1,Dave Jackson,Dan O'Rourke,Los Angeles Kings,Edmonton Oilers
+2015020916,New Jersey Devils,0,Tampa Bay Lightning,4,Frederick L'Ecuyer,Brad Meier,Tampa Bay Lightning,New Jersey Devils
+2015020917,Washington Capitals,3,Minnesota Wild,2,Justin St. Pierre ,Jean Hebert,Washington Capitals,Minnesota Wild
+2015020918,Carolina Hurricanes,1,Boston Bruins,4,Gord Dwyer,Ghislain Hebert,Boston Bruins,Carolina Hurricanes
+2015020919,Anaheim Ducks,2,Edmonton Oilers,1,Chris Rooney,Ian Walsh,Anaheim Ducks,Edmonton Oilers
+2015020920,San Jose Sharks,1,Buffalo Sabres,3,Dan O'Rourke,Kelly Sutherland,Buffalo Sabres,San Jose Sharks
+2015020921,Philadelphia Flyers,4,Arizona Coyotes,2,Marc Joannette,Trevor Hanson,Philadelphia Flyers,Arizona Coyotes
+2015020922,Pittsburgh Penguins,4,Winnipeg Jets,1,Wes McCauley,Eric Furlatt,Pittsburgh Penguins,Winnipeg Jets
+2015020923,Columbus Blue Jackets,3,Florida Panthers,3,Kevin Pollock,Kyle Rehman,Columbus Blue Jackets,Florida Panthers
+2015020924,Nashville Predators,5,St. Louis Blues,0,Thomas John Luxmore,Francois St-Laurent,Nashville Predators,St. Louis Blues
+2015020925,Dallas Stars,2,New York Rangers,3,Francis Charron,Chris Lee,New York Rangers,Dallas Stars
+2015020926,Montréal Canadiens,4,Toronto Maple Leafs,1,Frederick L'Ecuyer,Steve Kozari,Montréal Canadiens,Toronto Maple Leafs
+2015020927,Colorado Avalanche,3,Detroit Red Wings,5,Dave Jackson,Brad Watson,Detroit Red Wings,Colorado Avalanche
+2015020928,Calgary Flames,4,Ottawa Senators,6,Dan O'Halloran,Jon McIsaac,Ottawa Senators,Calgary Flames
+2015020929,Los Angeles Kings,2,Buffalo Sabres,0,Mike Leggo,Tom Kowal,Los Angeles Kings,Buffalo Sabres
+2015020930,Chicago Blackhawks,3,Washington Capitals,2,Gord Dwyer,Ghislain Hebert,Chicago Blackhawks,Washington Capitals
+2015020931,Carolina Hurricanes,2,St. Louis Blues,5,Brian Pochmara,Trevor Hanson,St. Louis Blues,Carolina Hurricanes
+2015020932,Minnesota Wild,3,Florida Panthers,1,Brad Meier,Kendrick Nicholson,Minnesota Wild,Florida Panthers
+2015020933,Boston Bruins,1,Tampa Bay Lightning,4,Justin St. Pierre ,Steve Kozari,Tampa Bay Lightning,Boston Bruins
+2015020934,Vancouver Canucks,1,San Jose Sharks,4,Chris Rooney,Ian Walsh,San Jose Sharks,Vancouver Canucks
+2015020935,Anaheim Ducks,4,Los Angeles Kings,2,Kelly Sutherland,Tom Kowal,Anaheim Ducks,Los Angeles Kings
+2015020936,Edmonton Oilers,3,New York Islanders,1,Dan O'Halloran,Greg Kimmerly,Edmonton Oilers,New York Islanders
+2015020937,New York Rangers,2,Columbus Blue Jackets,1,Kevin Pollock,Francois St-Laurent,New York Rangers,Columbus Blue Jackets
+2015020938,Philadelphia Flyers,5,Calgary Flames,3,Brian Pochmara,Ghislain Hebert,Philadelphia Flyers,Calgary Flames
+2015020939,Pittsburgh Penguins,6,Arizona Coyotes,0,Frederick L'Ecuyer,Gord Dwyer,Pittsburgh Penguins,Arizona Coyotes
+2015020940,Toronto Maple Leafs,1,Tampa Bay Lightning,2,Graham Skilliter,Dean Morton,Tampa Bay Lightning,Toronto Maple Leafs
+2015020941,Dallas Stars,2,Detroit Red Wings,3,Francis Charron,Dan O'Rourke,Detroit Red Wings,Dallas Stars
+2015020942,San Jose Sharks,6,Montréal Canadiens,2,Tim Peel,Thomas John Luxmore,San Jose Sharks,Montréal Canadiens
+2015020943,Boston Bruins,2,Calgary Flames,1,Trevor Hanson,Francois St-Laurent,Boston Bruins,Calgary Flames
+2015020944,Buffalo Sabres,1,Edmonton Oilers,2,Wes McCauley,Graham Skilliter,Edmonton Oilers,Buffalo Sabres
+2015020945,New Jersey Devils,1,Carolina Hurricanes,3,Jean Hebert,Eric Furlatt,Carolina Hurricanes,New Jersey Devils
+2015020946,Ottawa Senators,3,St. Louis Blues,3,Justin St. Pierre ,Marc Joannette,Ottawa Senators,St. Louis Blues
+2015020947,Nashville Predators,5,Dallas Stars,3,Brian Pochmara,Garrett Rank,Nashville Predators,Dallas Stars
+2015020948,Minnesota Wild,6,Colorado Avalanche,3,Greg Kimmerly,Steve Kozari,Minnesota Wild,Colorado Avalanche
+2015020949,Winnipeg Jets,2,Florida Panthers,3,Chris Rooney,Tom Kowal,Florida Panthers,Winnipeg Jets
+2015020950,Vancouver Canucks,2,New York Islanders,3,Dan O'Halloran,Tim Peel,New York Islanders,Vancouver Canucks
+2015020951,Washington Capitals,3,Toronto Maple Leafs,2,Frederick L'Ecuyer,Brad Watson,Washington Capitals,Toronto Maple Leafs
+2015020952,Detroit Red Wings,2,Chicago Blackhawks,5,Eric Furlatt,Kendrick Nicholson,Chicago Blackhawks,Detroit Red Wings
+2015020953,Anaheim Ducks,2,Montréal Canadiens,2,Dave Jackson,Thomas John Luxmore,Anaheim Ducks,Montréal Canadiens
+2015020954,Boston Bruins,4,Chicago Blackhawks,2,Chris Rooney,Kelly Sutherland,Boston Bruins,Chicago Blackhawks
+2015020955,Buffalo Sabres,6,Calgary Flames,3,Justin St. Pierre ,Marc Joannette,Buffalo Sabres,Calgary Flames
+2015020956,Philadelphia Flyers,0,Edmonton Oilers,4,Brad Watson,Kendrick Nicholson,Edmonton Oilers,Philadelphia Flyers
+2015020957,Pittsburgh Penguins,4,New York Rangers,1,Jean Hebert,Trevor Hanson,Pittsburgh Penguins,New York Rangers
+2015020958,Toronto Maple Leafs,1,Minnesota Wild,2,Wes McCauley,Francis Charron,Minnesota Wild,Toronto Maple Leafs
+2015020959,Ottawa Senators,1,Tampa Bay Lightning,4,Mike Leggo,Chris Lee,Tampa Bay Lightning,Ottawa Senators
+2015020960,Nashville Predators,4,New Jersey Devils,5,Frederick L'Ecuyer,Graham Skilliter,New Jersey Devils,Nashville Predators
+2015020961,Winnipeg Jets,3,New York Islanders,4,Steve Kozari,Tom Chmielewski,New York Islanders,Winnipeg Jets
+2015020962,Colorado Avalanche,3,Florida Panthers,2,Greg Kimmerly,Tom Kowal,Colorado Avalanche,Florida Panthers
+2015020963,Arizona Coyotes,1,Anaheim Ducks,5,Dean Morton,Kyle Rehman,Anaheim Ducks,Arizona Coyotes
+2015020964,Vancouver Canucks,2,San Jose Sharks,3,Dan O'Halloran,Brad Meier,San Jose Sharks,Vancouver Canucks
+2015020965,Los Angeles Kings,3,Montréal Canadiens,2,Gord Dwyer,Ian Walsh,Los Angeles Kings,Montréal Canadiens
+2015020966,Washington Capitals,2,New York Rangers,3,Jean Hebert,Chris Lee,New York Rangers,Washington Capitals
+2015020967,Columbus Blue Jackets,6,Edmonton Oilers,3,Eric Furlatt,Furman Furman,Columbus Blue Jackets,Edmonton Oilers
+2015020968,Dallas Stars,4,New Jersey Devils,2,Tim Peel,Tom Kowal,Dallas Stars,New Jersey Devils
+2015020969,Buffalo Sabres,2,Minnesota Wild,2,Mike Leggo,Graham Skilliter,Buffalo Sabres,Minnesota Wild
+2015020970,Pittsburgh Penguins,2,Calgary Flames,4,Marc Joannette,Kyle Rehman,Calgary Flames,Pittsburgh Penguins
+2015020971,Colorado Avalanche,2,Nashville Predators,5,Brian Pochmara,Ghislain Hebert,Nashville Predators,Colorado Avalanche
+2015020972,Los Angeles Kings,2,Anaheim Ducks,3,Ian Walsh,Brad Meier,Anaheim Ducks,Los Angeles Kings
+2015020973,Boston Bruins,1,Washington Capitals,2,Wes McCauley,Francis Charron,Washington Capitals,Boston Bruins
+2015020974,Toronto Maple Leafs,2,Ottawa Senators,3,Thomas John Luxmore,Steve Kozari,Ottawa Senators,Toronto Maple Leafs
+2015020975,Tampa Bay Lightning,4,Carolina Hurricanes,3,Dan O'Rourke,Trevor Hanson,Tampa Bay Lightning,Carolina Hurricanes
+2015020976,Philadelphia Flyers,6,Columbus Blue Jackets,0,Greg Kimmerly,Brad Watson,Philadelphia Flyers,Columbus Blue Jackets
+2015020977,Winnipeg Jets,4,Montréal Canadiens,2,Dave Jackson,Dan O'Halloran,Winnipeg Jets,Montréal Canadiens
+2015020978,Arizona Coyotes,5,Florida Panthers,1,Dean Morton,Francois St-Laurent,Arizona Coyotes,Florida Panthers
+2015020979,San Jose Sharks,2,Vancouver Canucks,4,Gord Dwyer,Garrett Rank,Vancouver Canucks,San Jose Sharks
+2015020980,Ottawa Senators,1,Dallas Stars,2,Chris Rooney,Kevin Pollock,Dallas Stars,Ottawa Senators
+2015020981,New Jersey Devils,1,Pittsburgh Penguins,6,Marc Joannette,Chris Lee,Pittsburgh Penguins,New Jersey Devils
+2015020982,New York Rangers,4,New York Islanders,6,Mike Leggo,Greg Kimmerly,New York Islanders,New York Rangers
+2015020983,Chicago Blackhawks,4,Detroit Red Wings,1,Tim Peel,Kyle Rehman,Chicago Blackhawks,Detroit Red Wings
+2015020984,Winnipeg Jets,1,Edmonton Oilers,2,Dave Jackson,Kelly Sutherland,Edmonton Oilers,Winnipeg Jets
+2015020985,Minnesota Wild,2,St. Louis Blues,4,Justin St. Pierre ,Ghislain Hebert,St. Louis Blues,Minnesota Wild
+2015020986,Philadelphia Flyers,4,Tampa Bay Lightning,2,Francis Charron,Frederick L'Ecuyer,Philadelphia Flyers,Tampa Bay Lightning
+2015020987,Toronto Maple Leafs,3,Buffalo Sabres,3,Chris Rooney,Kendrick Nicholson,Toronto Maple Leafs,Buffalo Sabres
+2015020988,Florida Panthers,4,Boston Bruins,5,Dan O'Rourke,Brad Watson,Boston Bruins,Florida Panthers
+2015020989,Colorado Avalanche,3,Arizona Coyotes,1,Wes McCauley,Thomas John Luxmore,Colorado Avalanche,Arizona Coyotes
+2015020990,Calgary Flames,1,San Jose Sharks,2,Trevor Hanson,Brad Meier,San Jose Sharks,Calgary Flames
+2015020991,Anaheim Ducks,1,Washington Capitals,1,Brian Pochmara,Gord Dwyer,Anaheim Ducks,Washington Capitals
+2015020992,Los Angeles Kings,5,Vancouver Canucks,1,Francois St-Laurent,Garrett Rank,Los Angeles Kings,Vancouver Canucks
+2015020993,Buffalo Sabres,2,New York Rangers,4,Frederick L'Ecuyer,Greg Kimmerly,New York Rangers,Buffalo Sabres
+2015020994,New York Islanders,2,Pittsburgh Penguins,1,Francis Charron,Kevin Pollock,New York Islanders,Pittsburgh Penguins
+2015020995,Carolina Hurricanes,3,Ottawa Senators,3,Mike Leggo,Marc Joannette,Carolina Hurricanes,Ottawa Senators
+2015020996,Columbus Blue Jackets,5,Detroit Red Wings,3,Dave Jackson,Evgeny Romasko,Columbus Blue Jackets,Detroit Red Wings
+2015020997,Montréal Canadiens,4,Dallas Stars,3,Chris Rooney,Kyle Rehman,Montréal Canadiens,Dallas Stars
+2015020998,Tampa Bay Lightning,0,Boston Bruins,1,Tim Peel,Dean Morton,Boston Bruins,Tampa Bay Lightning
+2015020999,Winnipeg Jets,2,Nashville Predators,4,Kelly Sutherland,Ghislain Hebert,Nashville Predators,Winnipeg Jets
+2015021000,Edmonton Oilers,0,San Jose Sharks,3,Eric Furlatt,Tom Kowal,San Jose Sharks,Edmonton Oilers
+2015021001,Toronto Maple Leafs,3,New York Islanders,3,Justin St. Pierre ,Brad Meier,Toronto Maple Leafs,New York Islanders
+2015021002,St. Louis Blues,2,Chicago Blackhawks,2,Wes McCauley,Dan O'Halloran,St. Louis Blues,Chicago Blackhawks
+2015021003,Calgary Flames,3,Nashville Predators,2,Ian Walsh,Steve Kozari,Calgary Flames,Nashville Predators
+2015021004,Colorado Avalanche,3,Anaheim Ducks,0,Dan O'Rourke,Garrett Rank,Colorado Avalanche,Anaheim Ducks
+2015021005,Vancouver Canucks,3,Arizona Coyotes,2,Brian Pochmara,Gord Dwyer,Vancouver Canucks,Arizona Coyotes
+2015021006,Los Angeles Kings,4,Washington Capitals,3,Thomas John Luxmore,Francois St-Laurent,Los Angeles Kings,Washington Capitals
+2015021007,Boston Bruins,2,Carolina Hurricanes,3,Tom Kowal,Kyle Rehman,Carolina Hurricanes,Boston Bruins
+2015021008,Montréal Canadiens,3,Buffalo Sabres,2,Kelly Sutherland,Justin St. Pierre ,Montréal Canadiens,Buffalo Sabres
+2015021009,Detroit Red Wings,3,Winnipeg Jets,2,Jean Hebert,Kevin Pollock,Detroit Red Wings,Winnipeg Jets
+2015021010,Florida Panthers,6,Ottawa Senators,2,Tim Peel,Dean Morton,Florida Panthers,Ottawa Senators
+2015021011,Minnesota Wild,1,Edmonton Oilers,2,Chris Rooney,Dan O'Halloran,Edmonton Oilers,Minnesota Wild
+2015021012,San Jose Sharks,0,New Jersey Devils,3,Eric Furlatt,Francois St-Laurent,New Jersey Devils,San Jose Sharks
+2015021013,Columbus Blue Jackets,2,Pittsburgh Penguins,3,Ian Walsh,Brad Meier,Pittsburgh Penguins,Columbus Blue Jackets
+2015021014,Tampa Bay Lightning,1,Philadelphia Flyers,3,Graham Skilliter,Chris Lee,Philadelphia Flyers,Tampa Bay Lightning
+2015021015,St. Louis Blues,5,Anaheim Ducks,2,Jean Hebert,Kevin Pollock,St. Louis Blues,Anaheim Ducks
+2015021016,Dallas Stars,5,Chicago Blackhawks,2,Gord Dwyer,Trevor Hanson,Dallas Stars,Chicago Blackhawks
+2015021017,Calgary Flames,1,Arizona Coyotes,4,Brian Pochmara,Steve Kozari,Arizona Coyotes,Calgary Flames
+2015021018,Boston Bruins,3,New York Islanders,1,Ghislain Hebert,Marc Joannette,Boston Bruins,New York Islanders
+2015021019,Detroit Red Wings,3,New York Rangers,2,Dan O'Halloran,Tom Kowal,Detroit Red Wings,New York Rangers
+2015021020,Buffalo Sabres,3,Carolina Hurricanes,2,Francis Charron,Kyle Rehman,Buffalo Sabres,Carolina Hurricanes
+2015021021,Montréal Canadiens,1,Minnesota Wild,4,Wes McCauley,Chris Rooney,Minnesota Wild,Montréal Canadiens
+2015021022,Ottawa Senators,4,Toronto Maple Leafs,0,Thomas John Luxmore,Dean Morton,Ottawa Senators,Toronto Maple Leafs
+2015021023,Florida Panthers,4,Philadelphia Flyers,4,Graham Skilliter,Chris Lee,Florida Panthers,Philadelphia Flyers
+2015021024,Winnipeg Jets,3,Colorado Avalanche,2,Jean Hebert,Kendrick Nicholson,Winnipeg Jets,Colorado Avalanche
+2015021025,Dallas Stars,4,St. Louis Blues,5,Eric Furlatt,Trevor Hanson,St. Louis Blues,Dallas Stars
+2015021026,Edmonton Oilers,0,Arizona Coyotes,4,Frederick L'Ecuyer,Steve Kozari,Arizona Coyotes,Edmonton Oilers
+2015021027,Vancouver Canucks,4,Nashville Predators,2,Dave Jackson,Francois St-Laurent,Vancouver Canucks,Nashville Predators
+2015021028,Los Angeles Kings,1,New Jersey Devils,2,Justin St. Pierre ,Brad Watson,New Jersey Devils,Los Angeles Kings
+2015021029,San Jose Sharks,5,Washington Capitals,2,Mike Leggo,Greg Kimmerly,San Jose Sharks,Washington Capitals
+2015021030,New York Rangers,3,Pittsburgh Penguins,5,Ghislain Hebert,Brad Meier,Pittsburgh Penguins,New York Rangers
+2015021031,Columbus Blue Jackets,0,Tampa Bay Lightning,4,Ian Walsh,Kevin Pollock,Tampa Bay Lightning,Columbus Blue Jackets
+2015021032,Detroit Red Wings,0,Toronto Maple Leafs,1,Gord Dwyer,Marc Joannette,Toronto Maple Leafs,Detroit Red Wings
+2015021033,New York Islanders,3,Florida Panthers,2,Ghislain Hebert,Graham Skilliter,New York Islanders,Florida Panthers
+2015021034,Chicago Blackhawks,0,Los Angeles Kings,5,Eric Furlatt,Steve Kozari,Los Angeles Kings,Chicago Blackhawks
+2015021035,Calgary Flames,7,St. Louis Blues,4,Dave Jackson,Frederick L'Ecuyer,Calgary Flames,St. Louis Blues
+2015021036,Edmonton Oilers,2,Nashville Predators,3,Dan O'Rourke,Jean Hebert,Nashville Predators,Edmonton Oilers
+2015021037,Vancouver Canucks,2,Winnipeg Jets,5,Francis Charron,Brad Watson,Winnipeg Jets,Vancouver Canucks
+2015021038,Anaheim Ducks,7,New Jersey Devils,1,Justin St. Pierre ,Trevor Hanson,Anaheim Ducks,New Jersey Devils
+2015021039,Philadelphia Flyers,4,Detroit Red Wings,3,Wes McCauley,Chris Rooney,Philadelphia Flyers,Detroit Red Wings
+2015021040,Pittsburgh Penguins,1,New York Islanders,1,Kelly Sutherland,Evgeny Romasko,Pittsburgh Penguins,New York Islanders
+2015021041,Washington Capitals,2,Carolina Hurricanes,1,Thomas John Luxmore,Kevin Pollock,Washington Capitals,Carolina Hurricanes
+2015021042,Toronto Maple Leafs,4,Tampa Bay Lightning,1,Mike Leggo,Eric Furlatt,Toronto Maple Leafs,Tampa Bay Lightning
+2015021043,Montréal Canadiens,1,Florida Panthers,4,Dan O'Halloran,Brad Meier,Florida Panthers,Montréal Canadiens
+2015021044,Ottawa Senators,3,Minnesota Wild,2,Gord Dwyer,Ian Walsh,Ottawa Senators,Minnesota Wild
+2015021045,Dallas Stars,2,Los Angeles Kings,5,Marc Joannette,Kyle Rehman,Los Angeles Kings,Dallas Stars
+2015021046,San Jose Sharks,3,Boston Bruins,2,Justin St. Pierre ,Tim Peel,San Jose Sharks,Boston Bruins
+2015021047,Buffalo Sabres,2,Montréal Canadiens,3,Gord Dwyer,Ian Walsh,Montréal Canadiens,Buffalo Sabres
+2015021048,Chicago Blackhawks,2,Philadelphia Flyers,3,Jean Hebert,Tom Chmielewski,Philadelphia Flyers,Chicago Blackhawks
+2015021049,Edmonton Oilers,6,St. Louis Blues,4,Dave Jackson,Jon McIsaac,Edmonton Oilers,St. Louis Blues
+2015021050,Calgary Flames,4,Winnipeg Jets,1,Francis Charron,Dan O'Rourke,Calgary Flames,Winnipeg Jets
+2015021051,Vancouver Canucks,1,Colorado Avalanche,3,Frederick L'Ecuyer,Tom Kowal,Colorado Avalanche,Vancouver Canucks
+2015021052,Anaheim Ducks,1,New York Rangers,2,Greg Kimmerly,Tim Peel,New York Rangers,Anaheim Ducks
+2015021053,New Jersey Devils,7,Minnesota Wild,4,Francois St-Laurent,Garrett Rank,New Jersey Devils,Minnesota Wild
+2015021054,Pittsburgh Penguins,4,Carolina Hurricanes,2,Dan O'Halloran,Steve Kozari,Pittsburgh Penguins,Carolina Hurricanes
+2015021055,Columbus Blue Jackets,1,Detroit Red Wings,3,Chris Rooney,Kyle Rehman,Detroit Red Wings,Columbus Blue Jackets
+2015021056,Toronto Maple Leafs,1,Florida Panthers,4,Mike Leggo,Wes McCauley,Florida Panthers,Toronto Maple Leafs
+2015021057,Nashville Predators,4,New York Islanders,2,Thomas John Luxmore,Kevin Pollock,Nashville Predators,New York Islanders
+2015021058,Dallas Stars,4,Tampa Bay Lightning,3,Kelly Sutherland,Tom Chmielewski,Dallas Stars,Tampa Bay Lightning
+2015021059,Arizona Coyotes,3,San Jose Sharks,1,Marc Joannette,Chris Lee,Arizona Coyotes,San Jose Sharks
+2015021060,Los Angeles Kings,4,New York Rangers,3,Brian Pochmara,Dean Morton,Los Angeles Kings,New York Rangers
+2015021061,Buffalo Sabres,3,Ottawa Senators,1,Gord Dwyer,Ghislain Hebert,Buffalo Sabres,Ottawa Senators
+2015021062,Washington Capitals,4,Nashville Predators,1,Dan O'Halloran,Garrett Rank,Washington Capitals,Nashville Predators
+2015021063,Winnipeg Jets,0,Chicago Blackhawks,4,Graham Skilliter,Trevor Hanson,Chicago Blackhawks,Winnipeg Jets
+2015021064,Calgary Flames,3,Colorado Avalanche,3,Dan O'Rourke,Frederick L'Ecuyer,Calgary Flames,Colorado Avalanche
+2015021065,Edmonton Oilers,2,Vancouver Canucks,0,Francis Charron,Tom Kowal,Edmonton Oilers,Vancouver Canucks
+2015021066,Anaheim Ducks,4,Boston Bruins,0,Brian Pochmara,Chris Lee,Anaheim Ducks,Boston Bruins
+2015021067,Philadelphia Flyers,1,Pittsburgh Penguins,4,Francois St-Laurent,Steve Kozari,Pittsburgh Penguins,Philadelphia Flyers
+2015021068,Minnesota Wild,2,Carolina Hurricanes,2,Kelly Sutherland,Tim Peel,Minnesota Wild,Carolina Hurricanes
+2015021069,San Jose Sharks,4,New York Rangers,1,Dave Jackson,Marc Joannette,San Jose Sharks,New York Rangers
+2015021070,Toronto Maple Leafs,4,Buffalo Sabres,1,Kevin Pollock,Kyle Rehman,Toronto Maple Leafs,Buffalo Sabres
+2015021071,Ottawa Senators,5,Montréal Canadiens,0,Eric Furlatt,Kendrick Nicholson,Ottawa Senators,Montréal Canadiens
+2015021072,Florida Panthers,3,Detroit Red Wings,5,Jean Hebert,Thomas John Luxmore,Detroit Red Wings,Florida Panthers
+2015021073,Columbus Blue Jackets,6,New Jersey Devils,3,Mike Leggo,Wes McCauley,Columbus Blue Jackets,New Jersey Devils
+2015021074,Dallas Stars,3,New York Islanders,0,Justin St. Pierre ,Dean Morton,Dallas Stars,New York Islanders
+2015021075,Vancouver Canucks,0,St. Louis Blues,3,Dan O'Rourke,Ian Walsh,St. Louis Blues,Vancouver Canucks
+2015021076,Arizona Coyotes,0,Tampa Bay Lightning,2,Greg Kimmerly,Brad Watson,Tampa Bay Lightning,Arizona Coyotes
+2015021077,Los Angeles Kings,2,Boston Bruins,1,Brian Pochmara,Chris Lee,Los Angeles Kings,Boston Bruins
+2015021078,Winnipeg Jets,2,Anaheim Ducks,3,Trevor Hanson,Tom Kowal,Anaheim Ducks,Winnipeg Jets
+2015021079,New Jersey Devils,2,Columbus Blue Jackets,1,Wes McCauley,Kyle Rehman,New Jersey Devils,Columbus Blue Jackets
+2015021080,Pittsburgh Penguins,6,Washington Capitals,2,Chris Rooney,Kendrick Nicholson,Pittsburgh Penguins,Washington Capitals
+2015021081,Montréal Canadiens,1,Calgary Flames,4,Ghislain Hebert,Francois St-Laurent,Calgary Flames,Montréal Canadiens
+2015021082,Chicago Blackhawks,2,Minnesota Wild,2,Dan O'Halloran,Graham Skilliter,Chicago Blackhawks,Minnesota Wild
+2015021083,Edmonton Oilers,2,Colorado Avalanche,3,Ian Walsh,Brad Meier,Colorado Avalanche,Edmonton Oilers
+2015021084,San Jose Sharks,3,Arizona Coyotes,0,Dave Jackson,Brad Watson,San Jose Sharks,Arizona Coyotes
+2015021085,New York Islanders,1,Philadelphia Flyers,4,Mike Leggo,Jean Hebert,Philadelphia Flyers,New York Islanders
+2015021086,New York Rangers,4,Florida Panthers,2,Thomas John Luxmore,Eric Furlatt,New York Rangers,Florida Panthers
+2015021087,Toronto Maple Leafs,5,Calgary Flames,2,Dan O'Halloran,Evgeny Romasko,Toronto Maple Leafs,Calgary Flames
+2015021088,Nashville Predators,5,Los Angeles Kings,2,Chris Rooney,Dean Morton,Nashville Predators,Los Angeles Kings
+2015021089,Carolina Hurricanes,2,Buffalo Sabres,3,Frederick L'Ecuyer,Dean Morton,Buffalo Sabres,Carolina Hurricanes
+2015021090,Columbus Blue Jackets,2,Philadelphia Flyers,2,Kelly Sutherland,Brian Pochmara,Columbus Blue Jackets,Philadelphia Flyers
+2015021091,Montréal Canadiens,4,Anaheim Ducks,3,Graham Skilliter,Marc Joannette,Montréal Canadiens,Anaheim Ducks
+2015021092,Ottawa Senators,2,Washington Capitals,4,Trevor Hanson,Steve Kozari,Washington Capitals,Ottawa Senators
+2015021093,Tampa Bay Lightning,6,Detroit Red Wings,2,Francis Charron,Justin St. Pierre ,Tampa Bay Lightning,Detroit Red Wings
+2015021094,Minnesota Wild,2,Los Angeles Kings,1,Ghislain Hebert,Brad Watson,Minnesota Wild,Los Angeles Kings
+2015021095,Winnipeg Jets,2,Vancouver Canucks,0,Chris Lee,Kevin Pollock,Winnipeg Jets,Vancouver Canucks
+2015021096,Chicago Blackhawks,2,Dallas Stars,6,Tom Kowal,Brad Meier,Dallas Stars,Chicago Blackhawks
+2015021097,Arizona Coyotes,4,Edmonton Oilers,2,Tim Peel,Kyle Rehman,Arizona Coyotes,Edmonton Oilers
+2015021098,San Jose Sharks,0,St. Louis Blues,1,Gord Dwyer,Ian Walsh,St. Louis Blues,San Jose Sharks
+2015021099,New York Islanders,3,Ottawa Senators,1,Chris Rooney,Jean Hebert,New York Islanders,Ottawa Senators
+2015021100,New York Rangers,5,Boston Bruins,2,Trevor Hanson,Steve Kozari,New York Rangers,Boston Bruins
+2015021101,Boston Bruins,1,Florida Panthers,4,Wes McCauley,Kelly Sutherland,Florida Panthers,Boston Bruins
+2015021102,Pittsburgh Penguins,0,New Jersey Devils,3,Jean Hebert,Graham Skilliter,New Jersey Devils,Pittsburgh Penguins
+2015021103,Columbus Blue Jackets,2,Carolina Hurricanes,3,Francis Charron,Thomas John Luxmore,Carolina Hurricanes,Columbus Blue Jackets
+2015021104,Toronto Maple Leafs,6,Anaheim Ducks,5,Chris Lee,Steve Kozari,Toronto Maple Leafs,Anaheim Ducks
+2015021105,Detroit Red Wings,4,Montréal Canadiens,3,Brian Pochmara,Brad Watson,Detroit Red Wings,Montréal Canadiens
+2015021106,Nashville Predators,2,Vancouver Canucks,2,Tim Peel,Kyle Rehman,Nashville Predators,Vancouver Canucks
+2015021107,Minnesota Wild,6,Calgary Flames,2,Greg Kimmerly,Kevin Pollock,Minnesota Wild,Calgary Flames
+2015021108,Winnipeg Jets,4,Los Angeles Kings,1,Marc Joannette,Brad Meier,Winnipeg Jets,Los Angeles Kings
+2015021109,Colorado Avalanche,2,Philadelphia Flyers,4,Dave Jackson,Ian Walsh,Philadelphia Flyers,Colorado Avalanche
+2015021110,Arizona Coyotes,3,Dallas Stars,1,Justin St. Pierre ,Eric Furlatt,Arizona Coyotes,Dallas Stars
+2015021111,San Jose Sharks,3,Edmonton Oilers,6,Mike Leggo,Ghislain Hebert,Edmonton Oilers,San Jose Sharks
+2015021112,New Jersey Devils,0,Washington Capitals,1,Dan O'Rourke,Graham Skilliter,Washington Capitals,New Jersey Devils
+2015021113,Tampa Bay Lightning,7,New York Islanders,4,Chris Rooney,Gord Dwyer,Tampa Bay Lightning,New York Islanders
+2015021114,St. Louis Blues,4,Vancouver Canucks,0,Dan O'Halloran,Thomas John Luxmore,St. Louis Blues,Vancouver Canucks
+2015021115,Detroit Red Wings,2,Pittsburgh Penguins,7,Frederick L'Ecuyer,Chris Lee,Pittsburgh Penguins,Detroit Red Wings
+2015021116,Buffalo Sabres,3,Winnipeg Jets,2,Greg Kimmerly,Garrett Rank,Buffalo Sabres,Winnipeg Jets
+2015021117,Colorado Avalanche,0,Minnesota Wild,4,Dave Jackson,Eric Furlatt,Minnesota Wild,Colorado Avalanche
+2015021118,San Jose Sharks,2,Dallas Stars,4,Francis Charron,Justin St. Pierre ,Dallas Stars,San Jose Sharks
+2015021119,Toronto Maple Leafs,1,Boston Bruins,3,Jean Hebert,Tom Kowal,Boston Bruins,Toronto Maple Leafs
+2015021120,Montréal Canadiens,2,New York Rangers,5,Brad Watson,Steve Kozari,New York Rangers,Montréal Canadiens
+2015021121,Ottawa Senators,3,Anaheim Ducks,4,Dan O'Rourke,Brian Pochmara,Anaheim Ducks,Ottawa Senators
+2015021122,Tampa Bay Lightning,2,Florida Panthers,5,Chris Rooney,Gord Dwyer,Florida Panthers,Tampa Bay Lightning
+2015021123,Washington Capitals,0,St. Louis Blues,4,Kelly Sutherland,Dean Morton,St. Louis Blues,Washington Capitals
+2015021124,Carolina Hurricanes,3,New York Islanders,4,Tim Peel,Kyle Rehman,New York Islanders,Carolina Hurricanes
+2015021125,Nashville Predators,5,Columbus Blue Jackets,1,Dan O'Halloran,Brad Meier,Nashville Predators,Columbus Blue Jackets
+2015021126,Calgary Flames,1,Chicago Blackhawks,4,Marc Joannette,Kevin Pollock,Chicago Blackhawks,Calgary Flames
+2015021127,Arizona Coyotes,2,Philadelphia Flyers,1,Wes McCauley,Ian Walsh,Arizona Coyotes,Philadelphia Flyers
+2015021128,Los Angeles Kings,6,Edmonton Oilers,4,Mike Leggo,Ghislain Hebert,Los Angeles Kings,Edmonton Oilers
+2015021129,Carolina Hurricanes,3,New Jersey Devils,2,Frederick L'Ecuyer,Greg Kimmerly,Carolina Hurricanes,New Jersey Devils
+2015021130,New York Rangers,2,Pittsburgh Penguins,3,Tim Peel,Francois St-Laurent,Pittsburgh Penguins,New York Rangers
+2015021131,Vancouver Canucks,2,Chicago Blackhawks,3,Marc Joannette,Kevin Pollock,Chicago Blackhawks,Vancouver Canucks
+2015021132,Philadelphia Flyers,3,Winnipeg Jets,2,Dan O'Rourke,Tom Kowal,Philadelphia Flyers,Winnipeg Jets
+2015021133,Washington Capitals,4,Columbus Blue Jackets,1,Francois St-Laurent,Tom Chmielewski,Washington Capitals,Columbus Blue Jackets
+2015021134,Detroit Red Wings,3,Buffalo Sabres,2,Trevor Hanson,Brad Meier,Detroit Red Wings,Buffalo Sabres
+2015021135,Tampa Bay Lightning,3,Toronto Maple Leafs,0,Dave Jackson,Jon McIsaac,Tampa Bay Lightning,Toronto Maple Leafs
+2015021136,Nashville Predators,3,Colorado Avalanche,4,Eric Furlatt,Dean Morton,Colorado Avalanche,Nashville Predators
+2015021137,Edmonton Oilers,1,Anaheim Ducks,2,Justin St. Pierre ,Marc Joannette,Anaheim Ducks,Edmonton Oilers
+2015021138,Arizona Coyotes,2,Calgary Flames,5,Mike Leggo,Dan O'Halloran,Calgary Flames,Arizona Coyotes
+2015021139,San Jose Sharks,5,Los Angeles Kings,2,Wes McCauley,Francis Charron,San Jose Sharks,Los Angeles Kings
+2015021140,New Jersey Devils,2,Boston Bruins,1,Dan O'Rourke,Steve Kozari,New Jersey Devils,Boston Bruins
+2015021141,New York Islanders,1,Carolina Hurricanes,1,Brian Pochmara,Chris Lee,New York Islanders,Carolina Hurricanes
+2015021142,Pittsburgh Penguins,4,Buffalo Sabres,4,Tom Kowal,Dean Morton,Pittsburgh Penguins,Buffalo Sabres
+2015021143,Montréal Canadiens,4,Detroit Red Wings,3,Trevor Hanson,Brad Meier,Montréal Canadiens,Detroit Red Wings
+2015021144,Florida Panthers,2,Toronto Maple Leafs,5,Dave Jackson,Jon McIsaac,Toronto Maple Leafs,Florida Panthers
+2015021145,St. Louis Blues,3,Colorado Avalanche,1,Greg Kimmerly,Eric Furlatt,St. Louis Blues,Colorado Avalanche
+2015021146,Minnesota Wild,4,Chicago Blackhawks,1,Tim Peel,Kyle Rehman,Minnesota Wild,Chicago Blackhawks
+2015021147,Dallas Stars,5,Nashville Predators,2,Frederick L'Ecuyer,Gord Dwyer,Dallas Stars,Nashville Predators
+2015021148,Vancouver Canucks,1,San Jose Sharks,4,Kelly Sutherland,Thomas John Luxmore,San Jose Sharks,Vancouver Canucks
+2015021149,Winnipeg Jets,1,Ottawa Senators,2,Ian Walsh,Kyle Rehman,Ottawa Senators,Winnipeg Jets
+2015021150,Philadelphia Flyers,1,Washington Capitals,1,Brian Pochmara,Ghislain Hebert,Philadelphia Flyers,Washington Capitals
+2015021151,Anaheim Ducks,8,Calgary Flames,3,Wes McCauley,Brad Watson,Anaheim Ducks,Calgary Flames
+2015021152,Buffalo Sabres,4,Toronto Maple Leafs,1,Trevor Hanson,Kendrick Nicholson,Buffalo Sabres,Toronto Maple Leafs
+2015021153,New York Islanders,4,Columbus Blue Jackets,3,Francis Charron,Greg Kimmerly,New York Islanders,Columbus Blue Jackets
+2015021154,Pittsburgh Penguins,5,Nashville Predators,2,Chris Rooney,Ghislain Hebert,Pittsburgh Penguins,Nashville Predators
+2015021155,Carolina Hurricanes,4,New York Rangers,3,Chris Lee,Jon McIsaac,Carolina Hurricanes,New York Rangers
+2015021156,Tampa Bay Lightning,0,Montréal Canadiens,3,Dean Morton,Francois St-Laurent,Montréal Canadiens,Tampa Bay Lightning
+2015021157,Florida Panthers,3,New Jersey Devils,2,Dave Jackson,Steve Kozari,Florida Panthers,New Jersey Devils
+2015021158,Minnesota Wild,2,Ottawa Senators,3,Kelly Sutherland,Tom Kowal,Ottawa Senators,Minnesota Wild
+2015021159,Dallas Stars,4,Arizona Coyotes,1,Mike Leggo,Thomas John Luxmore,Dallas Stars,Arizona Coyotes
+2015021160,Los Angeles Kings,3,Calgary Flames,0,Gord Dwyer,Graham Skilliter,Los Angeles Kings,Calgary Flames
+2015021161,San Jose Sharks,2,Vancouver Canucks,4,Frederick L'Ecuyer,Brad Watson,Vancouver Canucks,San Jose Sharks
+2015021162,Detroit Red Wings,3,Minnesota Wild,2,Dan O'Halloran,Jean Hebert,Detroit Red Wings,Minnesota Wild
+2015021163,St. Louis Blues,5,Boston Bruins,6,Tim Peel,Kevin Pollock,Boston Bruins,St. Louis Blues
+2015021164,Winnipeg Jets,4,Chicago Blackhawks,5,Justin St. Pierre ,Kyle Rehman,Chicago Blackhawks,Winnipeg Jets
+2015021165,Colorado Avalanche,2,Washington Capitals,4,Brad Watson,Ian Walsh,Washington Capitals,Colorado Avalanche
+2015021166,Anaheim Ducks,2,Vancouver Canucks,3,Gord Dwyer,Graham Skilliter,Vancouver Canucks,Anaheim Ducks
+2015021167,New York Islanders,0,Pittsburgh Penguins,5,Ghislain Hebert,Trevor Hanson,Pittsburgh Penguins,New York Islanders
+2015021168,Philadelphia Flyers,3,Ottawa Senators,2,Francis Charron,Marc Joannette,Philadelphia Flyers,Ottawa Senators
+2015021169,Los Angeles Kings,2,Dallas Stars,3,Dan O'Rourke,Graham Skilliter,Dallas Stars,Los Angeles Kings
+2015021170,Toronto Maple Leafs,2,Detroit Red Wings,3,Greg Kimmerly,Dean Morton,Detroit Red Wings,Toronto Maple Leafs
+2015021171,Tampa Bay Lightning,3,New Jersey Devils,1,Dave Jackson,Brian Pochmara,Tampa Bay Lightning,New Jersey Devils
+2015021172,Florida Panthers,4,Montréal Canadiens,3,Mike Leggo,Steve Kozari,Florida Panthers,Montréal Canadiens
+2015021173,New York Rangers,3,Buffalo Sabres,4,Jean Hebert,Eric Furlatt,Buffalo Sabres,New York Rangers
+2015021174,Carolina Hurricanes,1,Columbus Blue Jackets,5,Francois St-Laurent,Kendrick Nicholson,Columbus Blue Jackets,Carolina Hurricanes
+2015021175,Nashville Predators,2,San Jose Sharks,2,Kelly Sutherland,Thomas John Luxmore,Nashville Predators,San Jose Sharks
+2015021176,Edmonton Oilers,0,Calgary Flames,5,Brad Meier,Evgeny Romasko,Calgary Flames,Edmonton Oilers
+2015021177,Arizona Coyotes,3,Washington Capitals,0,Chris Rooney,Frederick L'Ecuyer,Arizona Coyotes,Washington Capitals
+2015021178,Chicago Blackhawks,6,Boston Bruins,4,Brad Watson,Tom Kowal,Chicago Blackhawks,Boston Bruins
+2015021179,Pittsburgh Penguins,6,Philadelphia Flyers,2,Justin St. Pierre ,Marc Joannette,Pittsburgh Penguins,Philadelphia Flyers
+2015021180,Winnipeg Jets,5,Minnesota Wild,1,Wes McCauley,Chris Lee,Winnipeg Jets,Minnesota Wild
+2015021181,Colorado Avalanche,1,St. Louis Blues,5,Kevin Pollock,Kyle Rehman,St. Louis Blues,Colorado Avalanche
+2015021182,Anaheim Ducks,3,Dallas Stars,1,Dan O'Rourke,Ian Walsh,Anaheim Ducks,Dallas Stars
+2015021183,New York Islanders,5,Tampa Bay Lightning,2,Chris Rooney,Dean Morton,New York Islanders,Tampa Bay Lightning
+2015021184,Columbus Blue Jackets,2,New York Rangers,4,Tim Peel,Ghislain Hebert,New York Rangers,Columbus Blue Jackets
+2015021185,Toronto Maple Leafs,3,Florida Panthers,4,Francis Charron,Thomas John Luxmore,Florida Panthers,Toronto Maple Leafs
+2015021186,St. Louis Blues,5,Arizona Coyotes,2,Dan O'Halloran,Kendrick Nicholson,St. Louis Blues,Arizona Coyotes
+2015021187,Vancouver Canucks,3,Los Angeles Kings,2,Trevor Hanson,Brad Meier,Vancouver Canucks,Los Angeles Kings
+2015021188,Boston Bruins,1,Carolina Hurricanes,1,Chris Rooney,Kyle Rehman,Boston Bruins,Carolina Hurricanes
+2015021189,New Jersey Devils,1,Buffalo Sabres,3,Kevin Pollock,Jon McIsaac,Buffalo Sabres,New Jersey Devils
+2015021190,New York Rangers,3,Tampa Bay Lightning,2,Kelly Sutherland,Justin St. Pierre ,New York Rangers,Tampa Bay Lightning
+2015021191,Washington Capitals,3,New York Islanders,4,Marc Joannette,Chris Lee,New York Islanders,Washington Capitals
+2015021192,Montréal Canadiens,1,Florida Panthers,4,Ghislain Hebert,Eric Furlatt,Florida Panthers,Montréal Canadiens
+2015021193,Ottawa Senators,3,Pittsburgh Penguins,5,Dave Jackson,Frederick L'Ecuyer,Pittsburgh Penguins,Ottawa Senators
+2015021194,Nashville Predators,4,Colorado Avalanche,3,Tim Peel,Steve Kozari,Nashville Predators,Colorado Avalanche
+2015021195,Minnesota Wild,0,San Jose Sharks,3,Jean Hebert,Brian Pochmara,San Jose Sharks,Minnesota Wild
+2015021196,Chicago Blackhawks,6,Arizona Coyotes,2,Dan O'Halloran,Garrett Rank,Chicago Blackhawks,Arizona Coyotes
+2015021197,Calgary Flames,4,Los Angeles Kings,5,Wes McCauley,Tom Kowal,Los Angeles Kings,Calgary Flames
+2015021198,Anaheim Ducks,1,Winnipeg Jets,2,Mike Leggo,Ian Walsh,Winnipeg Jets,Anaheim Ducks
+2015021199,Toronto Maple Leafs,1,Columbus Blue Jackets,5,Brian Pochmara,Garrett Rank,Columbus Blue Jackets,Toronto Maple Leafs
+2015021200,Detroit Red Wings,3,Philadelphia Flyers,0,Chris Lee,Kevin Pollock,Detroit Red Wings,Philadelphia Flyers
+2015021201,Edmonton Oilers,6,Vancouver Canucks,2,Tom Kowal,Jake Brenk,Edmonton Oilers,Vancouver Canucks
+2015021202,Boston Bruins,5,Detroit Red Wings,2,Eric Furlatt,Chris Lee,Boston Bruins,Detroit Red Wings
+2015021203,New Jersey Devils,2,Tampa Bay Lightning,4,Tim Peel,Marc Joannette,Tampa Bay Lightning,New Jersey Devils
+2015021204,New York Rangers,1,New York Islanders,4,Dan O'Rourke,Gord Dwyer,New York Islanders,New York Rangers
+2015021205,Philadelphia Flyers,3,Toronto Maple Leafs,4,Kelly Sutherland,Kyle Rehman,Toronto Maple Leafs,Philadelphia Flyers
+2015021206,Washington Capitals,3,Pittsburgh Penguins,4,Dave Jackson,Brad Watson,Pittsburgh Penguins,Washington Capitals
+2015021207,Carolina Hurricanes,2,Montréal Canadiens,4,Graham Skilliter,Francois St-Laurent,Montréal Canadiens,Carolina Hurricanes
+2015021208,Ottawa Senators,3,Florida Panthers,1,Wes McCauley,Ghislain Hebert,Ottawa Senators,Florida Panthers
+2015021209,Nashville Predators,3,Arizona Coyotes,2,Jean Hebert,Thomas John Luxmore,Nashville Predators,Arizona Coyotes
+2015021210,Chicago Blackhawks,1,St. Louis Blues,2,Chris Rooney,Frederick L'Ecuyer,St. Louis Blues,Chicago Blackhawks
+2015021211,Dallas Stars,4,Colorado Avalanche,2,Justin St. Pierre ,Steve Kozari,Dallas Stars,Colorado Avalanche
+2015021212,Calgary Flames,7,Vancouver Canucks,3,Brad Meier,Jake Brenk,Calgary Flames,Vancouver Canucks
+2015021213,Los Angeles Kings,2,Anaheim Ducks,1,Mike Leggo,Dan O'Halloran,Los Angeles Kings,Anaheim Ducks
+2015021214,San Jose Sharks,4,Winnipeg Jets,5,Ian Walsh,Trevor Hanson,Winnipeg Jets,San Jose Sharks
+2015021215,Buffalo Sabres,1,Columbus Blue Jackets,4,Tom Kowal,Jon McIsaac,Columbus Blue Jackets,Buffalo Sabres
+2015021216,Boston Bruins,1,Ottawa Senators,6,Francis Charron,Dave Jackson,Ottawa Senators,Boston Bruins
+2015021217,New York Rangers,3,Detroit Red Wings,2,Marc Joannette,Steve Kozari,New York Rangers,Detroit Red Wings
+2015021218,Philadelphia Flyers,3,Pittsburgh Penguins,1,Graham Skilliter,Eric Furlatt,Philadelphia Flyers,Pittsburgh Penguins
+2015021219,Colorado Avalanche,3,Anaheim Ducks,5,Chris Rooney,Dan O'Halloran,Anaheim Ducks,Colorado Avalanche
+2015021220,Montréal Canadiens,5,Tampa Bay Lightning,2,Tom Kowal,Kevin Pollock,Montréal Canadiens,Tampa Bay Lightning
+2015021221,Florida Panthers,5,Carolina Hurricanes,2,Jean Hebert,Gord Dwyer,Florida Panthers,Carolina Hurricanes
+2015021222,New Jersey Devils,5,Toronto Maple Leafs,1,Frederick L'Ecuyer,Ghislain Hebert,New Jersey Devils,Toronto Maple Leafs
+2015021223,Columbus Blue Jackets,5,Chicago Blackhawks,4,Kelly Sutherland,Jon McIsaac,Columbus Blue Jackets,Chicago Blackhawks
+2015021224,Minnesota Wild,1,Calgary Flames,2,Tim Peel,Ian Walsh,Calgary Flames,Minnesota Wild
+2015021225,New York Islanders,3,Buffalo Sabres,4,Wes McCauley,Garrett Rank,Buffalo Sabres,New York Islanders
+2015021226,St. Louis Blues,1,Washington Capitals,5,Thomas John Luxmore,Chris Lee,Washington Capitals,St. Louis Blues
+2015021227,Dallas Stars,3,Nashville Predators,2,Brad Watson,Dean Morton,Dallas Stars,Nashville Predators
+2015021228,Vancouver Canucks,3,Edmonton Oilers,3,Mike Leggo,Kendrick Nicholson,Vancouver Canucks,Edmonton Oilers
+2015021229,Los Angeles Kings,3,Winnipeg Jets,3,Brian Pochmara,Kyle Rehman,Los Angeles Kings,Winnipeg Jets
+2015021230,San Jose Sharks,1,Arizona Coyotes,0,Trevor Hanson,Brad Meier,San Jose Sharks,Arizona Coyotes

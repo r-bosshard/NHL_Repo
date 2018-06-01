@@ -1,0 +1,1221 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2005020001,Boston Bruins,1,Montréal Canadiens,2,Chris Rooney,Dave Jackson,Montréal Canadiens,Boston Bruins
+2005020003,Philadelphia Flyers,3,New York Rangers,5,Kerry Fraser,Blaine Angus,New York Rangers,Philadelphia Flyers
+2005020004,Washington Capitals,3,Columbus Blue Jackets,2,Paul Devorski,Ian Walsh,Washington Capitals,Columbus Blue Jackets
+2005020005,Florida Panthers,2,Atlanta Thrashers,0,Brad Watson,Rob Martell,Florida Panthers,Atlanta Thrashers
+2005020006,Toronto Maple Leafs,2,Ottawa Senators,2,Stephane Auger,Don VanMassenhoven,Toronto Maple Leafs,Ottawa Senators
+2005020007,New Jersey Devils,5,Pittsburgh Penguins,1,Bill McCreary,Craig Spada,New Jersey Devils,Pittsburgh Penguins
+2005020008,Tampa Bay Lightning,5,Carolina Hurricanes,2,Wes McCauley,Don Koharski,Tampa Bay Lightning,Carolina Hurricanes
+2005020009,Detroit Red Wings,5,St. Louis Blues,1,Dan O'Rourke,Dan O'Halloran,Detroit Red Wings,St. Louis Blues
+2005020010,Nashville Predators,3,San Jose Sharks,2,Mike Hasenfratz,Shane Heyer,Nashville Predators,San Jose Sharks
+2005020011,Chicago Blackhawks,3,Anaheim Ducks,5,Tim Peel,Dean Warren,Anaheim Ducks,Chicago Blackhawks
+2005020012,Minnesota Wild,6,Calgary Flames,3,Dan Marouelli,Greg Kimmerly,Minnesota Wild,Calgary Flames
+2005020014,Edmonton Oilers,4,Colorado Avalanche,3,Michael McGeough,Brad Meier,Edmonton Oilers,Colorado Avalanche
+2005020015,Vancouver Canucks,3,Phoenix Coyotes,2,Kelly Sutherland,Rob Shick,Vancouver Canucks,Phoenix Coyotes
+2005020016,New York Rangers,3,Montréal Canadiens,4,Bill McCreary,Craig Spada,Montréal Canadiens,New York Rangers
+2005020017,St. Louis Blues,3,Detroit Red Wings,4,Marc Joannette,Chris Lee,Detroit Red Wings,St. Louis Blues
+2005020018,Los Angeles Kings,3,Phoenix Coyotes,2,Dennis LaRue,Rob Shick,Los Angeles Kings,Phoenix Coyotes
+2005020019,Philadelphia Flyers,5,New Jersey Devils,2,Blaine Angus,Eric Furlatt,Philadelphia Flyers,New Jersey Devils
+2005020020,Washington Capitals,3,Atlanta Thrashers,7,Chris Rooney,Dave Jackson,Atlanta Thrashers,Washington Capitals
+2005020021,Carolina Hurricanes,2,Pittsburgh Penguins,2,Paul Devorski,Ian Walsh,Carolina Hurricanes,Pittsburgh Penguins
+2005020022,Columbus Blue Jackets,1,Calgary Flames,3,Dan Marouelli,Greg Kimmerly,Calgary Flames,Columbus Blue Jackets
+2005020023,Florida Panthers,2,Tampa Bay Lightning,0,Wes McCauley,Don Koharski,Florida Panthers,Tampa Bay Lightning
+2005020024,Buffalo Sabres,4,Boston Bruins,1,Tim Peel,Dean Warren,Buffalo Sabres,Boston Bruins
+2005020025,Chicago Blackhawks,6,San Jose Sharks,3,Dan O'Rourke,Dan O'Halloran,Chicago Blackhawks,San Jose Sharks
+2005020026,Toronto Maple Leafs,4,Montréal Canadiens,5,Tim Peel,Kevin Pollock,Montréal Canadiens,Toronto Maple Leafs
+2005020027,Ottawa Senators,5,Buffalo Sabres,0,Bill McCreary,Craig Spada,Ottawa Senators,Buffalo Sabres
+2005020028,New York Islanders,3,Carolina Hurricanes,2,Kerry Fraser,Mike Leggo,New York Islanders,Carolina Hurricanes
+2005020029,Atlanta Thrashers,8,Washington Capitals,1,Mike Hasenfratz,Shane Heyer,Atlanta Thrashers,Washington Capitals
+2005020030,New Jersey Devils,3,New York Rangers,2,Don VanMassenhoven,Tom Kowal,New Jersey Devils,New York Rangers
+2005020031,Pittsburgh Penguins,6,Boston Bruins,7,Eric Furlatt,Dean Warren,Boston Bruins,Pittsburgh Penguins
+2005020032,Tampa Bay Lightning,2,Florida Panthers,1,Brad Watson,Rob Martell,Tampa Bay Lightning,Florida Panthers
+2005020033,St. Louis Blues,6,San Jose Sharks,7,Michael McGeough,Brad Meier,San Jose Sharks,St. Louis Blues
+2005020034,Nashville Predators,2,Anaheim Ducks,2,Paul Devorski,Ian Walsh,Nashville Predators,Anaheim Ducks
+2005020035,Dallas Stars,2,Colorado Avalanche,3,Wes McCauley,Don Koharski,Colorado Avalanche,Dallas Stars
+2005020036,Edmonton Oilers,3,Vancouver Canucks,3,Marc Joannette,Chris Lee,Edmonton Oilers,Vancouver Canucks
+2005020037,Phoenix Coyotes,2,Minnesota Wild,1,Dennis LaRue,Rob Shick,Phoenix Coyotes,Minnesota Wild
+2005020038,Detroit Red Wings,6,Calgary Flames,3,Dan Marouelli,Greg Kimmerly,Detroit Red Wings,Calgary Flames
+2005020039,Chicago Blackhawks,2,Columbus Blue Jackets,3,Dan O'Rourke,Dan O'Halloran,Columbus Blue Jackets,Chicago Blackhawks
+2005020040,Los Angeles Kings,2,Minnesota Wild,1,Kelly Sutherland,Rob Shick,Los Angeles Kings,Minnesota Wild
+2005020041,New York Islanders,1,Florida Panthers,3,Stephane Auger,Don VanMassenhoven,Florida Panthers,New York Islanders
+2005020042,Washington Capitals,3,New York Rangers,2,Paul Devorski,Ian Walsh,Washington Capitals,New York Rangers
+2005020043,Buffalo Sabres,3,Pittsburgh Penguins,2,Kerry Fraser,Blaine Angus,Buffalo Sabres,Pittsburgh Penguins
+2005020044,Ottawa Senators,5,Toronto Maple Leafs,5,Tom Kowal,Kevin Pollock,Ottawa Senators,Toronto Maple Leafs
+2005020045,Tampa Bay Lightning,2,Boston Bruins,4,Brad Watson,Rob Martell,Boston Bruins,Tampa Bay Lightning
+2005020046,Colorado Avalanche,7,Calgary Flames,3,Mike Hasenfratz,Shane Heyer,Colorado Avalanche,Calgary Flames
+2005020047,Anaheim Ducks,2,Edmonton Oilers,4,Wes McCauley,Don Koharski,Edmonton Oilers,Anaheim Ducks
+2005020048,Toronto Maple Leafs,4,Philadelphia Flyers,2,Kerry Fraser,Eric Furlatt,Toronto Maple Leafs,Philadelphia Flyers
+2005020049,Montréal Canadiens,2,Ottawa Senators,4,Chris Rooney,Dave Jackson,Ottawa Senators,Montréal Canadiens
+2005020050,Detroit Red Wings,2,Vancouver Canucks,4,Michael McGeough,Brad Meier,Vancouver Canucks,Detroit Red Wings
+2005020051,St. Louis Blues,4,Chicago Blackhawks,1,Michael McGeough,Brad Meier,St. Louis Blues,Chicago Blackhawks
+2005020052,Dallas Stars,3,Phoenix Coyotes,2,Mike Hasenfratz,Shane Heyer,Dallas Stars,Phoenix Coyotes
+2005020053,Los Angeles Kings,3,Edmonton Oilers,1,Mike Leggo,Kelly Sutherland,Los Angeles Kings,Edmonton Oilers
+2005020054,Carolina Hurricanes,7,Washington Capitals,2,Wes McCauley,Don Koharski,Carolina Hurricanes,Washington Capitals
+2005020055,Atlanta Thrashers,0,Montréal Canadiens,2,Dan O'Rourke,Dan O'Halloran,Montréal Canadiens,Atlanta Thrashers
+2005020056,Minnesota Wild,6,Vancouver Canucks,0,Tim Peel,Dean Warren,Minnesota Wild,Vancouver Canucks
+2005020057,Colorado Avalanche,4,Nashville Predators,5,Brad Watson,Rob Martell,Nashville Predators,Colorado Avalanche
+2005020058,San Jose Sharks,4,Columbus Blue Jackets,1,Mike Leggo,Kelly Sutherland,San Jose Sharks,Columbus Blue Jackets
+2005020059,New York Rangers,4,New Jersey Devils,1,Kerry Fraser,Eric Furlatt,New York Rangers,New Jersey Devils
+2005020060,Washington Capitals,3,New York Islanders,5,Blaine Angus,Tom Kowal,New York Islanders,Washington Capitals
+2005020061,Florida Panthers,2,Boston Bruins,5,Bill McCreary,Craig Spada,Boston Bruins,Florida Panthers
+2005020062,Tampa Bay Lightning,3,Buffalo Sabres,3,Mike Hasenfratz,Shane Heyer,Tampa Bay Lightning,Buffalo Sabres
+2005020063,Calgary Flames,2,Dallas Stars,3,Michael McGeough,Brad Meier,Dallas Stars,Calgary Flames
+2005020064,Phoenix Coyotes,4,Nashville Predators,4,Brad Watson,Rob Martell,Phoenix Coyotes,Nashville Predators
+2005020065,Los Angeles Kings,2,Detroit Red Wings,5,Mike Leggo,Dennis LaRue,Detroit Red Wings,Los Angeles Kings
+2005020066,Philadelphia Flyers,6,Pittsburgh Penguins,5,Paul Devorski,Ian Walsh,Philadelphia Flyers,Pittsburgh Penguins
+2005020067,Atlanta Thrashers,1,Toronto Maple Leafs,9,Dan O'Rourke,Dan O'Halloran,Toronto Maple Leafs,Atlanta Thrashers
+2005020068,Minnesota Wild,3,Vancouver Canucks,5,Tim Peel,Dean Warren,Vancouver Canucks,Minnesota Wild
+2005020069,Colorado Avalanche,2,Chicago Blackhawks,2,Chris Rooney,Dave Jackson,Colorado Avalanche,Chicago Blackhawks
+2005020070,Edmonton Oilers,2,Dallas Stars,3,Kelly Sutherland,Rob Shick,Dallas Stars,Edmonton Oilers
+2005020071,Anaheim Ducks,4,Columbus Blue Jackets,3,Brad Watson,Rob Martell,Anaheim Ducks,Columbus Blue Jackets
+2005020072,Montréal Canadiens,2,Toronto Maple Leafs,3,Dan Marouelli,Greg Kimmerly,Toronto Maple Leafs,Montréal Canadiens
+2005020073,Ottawa Senators,5,Boston Bruins,1,Stephane Auger,Don VanMassenhoven,Ottawa Senators,Boston Bruins
+2005020074,New York Rangers,5,Atlanta Thrashers,1,Blaine Angus,Tom Kowal,New York Rangers,Atlanta Thrashers
+2005020075,Philadelphia Flyers,5,New York Islanders,1,Marc Joannette,Chris Lee,Philadelphia Flyers,New York Islanders
+2005020076,New Jersey Devils,1,Carolina Hurricanes,6,Kerry Fraser,Eric Furlatt,Carolina Hurricanes,New Jersey Devils
+2005020077,Pittsburgh Penguins,1,Tampa Bay Lightning,3,Paul Devorski,Ian Walsh,Tampa Bay Lightning,Pittsburgh Penguins
+2005020078,Florida Panthers,3,Buffalo Sabres,2,Bill McCreary,Craig Spada,Florida Panthers,Buffalo Sabres
+2005020079,St. Louis Blues,1,Nashville Predators,4,Dean Warren,Steve Kozari,Nashville Predators,St. Louis Blues
+2005020080,Calgary Flames,3,Edmonton Oilers,0,Kelly Sutherland,Rob Shick,Calgary Flames,Edmonton Oilers
+2005020081,Phoenix Coyotes,0,Detroit Red Wings,2,Mike Leggo,Dennis LaRue,Detroit Red Wings,Phoenix Coyotes
+2005020082,San Jose Sharks,4,Chicago Blackhawks,3,Chris Rooney,Dave Jackson,San Jose Sharks,Chicago Blackhawks
+2005020083,Washington Capitals,2,Tampa Bay Lightning,2,Marc Joannette,Chris Lee,Washington Capitals,Tampa Bay Lightning
+2005020084,Minnesota Wild,4,Anaheim Ducks,1,Dan O'Rourke,Kevin Pollock,Minnesota Wild,Anaheim Ducks
+2005020085,Los Angeles Kings,3,Columbus Blue Jackets,1,Brad Watson,Rob Martell,Los Angeles Kings,Columbus Blue Jackets
+2005020086,Vancouver Canucks,5,Dallas Stars,2,Michael McGeough,Brad Meier,Vancouver Canucks,Dallas Stars
+2005020087,New York Rangers,4,Florida Panthers,0,Wes McCauley,Don Koharski,New York Rangers,Florida Panthers
+2005020088,Detroit Red Wings,3,San Jose Sharks,2,Mike Hasenfratz,Shane Heyer,Detroit Red Wings,San Jose Sharks
+2005020089,Calgary Flames,0,Phoenix Coyotes,2,Tim Peel,Dean Warren,Phoenix Coyotes,Calgary Flames
+2005020090,Montréal Canadiens,4,Boston Bruins,3,Stephane Auger,Don VanMassenhoven,Montréal Canadiens,Boston Bruins
+2005020091,New Jersey Devils,4,Florida Panthers,3,Wes McCauley,Don Koharski,New Jersey Devils,Florida Panthers
+2005020092,Edmonton Oilers,3,Phoenix Coyotes,4,Dan O'Rourke,Kevin Pollock,Phoenix Coyotes,Edmonton Oilers
+2005020093,Vancouver Canucks,6,Chicago Blackhawks,2,Kelly Sutherland,Rob Shick,Vancouver Canucks,Chicago Blackhawks
+2005020094,New York Rangers,2,New York Islanders,2,Paul Devorski,Ian Walsh,New York Rangers,New York Islanders
+2005020095,St. Louis Blues,3,Anaheim Ducks,2,Bill McCreary,Craig Spada,St. Louis Blues,Anaheim Ducks
+2005020096,Minnesota Wild,6,San Jose Sharks,1,Mike Leggo,Dennis LaRue,Minnesota Wild,San Jose Sharks
+2005020097,Colorado Avalanche,4,Los Angeles Kings,5,Kerry Fraser,Eric Furlatt,Los Angeles Kings,Colorado Avalanche
+2005020098,Boston Bruins,3,Buffalo Sabres,4,Chris Rooney,Dave Jackson,Buffalo Sabres,Boston Bruins
+2005020099,New York Islanders,5,New York Rangers,4,Wes McCauley,Don Koharski,New York Islanders,New York Rangers
+2005020100,Atlanta Thrashers,0,Tampa Bay Lightning,6,Mike Hasenfratz,Shane Heyer,Tampa Bay Lightning,Atlanta Thrashers
+2005020101,Florida Panthers,3,Washington Capitals,2,Dan Marouelli,Greg Kimmerly,Florida Panthers,Washington Capitals
+2005020102,Toronto Maple Leafs,5,Carolina Hurricanes,4,Blaine Angus,Dean Warren,Toronto Maple Leafs,Carolina Hurricanes
+2005020103,Pittsburgh Penguins,3,New Jersey Devils,6,Stephane Auger,Don VanMassenhoven,New Jersey Devils,Pittsburgh Penguins
+2005020104,Nashville Predators,2,St. Louis Blues,2,Marc Joannette,Chris Lee,Nashville Predators,St. Louis Blues
+2005020105,Dallas Stars,2,Los Angeles Kings,7,Kerry Fraser,Eric Furlatt,Los Angeles Kings,Dallas Stars
+2005020106,Calgary Flames,3,Edmonton Oilers,1,Dan O'Rourke,Kevin Pollock,Calgary Flames,Edmonton Oilers
+2005020107,Vancouver Canucks,3,Phoenix Coyotes,2,Michael McGeough,Brad Meier,Vancouver Canucks,Phoenix Coyotes
+2005020108,Columbus Blue Jackets,4,San Jose Sharks,1,Mike Leggo,Dennis LaRue,Columbus Blue Jackets,San Jose Sharks
+2005020109,Tampa Bay Lightning,1,Ottawa Senators,4,Paul Devorski,Ian Walsh,Ottawa Senators,Tampa Bay Lightning
+2005020110,Detroit Red Wings,3,Anaheim Ducks,2,Blaine Angus,Dan O'Halloran,Detroit Red Wings,Anaheim Ducks
+2005020111,Edmonton Oilers,1,Colorado Avalanche,7,Michael McGeough,Brad Meier,Colorado Avalanche,Edmonton Oilers
+2005020112,Boston Bruins,6,Pittsburgh Penguins,3,Tom Kowal,Dean Warren,Boston Bruins,Pittsburgh Penguins
+2005020113,Toronto Maple Leafs,2,Philadelphia Flyers,5,Bill McCreary,Craig Spada,Philadelphia Flyers,Toronto Maple Leafs
+2005020114,Montréal Canadiens,4,New York Islanders,3,Chris Rooney,Dave Jackson,Montréal Canadiens,New York Islanders
+2005020115,Washington Capitals,0,Carolina Hurricanes,4,Wes McCauley,Don Koharski,Carolina Hurricanes,Washington Capitals
+2005020116,Atlanta Thrashers,4,New Jersey Devils,3,Paul Devorski,Ian Walsh,Atlanta Thrashers,New Jersey Devils
+2005020117,Columbus Blue Jackets,0,Detroit Red Wings,6,Mike Leggo,Dennis LaRue,Detroit Red Wings,Columbus Blue Jackets
+2005020118,Buffalo Sabres,3,New York Rangers,1,Stephane Auger,Don VanMassenhoven,Buffalo Sabres,New York Rangers
+2005020119,Florida Panthers,3,Ottawa Senators,6,Don Koharski,Mike Hasenfratz,Ottawa Senators,Florida Panthers
+2005020120,St. Louis Blues,2,Minnesota Wild,3,Kerry Fraser,Eric Furlatt,Minnesota Wild,St. Louis Blues
+2005020121,Nashville Predators,2,San Jose Sharks,1,Mike Hasenfratz,Shane Heyer,Nashville Predators,San Jose Sharks
+2005020122,Dallas Stars,2,Calgary Flames,1,Marc Joannette,Chris Lee,Dallas Stars,Calgary Flames
+2005020123,Vancouver Canucks,6,Colorado Avalanche,4,Dan O'Rourke,Kevin Pollock,Vancouver Canucks,Colorado Avalanche
+2005020124,Anaheim Ducks,5,Phoenix Coyotes,3,Kelly Sutherland,Rob Shick,Anaheim Ducks,Phoenix Coyotes
+2005020125,Chicago Blackhawks,4,Minnesota Wild,2,Blaine Angus,Dan O'Halloran,Chicago Blackhawks,Minnesota Wild
+2005020126,Los Angeles Kings,2,Calgary Flames,3,Michael McGeough,Brad Meier,Calgary Flames,Los Angeles Kings
+2005020128,Columbus Blue Jackets,2,Detroit Red Wings,6,Mike Hasenfratz,Shane Heyer,Detroit Red Wings,Columbus Blue Jackets
+2005020129,Toronto Maple Leafs,4,Boston Bruins,4,Chris Rooney,Marc Joannette,Toronto Maple Leafs,Boston Bruins
+2005020130,New York Islanders,4,Atlanta Thrashers,3,Tim Peel,Tom Kowal,New York Islanders,Atlanta Thrashers
+2005020131,Montréal Canadiens,3,Philadelphia Flyers,2,Blaine Angus,Craig Spada,Montréal Canadiens,Philadelphia Flyers
+2005020132,Pittsburgh Penguins,3,Florida Panthers,4,Dan O'Halloran,Stephane Auger,Florida Panthers,Pittsburgh Penguins
+2005020133,Nashville Predators,5,Chicago Blackhawks,3,Dan O'Rourke,Don Koharski,Nashville Predators,Chicago Blackhawks
+2005020134,Minnesota Wild,1,Vancouver Canucks,3,Don VanMassenhoven,Ian Walsh,Vancouver Canucks,Minnesota Wild
+2005020135,Colorado Avalanche,5,Edmonton Oilers,3,Kelly Sutherland,Rob Shick,Colorado Avalanche,Edmonton Oilers
+2005020136,Phoenix Coyotes,5,St. Louis Blues,4,Brad Watson,Rob Martell,Phoenix Coyotes,St. Louis Blues
+2005020137,Los Angeles Kings,3,Anaheim Ducks,1,Michael McGeough,Brad Meier,Los Angeles Kings,Anaheim Ducks
+2005020138,Buffalo Sabres,2,Washington Capitals,3,Marc Joannette,Chris Lee,Washington Capitals,Buffalo Sabres
+2005020139,Carolina Hurricanes,4,Boston Bruins,3,Bill McCreary,Dean Warren,Carolina Hurricanes,Boston Bruins
+2005020140,Columbus Blue Jackets,3,Nashville Predators,2,Dan O'Halloran,Stephane Auger,Columbus Blue Jackets,Nashville Predators
+2005020141,New Jersey Devils,3,Tampa Bay Lightning,6,Chris Rooney,Dave Jackson,Tampa Bay Lightning,New Jersey Devils
+2005020142,Dallas Stars,4,San Jose Sharks,5,Kelly Sutherland,Rob Shick,San Jose Sharks,Dallas Stars
+2005020143,Anaheim Ducks,4,Calgary Flames,1,Brad Watson,Rob Martell,Anaheim Ducks,Calgary Flames
+2005020144,Boston Bruins,2,Toronto Maple Leafs,1,Blaine Angus,Eric Furlatt,Boston Bruins,Toronto Maple Leafs
+2005020145,New York Rangers,3,New York Islanders,1,Chris Rooney,Dave Jackson,New York Rangers,New York Islanders
+2005020146,Philadelphia Flyers,5,Florida Panthers,4,Tim Peel,Tom Kowal,Philadelphia Flyers,Florida Panthers
+2005020147,Ottawa Senators,4,Montréal Canadiens,3,Craig Spada,Kevin Pollock,Ottawa Senators,Montréal Canadiens
+2005020148,Pittsburgh Penguins,7,Atlanta Thrashers,5,Paul Devorski,Chris Lee,Pittsburgh Penguins,Atlanta Thrashers
+2005020149,Detroit Red Wings,5,Chicago Blackhawks,2,Wes McCauley,Don VanMassenhoven,Detroit Red Wings,Chicago Blackhawks
+2005020150,Colorado Avalanche,6,Vancouver Canucks,2,Michael McGeough,Brad Meier,Colorado Avalanche,Vancouver Canucks
+2005020151,Phoenix Coyotes,3,Calgary Flames,2,Mike Hasenfratz,Shane Heyer,Phoenix Coyotes,Calgary Flames
+2005020152,Carolina Hurricanes,8,Philadelphia Flyers,6,Bill McCreary,Dean Warren,Carolina Hurricanes,Philadelphia Flyers
+2005020153,Columbus Blue Jackets,1,Minnesota Wild,1,Dan Marouelli,Greg Kimmerly,Columbus Blue Jackets,Minnesota Wild
+2005020154,New Jersey Devils,3,Buffalo Sabres,2,Mike Leggo,Dennis LaRue,New Jersey Devils,Buffalo Sabres
+2005020155,Tampa Bay Lightning,4,Washington Capitals,2,Dan O'Rourke,Don Koharski,Tampa Bay Lightning,Washington Capitals
+2005020156,Dallas Stars,3,Edmonton Oilers,5,Mike Hasenfratz,Shane Heyer,Edmonton Oilers,Dallas Stars
+2005020157,Anaheim Ducks,6,St. Louis Blues,4,Kelly Sutherland,Rob Shick,Anaheim Ducks,St. Louis Blues
+2005020158,Los Angeles Kings,4,San Jose Sharks,5,Brad Watson,Rob Martell,San Jose Sharks,Los Angeles Kings
+2005020159,Boston Bruins,4,New Jersey Devils,4,Dan O'Halloran,Stephane Auger,Boston Bruins,New Jersey Devils
+2005020160,Toronto Maple Leafs,0,Ottawa Senators,8,Blaine Angus,Eric Furlatt,Ottawa Senators,Toronto Maple Leafs
+2005020161,Montréal Canadiens,2,New York Rangers,5,Marc Joannette,Kevin Pollock,New York Rangers,Montréal Canadiens
+2005020162,New York Islanders,4,Buffalo Sabres,6,Mike Leggo,Dennis LaRue,Buffalo Sabres,New York Islanders
+2005020163,Atlanta Thrashers,2,Tampa Bay Lightning,3,Kerry Fraser,Chris Lee,Tampa Bay Lightning,Atlanta Thrashers
+2005020164,Pittsburgh Penguins,3,Carolina Hurricanes,5,Chris Rooney,Dave Jackson,Carolina Hurricanes,Pittsburgh Penguins
+2005020165,Florida Panthers,3,Washington Capitals,2,Paul Devorski,Dean Warren,Florida Panthers,Washington Capitals
+2005020166,Nashville Predators,1,Edmonton Oilers,5,Tim Peel,Tom Kowal,Edmonton Oilers,Nashville Predators
+2005020167,Minnesota Wild,3,Columbus Blue Jackets,1,Michael McGeough,Brad Meier,Minnesota Wild,Columbus Blue Jackets
+2005020168,Chicago Blackhawks,2,Detroit Red Wings,4,Dan Marouelli,Greg Kimmerly,Detroit Red Wings,Chicago Blackhawks
+2005020169,Colorado Avalanche,4,Vancouver Canucks,3,Brad Watson,Rob Martell,Colorado Avalanche,Vancouver Canucks
+2005020170,Phoenix Coyotes,3,Dallas Stars,5,Wes McCauley,Don VanMassenhoven,Dallas Stars,Phoenix Coyotes
+2005020171,Los Angeles Kings,5,St. Louis Blues,2,Kelly Sutherland,Rob Shick,Los Angeles Kings,St. Louis Blues
+2005020172,San Jose Sharks,2,Calgary Flames,2,Mike Hasenfratz,Shane Heyer,San Jose Sharks,Calgary Flames
+2005020173,Ottawa Senators,3,Philadelphia Flyers,5,Dan O'Halloran,Stephane Auger,Philadelphia Flyers,Ottawa Senators
+2005020174,Anaheim Ducks,3,Phoenix Coyotes,2,Wes McCauley,Don VanMassenhoven,Anaheim Ducks,Phoenix Coyotes
+2005020175,New York Rangers,1,Montréal Canadiens,4,Mike Leggo,Dennis LaRue,Montréal Canadiens,New York Rangers
+2005020176,Toronto Maple Leafs,2,Florida Panthers,1,Marc Joannette,Ian Walsh,Toronto Maple Leafs,Florida Panthers
+2005020177,New York Islanders,4,Boston Bruins,3,Mike Leggo,Dennis LaRue,New York Islanders,Boston Bruins
+2005020178,Montréal Canadiens,5,Florida Panthers,4,Dan O'Halloran,Stephane Auger,Montréal Canadiens,Florida Panthers
+2005020179,New Jersey Devils,3,Pittsburgh Penguins,4,Greg Kimmerly,Brad Watson,Pittsburgh Penguins,New Jersey Devils
+2005020180,Tampa Bay Lightning,4,Atlanta Thrashers,6,Kerry Fraser,Tim Peel,Atlanta Thrashers,Tampa Bay Lightning
+2005020181,Detroit Red Wings,4,Chicago Blackhawks,1,Paul Devorski,Chris Lee,Detroit Red Wings,Chicago Blackhawks
+2005020182,Calgary Flames,3,Minnesota Wild,0,Blaine Angus,Eric Furlatt,Calgary Flames,Minnesota Wild
+2005020183,Edmonton Oilers,5,Columbus Blue Jackets,1,Kelly Sutherland,Michael McGeough,Edmonton Oilers,Columbus Blue Jackets
+2005020184,Anaheim Ducks,4,Nashville Predators,1,Craig Spada,Kevin Pollock,Anaheim Ducks,Nashville Predators
+2005020185,Buffalo Sabres,4,Ottawa Senators,10,Dan Marouelli,Dave Jackson,Ottawa Senators,Buffalo Sabres
+2005020186,St. Louis Blues,5,Chicago Blackhawks,6,Paul Devorski,Chris Lee,Chicago Blackhawks,St. Louis Blues
+2005020187,Dallas Stars,3,Los Angeles Kings,6,Ian Walsh,Brad Meier,Los Angeles Kings,Dallas Stars
+2005020188,Vancouver Canucks,2,Minnesota Wild,1,Kelly Sutherland,Michael McGeough,Vancouver Canucks,Minnesota Wild
+2005020189,San Jose Sharks,3,Nashville Predators,2,Bill McCreary,Tom Kowal,San Jose Sharks,Nashville Predators
+2005020190,Boston Bruins,4,Florida Panthers,1,Dan O'Rourke,Mike Hasenfratz,Boston Bruins,Florida Panthers
+2005020191,New York Islanders,1,Pittsburgh Penguins,5,Greg Kimmerly,Brad Watson,Pittsburgh Penguins,New York Islanders
+2005020192,Philadelphia Flyers,8,Washington Capitals,1,Wes McCauley,Shane Heyer,Philadelphia Flyers,Washington Capitals
+2005020193,Carolina Hurricanes,4,Toronto Maple Leafs,3,Kerry Fraser,Tim Peel,Carolina Hurricanes,Toronto Maple Leafs
+2005020194,Ottawa Senators,4,Tampa Bay Lightning,2,Dan Marouelli,Marc Joannette,Ottawa Senators,Tampa Bay Lightning
+2005020195,New Jersey Devils,2,New York Rangers,4,Dave Jackson,Rob Martell,New York Rangers,New Jersey Devils
+2005020196,Detroit Red Wings,3,Edmonton Oilers,4,Dan O'Halloran,Rob Shick,Edmonton Oilers,Detroit Red Wings
+2005020197,Colorado Avalanche,4,Anaheim Ducks,3,Dennis LaRue,Stephane Auger,Colorado Avalanche,Anaheim Ducks
+2005020198,Calgary Flames,2,Columbus Blue Jackets,1,Blaine Angus,Eric Furlatt,Calgary Flames,Columbus Blue Jackets
+2005020199,Phoenix Coyotes,4,Los Angeles Kings,0,Mike Leggo,Don Koharski,Phoenix Coyotes,Los Angeles Kings
+2005020200,Washington Capitals,2,Atlanta Thrashers,2,Dave Jackson,Rob Martell,Washington Capitals,Atlanta Thrashers
+2005020201,Buffalo Sabres,2,Montréal Canadiens,3,Don VanMassenhoven,Steve Kozari,Montréal Canadiens,Buffalo Sabres
+2005020202,St. Louis Blues,2,Edmonton Oilers,7,Paul Devorski,Chris Lee,Edmonton Oilers,St. Louis Blues
+2005020203,Dallas Stars,9,Chicago Blackhawks,1,Craig Spada,Kevin Pollock,Dallas Stars,Chicago Blackhawks
+2005020204,Vancouver Canucks,5,Columbus Blue Jackets,3,Blaine Angus,Eric Furlatt,Vancouver Canucks,Columbus Blue Jackets
+2005020205,Anaheim Ducks,0,San Jose Sharks,1,Bill McCreary,Tom Kowal,San Jose Sharks,Anaheim Ducks
+2005020206,New York Rangers,2,New Jersey Devils,2,Greg Kimmerly,Brad Watson,New York Rangers,New Jersey Devils
+2005020207,Los Angeles Kings,2,Nashville Predators,2,Chris Rooney,Dennis LaRue,Los Angeles Kings,Nashville Predators
+2005020208,Boston Bruins,6,Pittsburgh Penguins,3,Dan O'Rourke,Mike Hasenfratz,Boston Bruins,Pittsburgh Penguins
+2005020209,Toronto Maple Leafs,5,Tampa Bay Lightning,3,Kelly Sutherland,Rob Shick,Toronto Maple Leafs,Tampa Bay Lightning
+2005020210,Montréal Canadiens,3,Buffalo Sabres,2,Dan Marouelli,Marc Joannette,Montréal Canadiens,Buffalo Sabres
+2005020211,Ottawa Senators,6,New York Islanders,0,Don VanMassenhoven,Steve Kozari,Ottawa Senators,New York Islanders
+2005020212,Philadelphia Flyers,4,Atlanta Thrashers,3,Wes McCauley,Shane Heyer,Philadelphia Flyers,Atlanta Thrashers
+2005020213,Carolina Hurricanes,2,Florida Panthers,0,Kerry Fraser,Tim Peel,Carolina Hurricanes,Florida Panthers
+2005020214,Detroit Red Wings,1,Phoenix Coyotes,4,Paul Devorski,Chris Lee,Phoenix Coyotes,Detroit Red Wings
+2005020215,Colorado Avalanche,2,Dallas Stars,2,Don Koharski,Stephane Auger,Colorado Avalanche,Dallas Stars
+2005020216,Calgary Flames,1,Vancouver Canucks,0,Michael McGeough,Brad Meier,Calgary Flames,Vancouver Canucks
+2005020217,San Jose Sharks,1,Minnesota Wild,3,Bill McCreary,Tom Kowal,Minnesota Wild,San Jose Sharks
+2005020218,Washington Capitals,5,Toronto Maple Leafs,4,Dan O'Rourke,Mike Hasenfratz,Washington Capitals,Toronto Maple Leafs
+2005020219,Chicago Blackhawks,2,Phoenix Coyotes,1,Mike Leggo,Rob Martell,Chicago Blackhawks,Phoenix Coyotes
+2005020220,St. Louis Blues,1,Detroit Red Wings,4,Dan O'Halloran,Ian Walsh,Detroit Red Wings,St. Louis Blues
+2005020221,Anaheim Ducks,3,Minnesota Wild,3,Craig Spada,Kevin Pollock,Anaheim Ducks,Minnesota Wild
+2005020222,New York Rangers,2,Pittsburgh Penguins,3,Greg Kimmerly,Brad Watson,Pittsburgh Penguins,New York Rangers
+2005020223,Dallas Stars,4,Edmonton Oilers,0,Don Koharski,Stephane Auger,Dallas Stars,Edmonton Oilers
+2005020224,Calgary Flames,4,Vancouver Canucks,3,Don VanMassenhoven,Dean Warren,Calgary Flames,Vancouver Canucks
+2005020225,Philadelphia Flyers,4,Boston Bruins,3,Kerry Fraser,Tom Kowal,Philadelphia Flyers,Boston Bruins
+2005020226,Toronto Maple Leafs,6,Washington Capitals,4,Kelly Sutherland,Rob Shick,Toronto Maple Leafs,Washington Capitals
+2005020227,Montréal Canadiens,3,Tampa Bay Lightning,2,Blaine Angus,Eric Furlatt,Montréal Canadiens,Tampa Bay Lightning
+2005020228,New Jersey Devils,1,New York Islanders,4,Marc Joannette,Ian Walsh,New York Islanders,New Jersey Devils
+2005020229,Nashville Predators,3,Edmonton Oilers,2,Dave Jackson,Rob Martell,Nashville Predators,Edmonton Oilers
+2005020230,Minnesota Wild,2,Phoenix Coyotes,4,Mike Leggo,Chris Rooney,Phoenix Coyotes,Minnesota Wild
+2005020231,Colorado Avalanche,5,San Jose Sharks,2,Dan O'Halloran,Brad Meier,Colorado Avalanche,San Jose Sharks
+2005020232,Buffalo Sabres,3,Carolina Hurricanes,5,Dan Marouelli,Tim Peel,Carolina Hurricanes,Buffalo Sabres
+2005020233,Atlanta Thrashers,5,Pittsburgh Penguins,0,Wes McCauley,Michael McGeough,Atlanta Thrashers,Pittsburgh Penguins
+2005020235,Columbus Blue Jackets,3,St. Louis Blues,1,Marc Joannette,Justin StPierre,Columbus Blue Jackets,St. Louis Blues
+2005020236,Detroit Red Wings,5,Los Angeles Kings,4,Kelly Sutherland,Rob Shick,Detroit Red Wings,Los Angeles Kings
+2005020237,Boston Bruins,2,Ottawa Senators,5,Dave Jackson,Francois StLaurent,Ottawa Senators,Boston Bruins
+2005020238,Philadelphia Flyers,3,New York Islanders,2,Blaine Angus,Eric Furlatt,Philadelphia Flyers,New York Islanders
+2005020239,Pittsburgh Penguins,2,Montréal Canadiens,2,Kerry Fraser,Tom Kowal,Pittsburgh Penguins,Montréal Canadiens
+2005020240,Tampa Bay Lightning,2,New York Rangers,5,Mike Hasenfratz,Shane Heyer,New York Rangers,Tampa Bay Lightning
+2005020241,St. Louis Blues,2,Chicago Blackhawks,4,Dan O'Rourke,Dan O'Halloran,Chicago Blackhawks,St. Louis Blues
+2005020242,Nashville Predators,5,Dallas Stars,3,Ian Walsh,Brad Meier,Nashville Predators,Dallas Stars
+2005020243,Phoenix Coyotes,3,Calgary Flames,4,Mike Leggo,Dennis LaRue,Calgary Flames,Phoenix Coyotes
+2005020244,Vancouver Canucks,3,Colorado Avalanche,5,Paul Devorski,Chris Lee,Colorado Avalanche,Vancouver Canucks
+2005020245,Washington Capitals,3,New Jersey Devils,4,Dan Marouelli,Greg Kimmerly,New Jersey Devils,Washington Capitals
+2005020246,Atlanta Thrashers,5,Tampa Bay Lightning,2,Blaine Angus,Tim Peel,Atlanta Thrashers,Tampa Bay Lightning
+2005020247,Columbus Blue Jackets,1,Edmonton Oilers,3,Michael McGeough,Marc Joannette,Edmonton Oilers,Columbus Blue Jackets
+2005020248,Florida Panthers,0,Carolina Hurricanes,1,Wes McCauley,Rob Martell,Carolina Hurricanes,Florida Panthers
+2005020249,Detroit Red Wings,3,Minnesota Wild,1,Don VanMassenhoven,Dean Warren,Detroit Red Wings,Minnesota Wild
+2005020250,Buffalo Sabres,5,Toronto Maple Leafs,2,Bill McCreary,Craig Spada,Buffalo Sabres,Toronto Maple Leafs
+2005020251,Chicago Blackhawks,2,Los Angeles Kings,4,Chris Rooney,Brad Watson,Los Angeles Kings,Chicago Blackhawks
+2005020252,New Jersey Devils,3,Washington Capitals,2,Dan O'Rourke,Mike Hasenfratz,New Jersey Devils,Washington Capitals
+2005020253,Montréal Canadiens,4,Toronto Maple Leafs,5,Dave Jackson,Stephane Auger,Toronto Maple Leafs,Montréal Canadiens
+2005020254,Ottawa Senators,6,Buffalo Sabres,1,Bill McCreary,Kevin Pollock,Ottawa Senators,Buffalo Sabres
+2005020255,New York Islanders,5,Boston Bruins,2,Dan Marouelli,Craig Spada,New York Islanders,Boston Bruins
+2005020256,Philadelphia Flyers,5,Florida Panthers,4,Don VanMassenhoven,Dean Warren,Philadelphia Flyers,Florida Panthers
+2005020257,Carolina Hurricanes,0,Atlanta Thrashers,9,Eric Furlatt,Shane Heyer,Atlanta Thrashers,Carolina Hurricanes
+2005020258,Pittsburgh Penguins,1,New York Rangers,6,Chris Rooney,Brad Watson,New York Rangers,Pittsburgh Penguins
+2005020259,Nashville Predators,3,St. Louis Blues,1,Ian Walsh,Brad Meier,Nashville Predators,St. Louis Blues
+2005020260,Phoenix Coyotes,2,Anaheim Ducks,1,Kerry Fraser,Tom Kowal,Phoenix Coyotes,Anaheim Ducks
+2005020261,Calgary Flames,5,Colorado Avalanche,3,Paul Devorski,Chris Lee,Calgary Flames,Colorado Avalanche
+2005020262,San Jose Sharks,2,Dallas Stars,2,Mike Leggo,Dennis LaRue,San Jose Sharks,Dallas Stars
+2005020263,Columbus Blue Jackets,2,Los Angeles Kings,8,Dan Marouelli,Greg Kimmerly,Los Angeles Kings,Columbus Blue Jackets
+2005020264,Chicago Blackhawks,3,Edmonton Oilers,1,Michael McGeough,Marc Joannette,Chicago Blackhawks,Edmonton Oilers
+2005020265,Anaheim Ducks,1,Dallas Stars,3,Kerry Fraser,Tom Kowal,Dallas Stars,Anaheim Ducks
+2005020266,Vancouver Canucks,4,Detroit Red Wings,1,Kelly Sutherland,Dennis LaRue,Vancouver Canucks,Detroit Red Wings
+2005020267,Pittsburgh Penguins,2,New York Islanders,2,Kevin Pollock,Justin StPierre,Pittsburgh Penguins,New York Islanders
+2005020268,Tampa Bay Lightning,5,Philadelphia Flyers,2,Don Koharski,Rob Martell,Tampa Bay Lightning,Philadelphia Flyers
+2005020269,Colorado Avalanche,2,Edmonton Oilers,5,Rob Shick,Brad Meier,Edmonton Oilers,Colorado Avalanche
+2005020270,Calgary Flames,3,Minnesota Wild,2,Paul Devorski,Chris Lee,Calgary Flames,Minnesota Wild
+2005020271,Buffalo Sabres,4,New Jersey Devils,1,Blaine Angus,Dean Warren,Buffalo Sabres,New Jersey Devils
+2005020272,Washington Capitals,3,Tampa Bay Lightning,3,Dan Marouelli,Greg Kimmerly,Washington Capitals,Tampa Bay Lightning
+2005020273,Toronto Maple Leafs,2,New York Rangers,1,Stephane Auger,Don VanMassenhoven,Toronto Maple Leafs,New York Rangers
+2005020274,Montréal Canadiens,4,Florida Panthers,3,Bill McCreary,Francois StLaurent,Montréal Canadiens,Florida Panthers
+2005020275,Ottawa Senators,1,Carolina Hurricanes,2,Tim Peel,Eric Furlatt,Carolina Hurricanes,Ottawa Senators
+2005020276,Nashville Predators,3,Los Angeles Kings,2,Kerry Fraser,Tom Kowal,Nashville Predators,Los Angeles Kings
+2005020277,Philadelphia Flyers,2,Pittsburgh Penguins,3,Kevin Pollock,Dean Warren,Pittsburgh Penguins,Philadelphia Flyers
+2005020278,Atlanta Thrashers,3,New York Islanders,7,Dan O'Rourke,Shane Heyer,New York Islanders,Atlanta Thrashers
+2005020279,Columbus Blue Jackets,0,St. Louis Blues,2,Dan O'Halloran,Ian Walsh,St. Louis Blues,Columbus Blue Jackets
+2005020280,Calgary Flames,3,Detroit Red Wings,1,Kelly Sutherland,Michael McGeough,Calgary Flames,Detroit Red Wings
+2005020281,Phoenix Coyotes,1,Colorado Avalanche,3,Rob Shick,Brad Meier,Colorado Avalanche,Phoenix Coyotes
+2005020282,Anaheim Ducks,2,Dallas Stars,4,Mike Leggo,Chris Rooney,Dallas Stars,Anaheim Ducks
+2005020283,San Jose Sharks,1,Vancouver Canucks,3,Brad Watson,Rob Martell,Vancouver Canucks,San Jose Sharks
+2005020284,Boston Bruins,1,Toronto Maple Leafs,4,Blaine Angus,Craig Spada,Toronto Maple Leafs,Boston Bruins
+2005020285,Buffalo Sabres,8,Washington Capitals,5,Bill McCreary,Eric Furlatt,Buffalo Sabres,Washington Capitals
+2005020286,Carolina Hurricanes,5,New York Rangers,1,Wes McCauley,Don Koharski,Carolina Hurricanes,New York Rangers
+2005020287,Ottawa Senators,4,Florida Panthers,1,Tim Peel,Marc Joannette,Ottawa Senators,Florida Panthers
+2005020288,Tampa Bay Lightning,3,New York Islanders,2,Dave Jackson,Dennis LaRue,Tampa Bay Lightning,New York Islanders
+2005020289,Edmonton Oilers,6,Detroit Red Wings,5,Stephane Auger,Mike Hasenfratz,Edmonton Oilers,Detroit Red Wings
+2005020290,Los Angeles Kings,5,Vancouver Canucks,4,Mike Leggo,Chris Rooney,Los Angeles Kings,Vancouver Canucks
+2005020291,Philadelphia Flyers,5,Atlanta Thrashers,6,Paul Devorski,Chris Lee,Atlanta Thrashers,Philadelphia Flyers
+2005020292,New Jersey Devils,5,Montréal Canadiens,3,Kerry Fraser,Dean Warren,New Jersey Devils,Montréal Canadiens
+2005020294,Calgary Flames,2,Chicago Blackhawks,5,Stephane Auger,Mike Hasenfratz,Chicago Blackhawks,Calgary Flames
+2005020295,Anaheim Ducks,2,Colorado Avalanche,3,Brad Watson,Rob Martell,Colorado Avalanche,Anaheim Ducks
+2005020296,New York Rangers,4,Carolina Hurricanes,3,Bill McCreary,Eric Furlatt,New York Rangers,Carolina Hurricanes
+2005020297,Boston Bruins,2,Buffalo Sabres,3,Kerry Fraser,Dean Warren,Buffalo Sabres,Boston Bruins
+2005020298,Toronto Maple Leafs,5,Atlanta Thrashers,1,Dan Marouelli,Greg Kimmerly,Toronto Maple Leafs,Atlanta Thrashers
+2005020299,Montréal Canadiens,1,Washington Capitals,5,Tim Peel,Kevin Pollock,Washington Capitals,Montréal Canadiens
+2005020300,Ottawa Senators,5,New Jersey Devils,4,Blaine Angus,Craig Spada,Ottawa Senators,New Jersey Devils
+2005020301,Pittsburgh Penguins,3,Philadelphia Flyers,6,Paul Devorski,Chris Lee,Philadelphia Flyers,Pittsburgh Penguins
+2005020302,Florida Panthers,3,New York Islanders,5,Dave Jackson,Dennis LaRue,New York Islanders,Florida Panthers
+2005020303,Detroit Red Wings,2,St. Louis Blues,3,Marc Joannette,Ian Walsh,St. Louis Blues,Detroit Red Wings
+2005020304,Minnesota Wild,4,Nashville Predators,2,Dan O'Halloran,Don VanMassenhoven,Minnesota Wild,Nashville Predators
+2005020305,Edmonton Oilers,3,Chicago Blackhawks,4,Rob Shick,Gord Dwyer,Chicago Blackhawks,Edmonton Oilers
+2005020306,Los Angeles Kings,4,Colorado Avalanche,3,Brad Watson,Rob Martell,Los Angeles Kings,Colorado Avalanche
+2005020307,San Jose Sharks,3,Phoenix Coyotes,3,Mike Leggo,Chris Rooney,San Jose Sharks,Phoenix Coyotes
+2005020308,Anaheim Ducks,2,Vancouver Canucks,3,Dan O'Rourke,Shane Heyer,Vancouver Canucks,Anaheim Ducks
+2005020309,New York Rangers,3,Boston Bruins,2,Wes McCauley,Don Koharski,New York Rangers,Boston Bruins
+2005020310,Carolina Hurricanes,2,Tampa Bay Lightning,5,Bill McCreary,Tom Kowal,Tampa Bay Lightning,Carolina Hurricanes
+2005020311,Phoenix Coyotes,5,Columbus Blue Jackets,1,Mike Leggo,Chris Rooney,Phoenix Coyotes,Columbus Blue Jackets
+2005020312,Detroit Red Wings,2,Nashville Predators,3,Tom Kowal,Kevin Pollock,Nashville Predators,Detroit Red Wings
+2005020313,Colorado Avalanche,2,Calgary Flames,2,Brad Watson,Rob Martell,Colorado Avalanche,Calgary Flames
+2005020314,Edmonton Oilers,1,San Jose Sharks,1,Stephane Auger,Mike Hasenfratz,Edmonton Oilers,San Jose Sharks
+2005020315,Buffalo Sabres,2,New York Rangers,2,Paul Devorski,Gord Dwyer,Buffalo Sabres,New York Rangers
+2005020316,Philadelphia Flyers,2,Tampa Bay Lightning,4,Wes McCauley,Don Koharski,Tampa Bay Lightning,Philadelphia Flyers
+2005020317,Carolina Hurricanes,3,Ottawa Senators,5,Dan Marouelli,Greg Kimmerly,Ottawa Senators,Carolina Hurricanes
+2005020318,Montréal Canadiens,2,Atlanta Thrashers,2,Marc Joannette,Chris Lee,Montréal Canadiens,Atlanta Thrashers
+2005020319,Pittsburgh Penguins,5,Washington Capitals,4,Blaine Angus,Kevin Pollock,Pittsburgh Penguins,Washington Capitals
+2005020320,St. Louis Blues,3,Los Angeles Kings,6,Michael McGeough,Brad Meier,Los Angeles Kings,St. Louis Blues
+2005020321,Phoenix Coyotes,1,Anaheim Ducks,2,Kelly Sutherland,Dennis LaRue,Anaheim Ducks,Phoenix Coyotes
+2005020322,Vancouver Canucks,3,Chicago Blackhawks,1,Kerry Fraser,Craig Spada,Vancouver Canucks,Chicago Blackhawks
+2005020323,New York Islanders,3,Buffalo Sabres,3,Chris Rooney,Dave Jackson,New York Islanders,Buffalo Sabres
+2005020324,Washington Capitals,3,Tampa Bay Lightning,3,Wes McCauley,Don Koharski,Washington Capitals,Tampa Bay Lightning
+2005020325,Florida Panthers,1,New Jersey Devils,5,Dan O'Rourke,Don VanMassenhoven,New Jersey Devils,Florida Panthers
+2005020326,Columbus Blue Jackets,2,Nashville Predators,4,Kevin Pollock,Dean Warren,Nashville Predators,Columbus Blue Jackets
+2005020327,Toronto Maple Leafs,1,Boston Bruins,5,Bill McCreary,Tom Kowal,Boston Bruins,Toronto Maple Leafs
+2005020328,Detroit Red Wings,7,Colorado Avalanche,3,Blaine Angus,Brad Watson,Detroit Red Wings,Colorado Avalanche
+2005020329,Minnesota Wild,3,Edmonton Oilers,4,Michael McGeough,Brad Meier,Edmonton Oilers,Minnesota Wild
+2005020330,Dallas Stars,3,Anaheim Ducks,1,Tim Peel,Eric Furlatt,Dallas Stars,Anaheim Ducks
+2005020331,Calgary Flames,3,San Jose Sharks,2,Stephane Auger,Mike Hasenfratz,Calgary Flames,San Jose Sharks
+2005020332,Atlanta Thrashers,3,New York Rangers,6,Dan O'Halloran,Rob Martell,New York Rangers,Atlanta Thrashers
+2005020333,Nashville Predators,4,Los Angeles Kings,3,Dan Marouelli,Greg Kimmerly,Nashville Predators,Los Angeles Kings
+2005020334,Vancouver Canucks,3,San Jose Sharks,2,Kerry Fraser,Craig Spada,Vancouver Canucks,San Jose Sharks
+2005020335,Boston Bruins,3,Philadelphia Flyers,5,Chris Rooney,Dave Jackson,Philadelphia Flyers,Boston Bruins
+2005020336,New York Islanders,2,Ottawa Senators,6,Bill McCreary,Blaine Angus,Ottawa Senators,New York Islanders
+2005020337,Minnesota Wild,5,St. Louis Blues,3,Paul Devorski,Ian Walsh,Minnesota Wild,St. Louis Blues
+2005020338,Anaheim Ducks,3,Detroit Red Wings,1,Kelly Sutherland,Marc Joannette,Anaheim Ducks,Detroit Red Wings
+2005020339,Carolina Hurricanes,3,Toronto Maple Leafs,3,Rob Shick,Chris Lee,Carolina Hurricanes,Toronto Maple Leafs
+2005020340,Columbus Blue Jackets,0,Colorado Avalanche,5,Dean Warren,Shane Heyer,Colorado Avalanche,Columbus Blue Jackets
+2005020341,Tampa Bay Lightning,2,New Jersey Devils,8,Dan Marouelli,Dan O'Rourke,New Jersey Devils,Tampa Bay Lightning
+2005020342,Florida Panthers,6,Pittsburgh Penguins,3,Don Koharski,Rob Martell,Florida Panthers,Pittsburgh Penguins
+2005020343,Buffalo Sabres,3,Montréal Canadiens,1,Tom Kowal,Kevin Pollock,Buffalo Sabres,Montréal Canadiens
+2005020344,Dallas Stars,1,Phoenix Coyotes,4,Tim Peel,Eric Furlatt,Phoenix Coyotes,Dallas Stars
+2005020345,Calgary Flames,1,Edmonton Oilers,1,Michael McGeough,Brad Watson,Calgary Flames,Edmonton Oilers
+2005020346,Philadelphia Flyers,2,New York Islanders,4,Paul Devorski,Ian Walsh,New York Islanders,Philadelphia Flyers
+2005020347,Toronto Maple Leafs,4,Montréal Canadiens,3,Kevin Pollock,Dean Warren,Toronto Maple Leafs,Montréal Canadiens
+2005020348,Ottawa Senators,4,Boston Bruins,2,Dave Jackson,Stephane Auger,Ottawa Senators,Boston Bruins
+2005020349,New York Rangers,2,Washington Capitals,2,Bill McCreary,Blaine Angus,New York Rangers,Washington Capitals
+2005020350,Atlanta Thrashers,7,Florida Panthers,4,Dan Marouelli,Greg Kimmerly,Atlanta Thrashers,Florida Panthers
+2005020351,St. Louis Blues,3,Columbus Blue Jackets,4,Kerry Fraser,Craig Spada,Columbus Blue Jackets,St. Louis Blues
+2005020352,Nashville Predators,1,Dallas Stars,3,Dan O'Rourke,Dan O'Halloran,Dallas Stars,Nashville Predators
+2005020353,Phoenix Coyotes,2,Vancouver Canucks,1,Wes McCauley,Mike Hasenfratz,Phoenix Coyotes,Vancouver Canucks
+2005020354,Los Angeles Kings,3,Chicago Blackhawks,2,Kelly Sutherland,Marc Joannette,Los Angeles Kings,Chicago Blackhawks
+2005020355,San Jose Sharks,6,Detroit Red Wings,7,Dennis LaRue,Brad Meier,Detroit Red Wings,San Jose Sharks
+2005020356,Carolina Hurricanes,2,Atlanta Thrashers,5,Rob Shick,Chris Lee,Atlanta Thrashers,Carolina Hurricanes
+2005020357,Tampa Bay Lightning,4,Pittsburgh Penguins,1,Dan O'Rourke,Don Koharski,Tampa Bay Lightning,Pittsburgh Penguins
+2005020358,Washington Capitals,2,Buffalo Sabres,3,Chris Rooney,Tom Kowal,Buffalo Sabres,Washington Capitals
+2005020359,Anaheim Ducks,3,Chicago Blackhawks,1,Dennis LaRue,Brad Meier,Anaheim Ducks,Chicago Blackhawks
+2005020360,Colorado Avalanche,6,Vancouver Canucks,2,Tim Peel,Eric Furlatt,Colorado Avalanche,Vancouver Canucks
+2005020361,Florida Panthers,1,Toronto Maple Leafs,2,Paul Devorski,Ian Walsh,Toronto Maple Leafs,Florida Panthers
+2005020362,Los Angeles Kings,2,Detroit Red Wings,5,Wes McCauley,Marc Joannette,Detroit Red Wings,Los Angeles Kings
+2005020363,New York Islanders,3,Philadelphia Flyers,4,Kerry Fraser,Stephane Auger,Philadelphia Flyers,New York Islanders
+2005020364,Washington Capitals,5,New York Rangers,1,Kerry Fraser,Craig Spada,Washington Capitals,New York Rangers
+2005020365,Atlanta Thrashers,3,Carolina Hurricanes,4,Mike Hasenfratz,Shane Heyer,Carolina Hurricanes,Atlanta Thrashers
+2005020366,Ottawa Senators,4,Montréal Canadiens,0,Dan Marouelli,Dave Jackson,Ottawa Senators,Montréal Canadiens
+2005020367,New Jersey Devils,3,Boston Bruins,2,Kevin Pollock,Dean Warren,New Jersey Devils,Boston Bruins
+2005020368,Pittsburgh Penguins,2,Buffalo Sabres,3,Don Koharski,Tom Kowal,Buffalo Sabres,Pittsburgh Penguins
+2005020369,Nashville Predators,2,Calgary Flames,0,Chris Rooney,Brad Watson,Nashville Predators,Calgary Flames
+2005020370,Edmonton Oilers,2,Colorado Avalanche,3,Mike Leggo,Rob Martell,Colorado Avalanche,Edmonton Oilers
+2005020371,Philadelphia Flyers,2,New Jersey Devils,1,Kerry Fraser,Dean Warren,Philadelphia Flyers,New Jersey Devils
+2005020372,Tampa Bay Lightning,2,Toronto Maple Leafs,1,Paul Devorski,Ian Walsh,Tampa Bay Lightning,Toronto Maple Leafs
+2005020373,Minnesota Wild,2,Columbus Blue Jackets,2,Tim Peel,Craig Spada,Minnesota Wild,Columbus Blue Jackets
+2005020374,Chicago Blackhawks,3,Los Angeles Kings,2,Dennis LaRue,Greg Kimmerly,Chicago Blackhawks,Los Angeles Kings
+2005020375,Dallas Stars,4,San Jose Sharks,1,Mike Hasenfratz,Shane Heyer,Dallas Stars,San Jose Sharks
+2005020376,Vancouver Canucks,5,Colorado Avalanche,2,Kelly Sutherland,Michael McGeough,Vancouver Canucks,Colorado Avalanche
+2005020377,Anaheim Ducks,6,Phoenix Coyotes,1,Bill McCreary,Blaine Angus,Anaheim Ducks,Phoenix Coyotes
+2005020378,Boston Bruins,3,Ottawa Senators,0,Dan O'Rourke,Don Koharski,Boston Bruins,Ottawa Senators
+2005020379,New York Rangers,2,Pittsburgh Penguins,1,Dan O'Halloran,Stephane Auger,New York Rangers,Pittsburgh Penguins
+2005020380,Atlanta Thrashers,0,Toronto Maple Leafs,4,Chris Lee,Brad Meier,Toronto Maple Leafs,Atlanta Thrashers
+2005020381,Montréal Canadiens,2,Buffalo Sabres,3,Eric Furlatt,Tom Kowal,Buffalo Sabres,Montréal Canadiens
+2005020382,Detroit Red Wings,2,Calgary Flames,3,Tim Peel,Craig Spada,Calgary Flames,Detroit Red Wings
+2005020383,St. Louis Blues,4,Columbus Blue Jackets,1,Wes McCauley,Steve Kozari,St. Louis Blues,Columbus Blue Jackets
+2005020384,Nashville Predators,2,Minnesota Wild,1,Chris Rooney,Brad Watson,Nashville Predators,Minnesota Wild
+2005020385,Edmonton Oilers,5,Vancouver Canucks,3,Mike Leggo,Rob Martell,Edmonton Oilers,Vancouver Canucks
+2005020386,Ottawa Senators,5,Los Angeles Kings,1,Dan Marouelli,Greg Kimmerly,Ottawa Senators,Los Angeles Kings
+2005020387,Tampa Bay Lightning,2,Chicago Blackhawks,2,Ian Walsh,Kevin Pollock,Tampa Bay Lightning,Chicago Blackhawks
+2005020388,Buffalo Sabres,0,San Jose Sharks,5,Wes McCauley,Don Koharski,San Jose Sharks,Buffalo Sabres
+2005020389,Dallas Stars,4,Carolina Hurricanes,4,Bill McCreary,Blaine Angus,Dallas Stars,Carolina Hurricanes
+2005020390,New Jersey Devils,2,Minnesota Wild,2,Dan O'Halloran,Stephane Auger,New Jersey Devils,Minnesota Wild
+2005020391,Toronto Maple Leafs,4,San Jose Sharks,5,Dan Marouelli,Dean Warren,San Jose Sharks,Toronto Maple Leafs
+2005020392,Montréal Canadiens,3,Los Angeles Kings,2,Dave Jackson,Greg Kimmerly,Montréal Canadiens,Los Angeles Kings
+2005020393,Pittsburgh Penguins,2,Calgary Flames,3,Tim Peel,Eric Furlatt,Calgary Flames,Pittsburgh Penguins
+2005020394,Florida Panthers,4,Chicago Blackhawks,3,Ian Walsh,Kevin Pollock,Florida Panthers,Chicago Blackhawks
+2005020395,Nashville Predators,3,Philadelphia Flyers,3,Chris Lee,Brad Meier,Nashville Predators,Philadelphia Flyers
+2005020396,Phoenix Coyotes,8,Carolina Hurricanes,4,Rob Shick,Steve Kozari,Phoenix Coyotes,Carolina Hurricanes
+2005020397,Edmonton Oilers,4,Boston Bruins,5,Kelly Sutherland,Michael McGeough,Boston Bruins,Edmonton Oilers
+2005020398,Anaheim Ducks,2,Atlanta Thrashers,1,Chris Rooney,Brad Watson,Anaheim Ducks,Atlanta Thrashers
+2005020399,Detroit Red Wings,1,New York Islanders,2,Marc Joannette,Chris Lee,New York Islanders,Detroit Red Wings
+2005020400,Colorado Avalanche,4,Buffalo Sabres,6,Bill McCreary,Blaine Angus,Buffalo Sabres,Colorado Avalanche
+2005020401,Vancouver Canucks,5,Boston Bruins,2,Dennis LaRue,Rob Martell,Vancouver Canucks,Boston Bruins
+2005020402,New York Rangers,3,Minnesota Wild,1,Eric Furlatt,Tom Kowal,New York Rangers,Minnesota Wild
+2005020403,Phoenix Coyotes,5,Atlanta Thrashers,2,Rob Shick,Steve Kozari,Phoenix Coyotes,Atlanta Thrashers
+2005020404,Philadelphia Flyers,0,Calgary Flames,0,Dan O'Rourke,Shane Heyer,Philadelphia Flyers,Calgary Flames
+2005020405,Toronto Maple Leafs,1,Los Angeles Kings,2,Kerry Fraser,Craig Spada,Los Angeles Kings,Toronto Maple Leafs
+2005020406,Detroit Red Wings,5,New Jersey Devils,2,Wes McCauley,Dan O'Halloran,Detroit Red Wings,New Jersey Devils
+2005020407,St. Louis Blues,3,New York Islanders,6,Dennis LaRue,Justin StPierre,New York Islanders,St. Louis Blues
+2005020408,Anaheim Ducks,2,Carolina Hurricanes,6,Dan Marouelli,Blaine Angus,Carolina Hurricanes,Anaheim Ducks
+2005020409,San Jose Sharks,5,Atlanta Thrashers,3,Kelly Sutherland,Greg Kimmerly,San Jose Sharks,Atlanta Thrashers
+2005020410,Washington Capitals,2,Nashville Predators,5,Stephane Auger,Bob Langdon,Nashville Predators,Washington Capitals
+2005020411,New Jersey Devils,1,Calgary Flames,4,Eric Furlatt,Tom Kowal,Calgary Flames,New Jersey Devils
+2005020412,Chicago Blackhawks,2,New York Rangers,1,Dave Jackson,Dennis LaRue,Chicago Blackhawks,New York Rangers
+2005020413,Dallas Stars,4,Florida Panthers,3,Don Koharski,Mike Hasenfratz,Dallas Stars,Florida Panthers
+2005020414,Colorado Avalanche,4,Boston Bruins,1,Rob Shick,Tim Peel,Colorado Avalanche,Boston Bruins
+2005020415,Buffalo Sabres,3,Anaheim Ducks,2,Bill McCreary,Gord Dwyer,Buffalo Sabres,Anaheim Ducks
+2005020416,Philadelphia Flyers,2,Edmonton Oilers,3,Paul Devorski,Chris Lee,Edmonton Oilers,Philadelphia Flyers
+2005020417,Columbus Blue Jackets,3,New York Islanders,3,Michael McGeough,Ian Walsh,Columbus Blue Jackets,New York Islanders
+2005020418,Pittsburgh Penguins,0,Minnesota Wild,5,Dan O'Rourke,Shane Heyer,Minnesota Wild,Pittsburgh Penguins
+2005020419,Tampa Bay Lightning,5,St. Louis Blues,4,Dave Jackson,Rob Martell,Tampa Bay Lightning,St. Louis Blues
+2005020420,Nashville Predators,1,New York Rangers,5,Wes McCauley,Dan O'Halloran,New York Rangers,Nashville Predators
+2005020421,Los Angeles Kings,2,Carolina Hurricanes,3,Dan Marouelli,Blaine Angus,Carolina Hurricanes,Los Angeles Kings
+2005020422,San Jose Sharks,6,Florida Panthers,2,Kelly Sutherland,Greg Kimmerly,San Jose Sharks,Florida Panthers
+2005020423,Washington Capitals,3,Detroit Red Wings,4,Eric Furlatt,Tom Kowal,Detroit Red Wings,Washington Capitals
+2005020424,Atlanta Thrashers,5,Columbus Blue Jackets,2,Wes McCauley,Dan O'Halloran,Atlanta Thrashers,Columbus Blue Jackets
+2005020425,New Jersey Devils,3,Colorado Avalanche,3,Stephane Auger,Craig Spada,New Jersey Devils,Colorado Avalanche
+2005020426,Vancouver Canucks,2,Ottawa Senators,2,Chris Rooney,Brad Watson,Vancouver Canucks,Ottawa Senators
+2005020427,Philadelphia Flyers,3,Minnesota Wild,2,Dan O'Rourke,Shane Heyer,Philadelphia Flyers,Minnesota Wild
+2005020428,Los Angeles Kings,3,Florida Panthers,1,Dan Marouelli,Michael McGeough,Los Angeles Kings,Florida Panthers
+2005020429,Toronto Maple Leafs,1,Dallas Stars,2,Bill McCreary,Greg Kimmerly,Dallas Stars,Toronto Maple Leafs
+2005020430,Montréal Canadiens,3,Anaheim Ducks,5,Paul Devorski,Marc Joannette,Anaheim Ducks,Montréal Canadiens
+2005020431,New York Islanders,2,Edmonton Oilers,2,Chris Lee,Ian Walsh,New York Islanders,Edmonton Oilers
+2005020432,Pittsburgh Penguins,4,Colorado Avalanche,3,Kerry Fraser,Craig Spada,Pittsburgh Penguins,Colorado Avalanche
+2005020433,Tampa Bay Lightning,4,Nashville Predators,3,Dave Jackson,Rob Martell,Tampa Bay Lightning,Nashville Predators
+2005020434,St. Louis Blues,4,New York Rangers,5,Tim Peel,Brad Meier,New York Rangers,St. Louis Blues
+2005020435,Calgary Flames,2,Ottawa Senators,1,Chris Rooney,Brad Watson,Calgary Flames,Ottawa Senators
+2005020436,San Jose Sharks,4,Carolina Hurricanes,3,Mike Leggo,Rob Shick,San Jose Sharks,Carolina Hurricanes
+2005020437,Atlanta Thrashers,4,Chicago Blackhawks,4,Wes McCauley,Dan O'Halloran,Atlanta Thrashers,Chicago Blackhawks
+2005020438,Boston Bruins,1,Phoenix Coyotes,2,Tom Kowal,Dean Warren,Phoenix Coyotes,Boston Bruins
+2005020439,Columbus Blue Jackets,3,New Jersey Devils,2,Kevin Pollock,Gord Dwyer,Columbus Blue Jackets,New Jersey Devils
+2005020440,Minnesota Wild,2,Buffalo Sabres,3,Stephane Auger,Brad Meier,Buffalo Sabres,Minnesota Wild
+2005020441,Toronto Maple Leafs,3,Anaheim Ducks,2,Paul Devorski,Marc Joannette,Toronto Maple Leafs,Anaheim Ducks
+2005020442,Detroit Red Wings,3,Pittsburgh Penguins,1,Craig Spada,Kevin Pollock,Detroit Red Wings,Pittsburgh Penguins
+2005020443,Colorado Avalanche,2,Ottawa Senators,6,Michael McGeough,Brad Watson,Ottawa Senators,Colorado Avalanche
+2005020444,New York Islanders,3,Minnesota Wild,4,Chris Rooney,Dan Marouelli,Minnesota Wild,New York Islanders
+2005020445,New York Rangers,2,Vancouver Canucks,3,Wes McCauley,Dan O'Halloran,Vancouver Canucks,New York Rangers
+2005020446,Carolina Hurricanes,5,Chicago Blackhawks,3,Tom Kowal,Dean Warren,Carolina Hurricanes,Chicago Blackhawks
+2005020447,Atlanta Thrashers,7,Detroit Red Wings,6,Mike Leggo,Rob Martell,Atlanta Thrashers,Detroit Red Wings
+2005020448,Florida Panthers,7,Nashville Predators,3,Kerry Fraser,Blaine Angus,Florida Panthers,Nashville Predators
+2005020449,Columbus Blue Jackets,1,Philadelphia Flyers,3,Tim Peel,Kevin Pollock,Philadelphia Flyers,Columbus Blue Jackets
+2005020450,Montréal Canadiens,5,Phoenix Coyotes,2,Stephane Auger,Francois StLaurent,Montréal Canadiens,Phoenix Coyotes
+2005020451,New Jersey Devils,1,Edmonton Oilers,1,Ian Walsh,Brad Meier,New Jersey Devils,Edmonton Oilers
+2005020452,St. Louis Blues,3,Pittsburgh Penguins,0,Don Koharski,Gord Dwyer,St. Louis Blues,Pittsburgh Penguins
+2005020453,Buffalo Sabres,4,Dallas Stars,3,Paul Devorski,Marc Joannette,Buffalo Sabres,Dallas Stars
+2005020454,Anaheim Ducks,4,Tampa Bay Lightning,2,Dennis LaRue,Brad Watson,Anaheim Ducks,Tampa Bay Lightning
+2005020455,Los Angeles Kings,2,Washington Capitals,3,Kelly Sutherland,Rob Shick,Washington Capitals,Los Angeles Kings
+2005020456,Philadelphia Flyers,4,Vancouver Canucks,5,Kevin Pollock,Dean Warren,Vancouver Canucks,Philadelphia Flyers
+2005020457,Carolina Hurricanes,2,Columbus Blue Jackets,1,Bill McCreary,Craig Spada,Carolina Hurricanes,Columbus Blue Jackets
+2005020458,Ottawa Senators,0,Dallas Stars,2,Stephane Auger,Gord Dwyer,Dallas Stars,Ottawa Senators
+2005020459,New Jersey Devils,2,Atlanta Thrashers,3,Chris Rooney,Dan Marouelli,Atlanta Thrashers,New Jersey Devils
+2005020460,Florida Panthers,3,Detroit Red Wings,2,Kerry Fraser,Blaine Angus,Florida Panthers,Detroit Red Wings
+2005020461,Nashville Predators,5,Chicago Blackhawks,3,Don Koharski,Mike Hasenfratz,Nashville Predators,Chicago Blackhawks
+2005020462,Minnesota Wild,2,Boston Bruins,3,Mike Leggo,Rob Martell,Boston Bruins,Minnesota Wild
+2005020463,Edmonton Oilers,5,Montréal Canadiens,3,Tim Peel,Eric Furlatt,Edmonton Oilers,Montréal Canadiens
+2005020464,Phoenix Coyotes,1,Tampa Bay Lightning,3,Dan O'Rourke,Shane Heyer,Tampa Bay Lightning,Phoenix Coyotes
+2005020465,Pittsburgh Penguins,3,Buffalo Sabres,4,Dave Jackson,Greg Kimmerly,Buffalo Sabres,Pittsburgh Penguins
+2005020466,Chicago Blackhawks,5,St. Louis Blues,1,Rob Martell,Ian Walsh,Chicago Blackhawks,St. Louis Blues
+2005020467,Anaheim Ducks,3,Los Angeles Kings,3,Kelly Sutherland,Rob Shick,Anaheim Ducks,Los Angeles Kings
+2005020468,San Jose Sharks,4,Washington Capitals,1,Dan O'Halloran,Shane Heyer,San Jose Sharks,Washington Capitals
+2005020469,Ottawa Senators,8,Toronto Maple Leafs,2,Marc Joannette,Chris Lee,Ottawa Senators,Toronto Maple Leafs
+2005020470,New York Islanders,5,Colorado Avalanche,4,Bill McCreary,Tom Kowal,New York Islanders,Colorado Avalanche
+2005020471,Carolina Hurricanes,4,New Jersey Devils,1,Dave Jackson,Dan O'Rourke,Carolina Hurricanes,New Jersey Devils
+2005020472,Atlanta Thrashers,2,Florida Panthers,1,Paul Devorski,Ian Walsh,Atlanta Thrashers,Florida Panthers
+2005020473,Buffalo Sabres,4,Pittsburgh Penguins,3,Wes McCauley,Dean Morton,Buffalo Sabres,Pittsburgh Penguins
+2005020474,Tampa Bay Lightning,3,Detroit Red Wings,6,Kerry Fraser,Blaine Angus,Detroit Red Wings,Tampa Bay Lightning
+2005020475,St. Louis Blues,2,Philadelphia Flyers,5,Craig Spada,Kevin Pollock,Philadelphia Flyers,St. Louis Blues
+2005020476,Nashville Predators,7,Columbus Blue Jackets,3,Don Koharski,Mike Hasenfratz,Nashville Predators,Columbus Blue Jackets
+2005020477,Minnesota Wild,4,Montréal Canadiens,3,Chris Rooney,Dennis LaRue,Minnesota Wild,Montréal Canadiens
+2005020478,Calgary Flames,3,Boston Bruins,0,Tim Peel,Eric Furlatt,Calgary Flames,Boston Bruins
+2005020479,Vancouver Canucks,4,Edmonton Oilers,5,Michael McGeough,Brad Meier,Edmonton Oilers,Vancouver Canucks
+2005020481,New York Rangers,1,Colorado Avalanche,2,Dan Marouelli,Greg Kimmerly,Colorado Avalanche,New York Rangers
+2005020482,Washington Capitals,2,Florida Panthers,3,Bill McCreary,Tom Kowal,Florida Panthers,Washington Capitals
+2005020483,Chicago Blackhawks,3,Dallas Stars,5,Chris Rooney,Dennis LaRue,Dallas Stars,Chicago Blackhawks
+2005020484,Anaheim Ducks,5,San Jose Sharks,4,Dan O'Halloran,Shane Heyer,Anaheim Ducks,San Jose Sharks
+2005020485,Philadelphia Flyers,1,Buffalo Sabres,1,Dave Jackson,Greg Kimmerly,Philadelphia Flyers,Buffalo Sabres
+2005020486,Toronto Maple Leafs,9,New York Islanders,6,Paul Devorski,Dennis LaRue,Toronto Maple Leafs,New York Islanders
+2005020487,Minnesota Wild,2,Dallas Stars,1,Don Koharski,Stephane Auger,Minnesota Wild,Dallas Stars
+2005020488,Edmonton Oilers,5,Calgary Flames,4,Michael McGeough,Eric Furlatt,Edmonton Oilers,Calgary Flames
+2005020489,Vancouver Canucks,3,Los Angeles Kings,3,Brad Meier,Steve Kozari,Vancouver Canucks,Los Angeles Kings
+2005020490,New York Rangers,1,New Jersey Devils,3,Marc Joannette,Chris Lee,New Jersey Devils,New York Rangers
+2005020491,Carolina Hurricanes,6,Tampa Bay Lightning,4,Bill McCreary,Gord Dwyer,Carolina Hurricanes,Tampa Bay Lightning
+2005020492,Montréal Canadiens,3,Ottawa Senators,3,Craig Spada,Kevin Pollock,Montréal Canadiens,Ottawa Senators
+2005020493,Detroit Red Wings,3,Columbus Blue Jackets,3,Dan O'Halloran,Stephane Auger,Detroit Red Wings,Columbus Blue Jackets
+2005020494,Nashville Predators,3,Colorado Avalanche,2,Rob Shick,Ian Walsh,Nashville Predators,Colorado Avalanche
+2005020495,Phoenix Coyotes,4,St. Louis Blues,5,Wes McCauley,Mike Hasenfratz,St. Louis Blues,Phoenix Coyotes
+2005020496,San Jose Sharks,4,Anaheim Ducks,2,Kelly Sutherland,Brad Watson,San Jose Sharks,Anaheim Ducks
+2005020497,New York Islanders,4,New Jersey Devils,2,Dan O'Rourke,Francois StLaurent,New York Islanders,New Jersey Devils
+2005020498,Columbus Blue Jackets,3,Dallas Stars,5,Marc Joannette,Chris Lee,Dallas Stars,Columbus Blue Jackets
+2005020499,Chicago Blackhawks,1,Nashville Predators,6,Kerry Fraser,Justin StPierre,Nashville Predators,Chicago Blackhawks
+2005020500,Calgary Flames,2,Los Angeles Kings,5,Brad Meier,Steve Kozari,Los Angeles Kings,Calgary Flames
+2005020501,Vancouver Canucks,6,Edmonton Oilers,7,Tim Peel,Shane Heyer,Edmonton Oilers,Vancouver Canucks
+2005020502,Anaheim Ducks,6,St. Louis Blues,3,Kelly Sutherland,Michael McGeough,Anaheim Ducks,St. Louis Blues
+2005020503,Boston Bruins,4,Toronto Maple Leafs,1,Chris Rooney,Dave Jackson,Boston Bruins,Toronto Maple Leafs
+2005020504,New York Rangers,4,Tampa Bay Lightning,2,Wes McCauley,Kevin Pollock,New York Rangers,Tampa Bay Lightning
+2005020505,Philadelphia Flyers,4,Ottawa Senators,3,Paul Devorski,Stephane Auger,Philadelphia Flyers,Ottawa Senators
+2005020506,Atlanta Thrashers,5,Washington Capitals,5,Ian Walsh,Francois StLaurent,Atlanta Thrashers,Washington Capitals
+2005020507,Florida Panthers,4,Buffalo Sabres,1,Don Koharski,Rob Martell,Florida Panthers,Buffalo Sabres
+2005020508,Colorado Avalanche,4,Minnesota Wild,3,Dennis LaRue,Brad Watson,Colorado Avalanche,Minnesota Wild
+2005020509,Phoenix Coyotes,2,San Jose Sharks,1,Michael McGeough,Mike Hasenfratz,Phoenix Coyotes,San Jose Sharks
+2005020510,Toronto Maple Leafs,2,Boston Bruins,1,Dan Marouelli,Greg Kimmerly,Toronto Maple Leafs,Boston Bruins
+2005020511,New York Islanders,2,Ottawa Senators,4,Paul Devorski,Brian Pochmara,Ottawa Senators,New York Islanders
+2005020512,Washington Capitals,4,Montréal Canadiens,2,Tom Kowal,Kevin Pollock,Washington Capitals,Montréal Canadiens
+2005020513,Carolina Hurricanes,4,Florida Panthers,3,Ian Walsh,Francois StLaurent,Carolina Hurricanes,Florida Panthers
+2005020514,Columbus Blue Jackets,4,Nashville Predators,5,Chris Lee,Dean Warren,Nashville Predators,Columbus Blue Jackets
+2005020515,New Jersey Devils,0,Atlanta Thrashers,1,Chris Rooney,Dave Jackson,Atlanta Thrashers,New Jersey Devils
+2005020516,Pittsburgh Penguins,4,Philadelphia Flyers,5,Craig Spada,Marc Joannette,Philadelphia Flyers,Pittsburgh Penguins
+2005020517,Tampa Bay Lightning,1,Buffalo Sabres,4,Don Koharski,Rob Martell,Buffalo Sabres,Tampa Bay Lightning
+2005020518,Minnesota Wild,5,Colorado Avalanche,3,Dan O'Rourke,Dan O'Halloran,Minnesota Wild,Colorado Avalanche
+2005020519,Chicago Blackhawks,2,Detroit Red Wings,3,Eric Furlatt,Shane Heyer,Detroit Red Wings,Chicago Blackhawks
+2005020520,Dallas Stars,2,Phoenix Coyotes,3,Tim Peel,Brad Watson,Phoenix Coyotes,Dallas Stars
+2005020521,Edmonton Oilers,5,Los Angeles Kings,3,Blaine Angus,Brad Meier,Edmonton Oilers,Los Angeles Kings
+2005020522,Vancouver Canucks,5,Calgary Flames,5,Kelly Sutherland,Michael McGeough,Vancouver Canucks,Calgary Flames
+2005020523,San Jose Sharks,1,St. Louis Blues,1,Mike Leggo,Dennis LaRue,San Jose Sharks,St. Louis Blues
+2005020524,Buffalo Sabres,6,New York Islanders,3,Craig Spada,Kevin Pollock,Buffalo Sabres,New York Islanders
+2005020525,Atlanta Thrashers,4,Montréal Canadiens,0,Dan O'Rourke,Mike Hasenfratz,Atlanta Thrashers,Montréal Canadiens
+2005020526,Florida Panthers,2,Philadelphia Flyers,2,Greg Kimmerly,Rob Martell,Florida Panthers,Philadelphia Flyers
+2005020527,Columbus Blue Jackets,4,Chicago Blackhawks,3,Dan O'Halloran,Justin StPierre,Columbus Blue Jackets,Chicago Blackhawks
+2005020528,Toronto Maple Leafs,2,New Jersey Devils,1,Paul Devorski,Chris Lee,Toronto Maple Leafs,New Jersey Devils
+2005020529,Ottawa Senators,6,New York Rangers,2,Chris Rooney,Bill McCreary,Ottawa Senators,New York Rangers
+2005020530,Tampa Bay Lightning,5,Carolina Hurricanes,4,Wes McCauley,Don Koharski,Tampa Bay Lightning,Carolina Hurricanes
+2005020531,St. Louis Blues,1,Dallas Stars,6,Tim Peel,Dean Warren,Dallas Stars,St. Louis Blues
+2005020532,Colorado Avalanche,7,Phoenix Coyotes,4,Brad Watson,Shane Heyer,Colorado Avalanche,Phoenix Coyotes
+2005020533,Edmonton Oilers,1,Minnesota Wild,4,Michael McGeough,Brad Meier,Minnesota Wild,Edmonton Oilers
+2005020534,Vancouver Canucks,1,Calgary Flames,2,Kelly Sutherland,Dennis LaRue,Calgary Flames,Vancouver Canucks
+2005020535,Los Angeles Kings,4,San Jose Sharks,3,Mike Leggo,Bob Langdon,Los Angeles Kings,San Jose Sharks
+2005020536,Washington Capitals,3,Boston Bruins,4,Marc Joannette,Ian Walsh,Boston Bruins,Washington Capitals
+2005020537,Pittsburgh Penguins,2,Toronto Maple Leafs,3,Kerry Fraser,Tom Kowal,Toronto Maple Leafs,Pittsburgh Penguins
+2005020538,Dallas Stars,1,Detroit Red Wings,4,Tim Peel,Dean Warren,Detroit Red Wings,Dallas Stars
+2005020539,Calgary Flames,3,Nashville Predators,4,Michael McGeough,Brad Meier,Nashville Predators,Calgary Flames
+2005020540,New York Islanders,2,New York Rangers,6,Eric Furlatt,Kevin Pollock,New York Rangers,New York Islanders
+2005020541,Atlanta Thrashers,3,Philadelphia Flyers,4,Wes McCauley,Stephane Auger,Philadelphia Flyers,Atlanta Thrashers
+2005020542,Florida Panthers,6,Boston Bruins,4,Don Koharski,Justin StPierre,Florida Panthers,Boston Bruins
+2005020543,Columbus Blue Jackets,1,Anaheim Ducks,0,Dan O'Halloran,Mike Hasenfratz,Columbus Blue Jackets,Anaheim Ducks
+2005020544,Ottawa Senators,6,Carolina Hurricanes,2,Dave Jackson,Chris Lee,Ottawa Senators,Carolina Hurricanes
+2005020545,New Jersey Devils,7,Washington Capitals,2,Dan Marouelli,Blaine Angus,New Jersey Devils,Washington Capitals
+2005020546,Tampa Bay Lightning,3,Montréal Canadiens,4,Greg Kimmerly,Brad Watson,Montréal Canadiens,Tampa Bay Lightning
+2005020547,Chicago Blackhawks,1,St. Louis Blues,2,Dan O'Rourke,Steve Kozari,St. Louis Blues,Chicago Blackhawks
+2005020548,Colorado Avalanche,3,Los Angeles Kings,5,Tim Peel,Dean Warren,Los Angeles Kings,Colorado Avalanche
+2005020549,Edmonton Oilers,2,Minnesota Wild,4,Kelly Sutherland,Dennis LaRue,Minnesota Wild,Edmonton Oilers
+2005020550,Vancouver Canucks,4,Nashville Predators,3,Mike Leggo,Bob Langdon,Vancouver Canucks,Nashville Predators
+2005020551,San Jose Sharks,4,Phoenix Coyotes,5,Rob Martell,Shane Heyer,Phoenix Coyotes,San Jose Sharks
+2005020552,Carolina Hurricanes,3,Philadelphia Flyers,4,Marc Joannette,Ian Walsh,Philadelphia Flyers,Carolina Hurricanes
+2005020553,Toronto Maple Leafs,3,Buffalo Sabres,3,Paul Devorski,Chris Lee,Toronto Maple Leafs,Buffalo Sabres
+2005020554,Pittsburgh Penguins,6,New Jersey Devils,2,Craig Spada,Kevin Pollock,Pittsburgh Penguins,New Jersey Devils
+2005020555,Dallas Stars,3,St. Louis Blues,0,Dan O'Rourke,Stephane Auger,Dallas Stars,St. Louis Blues
+2005020556,Calgary Flames,4,Minnesota Wild,2,Kelly Sutherland,Dennis LaRue,Calgary Flames,Minnesota Wild
+2005020557,Phoenix Coyotes,6,Los Angeles Kings,5,Kerry Fraser,Tom Kowal,Phoenix Coyotes,Los Angeles Kings
+2005020558,Ottawa Senators,4,New York Islanders,3,Dave Jackson,Eric Furlatt,Ottawa Senators,New York Islanders
+2005020559,Tampa Bay Lightning,1,Boston Bruins,2,Don Koharski,Justin StPierre,Boston Bruins,Tampa Bay Lightning
+2005020560,Florida Panthers,2,Montréal Canadiens,1,Greg Kimmerly,Brad Watson,Florida Panthers,Montréal Canadiens
+2005020561,Buffalo Sabres,4,Atlanta Thrashers,1,Chris Rooney,Dan Marouelli,Buffalo Sabres,Atlanta Thrashers
+2005020562,Chicago Blackhawks,2,Columbus Blue Jackets,3,Dan O'Halloran,Shane Heyer,Columbus Blue Jackets,Chicago Blackhawks
+2005020563,Edmonton Oilers,4,Nashville Predators,2,Mike Leggo,Dennis LaRue,Edmonton Oilers,Nashville Predators
+2005020564,San Jose Sharks,5,Colorado Avalanche,2,Rob Martell,Mike Hasenfratz,San Jose Sharks,Colorado Avalanche
+2005020565,Pittsburgh Penguins,4,New York Rangers,3,Bill McCreary,Craig Spada,Pittsburgh Penguins,New York Rangers
+2005020566,Washington Capitals,3,Philadelphia Flyers,3,Marc Joannette,Ian Walsh,Washington Capitals,Philadelphia Flyers
+2005020567,St. Louis Blues,4,Anaheim Ducks,4,Blaine Angus,Tim Peel,St. Louis Blues,Anaheim Ducks
+2005020568,Minnesota Wild,4,Vancouver Canucks,3,Kelly Sutherland,Michael McGeough,Minnesota Wild,Vancouver Canucks
+2005020569,New Jersey Devils,3,Toronto Maple Leafs,6,Dave Jackson,Eric Furlatt,Toronto Maple Leafs,New Jersey Devils
+2005020570,Detroit Red Wings,5,Columbus Blue Jackets,2,Chris Rooney,Dan Marouelli,Detroit Red Wings,Columbus Blue Jackets
+2005020571,Carolina Hurricanes,5,Montréal Canadiens,3,Paul Devorski,Justin StPierre,Carolina Hurricanes,Montréal Canadiens
+2005020572,Dallas Stars,2,Los Angeles Kings,3,Dan O'Rourke,Stephane Auger,Los Angeles Kings,Dallas Stars
+2005020573,Phoenix Coyotes,2,Colorado Avalanche,5,Kerry Fraser,Tom Kowal,Colorado Avalanche,Phoenix Coyotes
+2005020574,Calgary Flames,6,Edmonton Oilers,5,Mike Leggo,Brad Meier,Calgary Flames,Edmonton Oilers
+2005020575,Washington Capitals,2,Atlanta Thrashers,5,Bill McCreary,Craig Spada,Atlanta Thrashers,Washington Capitals
+2005020576,Buffalo Sabres,1,Florida Panthers,2,Dave Jackson,Dean Warren,Florida Panthers,Buffalo Sabres
+2005020577,Nashville Predators,2,Anaheim Ducks,4,Michael McGeough,Mike Hasenfratz,Anaheim Ducks,Nashville Predators
+2005020578,Boston Bruins,0,Philadelphia Flyers,1,Paul Devorski,Chris Lee,Philadelphia Flyers,Boston Bruins
+2005020579,Calgary Flames,3,Chicago Blackhawks,2,Dan O'Halloran,Shane Heyer,Calgary Flames,Chicago Blackhawks
+2005020580,New York Islanders,1,Tampa Bay Lightning,2,Kevin Pollock,Bob Langdon,Tampa Bay Lightning,New York Islanders
+2005020581,Atlanta Thrashers,8,Ottawa Senators,3,Blaine Angus,Justin StPierre,Atlanta Thrashers,Ottawa Senators
+2005020582,Toronto Maple Leafs,3,Pittsburgh Penguins,2,Wes McCauley,Don Koharski,Toronto Maple Leafs,Pittsburgh Penguins
+2005020583,St. Louis Blues,4,Vancouver Canucks,1,Kerry Fraser,Mike Hasenfratz,St. Louis Blues,Vancouver Canucks
+2005020584,Los Angeles Kings,3,Dallas Stars,2,Tim Peel,Tom Kowal,Los Angeles Kings,Dallas Stars
+2005020585,New York Rangers,0,Tampa Bay Lightning,1,Kevin Pollock,Dean Warren,Tampa Bay Lightning,New York Rangers
+2005020586,Montréal Canadiens,4,Pittsburgh Penguins,6,Wes McCauley,Don Koharski,Pittsburgh Penguins,Montréal Canadiens
+2005020587,New Jersey Devils,3,Florida Panthers,0,Bill McCreary,Ian Walsh,New Jersey Devils,Florida Panthers
+2005020588,Detroit Red Wings,2,Minnesota Wild,4,Mike Leggo,Greg Kimmerly,Minnesota Wild,Detroit Red Wings
+2005020589,Colorado Avalanche,3,Nashville Predators,0,Michael McGeough,Brad Meier,Colorado Avalanche,Nashville Predators
+2005020590,Edmonton Oilers,5,Chicago Blackhawks,0,Dan O'Halloran,Shane Heyer,Edmonton Oilers,Chicago Blackhawks
+2005020591,New York Islanders,4,Florida Panthers,3,Chris Rooney,Brad Watson,New York Islanders,Florida Panthers
+2005020592,Washington Capitals,1,Ottawa Senators,3,Kevin Pollock,Bob Langdon,Ottawa Senators,Washington Capitals
+2005020593,Carolina Hurricanes,4,Atlanta Thrashers,3,Paul Devorski,Chris Lee,Carolina Hurricanes,Atlanta Thrashers
+2005020594,St. Louis Blues,3,Nashville Predators,4,Mike Leggo,Rob Martell,Nashville Predators,St. Louis Blues
+2005020595,Dallas Stars,3,Vancouver Canucks,1,Mike Hasenfratz,Gord Dwyer,Dallas Stars,Vancouver Canucks
+2005020596,Boston Bruins,4,Ottawa Senators,2,Marc Joannette,Ian Walsh,Boston Bruins,Ottawa Senators
+2005020597,Buffalo Sabres,3,Tampa Bay Lightning,1,Dan O'Rourke,Stephane Auger,Buffalo Sabres,Tampa Bay Lightning
+2005020598,New York Rangers,3,Philadelphia Flyers,4,Dan Marouelli,Greg Kimmerly,Philadelphia Flyers,New York Rangers
+2005020599,New Jersey Devils,5,Montréal Canadiens,4,Kerry Fraser,Dean Warren,New Jersey Devils,Montréal Canadiens
+2005020600,Detroit Red Wings,3,St. Louis Blues,0,Wes McCauley,Don Koharski,Detroit Red Wings,St. Louis Blues
+2005020601,Minnesota Wild,2,Colorado Avalanche,4,Brad Meier,Steve Kozari,Colorado Avalanche,Minnesota Wild
+2005020602,Chicago Blackhawks,2,Vancouver Canucks,3,Mike Leggo,Dennis LaRue,Vancouver Canucks,Chicago Blackhawks
+2005020603,Los Angeles Kings,4,Phoenix Coyotes,0,Kelly Sutherland,Michael McGeough,Los Angeles Kings,Phoenix Coyotes
+2005020604,San Jose Sharks,6,Columbus Blue Jackets,3,Dave Jackson,Shane Heyer,San Jose Sharks,Columbus Blue Jackets
+2005020605,Washington Capitals,1,Philadelphia Flyers,3,Chris Rooney,Brad Watson,Philadelphia Flyers,Washington Capitals
+2005020606,Carolina Hurricanes,4,New York Islanders,1,Marc Joannette,Chris Lee,Carolina Hurricanes,New York Islanders
+2005020607,Atlanta Thrashers,6,Pittsburgh Penguins,4,Kevin Pollock,Bob Langdon,Atlanta Thrashers,Pittsburgh Penguins
+2005020608,Nashville Predators,1,Detroit Red Wings,3,Tim Peel,Craig Spada,Detroit Red Wings,Nashville Predators
+2005020609,Dallas Stars,3,Anaheim Ducks,3,Dennis LaRue,Rob Martell,Dallas Stars,Anaheim Ducks
+2005020610,Calgary Flames,1,Toronto Maple Leafs,0,Blaine Angus,Eric Furlatt,Calgary Flames,Toronto Maple Leafs
+2005020611,New York Rangers,4,Florida Panthers,0,Dan Marouelli,Greg Kimmerly,New York Rangers,Florida Panthers
+2005020612,Montréal Canadiens,4,Ottawa Senators,1,Bill McCreary,Tom Kowal,Montréal Canadiens,Ottawa Senators
+2005020613,Colorado Avalanche,2,Columbus Blue Jackets,2,Mike Leggo,Kelly Sutherland,Colorado Avalanche,Columbus Blue Jackets
+2005020614,Boston Bruins,6,Tampa Bay Lightning,3,Kerry Fraser,Dean Warren,Boston Bruins,Tampa Bay Lightning
+2005020615,New York Islanders,0,Carolina Hurricanes,3,Chris Rooney,Brad Watson,Carolina Hurricanes,New York Islanders
+2005020616,Edmonton Oilers,2,Toronto Maple Leafs,3,Blaine Angus,Eric Furlatt,Toronto Maple Leafs,Edmonton Oilers
+2005020617,Buffalo Sabres,2,New Jersey Devils,3,Wes McCauley,Don Koharski,New Jersey Devils,Buffalo Sabres
+2005020618,Pittsburgh Penguins,3,Atlanta Thrashers,4,Dan O'Rourke,Stephane Auger,Atlanta Thrashers,Pittsburgh Penguins
+2005020619,Minnesota Wild,4,Anaheim Ducks,1,Rob Martell,Brad Meier,Minnesota Wild,Anaheim Ducks
+2005020620,Vancouver Canucks,4,Calgary Flames,3,Dan O'Halloran,Steve Kozari,Vancouver Canucks,Calgary Flames
+2005020621,San Jose Sharks,3,Los Angeles Kings,2,Dave Jackson,Michael McGeough,San Jose Sharks,Los Angeles Kings
+2005020622,Washington Capitals,3,Florida Panthers,3,Dan Marouelli,Bob Langdon,Washington Capitals,Florida Panthers
+2005020623,Detroit Red Wings,3,Dallas Stars,6,Marc Joannette,Chris Lee,Dallas Stars,Detroit Red Wings
+2005020624,Chicago Blackhawks,1,Nashville Predators,5,Tim Peel,Craig Spada,Nashville Predators,Chicago Blackhawks
+2005020625,Phoenix Coyotes,2,Columbus Blue Jackets,5,Dave Jackson,Dennis LaRue,Columbus Blue Jackets,Phoenix Coyotes
+2005020626,New Jersey Devils,3,Philadelphia Flyers,0,Dan O'Rourke,Stephane Auger,New Jersey Devils,Philadelphia Flyers
+2005020627,Minnesota Wild,1,Dallas Stars,2,Eric Furlatt,Gord Dwyer,Dallas Stars,Minnesota Wild
+2005020628,Colorado Avalanche,6,St. Louis Blues,1,Dan O'Halloran,Mike Hasenfratz,Colorado Avalanche,St. Louis Blues
+2005020629,Anaheim Ducks,6,Los Angeles Kings,2,Mike Leggo,Shane Heyer,Anaheim Ducks,Los Angeles Kings
+2005020630,Boston Bruins,2,San Jose Sharks,6,Chris Rooney,Francois StLaurent,San Jose Sharks,Boston Bruins
+2005020631,New York Rangers,4,Calgary Flames,2,Paul Devorski,Ian Walsh,New York Rangers,Calgary Flames
+2005020632,Washington Capitals,3,Chicago Blackhawks,4,Dan O'Rourke,Stephane Auger,Chicago Blackhawks,Washington Capitals
+2005020633,Carolina Hurricanes,3,Detroit Red Wings,2,Tim Peel,Craig Spada,Carolina Hurricanes,Detroit Red Wings
+2005020634,Ottawa Senators,7,Phoenix Coyotes,2,Marc Joannette,Chris Lee,Ottawa Senators,Phoenix Coyotes
+2005020635,Pittsburgh Penguins,1,Edmonton Oilers,3,Don VanMassenhoven,Justin StPierre,Edmonton Oilers,Pittsburgh Penguins
+2005020636,Nashville Predators,2,New York Islanders,1,Dave Jackson,Tom Kowal,Nashville Predators,New York Islanders
+2005020637,Vancouver Canucks,4,Toronto Maple Leafs,3,Kelly Sutherland,Brad Watson,Vancouver Canucks,Toronto Maple Leafs
+2005020638,Atlanta Thrashers,3,Nashville Predators,3,Wes McCauley,Don Koharski,Atlanta Thrashers,Nashville Predators
+2005020639,Columbus Blue Jackets,6,Pittsburgh Penguins,1,Don VanMassenhoven,Shane Heyer,Columbus Blue Jackets,Pittsburgh Penguins
+2005020640,Chicago Blackhawks,2,Philadelphia Flyers,5,Bill McCreary,Eric Furlatt,Philadelphia Flyers,Chicago Blackhawks
+2005020641,Colorado Avalanche,2,Montréal Canadiens,1,Dan O'Halloran,Mike Hasenfratz,Colorado Avalanche,Montréal Canadiens
+2005020642,Boston Bruins,0,Los Angeles Kings,6,Kevin Pollock,Dean Warren,Los Angeles Kings,Boston Bruins
+2005020643,Buffalo Sabres,1,Phoenix Coyotes,1,Mike Leggo,Justin StPierre,Buffalo Sabres,Phoenix Coyotes
+2005020644,New York Islanders,3,Calgary Flames,2,Paul Devorski,Ian Walsh,New York Islanders,Calgary Flames
+2005020645,New York Rangers,5,Edmonton Oilers,4,Dan Marouelli,Dan O'Rourke,New York Rangers,Edmonton Oilers
+2005020646,Florida Panthers,3,St. Louis Blues,1,Dennis LaRue,Rob Martell,Florida Panthers,St. Louis Blues
+2005020647,Ottawa Senators,0,San Jose Sharks,2,Stephane Auger,Greg Kimmerly,San Jose Sharks,Ottawa Senators
+2005020648,Detroit Red Wings,6,Philadelphia Flyers,3,Bill McCreary,Tom Kowal,Detroit Red Wings,Philadelphia Flyers
+2005020649,Dallas Stars,4,Washington Capitals,1,Kerry Fraser,Tim Peel,Dallas Stars,Washington Capitals
+2005020650,Carolina Hurricanes,5,Nashville Predators,4,Wes McCauley,Mike Hasenfratz,Carolina Hurricanes,Nashville Predators
+2005020651,Atlanta Thrashers,2,St. Louis Blues,0,Don VanMassenhoven,Shane Heyer,Atlanta Thrashers,St. Louis Blues
+2005020652,New Jersey Devils,3,Vancouver Canucks,0,Mike Leggo,Dan Marouelli,New Jersey Devils,Vancouver Canucks
+2005020653,Tampa Bay Lightning,4,Columbus Blue Jackets,2,Blaine Angus,Rob Martell,Tampa Bay Lightning,Columbus Blue Jackets
+2005020654,Chicago Blackhawks,4,Pittsburgh Penguins,1,Marc Joannette,Brad Meier,Chicago Blackhawks,Pittsburgh Penguins
+2005020655,Anaheim Ducks,2,Washington Capitals,3,Kelly Sutherland,Michael McGeough,Washington Capitals,Anaheim Ducks
+2005020656,Boston Bruins,1,Dallas Stars,1,Craig Spada,Kevin Pollock,Boston Bruins,Dallas Stars
+2005020657,Philadelphia Flyers,3,Colorado Avalanche,4,Don Koharski,Stephane Auger,Colorado Avalanche,Philadelphia Flyers
+2005020658,Detroit Red Wings,4,New York Rangers,3,Kerry Fraser,Dean Warren,Detroit Red Wings,New York Rangers
+2005020659,Toronto Maple Leafs,3,Phoenix Coyotes,4,Bill McCreary,Dan O'Halloran,Phoenix Coyotes,Toronto Maple Leafs
+2005020660,Montréal Canadiens,6,San Jose Sharks,2,Eric Furlatt,Tom Kowal,Montréal Canadiens,San Jose Sharks
+2005020661,New York Islanders,1,Vancouver Canucks,8,Paul Devorski,Ian Walsh,Vancouver Canucks,New York Islanders
+2005020662,Buffalo Sabres,10,Los Angeles Kings,1,Chris Rooney,Greg Kimmerly,Buffalo Sabres,Los Angeles Kings
+2005020663,Florida Panthers,4,Columbus Blue Jackets,5,Blaine Angus,Dennis LaRue,Columbus Blue Jackets,Florida Panthers
+2005020664,Minnesota Wild,1,Calgary Flames,4,Marc Joannette,Brad Meier,Calgary Flames,Minnesota Wild
+2005020665,Edmonton Oilers,3,Ottawa Senators,5,Brad Watson,Chris Lee,Ottawa Senators,Edmonton Oilers
+2005020666,Carolina Hurricanes,4,St. Louis Blues,2,Dan O'Rourke,Mike Hasenfratz,Carolina Hurricanes,St. Louis Blues
+2005020667,Chicago Blackhawks,2,New Jersey Devils,2,Kelly Sutherland,Gord Dwyer,Chicago Blackhawks,New Jersey Devils
+2005020668,Nashville Predators,5,Pittsburgh Penguins,4,Rob Shick,Don VanMassenhoven,Nashville Predators,Pittsburgh Penguins
+2005020669,Boston Bruins,4,Anaheim Ducks,3,Rob Martell,Eric Furlatt,Boston Bruins,Anaheim Ducks
+2005020670,Phoenix Coyotes,1,Washington Capitals,6,Marc Joannette,Brad Meier,Washington Capitals,Phoenix Coyotes
+2005020671,Columbus Blue Jackets,4,New York Rangers,3,Kelly Sutherland,Justin StPierre,Columbus Blue Jackets,New York Rangers
+2005020672,Montréal Canadiens,4,Dallas Stars,2,Dan O'Halloran,Stephane Auger,Montréal Canadiens,Dallas Stars
+2005020673,Pittsburgh Penguins,2,Vancouver Canucks,4,Paul Devorski,Ian Walsh,Vancouver Canucks,Pittsburgh Penguins
+2005020674,Minnesota Wild,1,Ottawa Senators,6,Kerry Fraser,Craig Spada,Ottawa Senators,Minnesota Wild
+2005020675,San Jose Sharks,3,Tampa Bay Lightning,1,Greg Kimmerly,Steve Kozari,San Jose Sharks,Tampa Bay Lightning
+2005020676,Edmonton Oilers,1,Buffalo Sabres,3,Brad Watson,Chris Lee,Buffalo Sabres,Edmonton Oilers
+2005020677,Philadelphia Flyers,3,Carolina Hurricanes,3,Dan Marouelli,Gord Dwyer,Philadelphia Flyers,Carolina Hurricanes
+2005020678,St. Louis Blues,3,New Jersey Devils,5,Eric Furlatt,Francois StLaurent,New Jersey Devils,St. Louis Blues
+2005020679,Chicago Blackhawks,1,New York Islanders,2,Rob Shick,Justin StPierre,New York Islanders,Chicago Blackhawks
+2005020680,Colorado Avalanche,5,Toronto Maple Leafs,3,Chris Rooney,Michael McGeough,Colorado Avalanche,Toronto Maple Leafs
+2005020681,Los Angeles Kings,1,Tampa Bay Lightning,4,Dennis LaRue,Greg Kimmerly,Tampa Bay Lightning,Los Angeles Kings
+2005020682,Columbus Blue Jackets,0,Detroit Red Wings,4,Dan O'Rourke,Ian Walsh,Detroit Red Wings,Columbus Blue Jackets
+2005020683,Minnesota Wild,5,Toronto Maple Leafs,3,Blaine Angus,Tim Peel,Minnesota Wild,Toronto Maple Leafs
+2005020684,Dallas Stars,2,Atlanta Thrashers,5,Craig Spada,Dean Warren,Atlanta Thrashers,Dallas Stars
+2005020685,Philadelphia Flyers,2,Boston Bruins,5,Dave Jackson,Don VanMassenhoven,Boston Bruins,Philadelphia Flyers
+2005020686,Washington Capitals,4,St. Louis Blues,4,Kerry Fraser,Eric Furlatt,Washington Capitals,St. Louis Blues
+2005020687,Carolina Hurricanes,4,New York Islanders,3,Dan O'Halloran,Shane Heyer,Carolina Hurricanes,New York Islanders
+2005020688,Ottawa Senators,3,Anaheim Ducks,3,Bill McCreary,Chris Lee,Ottawa Senators,Anaheim Ducks
+2005020689,Pittsburgh Penguins,2,New York Rangers,4,Dan Marouelli,Francois StLaurent,New York Rangers,Pittsburgh Penguins
+2005020690,Nashville Predators,3,New Jersey Devils,3,Rob Shick,Mike Hasenfratz,Nashville Predators,New Jersey Devils
+2005020691,Chicago Blackhawks,4,Colorado Avalanche,2,Blaine Angus,Tim Peel,Chicago Blackhawks,Colorado Avalanche
+2005020692,Calgary Flames,3,Montréal Canadiens,2,Tom Kowal,Kevin Pollock,Calgary Flames,Montréal Canadiens
+2005020693,Phoenix Coyotes,6,Florida Panthers,3,Michael McGeough,Gord Dwyer,Phoenix Coyotes,Florida Panthers
+2005020694,Vancouver Canucks,4,Buffalo Sabres,1,Marc Joannette,Steve Kozari,Vancouver Canucks,Buffalo Sabres
+2005020695,Los Angeles Kings,8,Atlanta Thrashers,6,Greg Kimmerly,Brad Watson,Los Angeles Kings,Atlanta Thrashers
+2005020696,San Jose Sharks,2,Edmonton Oilers,2,Chris Rooney,Dennis LaRue,San Jose Sharks,Edmonton Oilers
+2005020697,Columbus Blue Jackets,3,St. Louis Blues,3,Mike Leggo,Rob Martell,Columbus Blue Jackets,St. Louis Blues
+2005020698,Minnesota Wild,4,Chicago Blackhawks,1,Craig Spada,Dean Warren,Minnesota Wild,Chicago Blackhawks
+2005020699,Dallas Stars,3,Tampa Bay Lightning,6,Wes McCauley,Don Koharski,Tampa Bay Lightning,Dallas Stars
+2005020700,New Jersey Devils,2,New York Islanders,2,Bill McCreary,Eric Furlatt,New Jersey Devils,New York Islanders
+2005020701,Pittsburgh Penguins,1,Philadelphia Flyers,2,Dave Jackson,Rob Shick,Philadelphia Flyers,Pittsburgh Penguins
+2005020702,Colorado Avalanche,3,Detroit Red Wings,4,Paul Devorski,Kelly Sutherland,Detroit Red Wings,Colorado Avalanche
+2005020703,Los Angeles Kings,3,San Jose Sharks,4,Michael McGeough,Brad Meier,San Jose Sharks,Los Angeles Kings
+2005020704,Boston Bruins,2,New York Rangers,2,Dan Marouelli,Ian Walsh,Boston Bruins,New York Rangers
+2005020705,Ottawa Senators,7,Toronto Maple Leafs,0,Stephane Auger,Don VanMassenhoven,Ottawa Senators,Toronto Maple Leafs
+2005020706,Atlanta Thrashers,0,Tampa Bay Lightning,2,Justin StPierre,Shane Heyer,Tampa Bay Lightning,Atlanta Thrashers
+2005020707,Washington Capitals,5,Carolina Hurricanes,2,Dan O'Rourke,Mike Hasenfratz,Washington Capitals,Carolina Hurricanes
+2005020708,Nashville Predators,7,Columbus Blue Jackets,2,Craig Spada,Dean Warren,Nashville Predators,Columbus Blue Jackets
+2005020709,Calgary Flames,4,Buffalo Sabres,1,Tom Kowal,Kevin Pollock,Calgary Flames,Buffalo Sabres
+2005020710,Phoenix Coyotes,3,Edmonton Oilers,3,Chris Rooney,Brad Watson,Phoenix Coyotes,Edmonton Oilers
+2005020711,Vancouver Canucks,6,Montréal Canadiens,2,Tim Peel,Marc Joannette,Vancouver Canucks,Montréal Canadiens
+2005020712,Anaheim Ducks,1,Florida Panthers,0,Dennis LaRue,Greg Kimmerly,Anaheim Ducks,Florida Panthers
+2005020713,New York Rangers,3,New Jersey Devils,1,Bill McCreary,Justin StPierre,New York Rangers,New Jersey Devils
+2005020714,Chicago Blackhawks,2,Minnesota Wild,3,Dan O'Halloran,Gord Dwyer,Minnesota Wild,Chicago Blackhawks
+2005020715,Philadelphia Flyers,4,Pittsburgh Penguins,2,Dan O'Rourke,Mike Hasenfratz,Philadelphia Flyers,Pittsburgh Penguins
+2005020716,Washington Capitals,2,Boston Bruins,3,Mike Leggo,Dean Morton,Boston Bruins,Washington Capitals
+2005020717,Carolina Hurricanes,7,Montréal Canadiens,3,Stephane Auger,Don VanMassenhoven,Carolina Hurricanes,Montréal Canadiens
+2005020718,Ottawa Senators,4,Toronto Maple Leafs,3,Kelly Sutherland,Ian Walsh,Ottawa Senators,Toronto Maple Leafs
+2005020719,St. Louis Blues,4,Vancouver Canucks,0,Gord Dwyer,Shane Heyer,St. Louis Blues,Vancouver Canucks
+2005020720,Nashville Predators,2,Detroit Red Wings,4,Kelly Sutherland,Ian Walsh,Detroit Red Wings,Nashville Predators
+2005020721,Dallas Stars,4,Phoenix Coyotes,1,Dave Jackson,Paul Devorski,Dallas Stars,Phoenix Coyotes
+2005020723,Los Angeles Kings,2,Anaheim Ducks,2,Michael McGeough,Brad Meier,Los Angeles Kings,Anaheim Ducks
+2005020725,New York Rangers,1,Buffalo Sabres,2,Dan O'Rourke,Kelly Sutherland,Buffalo Sabres,New York Rangers
+2005020726,Atlanta Thrashers,2,Boston Bruins,3,Chris Rooney,Rob Martell,Boston Bruins,Atlanta Thrashers
+2005020727,Columbus Blue Jackets,6,Vancouver Canucks,5,Craig Spada,Tom Kowal,Columbus Blue Jackets,Vancouver Canucks
+2005020728,Tampa Bay Lightning,2,Florida Panthers,3,Wes McCauley,Dan O'Halloran,Florida Panthers,Tampa Bay Lightning
+2005020729,Detroit Red Wings,1,Nashville Predators,2,Don Koharski,Ian Walsh,Nashville Predators,Detroit Red Wings
+2005020730,Minnesota Wild,3,Phoenix Coyotes,2,Mike Hasenfratz,Brian Pochmara,Minnesota Wild,Phoenix Coyotes
+2005020731,Colorado Avalanche,7,Calgary Flames,4,Kerry Fraser,Dennis LaRue,Colorado Avalanche,Calgary Flames
+2005020732,San Jose Sharks,4,Los Angeles Kings,1,Rob Shick,Eric Furlatt,San Jose Sharks,Los Angeles Kings
+2005020733,Philadelphia Flyers,3,Montréal Canadiens,5,Mike Leggo,Greg Kimmerly,Montréal Canadiens,Philadelphia Flyers
+2005020734,Florida Panthers,3,Carolina Hurricanes,3,Wes McCauley,Dave Jackson,Florida Panthers,Carolina Hurricanes
+2005020735,Pittsburgh Penguins,8,Washington Capitals,1,Dean Warren,Justin StPierre,Pittsburgh Penguins,Washington Capitals
+2005020736,Dallas Stars,3,St. Louis Blues,3,Stephane Auger,Don VanMassenhoven,Dallas Stars,St. Louis Blues
+2005020737,Anaheim Ducks,3,Edmonton Oilers,6,Paul Devorski,Rob Shick,Edmonton Oilers,Anaheim Ducks
+2005020738,Boston Bruins,3,Washington Capitals,2,Kelly Sutherland,Gord Dwyer,Boston Bruins,Washington Capitals
+2005020739,New York Islanders,3,Pittsburgh Penguins,3,Ian Walsh,Dean Warren,New York Islanders,Pittsburgh Penguins
+2005020740,Atlanta Thrashers,1,Carolina Hurricanes,5,Dennis LaRue,Rob Martell,Carolina Hurricanes,Atlanta Thrashers
+2005020741,Toronto Maple Leafs,4,Buffalo Sabres,8,Craig Spada,Kevin Pollock,Buffalo Sabres,Toronto Maple Leafs
+2005020742,Ottawa Senators,3,Montréal Canadiens,0,Bill McCreary,Marc Joannette,Ottawa Senators,Montréal Canadiens
+2005020743,Tampa Bay Lightning,1,New Jersey Devils,0,Dave Jackson,Dan O'Halloran,Tampa Bay Lightning,New Jersey Devils
+2005020744,Detroit Red Wings,2,Vancouver Canucks,1,Mike Leggo,Don Koharski,Detroit Red Wings,Vancouver Canucks
+2005020745,St. Louis Blues,3,Phoenix Coyotes,5,Stephane Auger,Don VanMassenhoven,Phoenix Coyotes,St. Louis Blues
+2005020746,Minnesota Wild,5,Nashville Predators,1,Kerry Fraser,Brian Pochmara,Minnesota Wild,Nashville Predators
+2005020747,Chicago Blackhawks,2,Calgary Flames,0,Brad Watson,Tom Kowal,Chicago Blackhawks,Calgary Flames
+2005020748,Colorado Avalanche,2,Dallas Stars,2,Dan Marouelli,Mike Hasenfratz,Colorado Avalanche,Dallas Stars
+2005020749,Los Angeles Kings,3,Edmonton Oilers,5,Chris Rooney,Paul Devorski,Edmonton Oilers,Los Angeles Kings
+2005020750,San Jose Sharks,0,Anaheim Ducks,2,Tim Peel,Eric Furlatt,Anaheim Ducks,San Jose Sharks
+2005020751,Columbus Blue Jackets,4,Minnesota Wild,3,Don Koharski,Greg Kimmerly,Columbus Blue Jackets,Minnesota Wild
+2005020752,Florida Panthers,4,New Jersey Devils,0,Wes McCauley,Dave Jackson,Florida Panthers,New Jersey Devils
+2005020753,Philadelphia Flyers,0,Tampa Bay Lightning,6,Mike Leggo,Dennis LaRue,Tampa Bay Lightning,Philadelphia Flyers
+2005020754,Dallas Stars,1,Detroit Red Wings,1,Tim Peel,Brad Watson,Dallas Stars,Detroit Red Wings
+2005020755,Los Angeles Kings,2,Anaheim Ducks,6,Chris Rooney,Rob Shick,Anaheim Ducks,Los Angeles Kings
+2005020756,Boston Bruins,3,New York Islanders,4,Stephane Auger,Chris Lee,New York Islanders,Boston Bruins
+2005020757,Toronto Maple Leafs,3,Montréal Canadiens,4,Bill McCreary,Dean Warren,Montréal Canadiens,Toronto Maple Leafs
+2005020758,New York Rangers,7,Pittsburgh Penguins,1,Kelly Sutherland,Ian Walsh,New York Rangers,Pittsburgh Penguins
+2005020759,Carolina Hurricanes,4,Atlanta Thrashers,1,Don VanMassenhoven,Brad Meier,Carolina Hurricanes,Atlanta Thrashers
+2005020760,Columbus Blue Jackets,4,Nashville Predators,3,Kerry Fraser,Blaine Angus,Columbus Blue Jackets,Nashville Predators
+2005020761,Phoenix Coyotes,6,San Jose Sharks,2,Craig Spada,Kevin Pollock,Phoenix Coyotes,San Jose Sharks
+2005020762,Colorado Avalanche,3,Vancouver Canucks,3,Dan Marouelli,Dan O'Halloran,Colorado Avalanche,Vancouver Canucks
+2005020763,Washington Capitals,2,Tampa Bay Lightning,1,Dennis LaRue,Rob Martell,Washington Capitals,Tampa Bay Lightning
+2005020764,Chicago Blackhawks,3,Calgary Flames,5,Mike Leggo,Shane Heyer,Calgary Flames,Chicago Blackhawks
+2005020765,Phoenix Coyotes,3,Edmonton Oilers,3,Craig Spada,Kevin Pollock,Phoenix Coyotes,Edmonton Oilers
+2005020766,New York Rangers,2,Philadelphia Flyers,3,Chris Lee,Dean Warren,Philadelphia Flyers,New York Rangers
+2005020767,Florida Panthers,2,Toronto Maple Leafs,4,Don Koharski,Marc Joannette,Toronto Maple Leafs,Florida Panthers
+2005020768,Ottawa Senators,0,Boston Bruins,5,Bill McCreary,Brad Meier,Boston Bruins,Ottawa Senators
+2005020769,St. Louis Blues,2,Calgary Flames,2,Dan O'Rourke,Mike Hasenfratz,St. Louis Blues,Calgary Flames
+2005020770,Minnesota Wild,4,Detroit Red Wings,5,Greg Kimmerly,Shane Heyer,Detroit Red Wings,Minnesota Wild
+2005020771,Dallas Stars,3,San Jose Sharks,2,Kerry Fraser,Blaine Angus,Dallas Stars,San Jose Sharks
+2005020772,Anaheim Ducks,4,Los Angeles Kings,3,Dan Marouelli,Brad Watson,Anaheim Ducks,Los Angeles Kings
+2005020773,New York Islanders,5,Washington Capitals,3,Wes McCauley,Stephane Auger,New York Islanders,Washington Capitals
+2005020774,Atlanta Thrashers,2,Buffalo Sabres,5,Dennis LaRue,Bob Langdon,Buffalo Sabres,Atlanta Thrashers
+2005020775,Montréal Canadiens,2,Carolina Hurricanes,8,Chris Lee,Brad Meier,Carolina Hurricanes,Montréal Canadiens
+2005020776,Tampa Bay Lightning,2,Toronto Maple Leafs,2,Marc Joannette,Justin StPierre,Tampa Bay Lightning,Toronto Maple Leafs
+2005020777,Colorado Avalanche,3,Minnesota Wild,2,Craig Spada,Brad Watson,Colorado Avalanche,Minnesota Wild
+2005020778,Phoenix Coyotes,4,Vancouver Canucks,7,Paul Devorski,Tom Kowal,Vancouver Canucks,Phoenix Coyotes
+2005020779,New York Rangers,3,Pittsburgh Penguins,1,Rob Shick,Brian Pochmara,New York Rangers,Pittsburgh Penguins
+2005020780,New Jersey Devils,5,Ottawa Senators,3,Wes McCauley,Don VanMassenhoven,New Jersey Devils,Ottawa Senators
+2005020781,Detroit Red Wings,3,St. Louis Blues,2,Tim Peel,Kevin Pollock,Detroit Red Wings,St. Louis Blues
+2005020782,Dallas Stars,2,Nashville Predators,1,Dan Marouelli,Blaine Angus,Dallas Stars,Nashville Predators
+2005020783,Calgary Flames,1,Columbus Blue Jackets,1,Dave Jackson,Greg Kimmerly,Calgary Flames,Columbus Blue Jackets
+2005020784,Anaheim Ducks,4,San Jose Sharks,6,Dan O'Rourke,Mike Hasenfratz,San Jose Sharks,Anaheim Ducks
+2005020785,Boston Bruins,3,Montréal Canadiens,1,Chris Lee,Brad Meier,Boston Bruins,Montréal Canadiens
+2005020786,Buffalo Sabres,4,Philadelphia Flyers,2,Don VanMassenhoven,Ian Walsh,Buffalo Sabres,Philadelphia Flyers
+2005020787,New York Islanders,2,New York Rangers,5,Rob Shick,Brian Pochmara,New York Rangers,New York Islanders
+2005020788,Pittsburgh Penguins,2,Ottawa Senators,7,Craig Spada,Eric Furlatt,Ottawa Senators,Pittsburgh Penguins
+2005020789,St. Louis Blues,5,Chicago Blackhawks,5,Tim Peel,Kevin Pollock,St. Louis Blues,Chicago Blackhawks
+2005020790,Nashville Predators,4,Colorado Avalanche,3,Marc Joannette,Shane Heyer,Nashville Predators,Colorado Avalanche
+2005020791,Edmonton Oilers,1,Columbus Blue Jackets,1,Bill McCreary,Dean Warren,Edmonton Oilers,Columbus Blue Jackets
+2005020792,Phoenix Coyotes,1,Los Angeles Kings,1,Dan O'Rourke,Mike Hasenfratz,Phoenix Coyotes,Los Angeles Kings
+2005020793,San Jose Sharks,2,Minnesota Wild,2,Paul Devorski,Tom Kowal,San Jose Sharks,Minnesota Wild
+2005020794,Washington Capitals,4,Toronto Maple Leafs,1,Wes McCauley,Stephane Auger,Washington Capitals,Toronto Maple Leafs
+2005020795,New Jersey Devils,3,Carolina Hurricanes,0,Don Koharski,Dan O'Halloran,New Jersey Devils,Carolina Hurricanes
+2005020796,Florida Panthers,5,Atlanta Thrashers,2,Blaine Angus,Shane Heyer,Florida Panthers,Atlanta Thrashers
+2005020797,Calgary Flames,1,Vancouver Canucks,3,Dave Jackson,Greg Kimmerly,Vancouver Canucks,Calgary Flames
+2005020798,Montréal Canadiens,2,Boston Bruins,0,Kelly Sutherland,Craig Spada,Montréal Canadiens,Boston Bruins
+2005020799,Philadelphia Flyers,3,New York Rangers,4,Don VanMassenhoven,Eric Furlatt,New York Rangers,Philadelphia Flyers
+2005020800,St. Louis Blues,4,Dallas Stars,3,Chris Rooney,Dennis LaRue,St. Louis Blues,Dallas Stars
+2005020801,Nashville Predators,6,Chicago Blackhawks,0,Tim Peel,Chris Lee,Nashville Predators,Chicago Blackhawks
+2005020802,Colorado Avalanche,0,Detroit Red Wings,3,Kevin Pollock,Brad Meier,Detroit Red Wings,Colorado Avalanche
+2005020803,Toronto Maple Leafs,4,New Jersey Devils,2,Mike Leggo,Dan Marouelli,Toronto Maple Leafs,New Jersey Devils
+2005020804,Atlanta Thrashers,6,Florida Panthers,4,Kerry Fraser,Michael McGeough,Atlanta Thrashers,Florida Panthers
+2005020805,Buffalo Sabres,1,Ottawa Senators,1,Rob Shick,Ian Walsh,Buffalo Sabres,Ottawa Senators
+2005020806,Pittsburgh Penguins,4,New York Islanders,4,Brad Watson,Brian Pochmara,Pittsburgh Penguins,New York Islanders
+2005020807,Tampa Bay Lightning,5,Washington Capitals,0,Marc Joannette,Shane Heyer,Tampa Bay Lightning,Washington Capitals
+2005020808,Phoenix Coyotes,4,Minnesota Wild,6,Dan O'Rourke,Mike Hasenfratz,Minnesota Wild,Phoenix Coyotes
+2005020809,Edmonton Oilers,3,Vancouver Canucks,1,Bill McCreary,Dean Warren,Edmonton Oilers,Vancouver Canucks
+2005020810,San Jose Sharks,0,Anaheim Ducks,2,Paul Devorski,Tom Kowal,Anaheim Ducks,San Jose Sharks
+2005020811,Boston Bruins,3,Carolina Hurricanes,3,Wes McCauley,Don Koharski,Boston Bruins,Carolina Hurricanes
+2005020812,Montréal Canadiens,5,Philadelphia Flyers,0,Kelly Sutherland,Craig Spada,Montréal Canadiens,Philadelphia Flyers
+2005020813,New York Islanders,2,Tampa Bay Lightning,3,Rob Shick,Tom Kowal,Tampa Bay Lightning,New York Islanders
+2005020814,Ottawa Senators,5,Pittsburgh Penguins,2,Mike Leggo,Dan Marouelli,Ottawa Senators,Pittsburgh Penguins
+2005020815,Dallas Stars,4,Nashville Predators,2,Chris Rooney,Dennis LaRue,Dallas Stars,Nashville Predators
+2005020816,Edmonton Oilers,5,Anaheim Ducks,5,Dan O'Halloran,Stephane Auger,Edmonton Oilers,Anaheim Ducks
+2005020817,Vancouver Canucks,7,Columbus Blue Jackets,4,Bill McCreary,Dean Warren,Vancouver Canucks,Columbus Blue Jackets
+2005020818,San Jose Sharks,3,Calgary Flames,4,Brad Watson,Rob Martell,Calgary Flames,San Jose Sharks
+2005020819,Washington Capitals,0,Florida Panthers,5,Paul Devorski,Francois StLaurent,Florida Panthers,Washington Capitals
+2005020820,Toronto Maple Leafs,4,Atlanta Thrashers,1,Kelly Sutherland,Don VanMassenhoven,Toronto Maple Leafs,Atlanta Thrashers
+2005020821,Montréal Canadiens,2,Buffalo Sabres,3,Wes McCauley,Don Koharski,Buffalo Sabres,Montréal Canadiens
+2005020822,New Jersey Devils,7,Tampa Bay Lightning,4,Rob Shick,Ian Walsh,New Jersey Devils,Tampa Bay Lightning
+2005020823,Minnesota Wild,5,Los Angeles Kings,1,Blaine Angus,Kevin Pollock,Minnesota Wild,Los Angeles Kings
+2005020824,Colorado Avalanche,5,Edmonton Oilers,2,Dave Jackson,Shane Heyer,Colorado Avalanche,Edmonton Oilers
+2005020825,Phoenix Coyotes,1,Chicago Blackhawks,3,Tim Peel,Eric Furlatt,Chicago Blackhawks,Phoenix Coyotes
+2005020826,New York Rangers,5,Ottawa Senators,1,Michael McGeough,Tom Kowal,New York Rangers,Ottawa Senators
+2005020827,Philadelphia Flyers,5,New York Islanders,2,Greg Kimmerly,Brad Meier,Philadelphia Flyers,New York Islanders
+2005020828,Columbus Blue Jackets,7,Los Angeles Kings,4,Kerry Fraser,Chris Rooney,Columbus Blue Jackets,Los Angeles Kings
+2005020829,Pittsburgh Penguins,1,Boston Bruins,3,Marc Joannette,Chris Lee,Boston Bruins,Pittsburgh Penguins
+2005020830,Detroit Red Wings,6,Nashville Predators,0,Mike Leggo,Kelly Sutherland,Detroit Red Wings,Nashville Predators
+2005020831,Calgary Flames,3,Anaheim Ducks,1,Dan O'Halloran,Stephane Auger,Calgary Flames,Anaheim Ducks
+2005020832,Vancouver Canucks,2,St. Louis Blues,4,Dan O'Rourke,Mike Hasenfratz,St. Louis Blues,Vancouver Canucks
+2005020833,San Jose Sharks,2,Chicago Blackhawks,1,Brad Watson,Rob Martell,San Jose Sharks,Chicago Blackhawks
+2005020834,Boston Bruins,2,New Jersey Devils,3,Michael McGeough,Chris Lee,New Jersey Devils,Boston Bruins
+2005020835,Buffalo Sabres,2,Montréal Canadiens,3,Bill McCreary,Blaine Angus,Montréal Canadiens,Buffalo Sabres
+2005020836,Ottawa Senators,1,Atlanta Thrashers,2,Wes McCauley,Don Koharski,Atlanta Thrashers,Ottawa Senators
+2005020837,Tampa Bay Lightning,5,Carolina Hurricanes,3,Dave Jackson,Shane Heyer,Tampa Bay Lightning,Carolina Hurricanes
+2005020838,Nashville Predators,2,Detroit Red Wings,3,Rob Shick,Ian Walsh,Detroit Red Wings,Nashville Predators
+2005020839,Minnesota Wild,1,Colorado Avalanche,2,Mike Leggo,Justin StPierre,Colorado Avalanche,Minnesota Wild
+2005020840,Phoenix Coyotes,1,Dallas Stars,5,Tim Peel,Eric Furlatt,Dallas Stars,Phoenix Coyotes
+2005020841,New York Rangers,4,Toronto Maple Leafs,2,Dean Warren,Gord Dwyer,New York Rangers,Toronto Maple Leafs
+2005020842,Philadelphia Flyers,5,Washington Capitals,4,Craig Spada,Rob Martell,Philadelphia Flyers,Washington Capitals
+2005020843,Carolina Hurricanes,3,Pittsburgh Penguins,4,Kerry Fraser,Tom Kowal,Pittsburgh Penguins,Carolina Hurricanes
+2005020844,Columbus Blue Jackets,1,Colorado Avalanche,4,Kelly Sutherland,Marc Joannette,Colorado Avalanche,Columbus Blue Jackets
+2005020845,Calgary Flames,3,St. Louis Blues,2,Dan O'Halloran,Stephane Auger,Calgary Flames,St. Louis Blues
+2005020846,Edmonton Oilers,3,Minnesota Wild,6,Chris Rooney,Brad Watson,Minnesota Wild,Edmonton Oilers
+2005020847,Vancouver Canucks,1,Anaheim Ducks,3,Dan O'Rourke,Mike Hasenfratz,Anaheim Ducks,Vancouver Canucks
+2005020848,San Jose Sharks,6,Dallas Stars,3,Greg Kimmerly,Brad Meier,San Jose Sharks,Dallas Stars
+2005020849,New Jersey Devils,1,New York Islanders,2,Rob Shick,Michael McGeough,New York Islanders,New Jersey Devils
+2005020850,Los Angeles Kings,5,Chicago Blackhawks,4,Bill McCreary,Chris Lee,Los Angeles Kings,Chicago Blackhawks
+2005020851,Toronto Maple Leafs,2,New York Rangers,4,Wes McCauley,Don Koharski,New York Rangers,Toronto Maple Leafs
+2005020852,Boston Bruins,5,Tampa Bay Lightning,6,Craig Spada,Ian Walsh,Tampa Bay Lightning,Boston Bruins
+2005020853,Montréal Canadiens,1,Atlanta Thrashers,1,Mike Leggo,Rob Martell,Montréal Canadiens,Atlanta Thrashers
+2005020854,Ottawa Senators,3,Philadelphia Flyers,2,Kevin Pollock,Dean Warren,Ottawa Senators,Philadelphia Flyers
+2005020855,Washington Capitals,3,Pittsburgh Penguins,6,Blaine Angus,Gord Dwyer,Pittsburgh Penguins,Washington Capitals
+2005020856,Buffalo Sabres,5,Florida Panthers,3,Dave Jackson,Marc Joannette,Buffalo Sabres,Florida Panthers
+2005020857,Nashville Predators,5,Columbus Blue Jackets,2,Tim Peel,Eric Furlatt,Nashville Predators,Columbus Blue Jackets
+2005020858,Edmonton Oilers,4,St. Louis Blues,4,Dan O'Halloran,Stephane Auger,Edmonton Oilers,St. Louis Blues
+2005020859,Los Angeles Kings,6,Dallas Stars,5,Dan O'Rourke,Mike Hasenfratz,Los Angeles Kings,Dallas Stars
+2005020860,Carolina Hurricanes,3,Buffalo Sabres,3,Kerry Fraser,Tom Kowal,Carolina Hurricanes,Buffalo Sabres
+2005020861,Detroit Red Wings,6,Colorado Avalanche,3,Mike Leggo,Chris Rooney,Detroit Red Wings,Colorado Avalanche
+2005020862,Phoenix Coyotes,4,San Jose Sharks,5,Greg Kimmerly,Brad Meier,San Jose Sharks,Phoenix Coyotes
+2005020863,Anaheim Ducks,4,Chicago Blackhawks,1,Bill McCreary,Chris Lee,Anaheim Ducks,Chicago Blackhawks
+2005020864,Vancouver Canucks,3,Minnesota Wild,2,Kelly Sutherland,Brad Watson,Vancouver Canucks,Minnesota Wild
+2005020865,New York Islanders,3,Montréal Canadiens,5,Dan O'Rourke,Don Koharski,Montréal Canadiens,New York Islanders
+2005020866,Toronto Maple Leafs,3,Washington Capitals,5,Greg Kimmerly,Brad Watson,Washington Capitals,Toronto Maple Leafs
+2005020867,Tampa Bay Lightning,2,Florida Panthers,8,Mike Leggo,Chris Rooney,Florida Panthers,Tampa Bay Lightning
+2005020868,Colorado Avalanche,4,Minnesota Wild,2,Marc Joannette,Ian Walsh,Colorado Avalanche,Minnesota Wild
+2005020869,Calgary Flames,1,Vancouver Canucks,2,Kerry Fraser,Eric Furlatt,Vancouver Canucks,Calgary Flames
+2005020870,San Jose Sharks,5,Detroit Red Wings,1,Tom Kowal,Dean Warren,San Jose Sharks,Detroit Red Wings
+2005020871,Buffalo Sabres,2,Atlanta Thrashers,4,Craig Spada,Kevin Pollock,Atlanta Thrashers,Buffalo Sabres
+2005020872,Carolina Hurricanes,4,Boston Bruins,3,Blaine Angus,Kelly Sutherland,Carolina Hurricanes,Boston Bruins
+2005020873,New Jersey Devils,1,Philadelphia Flyers,1,Dave Jackson,Rob Martell,New Jersey Devils,Philadelphia Flyers
+2005020874,Pittsburgh Penguins,3,Ottawa Senators,4,Rob Shick,Chris Lee,Ottawa Senators,Pittsburgh Penguins
+2005020875,Chicago Blackhawks,3,Nashville Predators,0,Michael McGeough,Brad Meier,Chicago Blackhawks,Nashville Predators
+2005020876,Edmonton Oilers,2,St. Louis Blues,4,Kerry Fraser,Eric Furlatt,St. Louis Blues,Edmonton Oilers
+2005020877,Anaheim Ducks,0,Detroit Red Wings,2,Tom Kowal,Dean Warren,Detroit Red Wings,Anaheim Ducks
+2005020878,Boston Bruins,3,Atlanta Thrashers,2,Greg Kimmerly,Brad Watson,Boston Bruins,Atlanta Thrashers
+2005020879,New York Islanders,2,New Jersey Devils,2,Rob Shick,Chris Lee,New York Islanders,New Jersey Devils
+2005020880,Philadelphia Flyers,1,New York Rangers,6,Dan O'Rourke,Don Koharski,New York Rangers,Philadelphia Flyers
+2005020881,Florida Panthers,0,Montréal Canadiens,1,Mike Leggo,Chris Rooney,Montréal Canadiens,Florida Panthers
+2005020882,Ottawa Senators,7,Washington Capitals,1,Wes McCauley,Don VanMassenhoven,Ottawa Senators,Washington Capitals
+2005020883,Nashville Predators,3,Vancouver Canucks,1,Kelly Sutherland,Michael McGeough,Nashville Predators,Vancouver Canucks
+2005020884,Colorado Avalanche,1,Columbus Blue Jackets,0,Bill McCreary,Tim Peel,Colorado Avalanche,Columbus Blue Jackets
+2005020885,Calgary Flames,3,St. Louis Blues,1,Dan O'Halloran,Shane Heyer,Calgary Flames,St. Louis Blues
+2005020886,Phoenix Coyotes,6,Dallas Stars,2,Marc Joannette,Ian Walsh,Phoenix Coyotes,Dallas Stars
+2005020887,Los Angeles Kings,3,Minnesota Wild,2,Stephane Auger,Mike Hasenfratz,Los Angeles Kings,Minnesota Wild
+2005020888,Carolina Hurricanes,5,Florida Panthers,2,Craig Spada,Kevin Pollock,Carolina Hurricanes,Florida Panthers
+2005020889,Buffalo Sabres,6,Toronto Maple Leafs,2,Dave Jackson,Rob Martell,Buffalo Sabres,Toronto Maple Leafs
+2005020890,Chicago Blackhawks,4,Vancouver Canucks,4,Blaine Angus,Brad Meier,Chicago Blackhawks,Vancouver Canucks
+2005020891,Edmonton Oilers,3,San Jose Sharks,2,Kerry Fraser,Eric Furlatt,Edmonton Oilers,San Jose Sharks
+2005020892,Anaheim Ducks,4,Minnesota Wild,2,Tom Kowal,Dean Warren,Anaheim Ducks,Minnesota Wild
+2005020893,Los Angeles Kings,3,Columbus Blue Jackets,2,Dan O'Halloran,Shane Heyer,Los Angeles Kings,Columbus Blue Jackets
+2005020894,Boston Bruins,2,Buffalo Sabres,3,Paul Devorski,Chris Lee,Buffalo Sabres,Boston Bruins
+2005020895,Toronto Maple Leafs,2,Ottawa Senators,4,Rob Shick,Don VanMassenhoven,Ottawa Senators,Toronto Maple Leafs
+2005020896,New York Islanders,4,Philadelphia Flyers,2,Dan O'Rourke,Don Koharski,New York Islanders,Philadelphia Flyers
+2005020897,Atlanta Thrashers,3,Washington Capitals,2,Dan Marouelli,Dennis LaRue,Atlanta Thrashers,Washington Capitals
+2005020898,New Jersey Devils,2,New York Rangers,1,Wes McCauley,Michael McGeough,New Jersey Devils,New York Rangers
+2005020899,Pittsburgh Penguins,5,Carolina Hurricanes,7,Greg Kimmerly,Brad Watson,Carolina Hurricanes,Pittsburgh Penguins
+2005020900,Tampa Bay Lightning,2,Montréal Canadiens,6,Mike Leggo,Chris Rooney,Montréal Canadiens,Tampa Bay Lightning
+2005020901,Dallas Stars,5,Colorado Avalanche,3,Marc Joannette,Ian Walsh,Dallas Stars,Colorado Avalanche
+2005020902,Phoenix Coyotes,3,Detroit Red Wings,7,Stephane Auger,Mike Hasenfratz,Detroit Red Wings,Phoenix Coyotes
+2005020903,Calgary Flames,2,San Jose Sharks,0,Bill McCreary,Tim Peel,Calgary Flames,San Jose Sharks
+2005020904,Edmonton Oilers,3,Nashville Predators,2,Tom Kowal,Kevin Pollock,Edmonton Oilers,Nashville Predators
+2005020905,Anaheim Ducks,2,Columbus Blue Jackets,2,Dan O'Halloran,Dean Morton,Anaheim Ducks,Columbus Blue Jackets
+2005020906,Chicago Blackhawks,2,Dallas Stars,7,Dave Jackson,Rob Martell,Dallas Stars,Chicago Blackhawks
+2005020907,Minnesota Wild,5,Colorado Avalanche,3,Blaine Angus,Eric Furlatt,Minnesota Wild,Colorado Avalanche
+2005020908,Vancouver Canucks,1,St. Louis Blues,4,Kerry Fraser,Bill McCreary,St. Louis Blues,Vancouver Canucks
+2005020909,New York Rangers,1,Carolina Hurricanes,2,Paul Devorski,Marc Joannette,Carolina Hurricanes,New York Rangers
+2005020910,Philadelphia Flyers,4,Montréal Canadiens,4,Greg Kimmerly,Rob Martell,Philadelphia Flyers,Montréal Canadiens
+2005020911,Washington Capitals,5,New York Islanders,2,Mike Leggo,Michael McGeough,Washington Capitals,New York Islanders
+2005020912,Atlanta Thrashers,3,Florida Panthers,3,Stephane Auger,Rob Shick,Atlanta Thrashers,Florida Panthers
+2005020913,Tampa Bay Lightning,0,Ottawa Senators,4,Dan Marouelli,Dennis LaRue,Ottawa Senators,Tampa Bay Lightning
+2005020914,Buffalo Sabres,3,Boston Bruins,2,Dan O'Rourke,Greg Kimmerly,Buffalo Sabres,Boston Bruins
+2005020915,New York Islanders,1,New Jersey Devils,1,Paul Devorski,Ian Walsh,New York Islanders,New Jersey Devils
+2005020916,Columbus Blue Jackets,1,Chicago Blackhawks,3,Dave Jackson,Steve Kozari,Chicago Blackhawks,Columbus Blue Jackets
+2005020917,Toronto Maple Leafs,5,Montréal Canadiens,3,Craig Spada,Dean Warren,Toronto Maple Leafs,Montréal Canadiens
+2005020918,Pittsburgh Penguins,4,Tampa Bay Lightning,4,Wes McCauley,Dan O'Halloran,Pittsburgh Penguins,Tampa Bay Lightning
+2005020919,Detroit Red Wings,2,Phoenix Coyotes,5,Blaine Angus,Rob Shick,Phoenix Coyotes,Detroit Red Wings
+2005020920,St. Louis Blues,1,Colorado Avalanche,1,Eric Furlatt,Tom Kowal,St. Louis Blues,Colorado Avalanche
+2005020921,Minnesota Wild,2,Los Angeles Kings,3,Don VanMassenhoven,Shane Heyer,Los Angeles Kings,Minnesota Wild
+2005020922,Calgary Flames,2,Nashville Predators,3,Kerry Fraser,Bill McCreary,Nashville Predators,Calgary Flames
+2005020923,Edmonton Oilers,3,Dallas Stars,3,Kelly Sutherland,Chris Lee,Edmonton Oilers,Dallas Stars
+2005020924,Anaheim Ducks,5,San Jose Sharks,4,Kevin Pollock,Dean Morton,Anaheim Ducks,San Jose Sharks
+2005020925,Philadelphia Flyers,2,Carolina Hurricanes,2,Mike Leggo,Rob Martell,Philadelphia Flyers,Carolina Hurricanes
+2005020926,Washington Capitals,6,Pittsburgh Penguins,3,Dan O'Halloran,Steve Kozari,Washington Capitals,Pittsburgh Penguins
+2005020927,Atlanta Thrashers,2,New York Rangers,2,Don Koharski,Mike Hasenfratz,Atlanta Thrashers,New York Rangers
+2005020928,Boston Bruins,0,Montréal Canadiens,3,Paul Devorski,Brad Meier,Montréal Canadiens,Boston Bruins
+2005020929,Buffalo Sabres,8,Tampa Bay Lightning,5,Kevin Pollock,Brian Pochmara,Buffalo Sabres,Tampa Bay Lightning
+2005020930,Florida Panthers,6,Ottawa Senators,2,Dan Marouelli,Dennis LaRue,Florida Panthers,Ottawa Senators
+2005020931,Columbus Blue Jackets,5,Phoenix Coyotes,4,Rob Shick,Ian Walsh,Columbus Blue Jackets,Phoenix Coyotes
+2005020932,Detroit Red Wings,7,Los Angeles Kings,3,Dave Jackson,Blaine Angus,Detroit Red Wings,Los Angeles Kings
+2005020933,Chicago Blackhawks,1,Colorado Avalanche,2,Don VanMassenhoven,Shane Heyer,Colorado Avalanche,Chicago Blackhawks
+2005020934,Calgary Flames,1,Dallas Stars,0,Kelly Sutherland,Chris Lee,Calgary Flames,Dallas Stars
+2005020935,Vancouver Canucks,2,Nashville Predators,3,Kerry Fraser,Tim Peel,Nashville Predators,Vancouver Canucks
+2005020936,San Jose Sharks,5,Edmonton Oilers,2,Eric Furlatt,Tom Kowal,San Jose Sharks,Edmonton Oilers
+2005020937,New York Islanders,1,Toronto Maple Leafs,1,Chris Rooney,Greg Kimmerly,New York Islanders,Toronto Maple Leafs
+2005020938,Washington Capitals,3,New Jersey Devils,3,Rob Martell,Dean Warren,Washington Capitals,New Jersey Devils
+2005020939,Atlanta Thrashers,1,Ottawa Senators,3,Wes McCauley,Rob Shick,Ottawa Senators,Atlanta Thrashers
+2005020940,St. Louis Blues,2,Minnesota Wild,1,Don VanMassenhoven,Shane Heyer,St. Louis Blues,Minnesota Wild
+2005020941,Philadelphia Flyers,5,Buffalo Sabres,6,Paul Devorski,Marc Joannette,Buffalo Sabres,Philadelphia Flyers
+2005020942,San Jose Sharks,3,Nashville Predators,2,Blaine Angus,Tim Peel,San Jose Sharks,Nashville Predators
+2005020943,Boston Bruins,1,New York Islanders,3,Dave Jackson,Rob Martell,New York Islanders,Boston Bruins
+2005020944,Toronto Maple Leafs,5,Tampa Bay Lightning,1,Chris Lee,Kevin Pollock,Toronto Maple Leafs,Tampa Bay Lightning
+2005020945,Montréal Canadiens,1,New York Rangers,0,Bill McCreary,Eric Furlatt,Montréal Canadiens,New York Rangers
+2005020946,Columbus Blue Jackets,4,Edmonton Oilers,3,Dan O'Rourke,Stephane Auger,Columbus Blue Jackets,Edmonton Oilers
+2005020947,Pittsburgh Penguins,6,New Jersey Devils,3,Brad Meier,Dean Warren,Pittsburgh Penguins,New Jersey Devils
+2005020948,Florida Panthers,4,Carolina Hurricanes,3,Wes McCauley,Dan O'Halloran,Florida Panthers,Carolina Hurricanes
+2005020949,Detroit Red Wings,6,Chicago Blackhawks,4,Don Koharski,Mike Hasenfratz,Detroit Red Wings,Chicago Blackhawks
+2005020950,St. Louis Blues,1,Los Angeles Kings,1,Kerry Fraser,Craig Spada,St. Louis Blues,Los Angeles Kings
+2005020951,Phoenix Coyotes,3,Anaheim Ducks,5,Kelly Sutherland,Ian Walsh,Anaheim Ducks,Phoenix Coyotes
+2005020952,Vancouver Canucks,1,Dallas Stars,2,Mike Leggo,Brad Watson,Dallas Stars,Vancouver Canucks
+2005020953,Washington Capitals,2,Ottawa Senators,5,Chris Rooney,Greg Kimmerly,Ottawa Senators,Washington Capitals
+2005020954,Colorado Avalanche,3,Calgary Flames,0,Rob Shick,Michael McGeough,Colorado Avalanche,Calgary Flames
+2005020955,Buffalo Sabres,6,Boston Bruins,2,Don VanMassenhoven,Shane Heyer,Buffalo Sabres,Boston Bruins
+2005020956,New York Rangers,2,Atlanta Thrashers,3,Marc Joannette,Brad Meier,Atlanta Thrashers,New York Rangers
+2005020957,Florida Panthers,5,Carolina Hurricanes,3,Dan Marouelli,Dennis LaRue,Florida Panthers,Carolina Hurricanes
+2005020958,Chicago Blackhawks,3,Detroit Red Wings,5,Dan Marouelli,Gord Dwyer,Detroit Red Wings,Chicago Blackhawks
+2005020959,Minnesota Wild,4,Edmonton Oilers,3,Don Koharski,Mike Hasenfratz,Minnesota Wild,Edmonton Oilers
+2005020960,Pittsburgh Penguins,2,Philadelphia Flyers,0,Dave Jackson,Steve Kozari,Pittsburgh Penguins,Philadelphia Flyers
+2005020961,Anaheim Ducks,5,Phoenix Coyotes,2,Blaine Angus,Tim Peel,Anaheim Ducks,Phoenix Coyotes
+2005020962,Montréal Canadiens,1,Tampa Bay Lightning,2,Paul Devorski,Chris Lee,Tampa Bay Lightning,Montréal Canadiens
+2005020963,St. Louis Blues,3,Columbus Blue Jackets,2,Dan O'Rourke,Stephane Auger,St. Louis Blues,Columbus Blue Jackets
+2005020964,Dallas Stars,4,Vancouver Canucks,2,Dan Marouelli,Rob Martell,Dallas Stars,Vancouver Canucks
+2005020965,Calgary Flames,4,Colorado Avalanche,3,Mike Leggo,Brad Watson,Calgary Flames,Colorado Avalanche
+2005020966,San Jose Sharks,4,Los Angeles Kings,3,Michael McGeough,Ian Walsh,San Jose Sharks,Los Angeles Kings
+2005020967,Washington Capitals,4,Buffalo Sabres,6,Don VanMassenhoven,Shane Heyer,Buffalo Sabres,Washington Capitals
+2005020968,Carolina Hurricanes,5,New York Rangers,3,Tim Peel,Dean Warren,Carolina Hurricanes,New York Rangers
+2005020969,Toronto Maple Leafs,4,Boston Bruins,4,Dan O'Halloran,Mike Hasenfratz,Toronto Maple Leafs,Boston Bruins
+2005020970,Ottawa Senators,4,Tampa Bay Lightning,3,Paul Devorski,Chris Lee,Ottawa Senators,Tampa Bay Lightning
+2005020971,New Jersey Devils,1,New York Islanders,6,Kerry Fraser,Tom Kowal,New York Islanders,New Jersey Devils
+2005020972,Nashville Predators,5,Vancouver Canucks,0,Eric Furlatt,Kevin Pollock,Nashville Predators,Vancouver Canucks
+2005020973,Minnesota Wild,1,Edmonton Oilers,2,Dan O'Rourke,Stephane Auger,Edmonton Oilers,Minnesota Wild
+2005020974,Los Angeles Kings,2,Phoenix Coyotes,6,Bill McCreary,Blaine Angus,Phoenix Coyotes,Los Angeles Kings
+2005020975,Florida Panthers,0,Philadelphia Flyers,4,Eric Furlatt,Kevin Pollock,Philadelphia Flyers,Florida Panthers
+2005020976,Detroit Red Wings,3,Anaheim Ducks,1,Greg Kimmerly,Michael McGeough,Detroit Red Wings,Anaheim Ducks
+2005020977,Chicago Blackhawks,3,Columbus Blue Jackets,2,Wes McCauley,Don VanMassenhoven,Chicago Blackhawks,Columbus Blue Jackets
+2005020978,Boston Bruins,2,Ottawa Senators,2,Michael McGeough,Shane Heyer,Boston Bruins,Ottawa Senators
+2005020979,Buffalo Sabres,3,Toronto Maple Leafs,1,Dan Marouelli,Justin StPierre,Buffalo Sabres,Toronto Maple Leafs
+2005020980,New York Rangers,5,Washington Capitals,4,Kerry Fraser,Tom Kowal,New York Rangers,Washington Capitals
+2005020981,Atlanta Thrashers,4,New York Islanders,2,Brad Meier,Dean Morton,Atlanta Thrashers,New York Islanders
+2005020982,Montréal Canadiens,1,Carolina Hurricanes,5,Dan O'Halloran,Mike Hasenfratz,Carolina Hurricanes,Montréal Canadiens
+2005020983,New Jersey Devils,2,Pittsburgh Penguins,1,Kelly Sutherland,Francois StLaurent,New Jersey Devils,Pittsburgh Penguins
+2005020984,Nashville Predators,2,Phoenix Coyotes,0,Tim Peel,Dean Warren,Nashville Predators,Phoenix Coyotes
+2005020985,Edmonton Oilers,3,Calgary Flames,2,Chris Rooney,Brad Watson,Edmonton Oilers,Calgary Flames
+2005020986,Los Angeles Kings,1,Dallas Stars,4,Dennis LaRue,Stephane Auger,Dallas Stars,Los Angeles Kings
+2005020987,San Jose Sharks,5,St. Louis Blues,2,Bill McCreary,Craig Spada,San Jose Sharks,St. Louis Blues
+2005020988,Columbus Blue Jackets,2,Vancouver Canucks,3,Marc Joannette,Brad Meier,Vancouver Canucks,Columbus Blue Jackets
+2005020989,Tampa Bay Lightning,6,Philadelphia Flyers,3,Eric Furlatt,Kevin Pollock,Tampa Bay Lightning,Philadelphia Flyers
+2005020990,Florida Panthers,4,New York Islanders,2,Tim Peel,Don VanMassenhoven,Florida Panthers,New York Islanders
+2005020991,Chicago Blackhawks,1,Anaheim Ducks,2,Rob Shick,Dean Morton,Anaheim Ducks,Chicago Blackhawks
+2005020992,Boston Bruins,4,Carolina Hurricanes,2,Kerry Fraser,Blaine Angus,Boston Bruins,Carolina Hurricanes
+2005020993,San Jose Sharks,3,Dallas Stars,3,Don Koharski,Stephane Auger,San Jose Sharks,Dallas Stars
+2005020994,Montréal Canadiens,4,Pittsburgh Penguins,5,Dan O'Halloran,Mike Hasenfratz,Pittsburgh Penguins,Montréal Canadiens
+2005020995,Ottawa Senators,4,Buffalo Sabres,2,Kelly Sutherland,Shane Heyer,Ottawa Senators,Buffalo Sabres
+2005020996,New York Rangers,5,Toronto Maple Leafs,2,Greg Kimmerly,Michael McGeough,New York Rangers,Toronto Maple Leafs
+2005020997,Washington Capitals,3,Florida Panthers,3,Dennis LaRue,Ian Walsh,Washington Capitals,Florida Panthers
+2005020998,Atlanta Thrashers,2,Philadelphia Flyers,4,Dave Jackson,Rob Martell,Philadelphia Flyers,Atlanta Thrashers
+2005020999,Nashville Predators,9,Calgary Flames,4,Rob Shick,Chris Lee,Nashville Predators,Calgary Flames
+2005021000,Edmonton Oilers,3,Detroit Red Wings,3,Mike Leggo,Chris Rooney,Edmonton Oilers,Detroit Red Wings
+2005021001,Los Angeles Kings,3,St. Louis Blues,1,Bill McCreary,Craig Spada,Los Angeles Kings,St. Louis Blues
+2005021002,Chicago Blackhawks,2,Phoenix Coyotes,3,Eric Furlatt,Dean Warren,Phoenix Coyotes,Chicago Blackhawks
+2005021003,Tampa Bay Lightning,5,New York Islanders,2,Tim Peel,Don VanMassenhoven,Tampa Bay Lightning,New York Islanders
+2005021004,Columbus Blue Jackets,3,Anaheim Ducks,4,Michael McGeough,Brad Meier,Anaheim Ducks,Columbus Blue Jackets
+2005021005,Minnesota Wild,2,Calgary Flames,3,Tom Kowal,Kevin Pollock,Calgary Flames,Minnesota Wild
+2005021006,New Jersey Devils,0,Ottawa Senators,4,Dan Marouelli,Dave Jackson,Ottawa Senators,New Jersey Devils
+2005021007,Pittsburgh Penguins,0,Toronto Maple Leafs,1,Wes McCauley,Blaine Angus,Toronto Maple Leafs,Pittsburgh Penguins
+2005021008,San Jose Sharks,6,Colorado Avalanche,5,Paul Devorski,Marc Joannette,San Jose Sharks,Colorado Avalanche
+2005021009,Vancouver Canucks,3,Detroit Red Wings,7,Mike Leggo,Chris Rooney,Detroit Red Wings,Vancouver Canucks
+2005021010,New York Rangers,5,Boston Bruins,2,Kelly Sutherland,Rob Shick,New York Rangers,Boston Bruins
+2005021011,Washington Capitals,2,Montréal Canadiens,4,Brad Watson,Chris Lee,Montréal Canadiens,Washington Capitals
+2005021012,Atlanta Thrashers,5,Buffalo Sabres,0,Dennis LaRue,Greg Kimmerly,Atlanta Thrashers,Buffalo Sabres
+2005021013,Florida Panthers,6,Tampa Bay Lightning,5,Dan O'Rourke,Don VanMassenhoven,Florida Panthers,Tampa Bay Lightning
+2005021014,Nashville Predators,4,St. Louis Blues,2,Michael McGeough,Rob Martell,Nashville Predators,St. Louis Blues
+2005021015,Dallas Stars,1,Anaheim Ducks,2,Bill McCreary,Craig Spada,Anaheim Ducks,Dallas Stars
+2005021016,Los Angeles Kings,0,Colorado Avalanche,5,Don Koharski,Stephane Auger,Colorado Avalanche,Los Angeles Kings
+2005021017,Boston Bruins,4,Atlanta Thrashers,4,Tim Peel,Gord Dwyer,Boston Bruins,Atlanta Thrashers
+2005021018,New York Islanders,3,Montréal Canadiens,1,Dan Marouelli,Dave Jackson,New York Islanders,Montréal Canadiens
+2005021019,Philadelphia Flyers,2,New Jersey Devils,1,Brad Watson,Rob Martell,Philadelphia Flyers,New Jersey Devils
+2005021020,Columbus Blue Jackets,2,Phoenix Coyotes,5,Kerry Fraser,Brian Pochmara,Phoenix Coyotes,Columbus Blue Jackets
+2005021021,Toronto Maple Leafs,3,Carolina Hurricanes,2,Rob Shick,Brad Meier,Toronto Maple Leafs,Carolina Hurricanes
+2005021022,Ottawa Senators,5,Pittsburgh Penguins,2,Mike Leggo,Chris Rooney,Ottawa Senators,Pittsburgh Penguins
+2005021023,Detroit Red Wings,2,Nashville Predators,2,Kelly Sutherland,Ian Walsh,Detroit Red Wings,Nashville Predators
+2005021024,St. Louis Blues,0,San Jose Sharks,6,Blaine Angus,Dean Warren,San Jose Sharks,St. Louis Blues
+2005021025,Minnesota Wild,3,Calgary Flames,1,Dan O'Halloran,Justin StPierre,Minnesota Wild,Calgary Flames
+2005021026,Edmonton Oilers,1,Vancouver Canucks,4,Paul Devorski,Marc Joannette,Vancouver Canucks,Edmonton Oilers
+2005021027,Buffalo Sabres,3,Carolina Hurricanes,4,Dan Marouelli,Brad Meier,Carolina Hurricanes,Buffalo Sabres
+2005021028,New York Rangers,3,Philadelphia Flyers,6,Tim Peel,Don VanMassenhoven,Philadelphia Flyers,New York Rangers
+2005021029,Florida Panthers,3,Washington Capitals,2,Dan O'Rourke,Greg Kimmerly,Florida Panthers,Washington Capitals
+2005021030,Dallas Stars,4,Minnesota Wild,2,Michael McGeough,Chris Lee,Dallas Stars,Minnesota Wild
+2005021031,Anaheim Ducks,5,Colorado Avalanche,4,Don Koharski,Shane Heyer,Anaheim Ducks,Colorado Avalanche
+2005021032,Atlanta Thrashers,6,New Jersey Devils,5,Blaine Angus,Dean Warren,Atlanta Thrashers,New Jersey Devils
+2005021033,Montréal Canadiens,5,Toronto Maple Leafs,1,Mike Leggo,Chris Rooney,Montréal Canadiens,Toronto Maple Leafs
+2005021034,Tampa Bay Lightning,4,Washington Capitals,3,Dan O'Rourke,Mike Hasenfratz,Tampa Bay Lightning,Washington Capitals
+2005021035,Detroit Red Wings,4,San Jose Sharks,0,Rob Shick,Brad Watson,Detroit Red Wings,San Jose Sharks
+2005021036,St. Louis Blues,2,Calgary Flames,7,Wes McCauley,Dan O'Halloran,Calgary Flames,St. Louis Blues
+2005021037,Phoenix Coyotes,4,Chicago Blackhawks,3,Kelly Sutherland,Tom Kowal,Phoenix Coyotes,Chicago Blackhawks
+2005021038,Vancouver Canucks,3,Edmonton Oilers,3,Paul Devorski,Marc Joannette,Vancouver Canucks,Edmonton Oilers
+2005021039,Columbus Blue Jackets,3,Calgary Flames,2,Blaine Angus,Brad Watson,Columbus Blue Jackets,Calgary Flames
+2005021040,New Jersey Devils,4,Boston Bruins,2,Kerry Fraser,Eric Furlatt,New Jersey Devils,Boston Bruins
+2005021041,Pittsburgh Penguins,4,New York Islanders,3,Greg Kimmerly,Craig Spada,Pittsburgh Penguins,New York Islanders
+2005021042,Florida Panthers,2,New York Rangers,2,Don Koharski,Shane Heyer,Florida Panthers,New York Rangers
+2005021043,Buffalo Sabres,1,Ottawa Senators,3,Rob Shick,Kevin Pollock,Ottawa Senators,Buffalo Sabres
+2005021044,Dallas Stars,2,Chicago Blackhawks,2,Dave Jackson,Rob Martell,Dallas Stars,Chicago Blackhawks
+2005021045,Anaheim Ducks,6,Nashville Predators,3,Dennis LaRue,Chris Lee,Anaheim Ducks,Nashville Predators
+2005021046,Boston Bruins,5,Buffalo Sabres,4,Dan O'Halloran,Craig Spada,Boston Bruins,Buffalo Sabres
+2005021047,Montréal Canadiens,6,Toronto Maple Leafs,2,Stephane Auger,Don VanMassenhoven,Montréal Canadiens,Toronto Maple Leafs
+2005021048,New York Islanders,5,Atlanta Thrashers,1,Mike Leggo,Greg Kimmerly,New York Islanders,Atlanta Thrashers
+2005021049,Philadelphia Flyers,6,Ottawa Senators,3,Kerry Fraser,Eric Furlatt,Philadelphia Flyers,Ottawa Senators
+2005021050,Carolina Hurricanes,1,Washington Capitals,3,Dan O'Rourke,Shane Heyer,Washington Capitals,Carolina Hurricanes
+2005021051,Tampa Bay Lightning,3,New York Rangers,3,Mike Hasenfratz,Dean Warren,Tampa Bay Lightning,New York Rangers
+2005021052,Detroit Red Wings,4,Columbus Blue Jackets,4,Wes McCauley,Kevin Pollock,Detroit Red Wings,Columbus Blue Jackets
+2005021053,St. Louis Blues,2,Colorado Avalanche,3,Ian Walsh,Brad Meier,Colorado Avalanche,St. Louis Blues
+2005021054,Minnesota Wild,1,San Jose Sharks,5,Bill McCreary,Dean Morton,San Jose Sharks,Minnesota Wild
+2005021055,Phoenix Coyotes,2,Anaheim Ducks,5,Dave Jackson,Tom Kowal,Anaheim Ducks,Phoenix Coyotes
+2005021056,Vancouver Canucks,2,Edmonton Oilers,3,Paul Devorski,Marc Joannette,Edmonton Oilers,Vancouver Canucks
+2005021057,Los Angeles Kings,6,Nashville Predators,4,Dennis LaRue,Chris Lee,Los Angeles Kings,Nashville Predators
+2005021058,Dallas Stars,3,Calgary Flames,2,Chris Rooney,Rob Shick,Dallas Stars,Calgary Flames
+2005021059,Chicago Blackhawks,4,San Jose Sharks,5,Bill McCreary,Blaine Angus,San Jose Sharks,Chicago Blackhawks
+2005021060,New Jersey Devils,3,Toronto Maple Leafs,4,Tim Peel,Rob Martell,Toronto Maple Leafs,New Jersey Devils
+2005021061,Pittsburgh Penguins,5,Montréal Canadiens,6,Don VanMassenhoven,Justin StPierre,Montréal Canadiens,Pittsburgh Penguins
+2005021062,Colorado Avalanche,3,Edmonton Oilers,3,Kelly Sutherland,Michael McGeough,Colorado Avalanche,Edmonton Oilers
+2005021063,Boston Bruins,3,Florida Panthers,3,Greg Kimmerly,Chris Lee,Boston Bruins,Florida Panthers
+2005021064,New York Rangers,4,Buffalo Sabres,4,Dan Marouelli,Brad Meier,New York Rangers,Buffalo Sabres
+2005021065,Carolina Hurricanes,2,Tampa Bay Lightning,1,Don Koharski,Dennis LaRue,Carolina Hurricanes,Tampa Bay Lightning
+2005021066,St. Louis Blues,1,Detroit Red Wings,4,Craig Spada,Eric Furlatt,Detroit Red Wings,St. Louis Blues
+2005021067,Vancouver Canucks,7,Los Angeles Kings,4,Dave Jackson,Brad Watson,Vancouver Canucks,Los Angeles Kings
+2005021068,Philadelphia Flyers,2,Toronto Maple Leafs,3,Rob Shick,Don VanMassenhoven,Toronto Maple Leafs,Philadelphia Flyers
+2005021069,Columbus Blue Jackets,4,San Jose Sharks,1,Mike Hasenfratz,Steve Kozari,Columbus Blue Jackets,San Jose Sharks
+2005021070,Montréal Canadiens,2,New York Islanders,0,Kerry Fraser,Dean Warren,Montréal Canadiens,New York Islanders
+2005021071,Ottawa Senators,2,New Jersey Devils,2,Michael McGeough,Marc Joannette,Ottawa Senators,New Jersey Devils
+2005021072,Colorado Avalanche,4,Anaheim Ducks,3,Wes McCauley,Dan O'Halloran,Colorado Avalanche,Anaheim Ducks
+2005021073,Edmonton Oilers,2,Minnesota Wild,3,Bill McCreary,Kelly Sutherland,Minnesota Wild,Edmonton Oilers
+2005021074,Phoenix Coyotes,5,Nashville Predators,3,Chris Rooney,Ian Walsh,Phoenix Coyotes,Nashville Predators
+2005021075,Buffalo Sabres,4,Boston Bruins,3,Blaine Angus,Paul Devorski,Buffalo Sabres,Boston Bruins
+2005021076,New York Islanders,1,New York Rangers,5,Craig Spada,Eric Furlatt,New York Rangers,New York Islanders
+2005021077,Carolina Hurricanes,1,Washington Capitals,5,Dan O'Rourke,Tim Peel,Washington Capitals,Carolina Hurricanes
+2005021078,Pittsburgh Penguins,3,Florida Panthers,5,Don VanMassenhoven,Justin StPierre,Florida Panthers,Pittsburgh Penguins
+2005021079,Chicago Blackhawks,3,St. Louis Blues,2,Mike Hasenfratz,Brian Pochmara,Chicago Blackhawks,St. Louis Blues
+2005021080,Dallas Stars,2,Anaheim Ducks,1,Dan Marouelli,Don Koharski,Dallas Stars,Anaheim Ducks
+2005021081,Calgary Flames,2,Los Angeles Kings,1,Mike Leggo,Dave Jackson,Calgary Flames,Los Angeles Kings
+2005021082,Vancouver Canucks,2,Minnesota Wild,1,Dennis LaRue,Tom Kowal,Vancouver Canucks,Minnesota Wild
+2005021083,Montréal Canadiens,3,Washington Capitals,2,Michael McGeough,Marc Joannette,Montréal Canadiens,Washington Capitals
+2005021084,Ottawa Senators,4,New York Rangers,1,Kerry Fraser,Dean Warren,Ottawa Senators,New York Rangers
+2005021085,New Jersey Devils,3,Buffalo Sabres,1,Rob Shick,Don VanMassenhoven,New Jersey Devils,Buffalo Sabres
+2005021086,Tampa Bay Lightning,4,Atlanta Thrashers,3,Dan O'Halloran,Rob Martell,Tampa Bay Lightning,Atlanta Thrashers
+2005021087,Edmonton Oilers,4,Los Angeles Kings,0,Bill McCreary,Tom Kowal,Edmonton Oilers,Los Angeles Kings
+2005021088,San Jose Sharks,2,Phoenix Coyotes,5,Wes McCauley,Chris Rooney,Phoenix Coyotes,San Jose Sharks
+2005021089,New York Islanders,0,Pittsburgh Penguins,4,Blaine Angus,Brian Pochmara,Pittsburgh Penguins,New York Islanders
+2005021090,Carolina Hurricanes,3,Florida Panthers,2,Greg Kimmerly,Brad Watson,Carolina Hurricanes,Florida Panthers
+2005021091,Detroit Red Wings,2,Chicago Blackhawks,3,Stephane Auger,Mike Hasenfratz,Chicago Blackhawks,Detroit Red Wings
+2005021092,St. Louis Blues,2,Columbus Blue Jackets,4,Dennis LaRue,Shane Heyer,Columbus Blue Jackets,St. Louis Blues
+2005021093,Calgary Flames,6,Colorado Avalanche,3,Bill McCreary,Tom Kowal,Calgary Flames,Colorado Avalanche
+2005021094,Vancouver Canucks,1,Minnesota Wild,1,Mike Leggo,Dave Jackson,Vancouver Canucks,Minnesota Wild
+2005021095,Anaheim Ducks,4,Dallas Stars,4,Wes McCauley,Dan Marouelli,Anaheim Ducks,Dallas Stars
+2005021096,Philadelphia Flyers,1,New Jersey Devils,4,Paul Devorski,Ian Walsh,New Jersey Devils,Philadelphia Flyers
+2005021097,Toronto Maple Leafs,7,Buffalo Sabres,0,Don VanMassenhoven,Marc Joannette,Toronto Maple Leafs,Buffalo Sabres
+2005021098,Montréal Canadiens,2,Boston Bruins,0,Kerry Fraser,Craig Spada,Montréal Canadiens,Boston Bruins
+2005021099,Ottawa Senators,0,Washington Capitals,1,Stephane Auger,Michael McGeough,Washington Capitals,Ottawa Senators
+2005021100,Atlanta Thrashers,5,Carolina Hurricanes,2,Tim Peel,Dean Warren,Atlanta Thrashers,Carolina Hurricanes
+2005021101,Columbus Blue Jackets,5,Chicago Blackhawks,2,Rob Martell,Brian Pochmara,Columbus Blue Jackets,Chicago Blackhawks
+2005021102,Florida Panthers,4,Tampa Bay Lightning,2,Dan O'Rourke,Brad Watson,Florida Panthers,Tampa Bay Lightning
+2005021103,Nashville Predators,2,St. Louis Blues,1,Kelly Sutherland,Greg Kimmerly,Nashville Predators,St. Louis Blues
+2005021104,Edmonton Oilers,1,Calgary Flames,4,Dave Jackson,Brad Meier,Calgary Flames,Edmonton Oilers
+2005021105,Los Angeles Kings,1,Dallas Stars,0,Don Koharski,Dan O'Halloran,Los Angeles Kings,Dallas Stars
+2005021106,San Jose Sharks,3,Phoenix Coyotes,4,Wes McCauley,Dan Marouelli,Phoenix Coyotes,San Jose Sharks
+2005021108,Minnesota Wild,2,Detroit Red Wings,3,Bill McCreary,Tom Kowal,Detroit Red Wings,Minnesota Wild
+2005021109,Pittsburgh Penguins,2,New Jersey Devils,3,Blaine Angus,Eric Furlatt,New Jersey Devils,Pittsburgh Penguins
+2005021110,Anaheim Ducks,6,Vancouver Canucks,2,Mike Leggo,Rob Shick,Anaheim Ducks,Vancouver Canucks
+2005021111,Carolina Hurricanes,6,Washington Capitals,5,Rob Martell,Chris Lee,Carolina Hurricanes,Washington Capitals
+2005021112,Toronto Maple Leafs,2,Buffalo Sabres,2,Dennis LaRue,Craig Spada,Toronto Maple Leafs,Buffalo Sabres
+2005021113,Ottawa Senators,6,Atlanta Thrashers,4,Greg Kimmerly,Don VanMassenhoven,Ottawa Senators,Atlanta Thrashers
+2005021114,Tampa Bay Lightning,4,Florida Panthers,1,Chris Rooney,Brad Watson,Tampa Bay Lightning,Florida Panthers
+2005021115,Nashville Predators,1,Columbus Blue Jackets,3,Dan O'Rourke,Mike Hasenfratz,Columbus Blue Jackets,Nashville Predators
+2005021116,Dallas Stars,2,San Jose Sharks,3,Tim Peel,Kevin Pollock,San Jose Sharks,Dallas Stars
+2005021117,Colorado Avalanche,4,Chicago Blackhawks,3,Dan O'Halloran,Marc Joannette,Colorado Avalanche,Chicago Blackhawks
+2005021118,Calgary Flames,1,Detroit Red Wings,1,Dan Marouelli,Paul Devorski,Calgary Flames,Detroit Red Wings
+2005021119,Edmonton Oilers,7,Phoenix Coyotes,1,Wes McCauley,Dave Jackson,Edmonton Oilers,Phoenix Coyotes
+2005021120,Los Angeles Kings,1,Vancouver Canucks,0,Don Koharski,Michael McGeough,Los Angeles Kings,Vancouver Canucks
+2005021121,New York Rangers,2,Philadelphia Flyers,2,Kerry Fraser,Shane Heyer,New York Rangers,Philadelphia Flyers
+2005021122,Montréal Canadiens,5,Boston Bruins,3,Stephane Auger,Don VanMassenhoven,Montréal Canadiens,Boston Bruins
+2005021123,Minnesota Wild,4,St. Louis Blues,4,Blaine Angus,Eric Furlatt,Minnesota Wild,St. Louis Blues
+2005021124,Anaheim Ducks,6,Los Angeles Kings,2,Mike Leggo,Michael McGeough,Anaheim Ducks,Los Angeles Kings
+2005021125,Buffalo Sabres,5,Ottawa Senators,4,Chris Lee,Kevin Pollock,Buffalo Sabres,Ottawa Senators
+2005021126,Washington Capitals,3,Carolina Hurricanes,3,Dean Warren,Francois StLaurent,Washington Capitals,Carolina Hurricanes
+2005021127,Florida Panthers,2,Atlanta Thrashers,5,Chris Rooney,Rob Shick,Atlanta Thrashers,Florida Panthers
+2005021128,Toronto Maple Leafs,3,New York Islanders,2,Bill McCreary,Craig Spada,Toronto Maple Leafs,New York Islanders
+2005021129,New Jersey Devils,6,Pittsburgh Penguins,4,Greg Kimmerly,Shane Heyer,New Jersey Devils,Pittsburgh Penguins
+2005021130,Chicago Blackhawks,4,Nashville Predators,3,Blaine Angus,Brad Watson,Chicago Blackhawks,Nashville Predators
+2005021131,Colorado Avalanche,1,San Jose Sharks,2,Dan Marouelli,Brad Meier,San Jose Sharks,Colorado Avalanche
+2005021132,Calgary Flames,5,Phoenix Coyotes,2,Paul Devorski,Dennis LaRue,Calgary Flames,Phoenix Coyotes
+2005021133,Boston Bruins,2,Toronto Maple Leafs,2,Greg Kimmerly,Chris Lee,Boston Bruins,Toronto Maple Leafs
+2005021134,New York Rangers,3,New York Islanders,1,Stephane Auger,Mike Hasenfratz,New York Rangers,New York Islanders
+2005021135,Ottawa Senators,3,Montréal Canadiens,5,Bill McCreary,Craig Spada,Montréal Canadiens,Ottawa Senators
+2005021136,Tampa Bay Lightning,2,Atlanta Thrashers,2,Rob Shick,Tim Peel,Tampa Bay Lightning,Atlanta Thrashers
+2005021137,St. Louis Blues,0,Nashville Predators,3,Marc Joannette,Gord Dwyer,Nashville Predators,St. Louis Blues
+2005021138,Minnesota Wild,1,Edmonton Oilers,1,Dan O'Rourke,Don VanMassenhoven,Minnesota Wild,Edmonton Oilers
+2005021139,Anaheim Ducks,3,Dallas Stars,5,Kelly Sutherland,Brad Meier,Dallas Stars,Anaheim Ducks
+2005021140,Los Angeles Kings,0,San Jose Sharks,5,Mike Leggo,Michael McGeough,San Jose Sharks,Los Angeles Kings
+2005021141,Washington Capitals,3,Carolina Hurricanes,4,Blaine Angus,Kevin Pollock,Carolina Hurricanes,Washington Capitals
+2005021142,Florida Panthers,1,Pittsburgh Penguins,5,Rob Shick,Tim Peel,Pittsburgh Penguins,Florida Panthers
+2005021143,Detroit Red Wings,5,Columbus Blue Jackets,5,Don VanMassenhoven,Shane Heyer,Detroit Red Wings,Columbus Blue Jackets
+2005021144,Buffalo Sabres,2,Philadelphia Flyers,4,Brad Watson,Eric Furlatt,Philadelphia Flyers,Buffalo Sabres
+2005021145,Chicago Blackhawks,3,Edmonton Oilers,4,Paul Devorski,Dean Warren,Edmonton Oilers,Chicago Blackhawks
+2005021146,Calgary Flames,2,Minnesota Wild,1,Dan Marouelli,Dennis LaRue,Calgary Flames,Minnesota Wild
+2005021147,Boston Bruins,3,New York Rangers,4,Chris Lee,Tom Kowal,New York Rangers,Boston Bruins
+2005021148,Colorado Avalanche,4,St. Louis Blues,2,Mike Leggo,Michael McGeough,Colorado Avalanche,St. Louis Blues
+2005021149,Los Angeles Kings,2,Anaheim Ducks,4,Kelly Sutherland,Brad Meier,Anaheim Ducks,Los Angeles Kings
+2005021150,Montréal Canadiens,2,New Jersey Devils,3,Bill McCreary,Greg Kimmerly,New Jersey Devils,Montréal Canadiens
+2005021151,Ottawa Senators,2,Buffalo Sabres,6,Eric Furlatt,Dean Warren,Buffalo Sabres,Ottawa Senators
+2005021152,New York Islanders,5,Washington Capitals,0,Stephane Auger,Shane Heyer,New York Islanders,Washington Capitals
+2005021153,Philadelphia Flyers,2,Toronto Maple Leafs,5,Dave Jackson,Marc Joannette,Toronto Maple Leafs,Philadelphia Flyers
+2005021154,Atlanta Thrashers,5,Carolina Hurricanes,2,Kerry Fraser,Craig Spada,Atlanta Thrashers,Carolina Hurricanes
+2005021155,Columbus Blue Jackets,2,Detroit Red Wings,4,Rob Martell,Ian Walsh,Detroit Red Wings,Columbus Blue Jackets
+2005021156,Tampa Bay Lightning,1,Pittsburgh Penguins,0,Wes McCauley,Don Koharski,Tampa Bay Lightning,Pittsburgh Penguins
+2005021157,Nashville Predators,1,Chicago Blackhawks,1,Chris Rooney,Paul Devorski,Nashville Predators,Chicago Blackhawks
+2005021158,Vancouver Canucks,3,Calgary Flames,2,Dan Marouelli,Dennis LaRue,Vancouver Canucks,Calgary Flames
+2005021159,Phoenix Coyotes,2,Dallas Stars,2,Dan O'Rourke,Mike Hasenfratz,Phoenix Coyotes,Dallas Stars
+2005021160,Florida Panthers,6,Tampa Bay Lightning,3,Wes McCauley,Tim Peel,Florida Panthers,Tampa Bay Lightning
+2005021161,St. Louis Blues,2,Edmonton Oilers,1,Ian Walsh,Steve Kozari,St. Louis Blues,Edmonton Oilers
+2005021162,New Jersey Devils,3,New York Rangers,2,Rob Shick,Justin StPierre,New Jersey Devils,New York Rangers
+2005021163,San Jose Sharks,4,Dallas Stars,1,Kelly Sutherland,Brad Meier,San Jose Sharks,Dallas Stars
+2005021164,Colorado Avalanche,2,Minnesota Wild,5,Dan O'Rourke,Don VanMassenhoven,Minnesota Wild,Colorado Avalanche
+2005021165,Boston Bruins,1,Washington Capitals,2,Blaine Angus,Tom Kowal,Washington Capitals,Boston Bruins
+2005021166,Montréal Canadiens,3,Ottawa Senators,2,Don Koharski,Kevin Pollock,Montréal Canadiens,Ottawa Senators
+2005021167,Vancouver Canucks,2,Anaheim Ducks,4,Dan O'Halloran,Mike Hasenfratz,Anaheim Ducks,Vancouver Canucks
+2005021168,Phoenix Coyotes,2,San Jose Sharks,3,Michael McGeough,Brad Meier,San Jose Sharks,Phoenix Coyotes
+2005021169,New York Rangers,2,New York Islanders,3,Chris Rooney,Paul Devorski,New York Islanders,New York Rangers
+2005021170,Philadelphia Flyers,4,Pittsburgh Penguins,3,Rob Shick,Chris Lee,Philadelphia Flyers,Pittsburgh Penguins
+2005021171,Carolina Hurricanes,3,New Jersey Devils,4,Dave Jackson,Marc Joannette,New Jersey Devils,Carolina Hurricanes
+2005021172,Toronto Maple Leafs,6,Florida Panthers,5,Dan Marouelli,Greg Kimmerly,Toronto Maple Leafs,Florida Panthers
+2005021173,Ottawa Senators,4,Boston Bruins,3,Craig Spada,Kevin Pollock,Ottawa Senators,Boston Bruins
+2005021174,Tampa Bay Lightning,2,Atlanta Thrashers,6,Kerry Fraser,Eric Furlatt,Atlanta Thrashers,Tampa Bay Lightning
+2005021175,Detroit Red Wings,2,Edmonton Oilers,0,Tim Peel,Don VanMassenhoven,Detroit Red Wings,Edmonton Oilers
+2005021176,St. Louis Blues,0,Nashville Predators,2,Kelly Sutherland,Steve Kozari,Nashville Predators,St. Louis Blues
+2005021177,Minnesota Wild,2,Chicago Blackhawks,0,Rob Martell,Gord Dwyer,Minnesota Wild,Chicago Blackhawks
+2005021178,Dallas Stars,3,Columbus Blue Jackets,2,Dan O'Rourke,Dean Warren,Dallas Stars,Columbus Blue Jackets
+2005021179,Colorado Avalanche,6,Phoenix Coyotes,4,Dennis LaRue,Ian Walsh,Colorado Avalanche,Phoenix Coyotes
+2005021180,Calgary Flames,3,Anaheim Ducks,0,Brad Watson,Mike Hasenfratz,Calgary Flames,Anaheim Ducks
+2005021181,Buffalo Sabres,3,Montréal Canadiens,1,Dan Marouelli,Don Koharski,Buffalo Sabres,Montréal Canadiens
+2005021182,Vancouver Canucks,4,San Jose Sharks,5,Bill McCreary,Dan O'Halloran,San Jose Sharks,Vancouver Canucks
+2005021183,Boston Bruins,3,Montréal Canadiens,4,Tim Peel,Don VanMassenhoven,Montréal Canadiens,Boston Bruins
+2005021184,New York Islanders,3,Toronto Maple Leafs,4,Dave Jackson,Ian Walsh,Toronto Maple Leafs,New York Islanders
+2005021185,Atlanta Thrashers,5,Washington Capitals,3,Michael McGeough,Tom Kowal,Atlanta Thrashers,Washington Capitals
+2005021186,Columbus Blue Jackets,4,St. Louis Blues,1,Chris Rooney,Shane Heyer,Columbus Blue Jackets,St. Louis Blues
+2005021187,Ottawa Senators,4,Florida Panthers,5,Greg Kimmerly,Chris Lee,Florida Panthers,Ottawa Senators
+2005021188,New Jersey Devils,4,Philadelphia Flyers,1,Wes McCauley,Don Koharski,New Jersey Devils,Philadelphia Flyers
+2005021189,Pittsburgh Penguins,5,New York Rangers,3,Blaine Angus,Eric Furlatt,Pittsburgh Penguins,New York Rangers
+2005021190,Nashville Predators,4,Minnesota Wild,2,Craig Spada,Rob Martell,Nashville Predators,Minnesota Wild
+2005021191,Chicago Blackhawks,3,Detroit Red Wings,7,Rob Shick,Steve Kozari,Detroit Red Wings,Chicago Blackhawks
+2005021192,Calgary Flames,2,Colorado Avalanche,0,Brad Watson,Dean Warren,Calgary Flames,Colorado Avalanche
+2005021193,Edmonton Oilers,2,Anaheim Ducks,1,Bill McCreary,Kelly Sutherland,Edmonton Oilers,Anaheim Ducks
+2005021194,Phoenix Coyotes,3,Los Angeles Kings,0,Dan O'Rourke,Brad Meier,Phoenix Coyotes,Los Angeles Kings
+2005021195,San Jose Sharks,5,Vancouver Canucks,3,Paul Devorski,Marc Joannette,San Jose Sharks,Vancouver Canucks
+2005021196,Carolina Hurricanes,4,Tampa Bay Lightning,4,Rob Shick,Kevin Pollock,Carolina Hurricanes,Tampa Bay Lightning
+2005021197,Philadelphia Flyers,4,New York Rangers,1,Kerry Fraser,Dave Jackson,Philadelphia Flyers,New York Rangers
+2005021198,St. Louis Blues,2,Detroit Red Wings,3,Stephane Auger,Brad Meier,Detroit Red Wings,St. Louis Blues
+2005021199,Dallas Stars,4,Minnesota Wild,3,Dennis LaRue,Tom Kowal,Dallas Stars,Minnesota Wild
+2005021200,San Jose Sharks,6,Anaheim Ducks,3,Brad Watson,Dean Warren,San Jose Sharks,Anaheim Ducks
+2005021201,Toronto Maple Leafs,5,Ottawa Senators,1,Don Koharski,Don VanMassenhoven,Toronto Maple Leafs,Ottawa Senators
+2005021202,Montréal Canadiens,2,Buffalo Sabres,4,Dan Marouelli,Greg Kimmerly,Buffalo Sabres,Montréal Canadiens
+2005021203,New York Islanders,4,Pittsburgh Penguins,4,Wes McCauley,Craig Spada,New York Islanders,Pittsburgh Penguins
+2005021204,Atlanta Thrashers,4,Boston Bruins,3,Mike Leggo,Michael McGeough,Atlanta Thrashers,Boston Bruins
+2005021205,Columbus Blue Jackets,5,Chicago Blackhawks,2,Rob Martell,Shane Heyer,Columbus Blue Jackets,Chicago Blackhawks
+2005021206,Tampa Bay Lightning,3,Carolina Hurricanes,2,Eric Furlatt,Kevin Pollock,Tampa Bay Lightning,Carolina Hurricanes
+2005021207,Florida Panthers,1,Washington Capitals,1,Ian Walsh,Mike Hasenfratz,Florida Panthers,Washington Capitals
+2005021208,Nashville Predators,5,Phoenix Coyotes,1,Chris Rooney,Rob Shick,Nashville Predators,Phoenix Coyotes
+2005021209,Vancouver Canucks,4,Colorado Avalanche,3,Bill McCreary,Kelly Sutherland,Vancouver Canucks,Colorado Avalanche
+2005021210,Los Angeles Kings,1,Calgary Flames,1,Paul Devorski,Marc Joannette,Los Angeles Kings,Calgary Flames
+2005021212,Buffalo Sabres,6,Toronto Maple Leafs,0,Blaine Angus,Don Koharski,Buffalo Sabres,Toronto Maple Leafs
+2005021213,Chicago Blackhawks,4,Columbus Blue Jackets,3,Tom Kowal,Justin StPierre,Chicago Blackhawks,Columbus Blue Jackets
+2005021214,St. Louis Blues,0,Phoenix Coyotes,3,Stephane Auger,Chris Lee,Phoenix Coyotes,St. Louis Blues
+2005021215,Washington Capitals,6,Atlanta Thrashers,4,Rob Shick,Brad Meier,Washington Capitals,Atlanta Thrashers
+2005021216,Pittsburgh Penguins,6,New York Islanders,1,Rob Martell,Shane Heyer,Pittsburgh Penguins,New York Islanders
+2005021217,Detroit Red Wings,3,Dallas Stars,2,Wes McCauley,Dan Marouelli,Detroit Red Wings,Dallas Stars
+2005021218,Edmonton Oilers,4,Colorado Avalanche,2,Dennis LaRue,Michael McGeough,Edmonton Oilers,Colorado Avalanche
+2005021219,Anaheim Ducks,4,Calgary Flames,3,Paul Devorski,Marc Joannette,Anaheim Ducks,Calgary Flames
+2005021220,San Jose Sharks,0,Los Angeles Kings,4,Dean Warren,Steve Kozari,Los Angeles Kings,San Jose Sharks
+2005021221,New York Islanders,1,Philadelphia Flyers,4,Rob Martell,Ian Walsh,Philadelphia Flyers,New York Islanders
+2005021222,New York Rangers,1,Ottawa Senators,5,Dan Marouelli,Dave Jackson,Ottawa Senators,New York Rangers
+2005021223,Carolina Hurricanes,0,Buffalo Sabres,4,Mike Leggo,Dan O'Halloran,Buffalo Sabres,Carolina Hurricanes
+2005021224,Florida Panthers,2,Atlanta Thrashers,1,Don Koharski,Rob Shick,Florida Panthers,Atlanta Thrashers
+2005021225,Columbus Blue Jackets,5,Dallas Stars,4,Chris Lee,Justin StPierre,Columbus Blue Jackets,Dallas Stars
+2005021226,Toronto Maple Leafs,5,Pittsburgh Penguins,3,Wes McCauley,Craig Spada,Toronto Maple Leafs,Pittsburgh Penguins
+2005021227,Montréal Canadiens,3,New Jersey Devils,4,Don VanMassenhoven,Kevin Pollock,New Jersey Devils,Montréal Canadiens
+2005021228,Tampa Bay Lightning,1,Washington Capitals,4,Chris Rooney,Tim Peel,Washington Capitals,Tampa Bay Lightning
+2005021229,Nashville Predators,6,Detroit Red Wings,3,Kerry Fraser,Dan O'Rourke,Nashville Predators,Detroit Red Wings
+2005021230,Chicago Blackhawks,3,St. Louis Blues,2,Tom Kowal,Shane Heyer,Chicago Blackhawks,St. Louis Blues

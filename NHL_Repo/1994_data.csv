@@ -1,0 +1,625 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+1994020001,New York Rangers,1,Buffalo Sabres,2,Bill McCreary,Kevin Collins,Buffalo Sabres,New York Rangers
+1994020002,Tampa Bay Lightning,3,Pittsburgh Penguins,5,Dave Jackson,Gordon Broseker,Pittsburgh Penguins,Tampa Bay Lightning
+1994020003,Detroit Red Wings,4,Chicago Blackhawks,1,Faucette,G. Devorski,Detroit Red Wings,Chicago Blackhawks
+1994020004,Winnipeg Jets (1979),3,Calgary Flames,3,Kerry Fraser,Mike Cvik,Winnipeg Jets (1979),Calgary Flames
+1994020005,Edmonton Oilers,2,Anaheim Ducks,1,Richard Trottier,Andy McElman,Edmonton Oilers,Anaheim Ducks
+1994020006,Vancouver Canucks,1,Dallas Stars,1,Devorsky,Wayne Bonney,Vancouver Canucks,Dallas Stars
+1994020007,San Jose Sharks,2,St. Louis Blues,5,McGeough,McCourt,St. Louis Blues,San Jose Sharks
+1994020008,Los Angeles Kings,3,Toronto Maple Leafs,3,Don Koharski,Ron Asselstine,Los Angeles Kings,Toronto Maple Leafs
+1994020009,Hartford Whalers,1,Washington Capitals,1,Paul Stewart,Pierre Champoux,Hartford Whalers,Washington Capitals
+1994020010,New York Islanders,2,Florida Panthers,1,Don Van Massenhoven,Scott Driscoll,New York Islanders,Florida Panthers
+1994020011,New York Rangers,5,Montréal Canadiens,2,Terry Gregson,Kevin Collins,New York Rangers,Montréal Canadiens
+1994020012,Philadelphia Flyers,1,Quebec Nordiques,3,D. Marouelli,Brian Murphy,Quebec Nordiques,Philadelphia Flyers
+1994020013,Winnipeg Jets (1979),3,Anaheim Ducks,4,Richard Trottier,Mike Cvik,Anaheim Ducks,Winnipeg Jets (1979)
+1994020014,Vancouver Canucks,1,St. Louis Blues,7,Koharski,Sharrers,St. Louis Blues,Vancouver Canucks
+1994020015,San Jose Sharks,3,Toronto Maple Leafs,2,Paul Devorski,McCourt,San Jose Sharks,Toronto Maple Leafs
+1994020016,Boston Bruins,4,Philadelphia Flyers,1,Dan Marouelli,Brian Murphy,Boston Bruins,Philadelphia Flyers
+1994020017,Hartford Whalers,2,New Jersey Devils,2,Stephen Walkom,Pierre Champoux,Hartford Whalers,New Jersey Devils
+1994020018,New York Islanders,3,Ottawa Senators,3,Lance Roberts,Scott Driscoll,New York Islanders,Ottawa Senators
+1994020019,Tampa Bay Lightning,2,Buffalo Sabres,5,Mark Faucette,Gordon Broseker,Buffalo Sabres,Tampa Bay Lightning
+1994020020,Detroit Red Wings,1,Calgary Flames,4,Fraser,Finn,Calgary Flames,Detroit Red Wings
+1994020021,Los Angeles Kings,3,Edmonton Oilers,4,Mike McGeough,Ron Asselstine,Edmonton Oilers,Los Angeles Kings
+1994020022,New York Rangers,1,Boston Bruins,2,Andy van Hellemond,Leon Stickle,Boston Bruins,New York Rangers
+1994020023,Florida Panthers,5,Pittsburgh Penguins,6,Dave Jackson #8,Gord Broseker #33,Pittsburgh Penguins,Florida Panthers
+1994020024,Winnipeg Jets (1979),5,Chicago Blackhawks,3,Don Koharski,Wayne Bonney,Winnipeg Jets (1979),Chicago Blackhawks
+1994020025,Anaheim Ducks,5,Edmonton Oilers,4,Paul Devorski,Ron Asselstine,Anaheim Ducks,Edmonton Oilers
+1994020026,Quebec Nordiques,5,Washington Capitals,1,Steven Walkom,Gerard Gauthier,Quebec Nordiques,Washington Capitals
+1994020027,New York Islanders,4,Philadelphia Flyers,3,Bill McCreary,Leon Stickle,New York Islanders,Philadelphia Flyers
+1994020028,Detroit Red Wings,6,Vancouver Canucks,3,Massenhoven,Driscoll,Detroit Red Wings,Vancouver Canucks
+1994020029,Calgary Flames,6,St. Louis Blues,4,Paul Stewart,Wayne Bonney,Calgary Flames,St. Louis Blues
+1994020030,Los Angeles Kings,2,Dallas Stars,4,Terry Gregson,Swede Knox,Dallas Stars,Los Angeles Kings
+1994020031,Hartford Whalers,4,Ottawa Senators,1,Andy van Hellemond,Pierre Champoux,Hartford Whalers,Ottawa Senators
+1994020032,Buffalo Sabres,2,New Jersey Devils,1,Van Massenhoven,Driscoll,Buffalo Sabres,New Jersey Devils
+1994020033,Montréal Canadiens,2,Washington Capitals,0,Roberts,Gauthier,Montréal Canadiens,Washington Capitals
+1994020034,New York Rangers,2,Pittsburgh Penguins,3,Kerry Fraser,Pat Dapuzzo,Pittsburgh Penguins,New York Rangers
+1994020035,Tampa Bay Lightning,3,Florida Panthers,2,Bill McCreary,Dan McCourt,Tampa Bay Lightning,Florida Panthers
+1994020036,Toronto Maple Leafs,6,Vancouver Canucks,2,Dan Marouelli,Ron Finn,Toronto Maple Leafs,Vancouver Canucks
+1994020037,Chicago Blackhawks,5,Edmonton Oilers,1,Rich Trottier,Brad Lazarowich,Chicago Blackhawks,Edmonton Oilers
+1994020038,San Jose Sharks,4,Winnipeg Jets (1979),0,Gregson,Knox,San Jose Sharks,Winnipeg Jets (1979)
+1994020039,Anaheim Ducks,1,Dallas Stars,4,Paul Stewart,Shane Heyer,Dallas Stars,Anaheim Ducks
+1994020040,Boston Bruins,1,New Jersey Devils,0,Lance Roberts,Kevin Collins,Boston Bruins,New Jersey Devils
+1994020041,Philadelphia Flyers,3,Hartford Whalers,2,Paul Devorski,Jean Morin,Philadelphia Flyers,Hartford Whalers
+1994020042,Florida Panthers,4,Tampa Bay Lightning,2,Mark Faucette #11,Stephane Provost #37,Florida Panthers,Tampa Bay Lightning
+1994020043,Detroit Red Wings,5,Calgary Flames,1,Trottier,Pare,Detroit Red Wings,Calgary Flames
+1994020044,St. Louis Blues,3,Los Angeles Kings,1,Don Koharski,Dan Schachte,St. Louis Blues,Los Angeles Kings
+1994020045,Pittsburgh Penguins,5,Ottawa Senators,4,Steve Walkom,Scott Driscoll,Pittsburgh Penguins,Ottawa Senators
+1994020046,Buffalo Sabres,3,Quebec Nordiques,7,McGeough,Devorski,Quebec Nordiques,Buffalo Sabres
+1994020047,Washington Capitals,5,New York Islanders,2,Kerry Fraser,Gordon Broseker,Washington Capitals,New York Islanders
+1994020048,Chicago Blackhawks,4,Toronto Maple Leafs,1,Bill McCreary,Brad Lazarowich,Chicago Blackhawks,Toronto Maple Leafs
+1994020049,Anaheim Ducks,3,Winnipeg Jets (1979),2,Terry Gregson,Shane Heyer,Anaheim Ducks,Winnipeg Jets (1979)
+1994020050,Hartford Whalers,1,Florida Panthers,2,Paul Devorski,Brian Murphy,Florida Panthers,Hartford Whalers
+1994020051,Ottawa Senators,2,Buffalo Sabres,2,Dave Jackson,Greg Devorski,Ottawa Senators,Buffalo Sabres
+1994020052,Montréal Canadiens,5,New Jersey Devils,1,Trottier,Gauthier,Montréal Canadiens,New Jersey Devils
+1994020053,Quebec Nordiques,2,New York Rangers,0,Roberts,Mike Cvik,Quebec Nordiques,New York Rangers
+1994020054,New York Islanders,1,Tampa Bay Lightning,4,Mike McGeough,Andy McElman,Tampa Bay Lightning,New York Islanders
+1994020055,Philadelphia Flyers,2,Boston Bruins,1,Mark Faucette,Pat Dapuzzo,Philadelphia Flyers,Boston Bruins
+1994020056,Toronto Maple Leafs,2,Calgary Flames,1,Koharski,Ron Asselstine,Toronto Maple Leafs,Calgary Flames
+1994020057,Detroit Red Wings,5,Edmonton Oilers,2,Vanhellemond,McCourt,Detroit Red Wings,Edmonton Oilers
+1994020058,St. Louis Blues,1,Vancouver Canucks,3,Dan Van Massenhoven,Dan Schachte,Vancouver Canucks,St. Louis Blues
+1994020059,San Jose Sharks,3,Dallas Stars,2,Paul Stewart,Swede Knox,San Jose Sharks,Dallas Stars
+1994020060,Los Angeles Kings,4,Winnipeg Jets (1979),2,Terry Gregson,Shane Heyer,Los Angeles Kings,Winnipeg Jets (1979)
+1994020061,Montréal Canadiens,2,Philadelphia Flyers,2,Marouelli,Gauthier,Montréal Canadiens,Philadelphia Flyers
+1994020062,Washington Capitals,1,Pittsburgh Penguins,4,Mark Faucette,Gordon Broseker,Pittsburgh Penguins,Washington Capitals
+1994020063,Los Angeles Kings,3,Chicago Blackhawks,6,Paul Stewart,Shane Heyer,Chicago Blackhawks,Los Angeles Kings
+1994020064,Boston Bruins,1,Florida Panthers,2,Don Koharski,Stephane Provost,Florida Panthers,Boston Bruins
+1994020065,New York Rangers,6,Ottawa Senators,2,Mike McGeough,Ron Asselstine,New York Rangers,Ottawa Senators
+1994020066,Dallas Stars,1,Toronto Maple Leafs,2,Van Hellemond,Lazarowich,Toronto Maple Leafs,Dallas Stars
+1994020067,Edmonton Oilers,2,Detroit Red Wings,4,Dave Jackson,Swede Knox,Detroit Red Wings,Edmonton Oilers
+1994020068,San Jose Sharks,2,Chicago Blackhawks,1,Walkom,Heyer,San Jose Sharks,Chicago Blackhawks
+1994020069,Quebec Nordiques,5,Philadelphia Flyers,2,Dan Marouelli,Jean Morin,Quebec Nordiques,Philadelphia Flyers
+1994020070,New Jersey Devils,2,Buffalo Sabres,1,Don Koharski,Mike Cvik,New Jersey Devils,Buffalo Sabres
+1994020071,Tampa Bay Lightning,4,Montréal Canadiens,1,Don Van Massenhoven,Ron Asselstine,Tampa Bay Lightning,Montréal Canadiens
+1994020072,Florida Panthers,1,New York Islanders,5,Mick McGeough #19,Kevin Collins #50,New York Islanders,Florida Panthers
+1994020073,St. Louis Blues,7,Anaheim Ducks,2,Mark Faucette,Dan McCourt,St. Louis Blues,Anaheim Ducks
+1994020074,Pittsburgh Penguins,4,New York Rangers,3,Kerry Fraser,Mark Vines,Pittsburgh Penguins,New York Rangers
+1994020075,Ottawa Senators,1,Hartford Whalers,2,Dan Marouelli,Jean Morin,Hartford Whalers,Ottawa Senators
+1994020076,Dallas Stars,9,Anaheim Ducks,2,Faucette,Lazarowich,Dallas Stars,Anaheim Ducks
+1994020077,Calgary Flames,2,Detroit Red Wings,1,Dave Jackson,Swede Knox,Calgary Flames,Detroit Red Wings
+1994020078,Edmonton Oilers,0,Chicago Blackhawks,7,Andy van Hellemond,Andy McElman,Chicago Blackhawks,Edmonton Oilers
+1994020079,Vancouver Canucks,4,Toronto Maple Leafs,4,McCreary,Wayne Bonney,Vancouver Canucks,Toronto Maple Leafs
+1994020080,Boston Bruins,6,Ottawa Senators,4,Kerry Fraser,Gordon Broseker,Boston Bruins,Ottawa Senators
+1994020081,New York Rangers,3,Tampa Bay Lightning,3,Roberts,Ron Asselstine,New York Rangers,Tampa Bay Lightning
+1994020082,New Jersey Devils,5,Quebec Nordiques,4,Terry Gregson,Mike Cvik,New Jersey Devils,Quebec Nordiques
+1994020083,Philadelphia Flyers,4,New York Islanders,5,Don Koharski,G. Gauthier,New York Islanders,Philadelphia Flyers
+1994020084,Washington Capitals,0,Buffalo Sabres,1,Richard Trottier,Tim Nowak,Buffalo Sabres,Washington Capitals
+1994020085,Florida Panthers,1,Montréal Canadiens,1,Don Van Massenhoven,Kevin Collins #50,Florida Panthers,Montréal Canadiens
+1994020086,Dallas Stars,1,San Jose Sharks,2,Mcgeogh,Lazarowich,San Jose Sharks,Dallas Stars
+1994020087,Winnipeg Jets (1979),4,St. Louis Blues,5,Stephen Walkom,Andy McElman,St. Louis Blues,Winnipeg Jets (1979)
+1994020088,Calgary Flames,3,Chicago Blackhawks,4,Steve Walkom,Wayne Bonney,Chicago Blackhawks,Calgary Flames
+1994020089,Edmonton Oilers,5,Toronto Maple Leafs,3,Dave Jackson,Shane Heyer,Edmonton Oilers,Toronto Maple Leafs
+1994020090,Anaheim Ducks,2,Detroit Red Wings,5,Bill McCreary,Ron Finn,Detroit Red Wings,Anaheim Ducks
+1994020091,Boston Bruins,5,Hartford Whalers,4,Paul Stewart,Gordon Broseker,Boston Bruins,Hartford Whalers
+1994020092,Pittsburgh Penguins,6,Tampa Bay Lightning,3,Richard Trottier,Mike Cvik,Pittsburgh Penguins,Tampa Bay Lightning
+1994020093,Ottawa Senators,1,New York Rangers,2,Blaine Angus,Scott Driscoll,New York Rangers,Ottawa Senators
+1994020094,Montréal Canadiens,4,New York Islanders,2,Devorski,Morin,Montréal Canadiens,New York Islanders
+1994020095,Quebec Nordiques,2,New Jersey Devils,0,Kerry Fraser,Pierre Champoux,Quebec Nordiques,New Jersey Devils
+1994020096,Philadelphia Flyers,4,Buffalo Sabres,2,Terry Gregson,G. Gauthier,Philadelphia Flyers,Buffalo Sabres
+1994020097,Washington Capitals,3,Florida Panthers,2,Lance Roberts,Tim Nowak,Washington Capitals,Florida Panthers
+1994020098,St. Louis Blues,7,Dallas Stars,4,Don Koharski,Dan Schachte,St. Louis Blues,Dallas Stars
+1994020099,Winnipeg Jets (1979),3,San Jose Sharks,3,Mick McGeough,Andy McElman,Winnipeg Jets (1979),San Jose Sharks
+1994020100,Calgary Flames,4,Toronto Maple Leafs,1,Andy van Hellemond,Wayne Bonney,Calgary Flames,Toronto Maple Leafs
+1994020101,Los Angeles Kings,4,Detroit Red Wings,3,Bill McCreary,Ron Finn,Los Angeles Kings,Detroit Red Wings
+1994020102,Buffalo Sabres,2,Tampa Bay Lightning,1,Gregson,Scapinello,Buffalo Sabres,Tampa Bay Lightning
+1994020103,Quebec Nordiques,3,Hartford Whalers,1,Kerry Fraser,Pierre Champoux,Quebec Nordiques,Hartford Whalers
+1994020104,New Jersey Devils,3,Pittsburgh Penguins,3,Lance Roberts,Kevin Collins,New Jersey Devils,Pittsburgh Penguins
+1994020105,Vancouver Canucks,4,Chicago Blackhawks,9,Dave Jackson,Wayne Bonney,Chicago Blackhawks,Vancouver Canucks
+1994020106,Los Angeles Kings,2,Anaheim Ducks,3,Bill McCreary,Ron Finn,Anaheim Ducks,Los Angeles Kings
+1994020107,Ottawa Senators,3,Philadelphia Flyers,0,Paul Devorski,Scott Driscoll,Ottawa Senators,Philadelphia Flyers
+1994020108,Toronto Maple Leafs,7,San Jose Sharks,3,Paul Stewart,Ron Asselstine,Toronto Maple Leafs,San Jose Sharks
+1994020109,Calgary Flames,4,Winnipeg Jets (1979),5,Andy van Hellemond,Swede Knox,Winnipeg Jets (1979),Calgary Flames
+1994020110,Boston Bruins,7,Montréal Canadiens,4,Dan Marouelli,Kevin Collins,Boston Bruins,Montréal Canadiens
+1994020111,Pittsburgh Penguins,7,Florida Panthers,3,Paul Stewart,Ron Asselstine,Pittsburgh Penguins,Florida Panthers
+1994020112,Buffalo Sabres,2,Washington Capitals,1,Walkom,Driscoll,Buffalo Sabres,Washington Capitals
+1994020113,Tampa Bay Lightning,5,New York Islanders,2,Mark Faucette,Pat Dapuzzo,Tampa Bay Lightning,New York Islanders
+1994020114,Detroit Red Wings,6,San Jose Sharks,0,Roberts,Scapinello,Detroit Red Wings,San Jose Sharks
+1994020115,St. Louis Blues,5,Los Angeles Kings,5,Richard Trottier,Dan Schachte,St. Louis Blues,Los Angeles Kings
+1994020116,Vancouver Canucks,4,Edmonton Oilers,4,McCreary,Wayne Bonney,Vancouver Canucks,Edmonton Oilers
+1994020117,Anaheim Ducks,0,Chicago Blackhawks,3,Rob Shick,Ron Finn,Chicago Blackhawks,Anaheim Ducks
+1994020118,Hartford Whalers,2,Quebec Nordiques,3,Dave Jackson,Kevin Collins,Quebec Nordiques,Hartford Whalers
+1994020119,Ottawa Senators,2,Montréal Canadiens,4,Don Koharski,Pierre Champoux,Montréal Canadiens,Ottawa Senators
+1994020120,New York Rangers,5,Washington Capitals,4,Dan Marouelli,Dan McCourt,New York Rangers,Washington Capitals
+1994020121,Toronto Maple Leafs,3,Dallas Stars,3,Paul Devorski,Pierre Racicot,Toronto Maple Leafs,Dallas Stars
+1994020122,Edmonton Oilers,3,Winnipeg Jets (1979),3,Don Van Massenhoven,Swede Knox,Edmonton Oilers,Winnipeg Jets (1979)
+1994020123,Boston Bruins,3,Quebec Nordiques,4,Don Koharski,Gerry Gauthier,Quebec Nordiques,Boston Bruins
+1994020124,New York Islanders,2,Pittsburgh Penguins,5,Richard Trottier,Dan McCourt,Pittsburgh Penguins,New York Islanders
+1994020125,New Jersey Devils,4,New York Rangers,1,Dave Jackson,Pat Dapuzzo,New Jersey Devils,New York Rangers
+1994020126,Philadelphia Flyers,0,Florida Panthers,3,Kerry Fraser,Leon Stickle,Florida Panthers,Philadelphia Flyers
+1994020127,St. Louis Blues,0,Chicago Blackhawks,5,Terry Gregson,Jean Morin,Chicago Blackhawks,St. Louis Blues
+1994020128,Calgary Flames,5,Anaheim Ducks,1,Mick McGeough,Mike Cvik,Calgary Flames,Anaheim Ducks
+1994020129,Vancouver Canucks,5,Winnipeg Jets (1979),1,Don Van Massenhoven,Shane Hayer,Vancouver Canucks,Winnipeg Jets (1979)
+1994020130,Tampa Bay Lightning,4,Hartford Whalers,3,Paul Stewart,Ron Asselstine,Tampa Bay Lightning,Hartford Whalers
+1994020131,Detroit Red Wings,1,Toronto Maple Leafs,2,Gregson,Pare,Toronto Maple Leafs,Detroit Red Wings
+1994020132,Edmonton Oilers,5,San Jose Sharks,1,Mick McGeough,Baron Parker,Edmonton Oilers,San Jose Sharks
+1994020133,Boston Bruins,1,Washington Capitals,1,Dave Jackson,Gerry Gauthier,Boston Bruins,Washington Capitals
+1994020134,Pittsburgh Penguins,3,Montréal Canadiens,1,Paul Devorski,Leon Stickle,Pittsburgh Penguins,Montréal Canadiens
+1994020135,Quebec Nordiques,5,Ottawa Senators,2,Richard Trottier,Pierre Racicot,Quebec Nordiques,Ottawa Senators
+1994020136,New York Islanders,2,Buffalo Sabres,1,Don Koharski,Dan McCourt,New York Islanders,Buffalo Sabres
+1994020137,New Jersey Devils,1,Philadelphia Flyers,3,Andy van Hellemond,Gordon Broseker,Philadelphia Flyers,New Jersey Devils
+1994020138,Tampa Bay Lightning,2,New York Rangers,3,Kerry Fraser,Ron Asselstine,New York Rangers,Tampa Bay Lightning
+1994020139,Florida Panthers,4,Hartford Whalers,3,Mark Faucette #11,Pierre Champoux,Florida Panthers,Hartford Whalers
+1994020140,Toronto Maple Leafs,2,Los Angeles Kings,5,Dan Marouelli,Greg Devorski,Los Angeles Kings,Toronto Maple Leafs
+1994020141,St. Louis Blues,2,Winnipeg Jets (1979),3,Lance Roberts,Jean Morin,Winnipeg Jets (1979),St. Louis Blues
+1994020142,Dallas Stars,0,Calgary Flames,6,Walkom,Pare,Calgary Flames,Dallas Stars
+1994020143,Vancouver Canucks,1,San Jose Sharks,1,Don Van Massenhoven,Shane Heyer,Vancouver Canucks,San Jose Sharks
+1994020144,Buffalo Sabres,1,Boston Bruins,2,Gregson,Devorski,Boston Bruins,Buffalo Sabres
+1994020145,Florida Panthers,2,New Jersey Devils,4,Kerry Fraser #2,Pierre Champoux,New Jersey Devils,Florida Panthers
+1994020146,Detroit Red Wings,4,Los Angeles Kings,4,Koharski,Morin,Detroit Red Wings,Los Angeles Kings
+1994020147,Edmonton Oilers,2,Anaheim Ducks,0,Mick McGeough,Randy Mitton,Edmonton Oilers,Anaheim Ducks
+1994020148,Montréal Canadiens,2,Hartford Whalers,2,Van Hellemond,Gauthier,Montréal Canadiens,Hartford Whalers
+1994020149,Philadelphia Flyers,5,Washington Capitals,3,Bill McCreary,Gordon Broseker,Philadelphia Flyers,Washington Capitals
+1994020150,Toronto Maple Leafs,4,Chicago Blackhawks,2,Mark Faucette,Jean Morin,Toronto Maple Leafs,Chicago Blackhawks
+1994020151,St. Louis Blues,4,Calgary Flames,2,Stephen Walkom,Mark Vines,St. Louis Blues,Calgary Flames
+1994020152,Dallas Stars,4,Winnipeg Jets (1979),7,Roberts,Pare,Winnipeg Jets (1979),Dallas Stars
+1994020153,Pittsburgh Penguins,5,Boston Bruins,3,Bill McCreary,Dan McCourt,Pittsburgh Penguins,Boston Bruins
+1994020154,New York Islanders,2,Quebec Nordiques,3,Paul Devorski,Kevin Collins,Quebec Nordiques,New York Islanders
+1994020155,Tampa Bay Lightning,2,Philadelphia Flyers,5,Kerry Fraser,Pierre Champoux,Philadelphia Flyers,Tampa Bay Lightning
+1994020156,Hartford Whalers,4,Montréal Canadiens,1,Dan Marouelli,Tim Nowal,Hartford Whalers,Montréal Canadiens
+1994020157,Buffalo Sabres,1,New York Rangers,2,Stewart,Ron Asselstine,New York Rangers,Buffalo Sabres
+1994020158,New Jersey Devils,4,Washington Capitals,2,Richard Trottier,Brian Murphy,New Jersey Devils,Washington Capitals
+1994020159,Florida Panthers,2,Ottawa Senators,0,Kerry Fraser #2,Pierre Champoux,Florida Panthers,Ottawa Senators
+1994020160,Toronto Maple Leafs,1,Edmonton Oilers,4,Terry Gregson,Ron Finn,Edmonton Oilers,Toronto Maple Leafs
+1994020161,Dallas Stars,1,Los Angeles Kings,3,Van Massenhoven,Pare,Los Angeles Kings,Dallas Stars
+1994020162,Winnipeg Jets (1979),1,Detroit Red Wings,5,Mark Faucette,Swede Knox,Detroit Red Wings,Winnipeg Jets (1979)
+1994020163,San Jose Sharks,3,Vancouver Canucks,1,Roberts,Wayne Bonney,San Jose Sharks,Vancouver Canucks
+1994020164,Pittsburgh Penguins,5,Hartford Whalers,2,Paul Stewart,Bob Hodges,Pittsburgh Penguins,Hartford Whalers
+1994020165,New York Rangers,2,Montréal Canadiens,2,Paul Devorski,Scott Driscoll,New York Rangers,Montréal Canadiens
+1994020166,Philadelphia Flyers,2,Quebec Nordiques,4,Andy van Hellemond,G. Devorski,Quebec Nordiques,Philadelphia Flyers
+1994020167,Chicago Blackhawks,2,Calgary Flames,2,Don Van Massenhoven,Thor Nelson,Chicago Blackhawks,Calgary Flames
+1994020168,New Jersey Devils,2,New York Islanders,2,Paul Devorski,Brian Murphy,New Jersey Devils,New York Islanders
+1994020169,Tampa Bay Lightning,1,Ottawa Senators,2,Steve Waklkom,Gerard Gauthier,Ottawa Senators,Tampa Bay Lightning
+1994020170,Florida Panthers,4,Boston Bruins,5,Don Koharski #12,Pierre Champoux,Boston Bruins,Florida Panthers
+1994020171,Detroit Red Wings,4,Edmonton Oilers,2,Jackson,Ron Asselstine,Detroit Red Wings,Edmonton Oilers
+1994020172,Winnipeg Jets (1979),3,St. Louis Blues,4,Mark Faucette,Swede Knox,St. Louis Blues,Winnipeg Jets (1979)
+1994020173,Los Angeles Kings,0,San Jose Sharks,2,Lance Roberts,Wayne Bonney,San Jose Sharks,Los Angeles Kings
+1994020174,Anaheim Ducks,2,Vancouver Canucks,2,Dan Marouelli,Mike Cvik,Anaheim Ducks,Vancouver Canucks
+1994020175,Hartford Whalers,4,Pittsburgh Penguins,2,Richard Troittier,Kevin Collins,Hartford Whalers,Pittsburgh Penguins
+1994020176,Montréal Canadiens,5,New York Rangers,2,Stewart,Hodges,Montréal Canadiens,New York Rangers
+1994020177,New York Islanders,3,New Jersey Devils,2,Andy van Hellemond,Pat Dapuzzo,New York Islanders,New Jersey Devils
+1994020178,Washington Capitals,4,Quebec Nordiques,2,Terry Gregson,Gordon Broseker,Washington Capitals,Quebec Nordiques
+1994020179,Tampa Bay Lightning,3,Boston Bruins,1,Don Koharski,Gerard Gauthier,Tampa Bay Lightning,Boston Bruins
+1994020180,Toronto Maple Leafs,3,St. Louis Blues,1,Bill McCreary,Randy Mitton,Toronto Maple Leafs,St. Louis Blues
+1994020181,Calgary Flames,3,Dallas Stars,2,Mark Faucette,Swede Knox,Calgary Flames,Dallas Stars
+1994020182,San Jose Sharks,3,Anaheim Ducks,6,McGeough,Mike Cvik,Anaheim Ducks,San Jose Sharks
+1994020183,Los Angeles Kings,2,Vancouver Canucks,6,Dan Marouelli,Wayne Bonney,Vancouver Canucks,Los Angeles Kings
+1994020184,Pittsburgh Penguins,3,Buffalo Sabres,3,Terry Gregson,Randy Mitton,Pittsburgh Penguins,Buffalo Sabres
+1994020185,Florida Panthers,1,Quebec Nordiques,4,Stephen Walkom #24,Gerard Gauthier #30,Quebec Nordiques,Florida Panthers
+1994020186,Chicago Blackhawks,4,Edmonton Oilers,1,Dave Jackson,Andy McElman,Chicago Blackhawks,Edmonton Oilers
+1994020187,Montréal Canadiens,3,New York Islanders,2,Koharski,Champoux,Montréal Canadiens,New York Islanders
+1994020188,Washington Capitals,0,New Jersey Devils,2,Dave Jackson,Gordon Broseker,New Jersey Devils,Washington Capitals
+1994020189,Tampa Bay Lightning,1,New York Rangers,3,Richard Trottier,Dan Schachte,New York Rangers,Tampa Bay Lightning
+1994020190,Toronto Maple Leafs,2,Detroit Red Wings,4,Kerry Fraser,Dan McCourt,Detroit Red Wings,Toronto Maple Leafs
+1994020191,Chicago Blackhawks,3,San Jose Sharks,2,Paul Devorski,Andy McElman,Chicago Blackhawks,San Jose Sharks
+1994020192,St. Louis Blues,4,Edmonton Oilers,0,Stephen Walkom,Randy Mitton,St. Louis Blues,Edmonton Oilers
+1994020193,Calgary Flames,1,Dallas Stars,2,Dan Marouelli,Mike Cvik,Dallas Stars,Calgary Flames
+1994020194,Vancouver Canucks,8,Los Angeles Kings,2,Mark Faucette,Brad Lazarowich,Vancouver Canucks,Los Angeles Kings
+1994020195,Pittsburgh Penguins,5,Quebec Nordiques,4,Mike McGeough,Mark Pare,Pittsburgh Penguins,Quebec Nordiques
+1994020196,Florida Panthers,3,New York Rangers,5,Andy van Hellemond,Dan Schachte #47,New York Rangers,Florida Panthers
+1994020197,Hartford Whalers,3,Boston Bruins,2,Don Koharski,Kevin Collins,Hartford Whalers,Boston Bruins
+1994020198,Buffalo Sabres,3,New York Islanders,3,Fraser,Ron Asselstine,Buffalo Sabres,New York Islanders
+1994020199,Detroit Red Wings,4,Toronto Maple Leafs,1,Stewart,Finn,Detroit Red Wings,Toronto Maple Leafs
+1994020200,St. Louis Blues,4,San Jose Sharks,3,Richard Trottier,Randy Mitton,St. Louis Blues,San Jose Sharks
+1994020201,Edmonton Oilers,2,Dallas Stars,1,Dan Marouelli,Mike Cvik,Edmonton Oilers,Dallas Stars
+1994020202,Vancouver Canucks,1,Winnipeg Jets (1979),4,Paul Devorski,Jay Sharrers,Winnipeg Jets (1979),Vancouver Canucks
+1994020203,Ottawa Senators,5,Washington Capitals,5,Don Koharski,Ron Asselstine,Ottawa Senators,Washington Capitals
+1994020204,Quebec Nordiques,6,Philadelphia Flyers,6,Bill McCreary,Brian Murphy,Quebec Nordiques,Philadelphia Flyers
+1994020205,New York Islanders,1,Tampa Bay Lightning,4,Don Van Massenhoven,Pierre Champoux,Tampa Bay Lightning,New York Islanders
+1994020206,New Jersey Devils,2,Boston Bruins,3,Mike McGeough,Ray Scapinello,Boston Bruins,New Jersey Devils
+1994020207,Florida Panthers,2,Montréal Canadiens,5,Andy van Hellemond,Dan Schachte #47,Montréal Canadiens,Florida Panthers
+1994020208,Toronto Maple Leafs,3,Anaheim Ducks,1,Stephen Walkom,Greg Devorski,Toronto Maple Leafs,Anaheim Ducks
+1994020209,Chicago Blackhawks,2,Detroit Red Wings,4,Terry Gregson,Randy Mitton,Detroit Red Wings,Chicago Blackhawks
+1994020210,Los Angeles Kings,3,Calgary Flames,3,Paul Devorski,Wayne Bonney,Los Angeles Kings,Calgary Flames
+1994020211,Pittsburgh Penguins,2,Tampa Bay Lightning,4,Lance Roberts,Greg Devorski,Tampa Bay Lightning,Pittsburgh Penguins
+1994020212,New York Rangers,1,Hartford Whalers,2,Don Van Massenhoven,Pierre Champoux,Hartford Whalers,New York Rangers
+1994020213,Dallas Stars,3,Vancouver Canucks,3,Stewart,McElman,Dallas Stars,Vancouver Canucks
+1994020214,Winnipeg Jets (1979),4,Anaheim Ducks,2,Terry Gregson,Mark Wheler,Winnipeg Jets (1979),Anaheim Ducks
+1994020215,San Jose Sharks,0,Calgary Flames,3,Paul Devorski,Lazarowich,Calgary Flames,San Jose Sharks
+1994020216,Hartford Whalers,1,Buffalo Sabres,3,Dan Van Massenhoven,Kevin Collins,Buffalo Sabres,Hartford Whalers
+1994020217,Ottawa Senators,1,Florida Panthers,4,Richard Trottier,Ron Asselstine,Florida Panthers,Ottawa Senators
+1994020218,Montréal Canadiens,0,Philadelphia Flyers,7,McCreary,Gauthier,Philadelphia Flyers,Montréal Canadiens
+1994020219,Quebec Nordiques,1,Boston Bruins,1,Don Koharski,Brian Murphy,Quebec Nordiques,Boston Bruins
+1994020220,New York Islanders,3,Pittsburgh Penguins,1,Kerry Fraser,Pierre Champoux,New York Islanders,Pittsburgh Penguins
+1994020221,New Jersey Devils,3,Washington Capitals,3,Stephen Walkom,Pat Dapuzzo,New Jersey Devils,Washington Capitals
+1994020222,Toronto Maple Leafs,5,Winnipeg Jets (1979),2,Mick McGeough,Gordon Broseker,Toronto Maple Leafs,Winnipeg Jets (1979)
+1994020223,Detroit Red Wings,2,St. Louis Blues,3,Marouelli,McCourt,St. Louis Blues,Detroit Red Wings
+1994020224,Edmonton Oilers,3,Los Angeles Kings,4,Terry Gregson,Swede Knox,Los Angeles Kings,Edmonton Oilers
+1994020225,Buffalo Sabres,2,New York Rangers,4,Van Hellemond,Gordon Broseker,New York Rangers,Buffalo Sabres
+1994020226,Washington Capitals,1,Tampa Bay Lightning,1,Paul Stewart,Pat Dapuzzo,Washington Capitals,Tampa Bay Lightning
+1994020227,Dallas Stars,1,Chicago Blackhawks,2,Roberts,Hodges,Chicago Blackhawks,Dallas Stars
+1994020228,San Jose Sharks,1,Vancouver Canucks,5,Jackson,Lazarowich,Vancouver Canucks,San Jose Sharks
+1994020229,Anaheim Ducks,3,Calgary Flames,5,Dennis Larue,Mike Cvik,Calgary Flames,Anaheim Ducks
+1994020230,Ottawa Senators,0,Boston Bruins,2,Bill McCreary,Brian Murphy,Boston Bruins,Ottawa Senators
+1994020231,Quebec Nordiques,5,Pittsburgh Penguins,7,Mike McGeough,Gerard Gauthier,Pittsburgh Penguins,Quebec Nordiques
+1994020232,New Jersey Devils,6,Montréal Canadiens,1,Paul Stewart,Gordon Broseker,New Jersey Devils,Montréal Canadiens
+1994020233,St. Louis Blues,3,Toronto Maple Leafs,2,Dan Marouelli,Andy McElman,St. Louis Blues,Toronto Maple Leafs
+1994020234,Ottawa Senators,3,Hartford Whalers,6,Andy van Hellemond,Brian Murphy,Hartford Whalers,Ottawa Senators
+1994020235,New York Islanders,2,Montréal Canadiens,1,Paul Devorski,Gordon Broseker,New York Islanders,Montréal Canadiens
+1994020236,New York Rangers,0,Florida Panthers,0,Stephen Walkom,Ron Asselstine,New York Rangers,Florida Panthers
+1994020237,Philadelphia Flyers,4,Washington Capitals,2,Kerry Fraser,Ron Finn,Philadelphia Flyers,Washington Capitals
+1994020238,Winnipeg Jets (1979),0,Dallas Stars,4,Lance Roberts,Wayne Bonney,Dallas Stars,Winnipeg Jets (1979)
+1994020239,Calgary Flames,5,Edmonton Oilers,2,Don Koharski,Randy Mitton,Calgary Flames,Edmonton Oilers
+1994020240,Vancouver Canucks,3,San Jose Sharks,4,Richard Trottier,Shane Heyer,San Jose Sharks,Vancouver Canucks
+1994020241,Los Angeles Kings,4,Chicago Blackhawks,8,Dave Jackson,Mike Cvik,Chicago Blackhawks,Los Angeles Kings
+1994020242,Hartford Whalers,2,New York Rangers,5,Kerry Fraser,Ron Finn,New York Rangers,Hartford Whalers
+1994020243,Quebec Nordiques,8,Tampa Bay Lightning,2,Andy van Hellemond,Pierre Champoux,Quebec Nordiques,Tampa Bay Lightning
+1994020244,Edmonton Oilers,3,Dallas Stars,5,Don Koharski,Randy Mitton,Dallas Stars,Edmonton Oilers
+1994020245,Anaheim Ducks,3,Chicago Blackhawks,1,David Jackson,Mike Cvik,Anaheim Ducks,Chicago Blackhawks
+1994020246,Boston Bruins,7,New Jersey Devils,2,Paul Devorski,Gerard Gauthier,Boston Bruins,New Jersey Devils
+1994020247,Buffalo Sabres,6,Pittsburgh Penguins,3,Marouelli,Scapinello,Buffalo Sabres,Pittsburgh Penguins
+1994020248,Ottawa Senators,2,Tampa Bay Lightning,3,Stephen Walkom,Wayne Bonney,Tampa Bay Lightning,Ottawa Senators
+1994020249,New York Islanders,3,Washington Capitals,4,Terry Gregson,Ron Asselstine,Washington Capitals,New York Islanders
+1994020250,Philadelphia Flyers,2,Florida Panthers,2,Paul Stewart,Pat Dapuzzo,Philadelphia Flyers,Florida Panthers
+1994020251,Toronto Maple Leafs,3,San Jose Sharks,4,Don Van Massenhoven,Swede Knox,San Jose Sharks,Toronto Maple Leafs
+1994020252,Detroit Red Wings,6,Winnipeg Jets (1979),1,Bill McCreary,Mark Pare,Detroit Red Wings,Winnipeg Jets (1979)
+1994020253,Calgary Flames,2,Vancouver Canucks,2,Richard Trottier,Andy McElman,Calgary Flames,Vancouver Canucks
+1994020254,New York Rangers,5,Philadelphia Flyers,3,Terry Gregson,Ron Asselstine,New York Rangers,Philadelphia Flyers
+1994020255,Dallas Stars,4,Anaheim Ducks,0,McGeough,Knox,Dallas Stars,Anaheim Ducks
+1994020256,Edmonton Oilers,2,Chicago Blackhawks,5,Lance Roberts,Shane Heyer,Chicago Blackhawks,Edmonton Oilers
+1994020257,Boston Bruins,3,Pittsburgh Penguins,4,Don Koharski,Gerry Gauthier,Pittsburgh Penguins,Boston Bruins
+1994020258,Hartford Whalers,3,Tampa Bay Lightning,2,Paul Stewart,Kevin Collins,Hartford Whalers,Tampa Bay Lightning
+1994020259,Quebec Nordiques,1,Buffalo Sabres,1,Stephen Walkom,Stephane Provost,Quebec Nordiques,Buffalo Sabres
+1994020260,New Jersey Devils,6,Florida Panthers,1,Kerry Fraser,Pat Dapuzzo,New Jersey Devils,Florida Panthers
+1994020261,Washington Capitals,5,Montréal Canadiens,1,Paul Devorski,Gordon Broseker,Washington Capitals,Montréal Canadiens
+1994020262,Toronto Maple Leafs,3,Calgary Flames,2,Bill McCreary,Wayne Bonney,Toronto Maple Leafs,Calgary Flames
+1994020263,Winnipeg Jets (1979),4,San Jose Sharks,2,Dave Jackson,Andy McElman,Winnipeg Jets (1979),San Jose Sharks
+1994020264,Los Angeles Kings,4,Vancouver Canucks,5,Dan Marouelli,Mike Cvik,Vancouver Canucks,Los Angeles Kings
+1994020265,Hartford Whalers,2,Boston Bruins,5,Terry Gregson,Kevin Collins,Boston Bruins,Hartford Whalers
+1994020266,Buffalo Sabres,4,Montréal Canadiens,1,Jackson,Scapinello,Buffalo Sabres,Montréal Canadiens
+1994020267,Ottawa Senators,3,New York Islanders,1,Don Van Massenhoven,Wayne Bonney,Ottawa Senators,New York Islanders
+1994020268,Philadelphia Flyers,6,Pittsburgh Penguins,2,Paul Devorski,Pat Dapuzzo,Philadelphia Flyers,Pittsburgh Penguins
+1994020269,Washington Capitals,4,New York Rangers,2,Kerry Fraser,Gordon Broseker,Washington Capitals,New York Rangers
+1994020270,Chicago Blackhawks,3,Anaheim Ducks,0,Lance Roberts,Swede Knox,Chicago Blackhawks,Anaheim Ducks
+1994020271,Dallas Stars,2,St. Louis Blues,1,Marouelli,Lazarowich,Dallas Stars,St. Louis Blues
+1994020272,Winnipeg Jets (1979),3,Calgary Flames,2,Richard Trottier,Andy McElman,Winnipeg Jets (1979),Calgary Flames
+1994020273,Edmonton Oilers,4,Detroit Red Wings,2,Mick McGeough,Shane Heyer,Edmonton Oilers,Detroit Red Wings
+1994020274,Quebec Nordiques,6,New Jersey Devils,3,Don van Masseenhoven,Gerard Gauthier,Quebec Nordiques,New Jersey Devils
+1994020275,New York Rangers,4,Ottawa Senators,3,Paul Stewart,Greg Devorski,New York Rangers,Ottawa Senators
+1994020276,Dallas Stars,8,Los Angeles Kings,2,Faucette,Lazarowich,Dallas Stars,Los Angeles Kings
+1994020277,Vancouver Canucks,2,Detroit Red Wings,5,Mike McGeough,Baron Parker,Detroit Red Wings,Vancouver Canucks
+1994020278,Boston Bruins,1,Washington Capitals,3,Steven Walkom,Jean Morin,Washington Capitals,Boston Bruins
+1994020279,Pittsburgh Penguins,4,Quebec Nordiques,5,Paul Devorski,Ron Asselstine,Quebec Nordiques,Pittsburgh Penguins
+1994020280,New York Islanders,3,Hartford Whalers,1,Paul Stewart,Greg Devorski,New York Islanders,Hartford Whalers
+1994020281,Tampa Bay Lightning,3,Philadelphia Flyers,4,Blaine Angus,Kevin Collins,Philadelphia Flyers,Tampa Bay Lightning
+1994020282,Chicago Blackhawks,3,Calgary Flames,6,Kerry Fraser,Wayne Bonney,Calgary Flames,Chicago Blackhawks
+1994020283,St. Louis Blues,6,Anaheim Ducks,3,Don Koharski,Leon Stickle,St. Louis Blues,Anaheim Ducks
+1994020284,Montréal Canadiens,2,Buffalo Sabres,2,Van Hellemond,Gauthier,Montréal Canadiens,Buffalo Sabres
+1994020285,New York Rangers,6,New Jersey Devils,4,Dave Jackson,Greg Devorski,New York Rangers,New Jersey Devils
+1994020286,Florida Panthers,3,Ottawa Senators,2,Blaine Angus,Kevin Collins #50,Florida Panthers,Ottawa Senators
+1994020287,Toronto Maple Leafs,3,Dallas Stars,2,Lance Roberts,Scott Driscoll,Toronto Maple Leafs,Dallas Stars
+1994020288,San Jose Sharks,2,Edmonton Oilers,5,McCreary,Heyer,Edmonton Oilers,San Jose Sharks
+1994020289,Hartford Whalers,2,Quebec Nordiques,1,Andy van Hellemond,Jean Morin,Hartford Whalers,Quebec Nordiques
+1994020290,Pittsburgh Penguins,4,New York Islanders,2,Mark Faucette,Gordon Broseker,Pittsburgh Penguins,New York Islanders
+1994020291,Philadelphia Flyers,3,Boston Bruins,2,Dave Jackson,Ron Asselstine,Philadelphia Flyers,Boston Bruins
+1994020292,Chicago Blackhawks,3,Los Angeles Kings,4,Paul Stewart,Dan Schachte,Los Angeles Kings,Chicago Blackhawks
+1994020293,St. Louis Blues,5,Calgary Flames,1,Kerry Fraser,Leon Stickle,St. Louis Blues,Calgary Flames
+1994020294,Anaheim Ducks,4,Detroit Red Wings,4,Bill McCreary,Shane Heyer,Anaheim Ducks,Detroit Red Wings
+1994020295,Washington Capitals,2,Ottawa Senators,2,Lance Roberts,Mark Pare,Washington Capitals,Ottawa Senators
+1994020296,Tampa Bay Lightning,2,New Jersey Devils,3,Paul Devorski,Kevin Collins,New Jersey Devils,Tampa Bay Lightning
+1994020297,Winnipeg Jets (1979),4,Dallas Stars,3,Don Koharski,Dan Schachte,Winnipeg Jets (1979),Dallas Stars
+1994020298,San Jose Sharks,3,Detroit Red Wings,5,Shick,Knox,Detroit Red Wings,San Jose Sharks
+1994020299,Boston Bruins,0,Florida Panthers,2,Don Van Massenhoven,Brian Murphy,Florida Panthers,Boston Bruins
+1994020300,Pittsburgh Penguins,6,Buffalo Sabres,2,Rob Shick,Gordon Broseker,Pittsburgh Penguins,Buffalo Sabres
+1994020301,Montréal Canadiens,3,New York Rangers,1,Jackson,Morin,Montréal Canadiens,New York Rangers
+1994020302,Quebec Nordiques,2,New York Islanders,1,Richard Trottier,Gerard Gauthier,Quebec Nordiques,New York Islanders
+1994020303,Toronto Maple Leafs,2,Chicago Blackhawks,2,Dan Marouelli,Greg Devorski,Toronto Maple Leafs,Chicago Blackhawks
+1994020304,Winnipeg Jets (1979),2,Los Angeles Kings,4,Don Koharski,Dan Schachte,Los Angeles Kings,Winnipeg Jets (1979)
+1994020305,Vancouver Canucks,5,Anaheim Ducks,3,Terry Gregson,Brad Lazarowich,Vancouver Canucks,Anaheim Ducks
+1994020306,Hartford Whalers,1,Florida Panthers,4,Lance Roberts,Brian Murphy,Florida Panthers,Hartford Whalers
+1994020307,Philadelphia Flyers,4,New Jersey Devils,3,Don Van Massenhoven,Pat Dapuzzo,Philadelphia Flyers,New Jersey Devils
+1994020308,Washington Capitals,3,Tampa Bay Lightning,1,Andy van Hellemond,Ron Asselstine,Washington Capitals,Tampa Bay Lightning
+1994020309,St. Louis Blues,1,Detroit Red Wings,2,Mike McGeough,Ray Scapinello,Detroit Red Wings,St. Louis Blues
+1994020310,Dallas Stars,4,Calgary Flames,4,Stewart,McElman,Dallas Stars,Calgary Flames
+1994020311,Edmonton Oilers,2,Vancouver Canucks,5,Terry Gregson,Swede Knox,Vancouver Canucks,Edmonton Oilers
+1994020312,Pittsburgh Penguins,4,Montréal Canadiens,2,Andy van Hellemond,Gordon Broseker,Pittsburgh Penguins,Montréal Canadiens
+1994020313,Tampa Bay Lightning,0,Washington Capitals,3,Paul Devorski,Scott Driscoll,Washington Capitals,Tampa Bay Lightning
+1994020314,Toronto Maple Leafs,1,Los Angeles Kings,4,Don Koharski,Leon Stickle,Los Angeles Kings,Toronto Maple Leafs
+1994020315,Dallas Stars,4,Chicago Blackhawks,2,Shick,McCourt,Dallas Stars,Chicago Blackhawks
+1994020316,Hartford Whalers,6,New York Islanders,4,Stephen Walkom,Kevin Collins,Hartford Whalers,New York Islanders
+1994020317,New Jersey Devils,4,Ottawa Senators,2,Don Van Massenhoven,Ron Finn,New Jersey Devils,Ottawa Senators
+1994020318,Florida Panthers,1,Buffalo Sabres,2,Paul Devorski #10,Scott Driscoll #68,Buffalo Sabres,Florida Panthers
+1994020319,Detroit Red Wings,5,Los Angeles Kings,2,McGeough,Pare,Detroit Red Wings,Los Angeles Kings
+1994020320,Winnipeg Jets (1979),3,Vancouver Canucks,3,Dan Marouelli,Dan Schachte_,Winnipeg Jets (1979),Vancouver Canucks
+1994020321,Edmonton Oilers,6,St. Louis Blues,5,Dave Jackson,Mike Cvik,Edmonton Oilers,St. Louis Blues
+1994020322,Montréal Canadiens,8,Pittsburgh Penguins,5,McCreary,Gauthier,Montréal Canadiens,Pittsburgh Penguins
+1994020323,New York Rangers,3,Philadelphia Flyers,4,Don Koharski,Kevin Collins,Philadelphia Flyers,New York Rangers
+1994020324,Calgary Flames,0,Anaheim Ducks,5,Terry Gregson,Mike Cvik,Anaheim Ducks,Calgary Flames
+1994020325,San Jose Sharks,1,Toronto Maple Leafs,2,Stewart,Knox,Toronto Maple Leafs,San Jose Sharks
+1994020326,Boston Bruins,6,Montréal Canadiens,0,Don Koharski,Ron Asselstine,Boston Bruins,Montréal Canadiens
+1994020327,Buffalo Sabres,6,New York Islanders,3,Lance Roberts,Tim Nowak,Buffalo Sabres,New York Islanders
+1994020328,Ottawa Senators,1,Philadelphia Flyers,3,Mike McGeough,Gerard Gauthier,Philadelphia Flyers,Ottawa Senators
+1994020329,Quebec Nordiques,3,Pittsburgh Penguins,2,Kerry Fraser,Pierre Champoux,Quebec Nordiques,Pittsburgh Penguins
+1994020330,New Jersey Devils,2,Hartford Whalers,2,Stephen Walkom,Ron Finn,New Jersey Devils,Hartford Whalers
+1994020331,Florida Panthers,5,Washington Capitals,1,Richard Trottier #17,Scott Driscoll #68,Florida Panthers,Washington Capitals
+1994020332,Detroit Red Wings,5,Dallas Stars,4,D. Van Massenhoven,G. Devorski,Detroit Red Wings,Dallas Stars
+1994020333,Chicago Blackhawks,9,Vancouver Canucks,2,Dan Marouelli,Andy McElman,Chicago Blackhawks,Vancouver Canucks
+1994020334,Los Angeles Kings,2,St. Louis Blues,2,Paul Stewart,Swede Knox,Los Angeles Kings,St. Louis Blues
+1994020335,Detroit Red Wings,3,Vancouver Canucks,1,P. Devorski,M.Pare,Detroit Red Wings,Vancouver Canucks
+1994020336,Calgary Flames,8,Winnipeg Jets (1979),4,Dave Jackson,Shane Heyer,Calgary Flames,Winnipeg Jets (1979)
+1994020337,Edmonton Oilers,5,San Jose Sharks,3,Terry Gregson,Mike Cvik,Edmonton Oilers,San Jose Sharks
+1994020338,Anaheim Ducks,3,Toronto Maple Leafs,3,Rob Shick,Sweke Knox,Anaheim Ducks,Toronto Maple Leafs
+1994020339,Boston Bruins,4,New York Islanders,3,Bill McCreary,Ron Finn,Boston Bruins,New York Islanders
+1994020340,Ottawa Senators,4,Buffalo Sabres,3,Kerry Fraser,Greg Devorski,Ottawa Senators,Buffalo Sabres
+1994020341,Montréal Canadiens,5,Quebec Nordiques,4,Marouelli,Gauthier,Montréal Canadiens,Quebec Nordiques
+1994020342,New Jersey Devils,1,Tampa Bay Lightning,2,Mike McGeough,Gordon Broseker,Tampa Bay Lightning,New Jersey Devils
+1994020343,Washington Capitals,4,New York Rangers,1,Van Massenhoven,Ron Asselstine,Washington Capitals,New York Rangers
+1994020344,Florida Panthers,3,Philadelphia Flyers,4,Lance Roberts #20,Scott Driscoll #68,Philadelphia Flyers,Florida Panthers
+1994020345,Los Angeles Kings,3,Toronto Maple Leafs,5,Andy van Hellemond,Brad Lazarowich,Toronto Maple Leafs,Los Angeles Kings
+1994020346,Buffalo Sabres,1,Tampa Bay Lightning,6,Stephen Walkom,Tim Nowak,Tampa Bay Lightning,Buffalo Sabres
+1994020347,Ottawa Senators,3,Pittsburgh Penguins,4,Bill McCreary,Greg Devorski,Pittsburgh Penguins,Ottawa Senators
+1994020348,New Jersey Devils,4,Boston Bruins,3,Richard Trottier,Gordon Broseker,New Jersey Devils,Boston Bruins
+1994020349,Winnipeg Jets (1979),2,Chicago Blackhawks,3,Terry Gregson,Dan McCourt,Chicago Blackhawks,Winnipeg Jets (1979)
+1994020350,Calgary Flames,3,San Jose Sharks,5,Dave Jackson,Shane Heyer,San Jose Sharks,Calgary Flames
+1994020351,Anaheim Ducks,2,St. Louis Blues,4,Rob Shick,Brad Lazarowich,St. Louis Blues,Anaheim Ducks
+1994020352,Hartford Whalers,0,Washington Capitals,5,Dan Marouelli,Brian Murphy,Washington Capitals,Hartford Whalers
+1994020353,Quebec Nordiques,5,Florida Panthers,4,Don Van Massenhoven,Gerard Gauthier,Quebec Nordiques,Florida Panthers
+1994020354,Philadelphia Flyers,8,Montréal Canadiens,4,Kerry Fraser,Gordon Broseker,Philadelphia Flyers,Montréal Canadiens
+1994020355,Edmonton Oilers,5,Calgary Flames,2,Paul Devorski,Dan McCourt,Edmonton Oilers,Calgary Flames
+1994020356,Los Angeles Kings,5,St. Louis Blues,3,Andy van Hellemond,Brad Lazarowich,Los Angeles Kings,St. Louis Blues
+1994020357,Buffalo Sabres,2,Pittsburgh Penguins,3,Bill McCreary,Ron Asselstine,Pittsburgh Penguins,Buffalo Sabres
+1994020358,Washington Capitals,1,Ottawa Senators,0,Lance Roberts,Jean Morin,Washington Capitals,Ottawa Senators
+1994020359,Vancouver Canucks,3,Toronto Maple Leafs,1,Dave Jackson,Randy Mitton,Vancouver Canucks,Toronto Maple Leafs
+1994020360,San Jose Sharks,3,Chicago Blackhawks,7,Shick,Mike Cvik,Chicago Blackhawks,San Jose Sharks
+1994020361,Anaheim Ducks,3,Los Angeles Kings,3,Dennis Larue,Brad Lazarowich,Anaheim Ducks,Los Angeles Kings
+1994020362,Hartford Whalers,4,Philadelphia Flyers,3,Richard Trottier,Brian Murphy,Hartford Whalers,Philadelphia Flyers
+1994020363,Montréal Canadiens,2,Florida Panthers,3,Stewart,Gauthier,Florida Panthers,Montréal Canadiens
+1994020364,Quebec Nordiques,6,Boston Bruins,2,Terry Gregson,Pierre Champoux,Quebec Nordiques,Boston Bruins
+1994020365,New York Rangers,2,New Jersey Devils,5,Dan Marouelli,Tim Nowak,New Jersey Devils,New York Rangers
+1994020366,Detroit Red Wings,6,Winnipeg Jets (1979),3,Walkom,R. Scapinello,Detroit Red Wings,Winnipeg Jets (1979)
+1994020367,Dallas Stars,4,Edmonton Oilers,4,Van Hellemond,Pare,Dallas Stars,Edmonton Oilers
+1994020368,Calgary Flames,4,St. Louis Blues,3,Paul Devorski,Swede Knox,Calgary Flames,St. Louis Blues
+1994020369,New York Islanders,1,New York Rangers,0,Bill McCreary,Jean Morin,New York Islanders,New York Rangers
+1994020370,Dallas Stars,2,Edmonton Oilers,1,Van Hellemond,Pare,Dallas Stars,Edmonton Oilers
+1994020371,Vancouver Canucks,1,Chicago Blackhawks,3,Paul Devorski,Randy Mitton,Chicago Blackhawks,Vancouver Canucks
+1994020372,San Jose Sharks,3,Anaheim Ducks,6,Koharski,Mike Cvik,Anaheim Ducks,San Jose Sharks
+1994020373,Pittsburgh Penguins,5,New Jersey Devils,2,Bill McCreary,Leon Stickle,Pittsburgh Penguins,New Jersey Devils
+1994020374,Buffalo Sabres,3,Florida Panthers,0,Paul Stewart,Greg Devorski,Buffalo Sabres,Florida Panthers
+1994020375,Tampa Bay Lightning,3,Boston Bruins,4,Mark Faucette,Gordon Broseker,Boston Bruins,Tampa Bay Lightning
+1994020376,Toronto Maple Leafs,3,Winnipeg Jets (1979),2,Van Massenhoven,Parker,Toronto Maple Leafs,Winnipeg Jets (1979)
+1994020377,Calgary Flames,3,Detroit Red Wings,2,Rob Shick,Swede Knox,Calgary Flames,Detroit Red Wings
+1994020378,Hartford Whalers,5,New York Islanders,1,Jackson,Murphy,Hartford Whalers,New York Islanders
+1994020379,Montréal Canadiens,3,Ottawa Senators,1,Trottier,Morin,Montréal Canadiens,Ottawa Senators
+1994020380,Quebec Nordiques,2,New York Rangers,1,Lance Roberts,Gerad Gauthier,Quebec Nordiques,New York Rangers
+1994020381,Washington Capitals,2,Philadelphia Flyers,2,Terry Gregs0n,Dan McCourt,Washington Capitals,Philadelphia Flyers
+1994020382,Winnipeg Jets (1979),3,Toronto Maple Leafs,3,Don Koharski,Swede Knox,Winnipeg Jets (1979),Toronto Maple Leafs
+1994020383,Vancouver Canucks,1,Detroit Red Wings,2,Mick McGeough,Brad Lazarowich,Detroit Red Wings,Vancouver Canucks
+1994020384,Los Angeles Kings,1,San Jose Sharks,3,Paul Devorski,Mike Cvik,San Jose Sharks,Los Angeles Kings
+1994020385,Ottawa Senators,4,Quebec Nordiques,11,Stephen Walkom,Pierre Racicot,Quebec Nordiques,Ottawa Senators
+1994020386,New York Islanders,5,New Jersey Devils,5,Dan Marouelli,Kevin Collins,New York Islanders,New Jersey Devils
+1994020387,Philadelphia Flyers,3,Buffalo Sabres,1,Dave Jackson,Leon Stickle,Philadelphia Flyers,Buffalo Sabres
+1994020388,Washington Capitals,3,Hartford Whalers,4,Bill McCreary,Dan McCourt,Hartford Whalers,Washington Capitals
+1994020389,Florida Panthers,2,Pittsburgh Penguins,0,Mark Faucette #11,Ron Asselstine,Florida Panthers,Pittsburgh Penguins
+1994020390,Chicago Blackhawks,5,Anaheim Ducks,2,Paul Stewart,Ron Finn,Chicago Blackhawks,Anaheim Ducks
+1994020391,St. Louis Blues,5,Edmonton Oilers,1,Don Van Massenhoven,Dan Schachte,St. Louis Blues,Edmonton Oilers
+1994020392,Calgary Flames,2,Vancouver Canucks,0,Don Koharski,Randy Mitton,Calgary Flames,Vancouver Canucks
+1994020393,San Jose Sharks,3,Los Angeles Kings,7,Shick,Mike Cvik,Los Angeles Kings,San Jose Sharks
+1994020394,Tampa Bay Lightning,3,Montréal Canadiens,2,Terry Gregson,Ron Asselstine,Tampa Bay Lightning,Montréal Canadiens
+1994020395,Toronto Maple Leafs,4,Edmonton Oilers,3,Stewart,Driscoll,Toronto Maple Leafs,Edmonton Oilers
+1994020396,Dallas Stars,2,St. Louis Blues,3,Van Massenhoven,McElman,St. Louis Blues,Dallas Stars
+1994020397,Boston Bruins,5,Philadelphia Flyers,1,Dan Marouelli,Jean Morin,Boston Bruins,Philadelphia Flyers
+1994020398,Pittsburgh Penguins,6,New York Islanders,3,Paul Devorski,Tim Nowak,Pittsburgh Penguins,New York Islanders
+1994020399,Buffalo Sabres,5,Quebec Nordiques,3,Rob Shick,Stephane Provost,Buffalo Sabres,Quebec Nordiques
+1994020400,Detroit Red Wings,6,Anaheim Ducks,4,D. Jackson,D. mc Court,Detroit Red Wings,Anaheim Ducks
+1994020401,Calgary Flames,3,Los Angeles Kings,5,Don Koharski,Swede Knox,Los Angeles Kings,Calgary Flames
+1994020402,San Jose Sharks,6,Winnipeg Jets (1979),5,McGeough,Wayne Bonney,San Jose Sharks,Winnipeg Jets (1979)
+1994020403,Ottawa Senators,2,New Jersey Devils,4,Dan Marouelli,Pierre Racicot,New Jersey Devils,Ottawa Senators
+1994020404,Tampa Bay Lightning,2,Washington Capitals,4,Don Van Massenhoven,Ron Asselstine,Washington Capitals,Tampa Bay Lightning
+1994020405,Florida Panthers,4,Hartford Whalers,4,Terry Gregson #4,Greg Devorski #44,Florida Panthers,Hartford Whalers
+1994020406,Chicago Blackhawks,1,St. Louis Blues,3,Andy van Hellemond,Ron Finn,St. Louis Blues,Chicago Blackhawks
+1994020407,Vancouver Canucks,5,Los Angeles Kings,2,Don Koharski,Baron Parker,Vancouver Canucks,Los Angeles Kings
+1994020408,Buffalo Sabres,7,Ottawa Senators,0,Dave Jackson,Conrad Hache,Buffalo Sabres,Ottawa Senators
+1994020409,New York Islanders,2,Boston Bruins,3,Stephen Walkom,Jean Morin,Boston Bruins,New York Islanders
+1994020410,New York Rangers,4,Quebec Nordiques,5,Mark Faucette,Ray Scapinello,Quebec Nordiques,New York Rangers
+1994020411,Philadelphia Flyers,3,New Jersey Devils,4,R. Trottier,Kevin Collins,New Jersey Devils,Philadelphia Flyers
+1994020412,Detroit Red Wings,3,Dallas Stars,2,Shick,Gauthier,Detroit Red Wings,Dallas Stars
+1994020413,Anaheim Ducks,3,Winnipeg Jets (1979),1,Mick McGeough,Shane Heyer,Anaheim Ducks,Winnipeg Jets (1979)
+1994020414,Washington Capitals,6,Quebec Nordiques,4,Walkom,McCourt,Washington Capitals,Quebec Nordiques
+1994020415,Tampa Bay Lightning,2,Hartford Whalers,0,Terry Gregson,Greg Devorski,Tampa Bay Lightning,Hartford Whalers
+1994020416,Chicago Blackhawks,3,Toronto Maple Leafs,3,Paul Devorski,Ron Finn,Chicago Blackhawks,Toronto Maple Leafs
+1994020417,St. Louis Blues,4,San Jose Sharks,1,Richard Trottier,Gerard Gauthier,St. Louis Blues,San Jose Sharks
+1994020418,Edmonton Oilers,2,Calgary Flames,6,Bill McCreary,Mike Cvik,Calgary Flames,Edmonton Oilers
+1994020419,Vancouver Canucks,6,Anaheim Ducks,1,Lance Roberts,Brad Lazarowich,Vancouver Canucks,Anaheim Ducks
+1994020420,Boston Bruins,2,New York Rangers,3,Rob Shick,Kevin Collins,New York Rangers,Boston Bruins
+1994020421,Pittsburgh Penguins,3,Philadelphia Flyers,2,Andy van Hellemond,Dan Schachte,Pittsburgh Penguins,Philadelphia Flyers
+1994020422,New York Islanders,1,Buffalo Sabres,5,Mark Faucette,Scott Driscoll,Buffalo Sabres,New York Islanders
+1994020423,New Jersey Devils,4,Montréal Canadiens,1,Van Massenhoven,McCourt,New Jersey Devils,Montréal Canadiens
+1994020424,Dallas Stars,2,Detroit Red Wings,3,Stewart,Pare,Detroit Red Wings,Dallas Stars
+1994020425,Edmonton Oilers,1,Vancouver Canucks,5,McCreary,Knox,Vancouver Canucks,Edmonton Oilers
+1994020426,Los Angeles Kings,7,Winnipeg Jets (1979),7,Roberts,Wayne Bonney,Los Angeles Kings,Winnipeg Jets (1979)
+1994020427,Quebec Nordiques,7,Ottawa Senators,5,Richard Trottier,Pierre Racicot,Quebec Nordiques,Ottawa Senators
+1994020428,Philadelphia Flyers,4,New York Rangers,2,D. Marouelli,Pat Dapuzzo,Philadelphia Flyers,New York Rangers
+1994020429,Washington Capitals,2,Boston Bruins,1,Mark Faucette,Gordon Broseker,Washington Capitals,Boston Bruins
+1994020430,Tampa Bay Lightning,1,Florida Panthers,4,Paul Stewart,Greg Devorski,Florida Panthers,Tampa Bay Lightning
+1994020431,Detroit Red Wings,3,St. Louis Blues,3,P. Devorski,L. Stickle,Detroit Red Wings,St. Louis Blues
+1994020432,Chicago Blackhawks,1,Dallas Stars,2,Don Koharski,Gerard Gauthier,Dallas Stars,Chicago Blackhawks
+1994020433,Anaheim Ducks,5,San Jose Sharks,4,Mick McGeough,Brad Lazarowich,Anaheim Ducks,San Jose Sharks
+1994020434,Ottawa Senators,4,Montréal Canadiens,5,Don Van Massenhoven,Kevin Collins,Montréal Canadiens,Ottawa Senators
+1994020435,St. Louis Blues,5,Toronto Maple Leafs,2,Andy van Hellemond,Ray Scapinello,St. Louis Blues,Toronto Maple Leafs
+1994020436,Los Angeles Kings,7,Edmonton Oilers,2,Rob Shick,Brad Lazarowich,Los Angeles Kings,Edmonton Oilers
+1994020437,Buffalo Sabres,6,Hartford Whalers,3,Mark Faucette,Ron Asselstine,Buffalo Sabres,Hartford Whalers
+1994020438,New York Islanders,4,Washington Capitals,5,Paul Devorski,Gordon Broseker,Washington Capitals,New York Islanders
+1994020439,New Jersey Devils,1,Tampa Bay Lightning,1,Richard Trottier,Scott Driscoll,New Jersey Devils,Tampa Bay Lightning
+1994020440,Calgary Flames,3,Chicago Blackhawks,2,Bill McCreary,Randy Mitton,Calgary Flames,Chicago Blackhawks
+1994020441,Vancouver Canucks,2,Dallas Stars,2,Dave Jackson,Wayne Bonney,Vancouver Canucks,Dallas Stars
+1994020442,Pittsburgh Penguins,4,Hartford Whalers,8,Lance Roberts,Stephane Provost,Hartford Whalers,Pittsburgh Penguins
+1994020443,Ottawa Senators,0,New Jersey Devils,2,Terry Gregson,Kevin Collins,New Jersey Devils,Ottawa Senators
+1994020444,Montréal Canadiens,6,Quebec Nordiques,5,Marouelli,Champoux,Montréal Canadiens,Quebec Nordiques
+1994020445,Florida Panthers,0,New York Rangers,5,Paul Stewart #22,Greg Devorski #44,New York Rangers,Florida Panthers
+1994020446,Toronto Maple Leafs,2,Detroit Red Wings,4,Bill McCreary,Mike Cvik,Detroit Red Wings,Toronto Maple Leafs
+1994020447,Winnipeg Jets (1979),4,Chicago Blackhawks,1,Bill McCreary,Dan McCourt,Winnipeg Jets (1979),Chicago Blackhawks
+1994020448,Anaheim Ducks,4,Edmonton Oilers,3,Stephen Walkom,Brad Lazarowich,Anaheim Ducks,Edmonton Oilers
+1994020449,Boston Bruins,1,Buffalo Sabres,1,Richard Trottier,Andy McElman,Boston Bruins,Buffalo Sabres
+1994020450,Quebec Nordiques,3,Montréal Canadiens,2,Terry Gregson,Kevin Collins,Quebec Nordiques,Montréal Canadiens
+1994020451,Philadelphia Flyers,5,Tampa Bay Lightning,4,Lance Roberts,S. Provost,Philadelphia Flyers,Tampa Bay Lightning
+1994020452,Los Angeles Kings,3,Dallas Stars,2,Dave Jackson,Brad Lazarowich,Los Angeles Kings,Dallas Stars
+1994020453,New York Rangers,3,New York Islanders,4,Don Koharski,Ron Asselstine,New York Islanders,New York Rangers
+1994020454,Toronto Maple Leafs,4,St. Louis Blues,6,Mark Faucette,Ron Finn,St. Louis Blues,Toronto Maple Leafs
+1994020455,Winnipeg Jets (1979),7,Vancouver Canucks,4,Andy van Hellemond,Dan McCourt,Winnipeg Jets (1979),Vancouver Canucks
+1994020456,Calgary Flames,7,Los Angeles Kings,4,Mick McGeough,Shane Heyer,Calgary Flames,Los Angeles Kings
+1994020457,San Jose Sharks,5,Edmonton Oilers,0,Walkom,Knox,San Jose Sharks,Edmonton Oilers
+1994020458,Anaheim Ducks,0,Dallas Stars,2,Rob Shick,Brad Lazarowich,Dallas Stars,Anaheim Ducks
+1994020459,Boston Bruins,5,Tampa Bay Lightning,1,Terry Gregson,Tim Nowak,Boston Bruins,Tampa Bay Lightning
+1994020460,Hartford Whalers,4,Buffalo Sabres,2,Don Van Massenhoven,Pat Dapuzzo,Hartford Whalers,Buffalo Sabres
+1994020461,Ottawa Senators,2,Quebec Nordiques,2,Blaine Angus,Devorski,Ottawa Senators,Quebec Nordiques
+1994020462,Montréal Canadiens,2,Pittsburgh Penguins,1,Devorski,Morin,Montréal Canadiens,Pittsburgh Penguins
+1994020463,New York Islanders,2,Florida Panthers,2,Lance Roberts,Ron Asselstine,New York Islanders,Florida Panthers
+1994020464,Washington Capitals,1,Philadelphia Flyers,3,Paul Stewart,Gordon Broseker,Philadelphia Flyers,Washington Capitals
+1994020465,Toronto Maple Leafs,4,Winnipeg Jets (1979),3,Richard Trottier,Mike Cvik,Toronto Maple Leafs,Winnipeg Jets (1979)
+1994020466,Calgary Flames,2,Vancouver Canucks,4,Dan Marouelli,Shane Heyer,Vancouver Canucks,Calgary Flames
+1994020467,Hartford Whalers,0,Tampa Bay Lightning,3,Paul Devorski,Pat Dapuzzo,Tampa Bay Lightning,Hartford Whalers
+1994020468,Buffalo Sabres,5,Boston Bruins,6,Bill McCreary,Ron Finn,Boston Bruins,Buffalo Sabres
+1994020469,New Jersey Devils,2,New York Rangers,0,Mark Faucette,Andy McElman,New Jersey Devils,New York Rangers
+1994020470,Chicago Blackhawks,1,Detroit Red Wings,4,Andy van Hellemond,Dan McCourt,Detroit Red Wings,Chicago Blackhawks
+1994020471,St. Louis Blues,2,Dallas Stars,3,Don Koharski,Mark Wheler,Dallas Stars,St. Louis Blues
+1994020472,Edmonton Oilers,2,San Jose Sharks,5,Dan Marouelli,Shane Heyer,San Jose Sharks,Edmonton Oilers
+1994020473,Anaheim Ducks,5,Los Angeles Kings,1,Dave Jackson,Swede Knox,Anaheim Ducks,Los Angeles Kings
+1994020474,Ottawa Senators,3,Pittsburgh Penguins,4,Richard Trottier,Greg Devorski,Pittsburgh Penguins,Ottawa Senators
+1994020475,Montréal Canadiens,2,New Jersey Devils,1,Van Massenhove,Gauthier,Montréal Canadiens,New Jersey Devils
+1994020476,Calgary Flames,8,San Jose Sharks,3,Stephen Walkom,Shane Heyer,Calgary Flames,San Jose Sharks
+1994020477,Pittsburgh Penguins,3,Washington Capitals,1,Mark Faucette,Brian Murphy,Pittsburgh Penguins,Washington Capitals
+1994020478,Tampa Bay Lightning,5,New York Islanders,2,Michael McGeough,Pat Dapuzzo,Tampa Bay Lightning,New York Islanders
+1994020479,St. Louis Blues,7,Winnipeg Jets (1979),5,Bill McCreary,Mark Wheler,St. Louis Blues,Winnipeg Jets (1979)
+1994020480,Dallas Stars,1,Detroit Red Wings,4,Van Hellemond,McCourt,Detroit Red Wings,Dallas Stars
+1994020481,Vancouver Canucks,5,Anaheim Ducks,0,Dan Marouelli,Jay Sharrers,Vancouver Canucks,Anaheim Ducks
+1994020482,Boston Bruins,0,Quebec Nordiques,4,Paul Stewart,Kevin Collins,Quebec Nordiques,Boston Bruins
+1994020483,Hartford Whalers,4,Ottawa Senators,2,Dave Jackson,Stephane Provost,Hartford Whalers,Ottawa Senators
+1994020484,New York Rangers,3,Buffalo Sabres,1,Richard Trottier,Greg Devorski,New York Rangers,Buffalo Sabres
+1994020485,Philadelphia Flyers,3,Montréal Canadiens,2,Paul Devorski,Ron Asselstine,Philadelphia Flyers,Montréal Canadiens
+1994020486,Washington Capitals,1,New Jersey Devils,2,Terry Gregson,Gordon Broseker,New Jersey Devils,Washington Capitals
+1994020487,Florida Panthers,1,New York Islanders,3,Mick McGeough #19,Pat Dapuzzo #98,New York Islanders,Florida Panthers
+1994020488,Chicago Blackhawks,2,San Jose Sharks,3,Lance Roberts,Dan Schachte,San Jose Sharks,Chicago Blackhawks
+1994020489,Los Angeles Kings,1,Calgary Flames,4,Don Koharski,Wayne Bonney,Calgary Flames,Los Angeles Kings
+1994020490,Detroit Red Wings,3,San Jose Sharks,0,Faucette,McCourt,Detroit Red Wings,San Jose Sharks
+1994020491,Winnipeg Jets (1979),5,St. Louis Blues,2,Stephen Walkom,Dan Schachte,Winnipeg Jets (1979),St. Louis Blues
+1994020492,Vancouver Canucks,4,Edmonton Oilers,6,Rob Shick,Brad Lazarowich,Edmonton Oilers,Vancouver Canucks
+1994020493,Anaheim Ducks,4,Calgary Flames,2,Don Koharski,Wayne Bonney,Anaheim Ducks,Calgary Flames
+1994020494,Hartford Whalers,4,Montréal Canadiens,3,Mike McGeough,Stephane Provost,Hartford Whalers,Montréal Canadiens
+1994020495,Quebec Nordiques,5,Buffalo Sabres,2,Dave Jackson,Pierre Champoux,Quebec Nordiques,Buffalo Sabres
+1994020496,New York Rangers,5,Boston Bruins,3,Terry Gregson,Gordon Broseker,New York Rangers,Boston Bruins
+1994020497,New Jersey Devils,6,New York Islanders,3,Paul Stewart,Greg Devorski,New Jersey Devils,New York Islanders
+1994020498,Philadelphia Flyers,3,Tampa Bay Lightning,2,R. Trottier,Ron Asselstine,Philadelphia Flyers,Tampa Bay Lightning
+1994020499,Washington Capitals,3,Florida Panthers,0,Andy van Hellemond,Jean Morin,Washington Capitals,Florida Panthers
+1994020500,Toronto Maple Leafs,2,Dallas Stars,1,Paul Devorski,Ray Scapinello,Toronto Maple Leafs,Dallas Stars
+1994020501,Chicago Blackhawks,1,Detroit Red Wings,3,Bill McCreary,Andy McElman,Detroit Red Wings,Chicago Blackhawks
+1994020502,Pittsburgh Penguins,5,Ottawa Senators,2,Don Van Massenhoven,Tim Nowak,Pittsburgh Penguins,Ottawa Senators
+1994020503,Montréal Canadiens,2,Boston Bruins,3,Gregson,Champoux,Boston Bruins,Montréal Canadiens
+1994020504,Winnipeg Jets (1979),5,Toronto Maple Leafs,1,Bill McCreary,Dan Schachte,Winnipeg Jets (1979),Toronto Maple Leafs
+1994020505,Edmonton Oilers,2,Calgary Flames,4,Dan Marouelli,Randy Mitton,Calgary Flames,Edmonton Oilers
+1994020506,Anaheim Ducks,1,Vancouver Canucks,3,Don Koharski,Wayne Bonney,Vancouver Canucks,Anaheim Ducks
+1994020507,Buffalo Sabres,2,Ottawa Senators,1,Paul Devorski,Tim Nowak,Buffalo Sabres,Ottawa Senators
+1994020508,Quebec Nordiques,4,Washington Capitals,2,Mike McGeough,Gerard Gauthier,Quebec Nordiques,Washington Capitals
+1994020509,New York Islanders,2,New York Rangers,3,Andy van Hellemond,Ron Asselstine,New York Rangers,New York Islanders
+1994020510,New Jersey Devils,3,Hartford Whalers,2,Richard Trottier,Pat Dapuzzo,New Jersey Devils,Hartford Whalers
+1994020511,Philadelphia Flyers,4,Pittsburgh Penguins,3,Paul Stewart,Jean Morin,Philadelphia Flyers,Pittsburgh Penguins
+1994020512,Florida Panthers,4,Tampa Bay Lightning,1,Mark Faucette #11,Gord Broseker #33,Florida Panthers,Tampa Bay Lightning
+1994020513,St. Louis Blues,6,Detroit Red Wings,5,Rob Shick,Dan McCourt,St. Louis Blues,Detroit Red Wings
+1994020514,Dallas Stars,2,Chicago Blackhawks,0,Kerry Fraser,Andy McElman,Dallas Stars,Chicago Blackhawks
+1994020515,San Jose Sharks,2,Los Angeles Kings,0,Roberts,Heyer,San Jose Sharks,Los Angeles Kings
+1994020516,Montréal Canadiens,5,Washington Capitals,2,Jackson,Morin,Montréal Canadiens,Washington Capitals
+1994020517,Chicago Blackhawks,1,Toronto Maple Leafs,3,Rob Shick,Randy Mitton,Toronto Maple Leafs,Chicago Blackhawks
+1994020518,Dallas Stars,2,Vancouver Canucks,2,McCreary,McElman,Dallas Stars,Vancouver Canucks
+1994020519,Winnipeg Jets (1979),5,Edmonton Oilers,6,Don Van Massenhoven,Dan McCourt,Edmonton Oilers,Winnipeg Jets (1979)
+1994020520,Calgary Flames,5,Los Angeles Kings,2,Dan Marouelli,Mike Cvik,Calgary Flames,Los Angeles Kings
+1994020521,Anaheim Ducks,3,San Jose Sharks,0,Lance Roberts,Shane Heyer,Anaheim Ducks,San Jose Sharks
+1994020522,Pittsburgh Penguins,6,New York Rangers,5,Paul Stewart,Gerard Gauthier,Pittsburgh Penguins,New York Rangers
+1994020523,Buffalo Sabres,1,Hartford Whalers,2,Mick McGeough,Ron Asselstine,Hartford Whalers,Buffalo Sabres
+1994020524,New York Islanders,5,Quebec Nordiques,2,Stephen Walkom,Pat Dapuzzo,New York Islanders,Quebec Nordiques
+1994020525,Tampa Bay Lightning,3,New Jersey Devils,2,Mark Faucette,Greg Devorski,Tampa Bay Lightning,New Jersey Devils
+1994020526,Florida Panthers,1,Philadelphia Flyers,3,Kerry Fraser #2,Gord Broseker #33,Philadelphia Flyers,Florida Panthers
+1994020527,St. Louis Blues,4,Vancouver Canucks,1,Paul Devorski,Randy Mitton,St. Louis Blues,Vancouver Canucks
+1994020528,Boston Bruins,4,Buffalo Sabres,1,Andy van Hellemond,Stephane Provost,Boston Bruins,Buffalo Sabres
+1994020529,Montréal Canadiens,4,Ottawa Senators,1,Richard Trottier,Pierre Champoux,Montréal Canadiens,Ottawa Senators
+1994020530,Toronto Maple Leafs,3,Anaheim Ducks,2,Mick McGeough,Leon Stickle,Toronto Maple Leafs,Anaheim Ducks
+1994020531,Detroit Red Wings,5,Winnipeg Jets (1979),5,Shick,McCourt,Detroit Red Wings,Winnipeg Jets (1979)
+1994020532,Chicago Blackhawks,2,St. Louis Blues,2,Paul Stewart,Shane Heyer,Chicago Blackhawks,St. Louis Blues
+1994020533,Dallas Stars,5,San Jose Sharks,5,Koharski,McElman,Dallas Stars,San Jose Sharks
+1994020534,Edmonton Oilers,2,Los Angeles Kings,0,Lance Roberts,Mike Cvik,Edmonton Oilers,Los Angeles Kings
+1994020535,Ottawa Senators,5,Boston Bruins,6,Stephen Walkom,Pierre Racicot,Boston Bruins,Ottawa Senators
+1994020536,New York Rangers,3,Hartford Whalers,2,Mark Faucette,Gerard Gauthier,New York Rangers,Hartford Whalers
+1994020537,Philadelphia Flyers,2,New York Islanders,1,Andy van Hellemond,Pat Dapuzzo,Philadelphia Flyers,New York Islanders
+1994020538,Tampa Bay Lightning,5,Quebec Nordiques,2,Kerry Fraser,Greg Devorski,Tampa Bay Lightning,Quebec Nordiques
+1994020539,Florida Panthers,1,New Jersey Devils,0,Dave Jackson #8,Gord Broseker #33,Florida Panthers,New Jersey Devils
+1994020540,Vancouver Canucks,2,Calgary Flames,2,Terry Gregson,Wayne Bonney,Vancouver Canucks,Calgary Flames
+1994020541,Washington Capitals,6,Hartford Whalers,3,Paul Devorski,Dan McCourt,Washington Capitals,Hartford Whalers
+1994020542,Detroit Red Wings,6,Anaheim Ducks,5,Trottier,Finn,Detroit Red Wings,Anaheim Ducks
+1994020543,Chicago Blackhawks,1,Winnipeg Jets (1979),2,Dan Marouelli,Shayne Heyer,Winnipeg Jets (1979),Chicago Blackhawks
+1994020544,St. Louis Blues,3,Toronto Maple Leafs,1,Don Koharski,Randy Mitton,St. Louis Blues,Toronto Maple Leafs
+1994020545,Los Angeles Kings,3,Edmonton Oilers,3,Rob Shick,Swede Knox,Los Angeles Kings,Edmonton Oilers
+1994020546,Pittsburgh Penguins,1,Washington Capitals,2,Andy van Hellemond,Dan McCourt,Washington Capitals,Pittsburgh Penguins
+1994020547,Montréal Canadiens,3,Tampa Bay Lightning,1,Walkom,Champoux,Montréal Canadiens,Tampa Bay Lightning
+1994020548,New York Islanders,2,Ottawa Senators,3,Dave Jackson,Gerard Gauthier,Ottawa Senators,New York Islanders
+1994020549,New Jersey Devils,3,Philadelphia Flyers,4,Mark Faucette,Pat Dapuzzo,Philadelphia Flyers,New Jersey Devils
+1994020550,Florida Panthers,4,Quebec Nordiques,2,Kerry Fraser #8,Greg Devorski #44,Florida Panthers,Quebec Nordiques
+1994020551,Dallas Stars,6,Toronto Maple Leafs,4,Marouelli,Pare,Dallas Stars,Toronto Maple Leafs
+1994020552,Vancouver Canucks,6,Edmonton Oilers,1,Gregson,Wayne Bonney,Vancouver Canucks,Edmonton Oilers
+1994020553,Boston Bruins,5,New York Rangers,4,Mark Faucette,Jean Morin,Boston Bruins,New York Rangers
+1994020554,Hartford Whalers,2,Pittsburgh Penguins,4,Lance Roberts,Kevin Collins,Pittsburgh Penguins,Hartford Whalers
+1994020555,Buffalo Sabres,4,Philadelphia Flyers,2,Bill McCreary,Ron Asselstine,Buffalo Sabres,Philadelphia Flyers
+1994020556,St. Louis Blues,2,Chicago Blackhawks,2,Don Van Massenhoven,Randy Mitton,St. Louis Blues,Chicago Blackhawks
+1994020557,Dallas Stars,5,Winnipeg Jets (1979),2,Trottier,Pare,Dallas Stars,Winnipeg Jets (1979)
+1994020558,San Jose Sharks,1,Detroit Red Wings,5,"Devorski, Paul",McElman,Detroit Red Wings,San Jose Sharks
+1994020559,Los Angeles Kings,2,Anaheim Ducks,2,Mike McGeough,Swede Knox,Los Angeles Kings,Anaheim Ducks
+1994020560,Ottawa Senators,1,Florida Panthers,5,Lance Roberts,Pierre Racicot,Florida Panthers,Ottawa Senators
+1994020561,Montréal Canadiens,3,Hartford Whalers,4,Koharsky,Ron Asselstine,Hartford Whalers,Montréal Canadiens
+1994020562,New York Islanders,5,Boston Bruins,3,Paul Stewart,Pierre Champoux,New York Islanders,Boston Bruins
+1994020563,New York Rangers,5,Washington Capitals,4,Bill McCreary,Bob Hodges,New York Rangers,Washington Capitals
+1994020564,Tampa Bay Lightning,1,Buffalo Sabres,3,Kerry Fraser,Greg Devorski,Buffalo Sabres,Tampa Bay Lightning
+1994020565,Anaheim Ducks,2,Calgary Flames,1,Terry Gregson,Shane Heyer,Anaheim Ducks,Calgary Flames
+1994020566,Chicago Blackhawks,4,Vancouver Canucks,3,Mark Faucette,Dan McCourt,Chicago Blackhawks,Vancouver Canucks
+1994020567,Dallas Stars,4,St. Louis Blues,8,Dave Jackson,Mark Pare,St. Louis Blues,Dallas Stars
+1994020568,Winnipeg Jets (1979),3,Edmonton Oilers,5,Paul Devorski,Mike Cvik,Edmonton Oilers,Winnipeg Jets (1979)
+1994020569,San Jose Sharks,2,Calgary Flames,3,McGeough,McElman,Calgary Flames,San Jose Sharks
+1994020570,Los Angeles Kings,5,Detroit Red Wings,1,Terry Gregson,Swede Knox,Los Angeles Kings,Detroit Red Wings
+1994020571,Boston Bruins,1,Hartford Whalers,0,Dan Marouelli,Scott Driscoll,Boston Bruins,Hartford Whalers
+1994020572,Buffalo Sabres,5,Florida Panthers,0,Stephen Walkom,Jean Morin,Buffalo Sabres,Florida Panthers
+1994020573,Quebec Nordiques,1,Montréal Canadiens,1,Paul Stewart,Stephane Provost,Quebec Nordiques,Montréal Canadiens
+1994020574,New York Rangers,6,Tampa Bay Lightning,4,Don Koharski,Bob Hodges,New York Rangers,Tampa Bay Lightning
+1994020575,New Jersey Devils,3,Pittsburgh Penguins,3,Bill McCreary,Brian Murphy,New Jersey Devils,Pittsburgh Penguins
+1994020576,Philadelphia Flyers,2,Ottawa Senators,5,R. Trottier,P. Racicot,Ottawa Senators,Philadelphia Flyers
+1994020577,Washington Capitals,6,New York Islanders,5,Kerry Fraser,Gordon Broseker,Washington Capitals,New York Islanders
+1994020578,Toronto Maple Leafs,5,Vancouver Canucks,2,Andy van Hellemond,Greg Devorski,Toronto Maple Leafs,Vancouver Canucks
+1994020579,Anaheim Ducks,2,San Jose Sharks,5,Don Van Massenhoven,Mark Wheler,San Jose Sharks,Anaheim Ducks
+1994020580,Ottawa Senators,6,Tampa Bay Lightning,1,Paul Stewart,Ron Asselstine,Ottawa Senators,Tampa Bay Lightning
+1994020581,Chicago Blackhawks,5,Dallas Stars,1,Don Koharski,Dan McCourt,Chicago Blackhawks,Dallas Stars
+1994020582,Winnipeg Jets (1979),4,Detroit Red Wings,3,Dave Jackson,Mike Cvik,Winnipeg Jets (1979),Detroit Red Wings
+1994020583,Edmonton Oilers,3,St. Louis Blues,2,Paul Devorski,Swede Knox,Edmonton Oilers,St. Louis Blues
+1994020584,Hartford Whalers,3,Philadelphia Flyers,4,Bill McCreary,Pierre Champoux,Philadelphia Flyers,Hartford Whalers
+1994020585,Pittsburgh Penguins,4,Boston Bruins,1,Terry Gregson,Pierre Racicot,Pittsburgh Penguins,Boston Bruins
+1994020586,New York Rangers,2,New York Islanders,4,Don Marouelli,Kevin Collins,New York Islanders,New York Rangers
+1994020587,New Jersey Devils,3,Florida Panthers,1,Mike McGeough,Pat Dapuzzo,New Jersey Devils,Florida Panthers
+1994020588,Washington Capitals,5,Buffalo Sabres,1,Rob Shick,Gerard Gauthier,Washington Capitals,Buffalo Sabres
+1994020589,Vancouver Canucks,3,St. Louis Blues,1,Paul Devorski,Shane Heyer,Vancouver Canucks,St. Louis Blues
+1994020590,San Jose Sharks,4,Los Angeles Kings,0,Van Massenhoven,McElman,San Jose Sharks,Los Angeles Kings
+1994020591,Ottawa Senators,4,New York Islanders,3,Mike McGeough,Dan McCourt,Ottawa Senators,New York Islanders
+1994020592,Montréal Canadiens,3,Buffalo Sabres,3,Marouelli,Ron Asselstine,Montréal Canadiens,Buffalo Sabres
+1994020593,Quebec Nordiques,4,Tampa Bay Lightning,1,Lance Roberts,Pierre Champoux,Quebec Nordiques,Tampa Bay Lightning
+1994020594,Detroit Red Wings,4,Dallas Stars,2,Andy van Hellemond,R. Finn,Detroit Red Wings,Dallas Stars
+1994020595,Calgary Flames,2,Toronto Maple Leafs,2,Kerry Fraser,Wayne Bonney,Calgary Flames,Toronto Maple Leafs
+1994020596,Edmonton Oilers,1,Winnipeg Jets (1979),5,Mark Faucette,Swede Knox,Winnipeg Jets (1979),Edmonton Oilers
+1994020597,Boston Bruins,5,Pittsburgh Penguins,2,Rob Shick,Kevin Collins,Boston Bruins,Pittsburgh Penguins
+1994020598,New Jersey Devils,4,Quebec Nordiques,2,Andy van Hellemond,Pat Dapuzzo,New Jersey Devils,Quebec Nordiques
+1994020599,Philadelphia Flyers,0,New York Rangers,2,Don Koharski,Gerard Gauthier,New York Rangers,Philadelphia Flyers
+1994020600,Florida Panthers,2,Washington Capitals,2,Paul Stewart #22,Tim Nowak #43,Florida Panthers,Washington Capitals
+1994020601,Detroit Red Wings,0,Chicago Blackhawks,4,T. Gregson,R. Finn,Chicago Blackhawks,Detroit Red Wings
+1994020602,Vancouver Canucks,6,Calgary Flames,4,Kerry Fraser,Wayne Bonney,Vancouver Canucks,Calgary Flames
+1994020603,San Jose Sharks,3,St. Louis Blues,4,Trottier,Heyer,St. Louis Blues,San Jose Sharks
+1994020604,Los Angeles Kings,2,Anaheim Ducks,1,Don Van Massenhoven,Dan Schachte,Los Angeles Kings,Anaheim Ducks
+1994020605,Boston Bruins,5,Ottawa Senators,4,Mick McGeough,Brian Murphy,Boston Bruins,Ottawa Senators
+1994020606,Buffalo Sabres,2,Montréal Canadiens,0,Don Koharski,Ron Asselstine,Buffalo Sabres,Montréal Canadiens
+1994020607,Chicago Blackhawks,3,Winnipeg Jets (1979),2,Bill McCreary,Ray Scapinello,Chicago Blackhawks,Winnipeg Jets (1979)
+1994020608,Edmonton Oilers,5,Toronto Maple Leafs,6,Dave Jackson,Swede Knox,Toronto Maple Leafs,Edmonton Oilers
+1994020609,San Jose Sharks,3,Dallas Stars,1,Shick,Heyer,San Jose Sharks,Dallas Stars
+1994020610,Anaheim Ducks,3,St. Louis Blues,5,Mark Faucette,Dan Schachte,St. Louis Blues,Anaheim Ducks
+1994020611,New York Islanders,0,Philadelphia Flyers,2,Lance Roberts,Gordon Broseker,Philadelphia Flyers,New York Islanders
+1994020612,New York Rangers,3,Florida Panthers,4,Andy van Hellemond,Dan McCourt,Florida Panthers,New York Rangers
+1994020613,Washington Capitals,7,Pittsburgh Penguins,2,Dan Marouelli,Kevin Collins,Washington Capitals,Pittsburgh Penguins
+1994020614,Winnipeg Jets (1979),1,Los Angeles Kings,2,Kerry Fraser,Mark Wheler,Los Angeles Kings,Winnipeg Jets (1979)
+1994020615,Pittsburgh Penguins,3,Florida Panthers,4,Paul Devorski,Ron Asselstine,Florida Panthers,Pittsburgh Penguins
+1994020616,Buffalo Sabres,5,New Jersey Devils,4,Paul Stewart,Gordon Broseker,Buffalo Sabres,New Jersey Devils
+1994020617,Montréal Canadiens,2,Boston Bruins,4,Van Massenhove,Gauthier,Boston Bruins,Montréal Canadiens
+1994020618,Quebec Nordiques,4,Hartford Whalers,1,Terry Gregson,Pierre Champoux,Quebec Nordiques,Hartford Whalers
+1994020619,Tampa Bay Lightning,3,Ottawa Senators,4,Mark Faucette,Tim Nowak,Ottawa Senators,Tampa Bay Lightning
+1994020620,Chicago Blackhawks,5,Los Angeles Kings,1,Dan Marouelli,Ray Scapinello,Chicago Blackhawks,Los Angeles Kings
+1994020621,St. Louis Blues,2,Detroit Red Wings,3,Mike McGeough,Ron Finn,Detroit Red Wings,St. Louis Blues
+1994020622,Calgary Flames,5,Edmonton Oilers,3,Bill McCreary,Wayne Bonney,Calgary Flames,Edmonton Oilers
+1994020623,San Jose Sharks,3,Vancouver Canucks,3,Koharski,Schachte,San Jose Sharks,Vancouver Canucks
+1994020624,Anaheim Ducks,6,Toronto Maple Leafs,1,Rob Schick,Brad Lazarowich,Anaheim Ducks,Toronto Maple Leafs

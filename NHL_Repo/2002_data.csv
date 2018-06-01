@@ -1,0 +1,1231 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2002020001,Carolina Hurricanes,1,New York Rangers,4,Mike Hasenfratz,Stephen Walkom,New York Rangers,Carolina Hurricanes
+2002020002,Colorado Avalanche,1,Dallas Stars,1,Michael McGeough,Brad Meier,Colorado Avalanche,Dallas Stars
+2002020003,Los Angeles Kings,4,Phoenix Coyotes,1,Kerry Fraser,Kelly Sutherland,Los Angeles Kings,Phoenix Coyotes
+2002020004,Buffalo Sabres,5,New York Islanders,1,Blaine Angus,Rob Martell,Buffalo Sabres,New York Islanders
+2002020005,Ottawa Senators,1,New Jersey Devils,2,Dave Jackson,Kevin Pollock,New Jersey Devils,Ottawa Senators
+2002020006,Columbus Blue Jackets,2,Chicago Blackhawks,1,Terry Gregson,Jay Sharrers,Columbus Blue Jackets,Chicago Blackhawks
+2002020007,Pittsburgh Penguins,0,Toronto Maple Leafs,6,Don Koharski,Paul Stewart,Toronto Maple Leafs,Pittsburgh Penguins
+2002020008,Florida Panthers,3,Tampa Bay Lightning,4,Marc Joannette,Don Van Massenhoven,Tampa Bay Lightning,Florida Panthers
+2002020009,St. Louis Blues,3,Anaheim Ducks,4,Chris Lee,Dan Marouelli,Anaheim Ducks,St. Louis Blues
+2002020010,Calgary Flames,0,Vancouver Canucks,3,Bill McCreary,Chris Rooney,Vancouver Canucks,Calgary Flames
+2002020011,Edmonton Oilers,2,Philadelphia Flyers,2,Rob Shick,Dean Warren,Edmonton Oilers,Philadelphia Flyers
+2002020012,San Jose Sharks,3,Detroit Red Wings,6,Kerry Fraser,Kelly Sutherland,Detroit Red Wings,San Jose Sharks
+2002020013,New York Rangers,1,Montréal Canadiens,4,Greg Kimmerly,Mike Leggo,Montréal Canadiens,New York Rangers
+2002020014,Carolina Hurricanes,5,Atlanta Thrashers,3,Stephane Auger,Stephen Walkom,Carolina Hurricanes,Atlanta Thrashers
+2002020015,Washington Capitals,5,Nashville Predators,4,Don Koharski,Scott Zelkin,Washington Capitals,Nashville Predators
+2002020016,Minnesota Wild,5,Boston Bruins,1,Terry Gregson,Jay Sharrers,Minnesota Wild,Boston Bruins
+2002020017,Dallas Stars,4,Anaheim Ducks,2,Mark Faucette,Dan O'Halloran,Dallas Stars,Anaheim Ducks
+2002020018,Toronto Maple Leafs,1,Ottawa Senators,2,Paul Devorski,Don Koharski,Ottawa Senators,Toronto Maple Leafs
+2002020019,Montréal Canadiens,1,Buffalo Sabres,6,Dave Jackson,Dennis LaRue,Buffalo Sabres,Montréal Canadiens
+2002020020,New York Islanders,1,Washington Capitals,2,Greg Kimmerly,Mike Leggo,Washington Capitals,New York Islanders
+2002020021,Atlanta Thrashers,4,Florida Panthers,5,Blaine Angus,Tim Peel,Florida Panthers,Atlanta Thrashers
+2002020022,New Jersey Devils,3,Columbus Blue Jackets,2,Eric Furlatt,Kevin Pollock,New Jersey Devils,Columbus Blue Jackets
+2002020023,Pittsburgh Penguins,6,New York Rangers,0,Rob Martell,Paul Stewart,Pittsburgh Penguins,New York Rangers
+2002020024,Tampa Bay Lightning,5,Carolina Hurricanes,1,Marc Joannette,Don Van Massenhoven,Tampa Bay Lightning,Carolina Hurricanes
+2002020025,St. Louis Blues,2,Minnesota Wild,2,Mark Faucette,Dan O'Halloran,St. Louis Blues,Minnesota Wild
+2002020026,Nashville Predators,2,Edmonton Oilers,3,Chris Lee,Dan Marouelli,Edmonton Oilers,Nashville Predators
+2002020027,Calgary Flames,4,Philadelphia Flyers,5,Bill McCreary,Chris Rooney,Philadelphia Flyers,Calgary Flames
+2002020028,Vancouver Canucks,5,San Jose Sharks,3,Rob Shick,Dean Warren,Vancouver Canucks,San Jose Sharks
+2002020029,Phoenix Coyotes,2,Dallas Stars,5,Brad Meier,Kelly Sutherland,Dallas Stars,Phoenix Coyotes
+2002020030,Los Angeles Kings,3,Detroit Red Wings,2,Shane Heyer,Michael McGeough,Los Angeles Kings,Detroit Red Wings
+2002020031,Chicago Blackhawks,3,Buffalo Sabres,0,Terry Gregson,Paul Stewart,Chicago Blackhawks,Buffalo Sabres
+2002020032,Anaheim Ducks,2,Detroit Red Wings,4,Kerry Fraser,Kelly Sutherland,Detroit Red Wings,Anaheim Ducks
+2002020033,Columbus Blue Jackets,2,Phoenix Coyotes,4,Mike Hasenfratz,Tim Peel,Phoenix Coyotes,Columbus Blue Jackets
+2002020034,Toronto Maple Leafs,4,Pittsburgh Penguins,5,Mike Leggo,Brad Watson,Pittsburgh Penguins,Toronto Maple Leafs
+2002020035,Colorado Avalanche,1,Boston Bruins,2,Bill McCreary,Chris Rooney,Boston Bruins,Colorado Avalanche
+2002020036,Vancouver Canucks,2,Calgary Flames,3,Paul Devorski,Dean Warren,Calgary Flames,Vancouver Canucks
+2002020037,Ottawa Senators,2,Phoenix Coyotes,1,Paul Stewart,Don Van Massenhoven,Ottawa Senators,Phoenix Coyotes
+2002020038,New York Islanders,4,Nashville Predators,3,Dennis LaRue,Mike Leggo,New York Islanders,Nashville Predators
+2002020039,New York Rangers,5,Toronto Maple Leafs,4,Eric Furlatt,Dan Marouelli,New York Rangers,Toronto Maple Leafs
+2002020040,Montréal Canadiens,2,Philadelphia Flyers,6,Stephane Auger,Don Koharski,Philadelphia Flyers,Montréal Canadiens
+2002020041,St. Louis Blues,2,Carolina Hurricanes,1,Mark Faucette,Scott Zelkin,St. Louis Blues,Carolina Hurricanes
+2002020042,Minnesota Wild,4,Florida Panthers,1,Rob Martell,Dan O'Halloran,Minnesota Wild,Florida Panthers
+2002020043,Dallas Stars,3,Edmonton Oilers,0,Blaine Angus,Marc Joannette,Dallas Stars,Edmonton Oilers
+2002020044,Pittsburgh Penguins,3,Atlanta Thrashers,2,Dennis LaRue,Jay Sharrers,Pittsburgh Penguins,Atlanta Thrashers
+2002020045,Vancouver Canucks,3,Boston Bruins,6,Paul Devorski,Shane Heyer,Boston Bruins,Vancouver Canucks
+2002020046,Anaheim Ducks,2,Los Angeles Kings,4,Rob Shick,Dean Warren,Los Angeles Kings,Anaheim Ducks
+2002020047,Buffalo Sabres,4,New York Rangers,4,Stephane Auger,Terry Gregson,Buffalo Sabres,New York Rangers
+2002020048,Philadelphia Flyers,3,New York Islanders,3,Kerry Fraser,Mike Hasenfratz,Philadelphia Flyers,New York Islanders
+2002020049,Carolina Hurricanes,1,Washington Capitals,2,Chris Lee,Dan Marouelli,Washington Capitals,Carolina Hurricanes
+2002020050,Toronto Maple Leafs,5,Phoenix Coyotes,3,Eric Furlatt,Bill McCreary,Toronto Maple Leafs,Phoenix Coyotes
+2002020051,Detroit Red Wings,2,Montréal Canadiens,3,Brad Watson,Scott Zelkin,Montréal Canadiens,Detroit Red Wings
+2002020052,St. Louis Blues,7,Columbus Blue Jackets,1,Blaine Angus,Marc Joannette,St. Louis Blues,Columbus Blue Jackets
+2002020053,Minnesota Wild,3,Dallas Stars,1,Mark Faucette,Dan O'Halloran,Minnesota Wild,Dallas Stars
+2002020054,Chicago Blackhawks,4,Florida Panthers,1,Don Koharski,Ian Walsh,Chicago Blackhawks,Florida Panthers
+2002020055,Calgary Flames,3,Boston Bruins,3,Shane Heyer,Kevin Pollock,Calgary Flames,Boston Bruins
+2002020056,Los Angeles Kings,1,Colorado Avalanche,4,Paul Devorski,Brad Meier,Colorado Avalanche,Los Angeles Kings
+2002020057,San Jose Sharks,4,Edmonton Oilers,3,Michael McGeough,Dean Warren,San Jose Sharks,Edmonton Oilers
+2002020058,New Jersey Devils,3,Nashville Predators,2,Mike Hasenfratz,Mike Leggo,New Jersey Devils,Nashville Predators
+2002020059,Tampa Bay Lightning,8,Atlanta Thrashers,5,Blaine Angus,Greg Kimmerly,Tampa Bay Lightning,Atlanta Thrashers
+2002020060,Anaheim Ducks,2,Vancouver Canucks,2,Michael McGeough,Brad Meier,Anaheim Ducks,Vancouver Canucks
+2002020061,Philadelphia Flyers,3,Washington Capitals,1,Stephen Walkom,Ian Walsh,Philadelphia Flyers,Washington Capitals
+2002020062,Buffalo Sabres,2,Phoenix Coyotes,3,Bill McCreary,Tim Peel,Phoenix Coyotes,Buffalo Sabres
+2002020063,Montréal Canadiens,2,Toronto Maple Leafs,2,Terry Gregson,Marc Joannette,Montréal Canadiens,Toronto Maple Leafs
+2002020064,New York Rangers,2,Nashville Predators,2,Mike Leggo,Paul Stewart,New York Rangers,Nashville Predators
+2002020065,Carolina Hurricanes,3,New Jersey Devils,1,Dennis LaRue,Dan Marouelli,Carolina Hurricanes,New Jersey Devils
+2002020066,Atlanta Thrashers,4,New York Islanders,5,Dave Jackson,Greg Kimmerly,New York Islanders,Atlanta Thrashers
+2002020067,Columbus Blue Jackets,4,Florida Panthers,1,Dan O'Halloran,Jay Sharrers,Columbus Blue Jackets,Florida Panthers
+2002020068,Pittsburgh Penguins,3,Tampa Bay Lightning,3,Stephane Auger,Brad Watson,Pittsburgh Penguins,Tampa Bay Lightning
+2002020069,St. Louis Blues,5,Dallas Stars,3,Don Koharski,Scott Zelkin,St. Louis Blues,Dallas Stars
+2002020070,Minnesota Wild,3,Detroit Red Wings,5,Mark Faucette,Kelly Sutherland,Detroit Red Wings,Minnesota Wild
+2002020071,Chicago Blackhawks,2,Calgary Flames,5,Rob Martell,Don Van Massenhoven,Calgary Flames,Chicago Blackhawks
+2002020072,Edmonton Oilers,3,Boston Bruins,4,Kevin Pollock,Dean Warren,Boston Bruins,Edmonton Oilers
+2002020073,Los Angeles Kings,2,Vancouver Canucks,2,Michael McGeough,Rob Shick,Los Angeles Kings,Vancouver Canucks
+2002020074,San Jose Sharks,1,Colorado Avalanche,3,Paul Devorski,Shane Heyer,Colorado Avalanche,San Jose Sharks
+2002020075,Dallas Stars,5,Washington Capitals,2,Blaine Angus,Dave Jackson,Dallas Stars,Washington Capitals
+2002020076,Anaheim Ducks,3,Colorado Avalanche,2,Shane Heyer,Rob Shick,Anaheim Ducks,Colorado Avalanche
+2002020077,New York Rangers,2,Tampa Bay Lightning,4,Dennis LaRue,Dan Marouelli,Tampa Bay Lightning,New York Rangers
+2002020078,Toronto Maple Leafs,1,Boston Bruins,4,Terry Gregson,Tim Peel,Boston Bruins,Toronto Maple Leafs
+2002020079,Florida Panthers,3,Atlanta Thrashers,2,Mark Faucette,Greg Kimmerly,Florida Panthers,Atlanta Thrashers
+2002020080,Detroit Red Wings,4,Calgary Flames,0,Stephane Auger,Stephen Walkom,Detroit Red Wings,Calgary Flames
+2002020081,San Jose Sharks,2,Vancouver Canucks,5,Paul Devorski,Kevin Pollock,Vancouver Canucks,San Jose Sharks
+2002020082,Buffalo Sabres,2,Philadelphia Flyers,1,Don Van Massenhoven,Scott Zelkin,Buffalo Sabres,Philadelphia Flyers
+2002020083,New York Islanders,1,Carolina Hurricanes,4,Kerry Fraser,Chris Rooney,Carolina Hurricanes,New York Islanders
+2002020084,Montréal Canadiens,3,Pittsburgh Penguins,3,Dennis LaRue,Tim Peel,Montréal Canadiens,Pittsburgh Penguins
+2002020085,Nashville Predators,1,Phoenix Coyotes,2,Mike Hasenfratz,Dave Jackson,Phoenix Coyotes,Nashville Predators
+2002020086,Minnesota Wild,4,Calgary Flames,3,Eric Furlatt,Don Koharski,Minnesota Wild,Calgary Flames
+2002020087,Colorado Avalanche,3,Edmonton Oilers,3,Paul Devorski,Kelly Sutherland,Colorado Avalanche,Edmonton Oilers
+2002020088,Ottawa Senators,4,Carolina Hurricanes,1,Blaine Angus,Dan O'Halloran,Ottawa Senators,Carolina Hurricanes
+2002020089,New York Rangers,1,Washington Capitals,2,Kerry Fraser,Chris Rooney,Washington Capitals,New York Rangers
+2002020090,Columbus Blue Jackets,2,Tampa Bay Lightning,2,Don Koharski,Bob Langdon,Columbus Blue Jackets,Tampa Bay Lightning
+2002020091,Toronto Maple Leafs,1,Florida Panthers,4,Chris Lee,Stephen Walkom,Florida Panthers,Toronto Maple Leafs
+2002020092,Atlanta Thrashers,1,New Jersey Devils,2,Eric Furlatt,Dave Jackson,New Jersey Devils,Atlanta Thrashers
+2002020093,Detroit Red Wings,3,Los Angeles Kings,3,Marc Joannette,Michael McGeough,Detroit Red Wings,Los Angeles Kings
+2002020094,Boston Bruins,2,Ottawa Senators,2,Kerry Fraser,Dean Warren,Boston Bruins,Ottawa Senators
+2002020095,New York Islanders,5,Florida Panthers,3,Brad Meier,Paul Stewart,New York Islanders,Florida Panthers
+2002020096,Philadelphia Flyers,6,Montréal Canadiens,2,Mark Faucette,Rob Martell,Philadelphia Flyers,Montréal Canadiens
+2002020097,Nashville Predators,1,San Jose Sharks,2,Greg Kimmerly,Scott Zelkin,San Jose Sharks,Nashville Predators
+2002020098,Chicago Blackhawks,2,Minnesota Wild,3,Mike Hasenfratz,Marc Joannette,Minnesota Wild,Chicago Blackhawks
+2002020099,Calgary Flames,3,Dallas Stars,3,Terry Gregson,Kelly Sutherland,Calgary Flames,Dallas Stars
+2002020100,Edmonton Oilers,1,St. Louis Blues,2,Bill McCreary,Brad Watson,St. Louis Blues,Edmonton Oilers
+2002020101,Vancouver Canucks,2,Anaheim Ducks,2,Paul Devorski,Kevin Pollock,Vancouver Canucks,Anaheim Ducks
+2002020102,Phoenix Coyotes,2,Colorado Avalanche,3,Shane Heyer,Rob Shick,Colorado Avalanche,Phoenix Coyotes
+2002020103,Buffalo Sabres,1,New Jersey Devils,2,Chris Lee,Michael McGeough,New Jersey Devils,Buffalo Sabres
+2002020104,New York Rangers,2,Los Angeles Kings,6,Mark Faucette,Brad Meier,Los Angeles Kings,New York Rangers
+2002020105,Columbus Blue Jackets,4,San Jose Sharks,5,Blaine Angus,Tim Peel,San Jose Sharks,Columbus Blue Jackets
+2002020106,Tampa Bay Lightning,3,Washington Capitals,2,Stephane Auger,Greg Kimmerly,Tampa Bay Lightning,Washington Capitals
+2002020107,Detroit Red Wings,7,Pittsburgh Penguins,3,Don Van Massenhoven,Scott Zelkin,Detroit Red Wings,Pittsburgh Penguins
+2002020108,Boston Bruins,4,Atlanta Thrashers,3,Chris Lee,Stephen Walkom,Boston Bruins,Atlanta Thrashers
+2002020109,Toronto Maple Leafs,3,New York Rangers,4,Paul Devorski,Michael McGeough,New York Rangers,Toronto Maple Leafs
+2002020110,Montréal Canadiens,5,Ottawa Senators,3,Eric Furlatt,Dan Marouelli,Montréal Canadiens,Ottawa Senators
+2002020111,New York Islanders,2,Philadelphia Flyers,6,Dave Jackson,Dean Warren,Philadelphia Flyers,New York Islanders
+2002020112,Carolina Hurricanes,3,Chicago Blackhawks,3,Rob Martell,Dan O'Halloran,Carolina Hurricanes,Chicago Blackhawks
+2002020113,New Jersey Devils,5,Tampa Bay Lightning,1,Mark Faucette,Paul Stewart,New Jersey Devils,Tampa Bay Lightning
+2002020114,Pittsburgh Penguins,5,Buffalo Sabres,2,Blaine Angus,Don Van Massenhoven,Pittsburgh Penguins,Buffalo Sabres
+2002020115,Florida Panthers,1,Washington Capitals,1,Stephane Auger,Shane Heyer,Florida Panthers,Washington Capitals
+2002020116,Nashville Predators,3,Detroit Red Wings,1,Marc Joannette,Rob Shick,Nashville Predators,Detroit Red Wings
+2002020117,Edmonton Oilers,4,Anaheim Ducks,3,Mike Hasenfratz,Brad Watson,Edmonton Oilers,Anaheim Ducks
+2002020118,Calgary Flames,3,St. Louis Blues,4,Bill McCreary,Kevin Pollock,St. Louis Blues,Calgary Flames
+2002020119,Vancouver Canucks,1,Dallas Stars,4,Terry Gregson,Kelly Sutherland,Dallas Stars,Vancouver Canucks
+2002020120,Phoenix Coyotes,1,Minnesota Wild,6,Dennis LaRue,Mike Leggo,Minnesota Wild,Phoenix Coyotes
+2002020121,Columbus Blue Jackets,5,Los Angeles Kings,1,Marc Joannette,Don Van Massenhoven,Columbus Blue Jackets,Los Angeles Kings
+2002020122,Chicago Blackhawks,3,San Jose Sharks,2,Don Koharski,Tim Peel,Chicago Blackhawks,San Jose Sharks
+2002020123,Colorado Avalanche,3,Minnesota Wild,3,Dennis LaRue,Mike Leggo,Colorado Avalanche,Minnesota Wild
+2002020124,New York Rangers,3,Phoenix Coyotes,2,Dave Jackson,Paul Stewart,New York Rangers,Phoenix Coyotes
+2002020125,Toronto Maple Leafs,5,Anaheim Ducks,2,Michael McGeough,Dean Warren,Toronto Maple Leafs,Anaheim Ducks
+2002020126,Pittsburgh Penguins,3,Washington Capitals,2,Chris Lee,Dan Marouelli,Pittsburgh Penguins,Washington Capitals
+2002020127,Florida Panthers,1,Tampa Bay Lightning,6,Shane Heyer,Rob Shick,Tampa Bay Lightning,Florida Panthers
+2002020128,Edmonton Oilers,3,Dallas Stars,4,Mike Hasenfratz,Bill McCreary,Dallas Stars,Edmonton Oilers
+2002020129,New York Islanders,2,Phoenix Coyotes,3,Chris Rooney,Paul Stewart,Phoenix Coyotes,New York Islanders
+2002020130,Philadelphia Flyers,2,Ottawa Senators,1,Blaine Angus,Kerry Fraser,Philadelphia Flyers,Ottawa Senators
+2002020131,Montréal Canadiens,2,Anaheim Ducks,2,Greg Kimmerly,Don Van Massenhoven,Montréal Canadiens,Anaheim Ducks
+2002020132,New Jersey Devils,1,Carolina Hurricanes,2,Dan Marouelli,Stephen Walkom,Carolina Hurricanes,New Jersey Devils
+2002020133,Atlanta Thrashers,0,Los Angeles Kings,4,Stephane Auger,Ian Walsh,Los Angeles Kings,Atlanta Thrashers
+2002020134,Detroit Red Wings,3,San Jose Sharks,2,Mark Faucette,Marc Joannette,Detroit Red Wings,San Jose Sharks
+2002020135,Minnesota Wild,3,Colorado Avalanche,2,Harry Dumas,Don Koharski,Minnesota Wild,Colorado Avalanche
+2002020136,Chicago Blackhawks,3,Columbus Blue Jackets,2,Rob Martell,Dan O'Halloran,Chicago Blackhawks,Columbus Blue Jackets
+2002020137,Vancouver Canucks,1,Buffalo Sabres,1,Terry Gregson,Dean Morton,Vancouver Canucks,Buffalo Sabres
+2002020138,Ottawa Senators,1,Pittsburgh Penguins,4,Bob Langdon,Michael McGeough,Pittsburgh Penguins,Ottawa Senators
+2002020139,Washington Capitals,2,Boston Bruins,7,Stephen Walkom,Scott Zelkin,Boston Bruins,Washington Capitals
+2002020140,Carolina Hurricanes,4,New York Islanders,2,Kerry Fraser,Chris Lee,Carolina Hurricanes,New York Islanders
+2002020141,Tampa Bay Lightning,3,New York Rangers,0,Rob Shick,Ian Walsh,Tampa Bay Lightning,New York Rangers
+2002020142,St. Louis Blues,7,Nashville Predators,0,Eric Furlatt,Don Koharski,St. Louis Blues,Nashville Predators
+2002020143,Dallas Stars,2,Florida Panthers,3,Mike Hasenfratz,Shane Heyer,Florida Panthers,Dallas Stars
+2002020144,Boston Bruins,1,Anaheim Ducks,4,Bob Langdon,Paul Stewart,Anaheim Ducks,Boston Bruins
+2002020145,Toronto Maple Leafs,3,Atlanta Thrashers,3,Blaine Angus,Greg Kimmerly,Toronto Maple Leafs,Atlanta Thrashers
+2002020146,Philadelphia Flyers,6,Phoenix Coyotes,2,Mark Faucette,Bill McCreary,Philadelphia Flyers,Phoenix Coyotes
+2002020147,Minnesota Wild,2,San Jose Sharks,1,Tim Peel,Brad Watson,Minnesota Wild,San Jose Sharks
+2002020148,Chicago Blackhawks,2,Los Angeles Kings,1,Mike Leggo,Kevin Pollock,Chicago Blackhawks,Los Angeles Kings
+2002020149,Calgary Flames,3,Buffalo Sabres,0,Terry Gregson,Kelly Sutherland,Calgary Flames,Buffalo Sabres
+2002020150,Vancouver Canucks,1,Colorado Avalanche,5,Dave Jackson,Dean Morton,Colorado Avalanche,Vancouver Canucks
+2002020151,Washington Capitals,3,Tampa Bay Lightning,2,Stephane Auger,Don Van Massenhoven,Washington Capitals,Tampa Bay Lightning
+2002020152,Carolina Hurricanes,2,Montréal Canadiens,2,Michael McGeough,Dean Warren,Carolina Hurricanes,Montréal Canadiens
+2002020153,Columbus Blue Jackets,4,Dallas Stars,2,Eric Furlatt,Dan O'Halloran,Columbus Blue Jackets,Dallas Stars
+2002020154,Edmonton Oilers,1,Buffalo Sabres,1,Dave Jackson,Kelly Sutherland,Edmonton Oilers,Buffalo Sabres
+2002020155,New Jersey Devils,5,Chicago Blackhawks,1,Kerry Fraser,Mike Leggo,New Jersey Devils,Chicago Blackhawks
+2002020156,Boston Bruins,3,New York Rangers,2,Chris Rooney,Paul Stewart,Boston Bruins,New York Rangers
+2002020157,Toronto Maple Leafs,2,Montréal Canadiens,5,Don Koharski,Brad Watson,Montréal Canadiens,Toronto Maple Leafs
+2002020158,Ottawa Senators,5,Detroit Red Wings,2,Rob Martell,Stephen Walkom,Ottawa Senators,Detroit Red Wings
+2002020159,New York Islanders,1,St. Louis Blues,6,Don Van Massenhoven,Scott Zelkin,St. Louis Blues,New York Islanders
+2002020160,Philadelphia Flyers,2,Washington Capitals,1,Bill McCreary,Ian Walsh,Philadelphia Flyers,Washington Capitals
+2002020161,Pittsburgh Penguins,5,Tampa Bay Lightning,3,Paul Devorski,Bob Langdon,Pittsburgh Penguins,Tampa Bay Lightning
+2002020162,Florida Panthers,1,Atlanta Thrashers,3,Mark Faucette,Marc Joannette,Atlanta Thrashers,Florida Panthers
+2002020163,Minnesota Wild,2,Vancouver Canucks,4,Tim Peel,Kevin Pollock,Vancouver Canucks,Minnesota Wild
+2002020164,Calgary Flames,4,Colorado Avalanche,4,Dennis LaRue,Brad Meier,Calgary Flames,Colorado Avalanche
+2002020165,Los Angeles Kings,6,Nashville Predators,5,Mike Hasenfratz,Kelly Sutherland,Los Angeles Kings,Nashville Predators
+2002020166,New York Rangers,2,St. Louis Blues,3,Stephane Auger,Brad Watson,St. Louis Blues,New York Rangers
+2002020167,Detroit Red Wings,3,Dallas Stars,3,Michael McGeough,Dan O'Halloran,Detroit Red Wings,Dallas Stars
+2002020168,Columbus Blue Jackets,3,Buffalo Sabres,2,Rob Martell,Dean Warren,Columbus Blue Jackets,Buffalo Sabres
+2002020169,Phoenix Coyotes,2,Nashville Predators,1,Dave Jackson,Jay Sharrers,Phoenix Coyotes,Nashville Predators
+2002020170,Chicago Blackhawks,1,Edmonton Oilers,4,Chris Lee,Dan Marouelli,Edmonton Oilers,Chicago Blackhawks
+2002020171,Anaheim Ducks,3,San Jose Sharks,4,Mike Hasenfratz,Rob Shick,San Jose Sharks,Anaheim Ducks
+2002020172,New York Islanders,2,Calgary Flames,4,Marc Joannette,Mike Leggo,Calgary Flames,New York Islanders
+2002020173,Colorado Avalanche,2,Vancouver Canucks,4,Paul Devorski,Kevin Pollock,Vancouver Canucks,Colorado Avalanche
+2002020174,Los Angeles Kings,2,Minnesota Wild,5,Shane Heyer,Kelly Sutherland,Minnesota Wild,Los Angeles Kings
+2002020175,New York Rangers,5,Edmonton Oilers,2,Kerry Fraser,Marc Joannette,New York Rangers,Edmonton Oilers
+2002020176,Carolina Hurricanes,1,Philadelphia Flyers,2,Blaine Angus,Dan Marouelli,Philadelphia Flyers,Carolina Hurricanes
+2002020177,Columbus Blue Jackets,3,Washington Capitals,4,Greg Kimmerly,Stephen Walkom,Washington Capitals,Columbus Blue Jackets
+2002020178,Toronto Maple Leafs,4,Tampa Bay Lightning,3,Terry Gregson,Dennis LaRue,Toronto Maple Leafs,Tampa Bay Lightning
+2002020179,Montréal Canadiens,2,St. Louis Blues,5,Bill McCreary,Scott Zelkin,St. Louis Blues,Montréal Canadiens
+2002020180,New Jersey Devils,2,Calgary Flames,3,Mike Leggo,Brad Watson,Calgary Flames,New Jersey Devils
+2002020181,Detroit Red Wings,0,Chicago Blackhawks,2,Rob Shick,Dean Warren,Chicago Blackhawks,Detroit Red Wings
+2002020182,San Jose Sharks,5,Los Angeles Kings,2,Brad Meier,Don Van Massenhoven,San Jose Sharks,Los Angeles Kings
+2002020183,Florida Panthers,4,Pittsburgh Penguins,3,Dan O'Halloran,Paul Stewart,Florida Panthers,Pittsburgh Penguins
+2002020184,Dallas Stars,4,Vancouver Canucks,0,Paul Devorski,Mike Hasenfratz,Dallas Stars,Vancouver Canucks
+2002020185,Colorado Avalanche,2,Ottawa Senators,5,Kevin Pollock,Don Van Massenhoven,Ottawa Senators,Colorado Avalanche
+2002020186,Anaheim Ducks,2,Nashville Predators,1,Dave Jackson,Kelly Sutherland,Anaheim Ducks,Nashville Predators
+2002020187,New York Rangers,1,Calgary Flames,0,Rob Shick,Brad Watson,New York Rangers,Calgary Flames
+2002020188,Philadelphia Flyers,0,New Jersey Devils,1,Marc Joannette,Dan Marouelli,New Jersey Devils,Philadelphia Flyers
+2002020189,Washington Capitals,2,Florida Panthers,1,Don Koharski,Chris Rooney,Washington Capitals,Florida Panthers
+2002020190,Carolina Hurricanes,2,Buffalo Sabres,0,Blaine Angus,Kerry Fraser,Carolina Hurricanes,Buffalo Sabres
+2002020191,Montréal Canadiens,3,New York Islanders,0,Mark Faucette,Dennis LaRue,Montréal Canadiens,New York Islanders
+2002020192,Detroit Red Wings,2,Boston Bruins,1,Terry Gregson,Stephen Walkom,Detroit Red Wings,Boston Bruins
+2002020193,St. Louis Blues,2,Columbus Blue Jackets,5,Tim Peel,Kevin Pollock,Columbus Blue Jackets,St. Louis Blues
+2002020194,Chicago Blackhawks,5,Atlanta Thrashers,0,Greg Kimmerly,Mike Leggo,Chicago Blackhawks,Atlanta Thrashers
+2002020195,Phoenix Coyotes,4,Minnesota Wild,1,Brad Meier,Don Van Massenhoven,Phoenix Coyotes,Minnesota Wild
+2002020196,San Jose Sharks,2,Nashville Predators,2,Rob Martell,Kelly Sutherland,San Jose Sharks,Nashville Predators
+2002020197,Ottawa Senators,2,Los Angeles Kings,3,Mark Faucette,Chris Lee,Los Angeles Kings,Ottawa Senators
+2002020198,New York Islanders,4,Edmonton Oilers,2,Bob Langdon,Rob Shick,New York Islanders,Edmonton Oilers
+2002020199,Tampa Bay Lightning,4,Pittsburgh Penguins,1,Dan O'Halloran,Paul Stewart,Tampa Bay Lightning,Pittsburgh Penguins
+2002020200,Dallas Stars,2,Toronto Maple Leafs,1,Paul Devorski,Michael McGeough,Dallas Stars,Toronto Maple Leafs
+2002020201,Colorado Avalanche,2,Anaheim Ducks,3,Dave Jackson,Rob Martell,Anaheim Ducks,Colorado Avalanche
+2002020202,Boston Bruins,7,Ottawa Senators,1,Dan Marouelli,Scott Zelkin,Boston Bruins,Ottawa Senators
+2002020203,Buffalo Sabres,4,Atlanta Thrashers,6,Blaine Angus,Dennis LaRue,Atlanta Thrashers,Buffalo Sabres
+2002020204,Montréal Canadiens,3,Los Angeles Kings,1,Chris Lee,Bill McCreary,Montréal Canadiens,Los Angeles Kings
+2002020205,Washington Capitals,4,Philadelphia Flyers,1,Stephane Auger,Stephen Walkom,Washington Capitals,Philadelphia Flyers
+2002020206,Carolina Hurricanes,3,Pittsburgh Penguins,2,Don Koharski,Chris Rooney,Carolina Hurricanes,Pittsburgh Penguins
+2002020207,Columbus Blue Jackets,6,New York Rangers,3,Kerry Fraser,Tim Peel,Columbus Blue Jackets,New York Rangers
+2002020208,St. Louis Blues,6,Toronto Maple Leafs,3,Mike Hasenfratz,Kevin Pollock,St. Louis Blues,Toronto Maple Leafs
+2002020209,New Jersey Devils,3,Edmonton Oilers,6,Marc Joannette,Brad Watson,Edmonton Oilers,New Jersey Devils
+2002020210,Tampa Bay Lightning,2,Chicago Blackhawks,3,Paul Stewart,Ian Walsh,Chicago Blackhawks,Tampa Bay Lightning
+2002020211,Florida Panthers,3,Calgary Flames,0,Dan O'Halloran,Dean Warren,Florida Panthers,Calgary Flames
+2002020212,Phoenix Coyotes,2,Vancouver Canucks,5,Michael McGeough,Don Van Massenhoven,Vancouver Canucks,Phoenix Coyotes
+2002020213,San Jose Sharks,2,Minnesota Wild,4,Shane Heyer,Kelly Sutherland,Minnesota Wild,San Jose Sharks
+2002020214,New York Islanders,3,Dallas Stars,2,Mark Faucette,Rob Shick,New York Islanders,Dallas Stars
+2002020215,Anaheim Ducks,1,Minnesota Wild,0,Rob Martell,Brad Meier,Anaheim Ducks,Minnesota Wild
+2002020216,Colorado Avalanche,3,Nashville Predators,4,Paul Devorski,Dave Jackson,Nashville Predators,Colorado Avalanche
+2002020217,Boston Bruins,6,Edmonton Oilers,1,Dan Marouelli,Chris Rooney,Boston Bruins,Edmonton Oilers
+2002020218,Atlanta Thrashers,2,Calgary Flames,1,Mike Hasenfratz,Jay Sharrers,Atlanta Thrashers,Calgary Flames
+2002020219,Tampa Bay Lightning,4,Phoenix Coyotes,2,Stephane Auger,Dean Warren,Tampa Bay Lightning,Phoenix Coyotes
+2002020220,Florida Panthers,2,Chicago Blackhawks,2,Marc Joannette,Paul Stewart,Florida Panthers,Chicago Blackhawks
+2002020221,San Jose Sharks,4,New York Rangers,5,Brad Meier,Don Van Massenhoven,New York Rangers,San Jose Sharks
+2002020222,Buffalo Sabres,3,Boston Bruins,4,Dennis LaRue,Tim Peel,Boston Bruins,Buffalo Sabres
+2002020223,New York Islanders,3,Ottawa Senators,5,Kerry Fraser,Ian Walsh,Ottawa Senators,New York Islanders
+2002020224,Carolina Hurricanes,3,Phoenix Coyotes,2,Mike Leggo,Scott Zelkin,Carolina Hurricanes,Phoenix Coyotes
+2002020225,Toronto Maple Leafs,4,Los Angeles Kings,3,Terry Gregson,Stephen Walkom,Toronto Maple Leafs,Los Angeles Kings
+2002020226,Montréal Canadiens,2,Dallas Stars,4,Mark Faucette,Eric Furlatt,Dallas Stars,Montréal Canadiens
+2002020227,New Jersey Devils,3,Anaheim Ducks,2,Chris Lee,Chris Rooney,New Jersey Devils,Anaheim Ducks
+2002020228,Detroit Red Wings,4,Nashville Predators,1,Dan O'Halloran,Rob Shick,Detroit Red Wings,Nashville Predators
+2002020229,Minnesota Wild,2,Edmonton Oilers,3,Greg Kimmerly,Brad Watson,Edmonton Oilers,Minnesota Wild
+2002020230,Colorado Avalanche,5,Columbus Blue Jackets,4,Shane Heyer,Rob Martell,Colorado Avalanche,Columbus Blue Jackets
+2002020231,Vancouver Canucks,6,St. Louis Blues,3,Dave Jackson,Michael McGeough,Vancouver Canucks,St. Louis Blues
+2002020232,Washington Capitals,1,Dallas Stars,6,Kevin Pollock,Jay Sharrers,Dallas Stars,Washington Capitals
+2002020233,Atlanta Thrashers,3,San Jose Sharks,2,Blaine Angus,Dean Warren,Atlanta Thrashers,San Jose Sharks
+2002020234,Philadelphia Flyers,1,Florida Panthers,1,Chris Lee,Dan O'Halloran,Philadelphia Flyers,Florida Panthers
+2002020235,Boston Bruins,4,New York Islanders,1,Tim Peel,Paul Stewart,Boston Bruins,New York Islanders
+2002020236,Ottawa Senators,3,Florida Panthers,2,Eric Furlatt,Don Koharski,Ottawa Senators,Florida Panthers
+2002020237,Columbus Blue Jackets,2,Anaheim Ducks,3,Paul Devorski,Scott Zelkin,Anaheim Ducks,Columbus Blue Jackets
+2002020238,Nashville Predators,1,Colorado Avalanche,3,Blaine Angus,Stephane Auger,Colorado Avalanche,Nashville Predators
+2002020239,Minnesota Wild,1,Pittsburgh Penguins,1,Greg Kimmerly,Bill McCreary,Minnesota Wild,Pittsburgh Penguins
+2002020240,Calgary Flames,1,New York Rangers,2,Dennis LaRue,Brad Meier,New York Rangers,Calgary Flames
+2002020241,Vancouver Canucks,3,Los Angeles Kings,2,Shane Heyer,Michael McGeough,Vancouver Canucks,Los Angeles Kings
+2002020242,Buffalo Sabres,2,Toronto Maple Leafs,3,Paul Devorski,Kelly Sutherland,Toronto Maple Leafs,Buffalo Sabres
+2002020243,Carolina Hurricanes,1,Philadelphia Flyers,1,Mike Leggo,Chris Rooney,Carolina Hurricanes,Philadelphia Flyers
+2002020244,New Jersey Devils,5,Montréal Canadiens,1,Tim Peel,Kevin Pollock,New Jersey Devils,Montréal Canadiens
+2002020245,Atlanta Thrashers,1,Phoenix Coyotes,5,Blaine Angus,Bob Langdon,Phoenix Coyotes,Atlanta Thrashers
+2002020246,Tampa Bay Lightning,4,San Jose Sharks,2,Stephane Auger,Dean Warren,Tampa Bay Lightning,San Jose Sharks
+2002020247,Detroit Red Wings,2,Anaheim Ducks,1,Mike Hasenfratz,Stephen Walkom,Detroit Red Wings,Anaheim Ducks
+2002020248,Chicago Blackhawks,2,Washington Capitals,2,Dan Marouelli,Scott Zelkin,Chicago Blackhawks,Washington Capitals
+2002020249,Dallas Stars,4,Colorado Avalanche,2,Greg Kimmerly,Bill McCreary,Dallas Stars,Colorado Avalanche
+2002020250,Edmonton Oilers,5,St. Louis Blues,0,Michael McGeough,Brad Meier,Edmonton Oilers,St. Louis Blues
+2002020251,Toronto Maple Leafs,1,Detroit Red Wings,2,Paul Devorski,Dan Marouelli,Detroit Red Wings,Toronto Maple Leafs
+2002020252,Montréal Canadiens,3,New Jersey Devils,1,Kerry Fraser,Marc Joannette,Montréal Canadiens,New Jersey Devils
+2002020253,Ottawa Senators,4,Buffalo Sabres,1,Tim Peel,Stephen Walkom,Ottawa Senators,Buffalo Sabres
+2002020254,Philadelphia Flyers,2,Boston Bruins,2,Dave Jackson,Kevin Pollock,Philadelphia Flyers,Boston Bruins
+2002020255,Pittsburgh Penguins,2,New York Islanders,3,Don Van Massenhoven,Ian Walsh,New York Islanders,Pittsburgh Penguins
+2002020256,Florida Panthers,3,San Jose Sharks,7,Mark Faucette,Dean Warren,San Jose Sharks,Florida Panthers
+2002020257,Nashville Predators,1,Columbus Blue Jackets,1,Mike Hasenfratz,Bob Langdon,Nashville Predators,Columbus Blue Jackets
+2002020258,Minnesota Wild,1,Washington Capitals,0,Rob Martell,Rob Shick,Minnesota Wild,Washington Capitals
+2002020259,Edmonton Oilers,1,Los Angeles Kings,4,Dennis LaRue,Michael McGeough,Los Angeles Kings,Edmonton Oilers
+2002020260,Calgary Flames,0,St. Louis Blues,1,Shane Heyer,Paul Stewart,St. Louis Blues,Calgary Flames
+2002020261,Vancouver Canucks,3,New York Rangers,1,Don Koharski,Brad Meier,Vancouver Canucks,New York Rangers
+2002020262,Carolina Hurricanes,1,Tampa Bay Lightning,2,Mike Leggo,Scott Zelkin,Tampa Bay Lightning,Carolina Hurricanes
+2002020263,Atlanta Thrashers,1,Anaheim Ducks,5,Terry Gregson,Chris Rooney,Anaheim Ducks,Atlanta Thrashers
+2002020264,Dallas Stars,3,Columbus Blue Jackets,2,Greg Kimmerly,Dan O'Halloran,Dallas Stars,Columbus Blue Jackets
+2002020265,Phoenix Coyotes,4,Colorado Avalanche,4,Bill McCreary,Brad Watson,Phoenix Coyotes,Colorado Avalanche
+2002020266,Chicago Blackhawks,4,Nashville Predators,2,Rob Shick,Kelly Sutherland,Chicago Blackhawks,Nashville Predators
+2002020267,Montréal Canadiens,5,Pittsburgh Penguins,4,Dave Jackson,Tim Peel,Montréal Canadiens,Pittsburgh Penguins
+2002020268,New York Rangers,3,Anaheim Ducks,2,Kerry Fraser,Eric Furlatt,New York Rangers,Anaheim Ducks
+2002020269,Washington Capitals,2,San Jose Sharks,3,Stephane Auger,Dan O'Halloran,San Jose Sharks,Washington Capitals
+2002020270,Carolina Hurricanes,4,Ottawa Senators,4,Craig Spada,Stephen Walkom,Carolina Hurricanes,Ottawa Senators
+2002020271,Tampa Bay Lightning,2,Philadelphia Flyers,3,Terry Gregson,Chris Rooney,Philadelphia Flyers,Tampa Bay Lightning
+2002020272,Toronto Maple Leafs,2,Boston Bruins,0,Don Van Massenhoven,Dean Warren,Toronto Maple Leafs,Boston Bruins
+2002020273,New Jersey Devils,4,Buffalo Sabres,3,Dan Marouelli,Dean Morton,New Jersey Devils,Buffalo Sabres
+2002020274,Atlanta Thrashers,4,Florida Panthers,3,Mark Faucette,Bob Langdon,Atlanta Thrashers,Florida Panthers
+2002020275,Minnesota Wild,2,Los Angeles Kings,2,Chris Lee,Bill McCreary,Minnesota Wild,Los Angeles Kings
+2002020276,Calgary Flames,0,Detroit Red Wings,5,Rob Martell,Paul Stewart,Detroit Red Wings,Calgary Flames
+2002020277,Edmonton Oilers,3,Chicago Blackhawks,1,Marc Joannette,Don Koharski,Edmonton Oilers,Chicago Blackhawks
+2002020278,Columbus Blue Jackets,3,St. Louis Blues,2,Kevin Pollock,Kelly Sutherland,Columbus Blue Jackets,St. Louis Blues
+2002020279,Pittsburgh Penguins,2,Montréal Canadiens,3,Stephen Walkom,Scott Zelkin,Montréal Canadiens,Pittsburgh Penguins
+2002020280,Florida Panthers,3,New York Islanders,3,Mike Hasenfratz,Dave Jackson,Florida Panthers,New York Islanders
+2002020281,Phoenix Coyotes,2,Dallas Stars,2,Michael McGeough,Rob Shick,Phoenix Coyotes,Dallas Stars
+2002020282,Vancouver Canucks,5,Chicago Blackhawks,3,Don Koharski,Dennis LaRue,Vancouver Canucks,Chicago Blackhawks
+2002020283,Boston Bruins,3,Carolina Hurricanes,1,Mark Faucette,Ian Walsh,Boston Bruins,Carolina Hurricanes
+2002020284,Ottawa Senators,3,Montréal Canadiens,2,Greg Kimmerly,Kevin Pollock,Ottawa Senators,Montréal Canadiens
+2002020285,Washington Capitals,3,Minnesota Wild,4,Eric Furlatt,Terry Gregson,Minnesota Wild,Washington Capitals
+2002020286,Tampa Bay Lightning,2,New York Islanders,7,Mike Hasenfratz,Dave Jackson,New York Islanders,Tampa Bay Lightning
+2002020287,New Jersey Devils,4,New York Rangers,4,Dan Marouelli,Brad Meier,New Jersey Devils,New York Rangers
+2002020288,Philadelphia Flyers,2,San Jose Sharks,2,Dan O'Halloran,Brad Watson,Philadelphia Flyers,San Jose Sharks
+2002020289,St. Louis Blues,3,Los Angeles Kings,2,Mike Leggo,Scott Zelkin,St. Louis Blues,Los Angeles Kings
+2002020290,Colorado Avalanche,1,Nashville Predators,1,Shane Heyer,Paul Stewart,Colorado Avalanche,Nashville Predators
+2002020291,Calgary Flames,1,Edmonton Oilers,3,Marc Joannette,Don Koharski,Edmonton Oilers,Calgary Flames
+2002020292,Buffalo Sabres,5,Columbus Blue Jackets,4,Chris Rooney,Kelly Sutherland,Buffalo Sabres,Columbus Blue Jackets
+2002020293,Atlanta Thrashers,1,Pittsburgh Penguins,3,Eric Furlatt,Terry Gregson,Pittsburgh Penguins,Atlanta Thrashers
+2002020294,Phoenix Coyotes,3,Florida Panthers,3,Dennis LaRue,Chris Lee,Phoenix Coyotes,Florida Panthers
+2002020295,Vancouver Canucks,4,Detroit Red Wings,1,Marc Joannette,Don Van Massenhoven,Vancouver Canucks,Detroit Red Wings
+2002020296,Anaheim Ducks,0,Dallas Stars,4,Rob Shick,Dean Warren,Dallas Stars,Anaheim Ducks
+2002020297,New York Rangers,1,New York Islanders,3,Dan Marouelli,Tim Peel,New York Islanders,New York Rangers
+2002020298,Minnesota Wild,4,Nashville Predators,2,Blaine Angus,Mike Leggo,Minnesota Wild,Nashville Predators
+2002020299,Boston Bruins,4,Buffalo Sabres,1,Jay Sharrers,Stephen Walkom,Boston Bruins,Buffalo Sabres
+2002020300,Toronto Maple Leafs,6,Philadelphia Flyers,0,Don Koharski,Kelly Sutherland,Toronto Maple Leafs,Philadelphia Flyers
+2002020301,Montréal Canadiens,3,Carolina Hurricanes,7,Greg Kimmerly,Bill McCreary,Carolina Hurricanes,Montréal Canadiens
+2002020302,Ottawa Senators,5,Columbus Blue Jackets,2,Brad Meier,Chris Rooney,Ottawa Senators,Columbus Blue Jackets
+2002020303,Washington Capitals,6,Atlanta Thrashers,3,Mike Hasenfratz,Dave Jackson,Washington Capitals,Atlanta Thrashers
+2002020304,New Jersey Devils,1,Tampa Bay Lightning,3,Mark Faucette,Eric Furlatt,Tampa Bay Lightning,New Jersey Devils
+2002020305,Pittsburgh Penguins,4,San Jose Sharks,1,Brad Watson,Scott Zelkin,Pittsburgh Penguins,San Jose Sharks
+2002020306,St. Louis Blues,1,Colorado Avalanche,3,Kerry Fraser,Kevin Pollock,Colorado Avalanche,St. Louis Blues
+2002020307,Calgary Flames,3,Chicago Blackhawks,1,Marc Joannette,Don Van Massenhoven,Calgary Flames,Chicago Blackhawks
+2002020308,Edmonton Oilers,1,Detroit Red Wings,1,Paul Devorski,Paul Stewart,Edmonton Oilers,Detroit Red Wings
+2002020309,Los Angeles Kings,2,Dallas Stars,0,Rob Shick,Dean Warren,Los Angeles Kings,Dallas Stars
+2002020310,Anaheim Ducks,4,Florida Panthers,4,Chris Lee,Dean Warren,Anaheim Ducks,Florida Panthers
+2002020311,Ottawa Senators,2,Toronto Maple Leafs,0,Stephane Auger,Don Koharski,Ottawa Senators,Toronto Maple Leafs
+2002020312,New York Rangers,3,Carolina Hurricanes,1,Jay Sharrers,Brad Watson,New York Rangers,Carolina Hurricanes
+2002020313,Detroit Red Wings,4,Edmonton Oilers,5,Dan O'Halloran,Chris Rooney,Edmonton Oilers,Detroit Red Wings
+2002020314,St. Louis Blues,1,San Jose Sharks,4,Rob Martell,Kevin Pollock,San Jose Sharks,St. Louis Blues
+2002020315,Minnesota Wild,1,Vancouver Canucks,2,Blaine Angus,Chris Lee,Vancouver Canucks,Minnesota Wild
+2002020316,Dallas Stars,5,Phoenix Coyotes,1,Shane Heyer,Mike Leggo,Dallas Stars,Phoenix Coyotes
+2002020317,Colorado Avalanche,1,Chicago Blackhawks,0,Paul Devorski,Don Van Massenhoven,Colorado Avalanche,Chicago Blackhawks
+2002020318,Boston Bruins,7,Calgary Flames,2,Jay Sharrers,Brad Watson,Boston Bruins,Calgary Flames
+2002020319,Toronto Maple Leafs,5,Washington Capitals,4,Stephane Auger,Stephen Walkom,Toronto Maple Leafs,Washington Capitals
+2002020320,Montréal Canadiens,3,Atlanta Thrashers,2,Terry Gregson,Marc Joannette,Montréal Canadiens,Atlanta Thrashers
+2002020321,Buffalo Sabres,1,Tampa Bay Lightning,1,Dave Jackson,Craig Spada,Buffalo Sabres,Tampa Bay Lightning
+2002020322,New York Islanders,2,Ottawa Senators,2,Brad Watson,Scott Zelkin,New York Islanders,Ottawa Senators
+2002020323,Washington Capitals,4,Calgary Flames,2,Chris Rooney,Stephen Walkom,Washington Capitals,Calgary Flames
+2002020324,Carolina Hurricanes,2,Vancouver Canucks,3,Mike Leggo,Dan O'Halloran,Vancouver Canucks,Carolina Hurricanes
+2002020325,Columbus Blue Jackets,1,Edmonton Oilers,3,Greg Kimmerly,Kevin Pollock,Edmonton Oilers,Columbus Blue Jackets
+2002020326,Pittsburgh Penguins,7,Philadelphia Flyers,2,Eric Furlatt,Bill McCreary,Pittsburgh Penguins,Philadelphia Flyers
+2002020327,Detroit Red Wings,3,New Jersey Devils,2,Dennis LaRue,Dan Marouelli,Detroit Red Wings,New Jersey Devils
+2002020328,Nashville Predators,4,San Jose Sharks,2,Shane Heyer,Tim Peel,Nashville Predators,San Jose Sharks
+2002020329,Dallas Stars,5,Minnesota Wild,0,Paul Devorski,Brad Meier,Dallas Stars,Minnesota Wild
+2002020330,Colorado Avalanche,4,St. Louis Blues,4,Blaine Angus,Kerry Fraser,Colorado Avalanche,St. Louis Blues
+2002020331,Anaheim Ducks,2,Phoenix Coyotes,2,Kelly Sutherland,Don Van Massenhoven,Anaheim Ducks,Phoenix Coyotes
+2002020332,Los Angeles Kings,2,Florida Panthers,5,Rob Martell,Rob Shick,Florida Panthers,Los Angeles Kings
+2002020333,Atlanta Thrashers,7,New York Rangers,4,Brad Meier,Tim Peel,Atlanta Thrashers,New York Rangers
+2002020334,Phoenix Coyotes,2,Chicago Blackhawks,4,Rob Martell,Kelly Sutherland,Chicago Blackhawks,Phoenix Coyotes
+2002020335,Boston Bruins,4,Montréal Canadiens,2,Terry Gregson,Scott Zelkin,Boston Bruins,Montréal Canadiens
+2002020336,Philadelphia Flyers,0,Toronto Maple Leafs,3,Mike Hasenfratz,Brad Watson,Toronto Maple Leafs,Philadelphia Flyers
+2002020337,Minnesota Wild,2,Colorado Avalanche,2,Eric Furlatt,Paul Stewart,Minnesota Wild,Colorado Avalanche
+2002020338,Anaheim Ducks,2,Los Angeles Kings,2,Kerry Fraser,Don Van Massenhoven,Anaheim Ducks,Los Angeles Kings
+2002020339,Buffalo Sabres,1,Pittsburgh Penguins,4,Stephane Auger,Mark Faucette,Pittsburgh Penguins,Buffalo Sabres
+2002020340,New York Islanders,2,Columbus Blue Jackets,4,Dave Jackson,Ian Walsh,Columbus Blue Jackets,New York Islanders
+2002020341,Washington Capitals,2,Ottawa Senators,6,Greg Kimmerly,Bill McCreary,Ottawa Senators,Washington Capitals
+2002020342,Carolina Hurricanes,6,Detroit Red Wings,4,Dan Marouelli,Dan O'Halloran,Carolina Hurricanes,Detroit Red Wings
+2002020343,Tampa Bay Lightning,3,Vancouver Canucks,5,Marc Joannette,Tim Peel,Vancouver Canucks,Tampa Bay Lightning
+2002020344,St. Louis Blues,7,Calgary Flames,2,Dennis LaRue,Mike Leggo,St. Louis Blues,Calgary Flames
+2002020345,Nashville Predators,1,New Jersey Devils,2,Michael McGeough,Chris Rooney,New Jersey Devils,Nashville Predators
+2002020346,Dallas Stars,3,New York Rangers,3,Paul Devorski,Shane Heyer,Dallas Stars,New York Rangers
+2002020347,Toronto Maple Leafs,3,Buffalo Sabres,1,Mark Faucette,Kevin Pollock,Toronto Maple Leafs,Buffalo Sabres
+2002020348,Montréal Canadiens,1,Philadelphia Flyers,2,Dave Jackson,Dean Warren,Philadelphia Flyers,Montréal Canadiens
+2002020349,Ottawa Senators,4,New York Islanders,2,Stephane Auger,Terry Gregson,Ottawa Senators,New York Islanders
+2002020350,Columbus Blue Jackets,2,Carolina Hurricanes,4,Eric Furlatt,Dennis LaRue,Carolina Hurricanes,Columbus Blue Jackets
+2002020351,Pittsburgh Penguins,2,Boston Bruins,3,Bill McCreary,Chris Rooney,Boston Bruins,Pittsburgh Penguins
+2002020352,Florida Panthers,2,Vancouver Canucks,5,Marc Joannette,Greg Kimmerly,Vancouver Canucks,Florida Panthers
+2002020353,St. Louis Blues,4,New Jersey Devils,5,Paul Devorski,Don Koharski,New Jersey Devils,St. Louis Blues
+2002020354,Nashville Predators,5,Dallas Stars,2,Dan Marouelli,Brad Meier,Nashville Predators,Dallas Stars
+2002020355,Edmonton Oilers,1,Colorado Avalanche,0,Blaine Angus,Rob Shick,Edmonton Oilers,Colorado Avalanche
+2002020356,Los Angeles Kings,4,Chicago Blackhawks,1,Kerry Fraser,Rob Martell,Los Angeles Kings,Chicago Blackhawks
+2002020357,San Jose Sharks,2,Phoenix Coyotes,3,Kelly Sutherland,Don Van Massenhoven,Phoenix Coyotes,San Jose Sharks
+2002020358,New York Rangers,4,Tampa Bay Lightning,3,Stephen Walkom,Scott Zelkin,New York Rangers,Tampa Bay Lightning
+2002020359,Atlanta Thrashers,5,Washington Capitals,4,Michael McGeough,Brad Meier,Atlanta Thrashers,Washington Capitals
+2002020360,Detroit Red Wings,4,Calgary Flames,2,Dennis LaRue,Paul Stewart,Detroit Red Wings,Calgary Flames
+2002020361,Anaheim Ducks,3,Chicago Blackhawks,2,Rob Martell,Kelly Sutherland,Anaheim Ducks,Chicago Blackhawks
+2002020362,Philadelphia Flyers,0,New Jersey Devils,1,Dan Marouelli,Scott Zelkin,New Jersey Devils,Philadelphia Flyers
+2002020363,Boston Bruins,0,St. Louis Blues,4,Mark Faucette,Kevin Pollock,St. Louis Blues,Boston Bruins
+2002020364,New York Islanders,2,Vancouver Canucks,1,Don Koharski,Chris Rooney,New York Islanders,Vancouver Canucks
+2002020365,New York Rangers,5,Columbus Blue Jackets,3,Stephen Walkom,Ian Walsh,New York Rangers,Columbus Blue Jackets
+2002020366,Toronto Maple Leafs,4,Tampa Bay Lightning,3,Terry Gregson,Dean Morton,Toronto Maple Leafs,Tampa Bay Lightning
+2002020367,Pittsburgh Penguins,1,Washington Capitals,4,Eric Furlatt,Michael McGeough,Washington Capitals,Pittsburgh Penguins
+2002020368,Detroit Red Wings,2,Anaheim Ducks,1,Blaine Angus,Dean Warren,Detroit Red Wings,Anaheim Ducks
+2002020369,Nashville Predators,1,Carolina Hurricanes,2,Craig Spada,Paul Stewart,Carolina Hurricanes,Nashville Predators
+2002020370,Colorado Avalanche,1,Calgary Flames,2,Rob Martell,Rob Shick,Calgary Flames,Colorado Avalanche
+2002020371,Edmonton Oilers,2,Minnesota Wild,1,Mike Hasenfratz,Brad Watson,Edmonton Oilers,Minnesota Wild
+2002020372,Phoenix Coyotes,2,San Jose Sharks,3,Stephane Auger,Bill McCreary,San Jose Sharks,Phoenix Coyotes
+2002020373,Buffalo Sabres,4,Anaheim Ducks,0,Greg Kimmerly,Bob Langdon,Buffalo Sabres,Anaheim Ducks
+2002020374,New Jersey Devils,2,Vancouver Canucks,3,Mark Faucette,Mike Leggo,Vancouver Canucks,New Jersey Devils
+2002020375,Florida Panthers,4,Carolina Hurricanes,2,Blaine Angus,Paul Devorski,Florida Panthers,Carolina Hurricanes
+2002020376,Chicago Blackhawks,1,Ottawa Senators,0,Terry Gregson,Tim Peel,Chicago Blackhawks,Ottawa Senators
+2002020377,Dallas Stars,5,Montréal Canadiens,1,Bill McCreary,Brad Meier,Dallas Stars,Montréal Canadiens
+2002020378,Boston Bruins,4,Atlanta Thrashers,3,Stephen Walkom,Ian Walsh,Boston Bruins,Atlanta Thrashers
+2002020379,Tampa Bay Lightning,3,Edmonton Oilers,2,Paul Devorski,Eric Furlatt,Tampa Bay Lightning,Edmonton Oilers
+2002020380,Philadelphia Flyers,3,New York Rangers,2,Michael McGeough,Kevin Pollock,Philadelphia Flyers,New York Rangers
+2002020381,St. Louis Blues,2,Ottawa Senators,2,Tim Peel,Paul Stewart,St. Louis Blues,Ottawa Senators
+2002020382,Phoenix Coyotes,3,Detroit Red Wings,5,Stephane Auger,Rob Shick,Detroit Red Wings,Phoenix Coyotes
+2002020383,Calgary Flames,1,Minnesota Wild,1,Mike Hasenfratz,Brad Watson,Calgary Flames,Minnesota Wild
+2002020384,Los Angeles Kings,2,Nashville Predators,3,Marc Joannette,Jay Sharrers,Nashville Predators,Los Angeles Kings
+2002020385,New York Islanders,4,Toronto Maple Leafs,2,Don Koharski,Kevin Pollock,New York Islanders,Toronto Maple Leafs
+2002020386,New York Rangers,1,Buffalo Sabres,4,Mike Leggo,Don Van Massenhoven,Buffalo Sabres,New York Rangers
+2002020387,Washington Capitals,7,Atlanta Thrashers,6,Dave Jackson,Scott Zelkin,Washington Capitals,Atlanta Thrashers
+2002020388,Carolina Hurricanes,0,Florida Panthers,2,Terry Gregson,Chris Rooney,Florida Panthers,Carolina Hurricanes
+2002020389,New Jersey Devils,3,Pittsburgh Penguins,1,Stephen Walkom,Ian Walsh,New Jersey Devils,Pittsburgh Penguins
+2002020390,Chicago Blackhawks,3,Anaheim Ducks,4,Shane Heyer,Rob Martell,Anaheim Ducks,Chicago Blackhawks
+2002020391,Dallas Stars,3,Detroit Red Wings,3,Eric Furlatt,Bill McCreary,Dallas Stars,Detroit Red Wings
+2002020392,Colorado Avalanche,7,Montréal Canadiens,6,Mike Hasenfratz,Tim Peel,Colorado Avalanche,Montréal Canadiens
+2002020393,San Jose Sharks,3,Columbus Blue Jackets,2,Marc Joannette,Dean Warren,San Jose Sharks,Columbus Blue Jackets
+2002020394,Boston Bruins,3,Tampa Bay Lightning,2,Dean Morton,Paul Stewart,Boston Bruins,Tampa Bay Lightning
+2002020395,Philadelphia Flyers,1,St. Louis Blues,3,Tom Kowal,Michael McGeough,St. Louis Blues,Philadelphia Flyers
+2002020396,Buffalo Sabres,4,Washington Capitals,3,Mark Faucette,Chris Rooney,Buffalo Sabres,Washington Capitals
+2002020397,Toronto Maple Leafs,1,New Jersey Devils,0,Dan Marouelli,Rob Martell,Toronto Maple Leafs,New Jersey Devils
+2002020398,Ottawa Senators,5,Carolina Hurricanes,2,Kerry Fraser,Mike Leggo,Ottawa Senators,Carolina Hurricanes
+2002020399,Pittsburgh Penguins,3,New York Islanders,6,Shane Heyer,Don Van Massenhoven,New York Islanders,Pittsburgh Penguins
+2002020400,Florida Panthers,0,Edmonton Oilers,4,Blaine Angus,Paul Devorski,Edmonton Oilers,Florida Panthers
+2002020401,Vancouver Canucks,2,Minnesota Wild,4,Dean Warren,Brad Watson,Minnesota Wild,Vancouver Canucks
+2002020402,Phoenix Coyotes,2,Montréal Canadiens,4,Chris Lee,Bill McCreary,Montréal Canadiens,Phoenix Coyotes
+2002020403,Los Angeles Kings,2,Columbus Blue Jackets,4,Jay Sharrers,Kelly Sutherland,Columbus Blue Jackets,Los Angeles Kings
+2002020404,San Jose Sharks,2,Nashville Predators,4,Stephane Auger,Marc Joannette,Nashville Predators,San Jose Sharks
+2002020405,New York Rangers,1,Boston Bruins,4,Michael McGeough,Kevin Pollock,Boston Bruins,New York Rangers
+2002020406,Atlanta Thrashers,0,Edmonton Oilers,3,Terry Gregson,Greg Kimmerly,Edmonton Oilers,Atlanta Thrashers
+2002020407,Detroit Red Wings,4,St. Louis Blues,3,Blaine Angus,Chris Rooney,Detroit Red Wings,St. Louis Blues
+2002020408,Chicago Blackhawks,3,Tampa Bay Lightning,1,Dennis LaRue,Dan O'Halloran,Chicago Blackhawks,Tampa Bay Lightning
+2002020409,Anaheim Ducks,3,Nashville Predators,0,Stephane Auger,Jay Sharrers,Anaheim Ducks,Nashville Predators
+2002020410,Phoenix Coyotes,3,Columbus Blue Jackets,3,Greg Kimmerly,Chris Lee,Phoenix Coyotes,Columbus Blue Jackets
+2002020411,Vancouver Canucks,1,Calgary Flames,2,Marc Joannette,Brad Watson,Calgary Flames,Vancouver Canucks
+2002020412,Boston Bruins,2,Montréal Canadiens,4,Kerry Fraser,Tom Kowal,Montréal Canadiens,Boston Bruins
+2002020413,Buffalo Sabres,2,Ottawa Senators,4,Shane Heyer,Mike Leggo,Ottawa Senators,Buffalo Sabres
+2002020414,New York Islanders,2,Chicago Blackhawks,3,Dennis LaRue,Scott Zelkin,Chicago Blackhawks,New York Islanders
+2002020415,Toronto Maple Leafs,4,Pittsburgh Penguins,2,Don Koharski,Chris Rooney,Toronto Maple Leafs,Pittsburgh Penguins
+2002020416,New Jersey Devils,2,St. Louis Blues,0,Eric Furlatt,Kevin Pollock,New Jersey Devils,St. Louis Blues
+2002020417,Florida Panthers,2,Philadelphia Flyers,5,Mark Faucette,Mike Hasenfratz,Philadelphia Flyers,Florida Panthers
+2002020418,Nashville Predators,0,Los Angeles Kings,3,Michael McGeough,Kelly Sutherland,Los Angeles Kings,Nashville Predators
+2002020419,Minnesota Wild,5,Tampa Bay Lightning,3,Dan O'Halloran,Dean Warren,Minnesota Wild,Tampa Bay Lightning
+2002020420,New York Rangers,3,Chicago Blackhawks,4,Dave Jackson,Dennis LaRue,Chicago Blackhawks,New York Rangers
+2002020421,Dallas Stars,0,Los Angeles Kings,3,Mark Faucette,Greg Kimmerly,Los Angeles Kings,Dallas Stars
+2002020422,Edmonton Oilers,4,Carolina Hurricanes,1,Brad Meier,Brad Watson,Edmonton Oilers,Carolina Hurricanes
+2002020423,Phoenix Coyotes,4,Atlanta Thrashers,2,Jay Sharrers,Rob Shick,Phoenix Coyotes,Atlanta Thrashers
+2002020424,Vancouver Canucks,3,Colorado Avalanche,1,Tim Peel,Stephen Walkom,Vancouver Canucks,Colorado Avalanche
+2002020425,Anaheim Ducks,3,Washington Capitals,0,Stephane Auger,Marc Joannette,Anaheim Ducks,Washington Capitals
+2002020426,Boston Bruins,2,Ottawa Senators,5,Mike Leggo,Kevin Pollock,Ottawa Senators,Boston Bruins
+2002020427,Philadelphia Flyers,2,Toronto Maple Leafs,1,Don Koharski,Dan Marouelli,Philadelphia Flyers,Toronto Maple Leafs
+2002020428,Columbus Blue Jackets,4,New Jersey Devils,2,Paul Stewart,Kelly Sutherland,Columbus Blue Jackets,New Jersey Devils
+2002020429,Montréal Canadiens,2,Tampa Bay Lightning,3,Dave Jackson,Tom Kowal,Tampa Bay Lightning,Montréal Canadiens
+2002020430,Detroit Red Wings,2,Minnesota Wild,3,Terry Gregson,Shane Heyer,Minnesota Wild,Detroit Red Wings
+2002020431,Nashville Predators,2,St. Louis Blues,2,Eric Furlatt,Don Van Massenhoven,Nashville Predators,St. Louis Blues
+2002020432,Calgary Flames,3,Carolina Hurricanes,4,Brad Meier,Stephen Walkom,Carolina Hurricanes,Calgary Flames
+2002020433,San Jose Sharks,5,Pittsburgh Penguins,2,Stephane Auger,Dean Warren,San Jose Sharks,Pittsburgh Penguins
+2002020434,Buffalo Sabres,1,Chicago Blackhawks,1,Terry Gregson,Paul Stewart,Buffalo Sabres,Chicago Blackhawks
+2002020435,Florida Panthers,3,New York Islanders,3,Eric Furlatt,Don Van Massenhoven,Florida Panthers,New York Islanders
+2002020436,Dallas Stars,3,Atlanta Thrashers,1,Mark Faucette,Rob Martell,Dallas Stars,Atlanta Thrashers
+2002020437,Edmonton Oilers,4,Colorado Avalanche,3,Tim Peel,Rob Shick,Edmonton Oilers,Colorado Avalanche
+2002020438,Phoenix Coyotes,3,Washington Capitals,4,Stephane Auger,Marc Joannette,Washington Capitals,Phoenix Coyotes
+2002020439,Toronto Maple Leafs,4,New York Rangers,1,Bill McCreary,Paul Stewart,Toronto Maple Leafs,New York Rangers
+2002020440,Montréal Canadiens,4,Boston Bruins,2,Blaine Angus,Don Koharski,Montréal Canadiens,Boston Bruins
+2002020441,Ottawa Senators,4,New Jersey Devils,3,Tom Kowal,Dan Marouelli,Ottawa Senators,New Jersey Devils
+2002020442,Philadelphia Flyers,2,Buffalo Sabres,0,Kerry Fraser,Mike Leggo,Philadelphia Flyers,Buffalo Sabres
+2002020443,Tampa Bay Lightning,4,New York Islanders,3,Mark Faucette,Eric Furlatt,Tampa Bay Lightning,New York Islanders
+2002020444,Detroit Red Wings,6,Columbus Blue Jackets,4,Dennis LaRue,Chris Rooney,Detroit Red Wings,Columbus Blue Jackets
+2002020445,St. Louis Blues,4,Atlanta Thrashers,0,Mike Hasenfratz,Shane Heyer,St. Louis Blues,Atlanta Thrashers
+2002020446,Nashville Predators,3,Minnesota Wild,1,Jay Sharrers,Kelly Sutherland,Nashville Predators,Minnesota Wild
+2002020447,Calgary Flames,1,Colorado Avalanche,3,Brad Meier,Rob Shick,Colorado Avalanche,Calgary Flames
+2002020448,Edmonton Oilers,3,Vancouver Canucks,6,Stephen Walkom,Scott Zelkin,Vancouver Canucks,Edmonton Oilers
+2002020449,Los Angeles Kings,3,Pittsburgh Penguins,2,Marc Joannette,Brad Watson,Los Angeles Kings,Pittsburgh Penguins
+2002020450,San Jose Sharks,2,Washington Capitals,0,Rob Martell,Dan O'Halloran,San Jose Sharks,Washington Capitals
+2002020451,Minnesota Wild,2,Carolina Hurricanes,1,Paul Devorski,Mike Hasenfratz,Minnesota Wild,Carolina Hurricanes
+2002020452,Phoenix Coyotes,2,Los Angeles Kings,1,Tim Peel,Brad Watson,Phoenix Coyotes,Los Angeles Kings
+2002020453,Chicago Blackhawks,0,Dallas Stars,5,Shane Heyer,Dennis LaRue,Dallas Stars,Chicago Blackhawks
+2002020454,Anaheim Ducks,5,Pittsburgh Penguins,0,Marc Joannette,Rob Martell,Anaheim Ducks,Pittsburgh Penguins
+2002020455,Vancouver Canucks,3,Calgary Flames,3,Dave Jackson,Scott Zelkin,Vancouver Canucks,Calgary Flames
+2002020456,Ottawa Senators,2,Montréal Canadiens,3,Blaine Angus,Paul Stewart,Montréal Canadiens,Ottawa Senators
+2002020457,New York Rangers,2,San Jose Sharks,1,Mike Leggo,Bill McCreary,New York Rangers,San Jose Sharks
+2002020458,Atlanta Thrashers,1,Toronto Maple Leafs,0,Jay Sharrers,Don Van Massenhoven,Atlanta Thrashers,Toronto Maple Leafs
+2002020459,Colorado Avalanche,2,Washington Capitals,2,Dan O'Halloran,Rob Shick,Colorado Avalanche,Washington Capitals
+2002020460,New York Islanders,2,Detroit Red Wings,2,Blaine Angus,Paul Devorski,New York Islanders,Detroit Red Wings
+2002020461,Philadelphia Flyers,2,Dallas Stars,2,Bill McCreary,Jay Sharrers,Philadelphia Flyers,Dallas Stars
+2002020462,Montréal Canadiens,1,San Jose Sharks,3,Eric Furlatt,Terry Gregson,San Jose Sharks,Montréal Canadiens
+2002020463,Nashville Predators,0,Calgary Flames,3,Chris Lee,Don Van Massenhoven,Calgary Flames,Nashville Predators
+2002020464,Minnesota Wild,4,Edmonton Oilers,3,Mike Hasenfratz,Greg Kimmerly,Minnesota Wild,Edmonton Oilers
+2002020465,Chicago Blackhawks,3,Vancouver Canucks,2,Kerry Fraser,Dan O'Halloran,Chicago Blackhawks,Vancouver Canucks
+2002020466,Phoenix Coyotes,5,Pittsburgh Penguins,2,Tim Peel,Stephen Walkom,Phoenix Coyotes,Pittsburgh Penguins
+2002020467,Los Angeles Kings,6,St. Louis Blues,2,Dave Jackson,Kelly Sutherland,Los Angeles Kings,St. Louis Blues
+2002020468,Buffalo Sabres,4,Boston Bruins,2,Michael McGeough,Paul Stewart,Buffalo Sabres,Boston Bruins
+2002020469,Carolina Hurricanes,1,Tampa Bay Lightning,1,Bob Langdon,Dan Marouelli,Carolina Hurricanes,Tampa Bay Lightning
+2002020470,New Jersey Devils,0,Ottawa Senators,3,Paul Devorski,Terry Gregson,Ottawa Senators,New Jersey Devils
+2002020471,Atlanta Thrashers,1,Philadelphia Flyers,3,Rob Martell,Dean Warren,Philadelphia Flyers,Atlanta Thrashers
+2002020472,Florida Panthers,2,Toronto Maple Leafs,2,Mark Faucette,Chris Lee,Florida Panthers,Toronto Maple Leafs
+2002020473,Anaheim Ducks,5,St. Louis Blues,2,Brad Watson,Scott Zelkin,Anaheim Ducks,St. Louis Blues
+2002020474,Ottawa Senators,9,San Jose Sharks,3,Stephane Auger,Eric Furlatt,Ottawa Senators,San Jose Sharks
+2002020475,New York Rangers,1,Montréal Canadiens,3,Bob Langdon,Bill McCreary,Montréal Canadiens,New York Rangers
+2002020476,Tampa Bay Lightning,1,Toronto Maple Leafs,2,Chris Lee,Rob Martell,Toronto Maple Leafs,Tampa Bay Lightning
+2002020477,Columbus Blue Jackets,3,Calgary Flames,0,Greg Kimmerly,Paul Stewart,Columbus Blue Jackets,Calgary Flames
+2002020478,Pittsburgh Penguins,1,New Jersey Devils,3,Mike Hasenfratz,Dan O'Halloran,New Jersey Devils,Pittsburgh Penguins
+2002020479,Washington Capitals,5,Boston Bruins,3,Blaine Angus,Paul Devorski,Washington Capitals,Boston Bruins
+2002020480,Detroit Red Wings,1,Dallas Stars,1,Kevin Pollock,Don Van Massenhoven,Detroit Red Wings,Dallas Stars
+2002020481,Nashville Predators,1,Vancouver Canucks,3,Dan Marouelli,Jay Sharrers,Vancouver Canucks,Nashville Predators
+2002020482,Minnesota Wild,2,New York Islanders,4,Kerry Fraser,Chris Rooney,New York Islanders,Minnesota Wild
+2002020483,Colorado Avalanche,2,Edmonton Oilers,1,Kelly Sutherland,Stephen Walkom,Colorado Avalanche,Edmonton Oilers
+2002020484,Los Angeles Kings,5,Anaheim Ducks,4,Dave Jackson,Brad Watson,Los Angeles Kings,Anaheim Ducks
+2002020485,Buffalo Sabres,0,Florida Panthers,3,Mike Hasenfratz,Don Koharski,Florida Panthers,Buffalo Sabres
+2002020486,Atlanta Thrashers,2,Carolina Hurricanes,3,Rob Martell,Dean Warren,Carolina Hurricanes,Atlanta Thrashers
+2002020487,Chicago Blackhawks,3,Columbus Blue Jackets,1,Michael McGeough,Scott Zelkin,Chicago Blackhawks,Columbus Blue Jackets
+2002020488,Phoenix Coyotes,3,St. Louis Blues,3,Shane Heyer,Tim Peel,Phoenix Coyotes,St. Louis Blues
+2002020489,New Jersey Devils,5,Dallas Stars,3,Blaine Angus,Bill McCreary,New Jersey Devils,Dallas Stars
+2002020490,Philadelphia Flyers,1,Ottawa Senators,3,Dan Marouelli,Kevin Pollock,Ottawa Senators,Philadelphia Flyers
+2002020491,Boston Bruins,3,Florida Panthers,3,Paul Stewart,Ian Walsh,Boston Bruins,Florida Panthers
+2002020492,Toronto Maple Leafs,3,San Jose Sharks,3,Don Koharski,Don Van Massenhoven,Toronto Maple Leafs,San Jose Sharks
+2002020493,Montréal Canadiens,6,Buffalo Sabres,2,Stephane Auger,Marc Joannette,Montréal Canadiens,Buffalo Sabres
+2002020494,New York Islanders,1,Washington Capitals,3,Paul Devorski,Terry Gregson,Washington Capitals,New York Islanders
+2002020495,Pittsburgh Penguins,2,Calgary Flames,0,Michael McGeough,Dean Warren,Pittsburgh Penguins,Calgary Flames
+2002020496,Tampa Bay Lightning,2,Nashville Predators,2,Mark Faucette,Chris Lee,Tampa Bay Lightning,Nashville Predators
+2002020497,Detroit Red Wings,3,New York Rangers,2,Kerry Fraser,Greg Kimmerly,Detroit Red Wings,New York Rangers
+2002020498,Colorado Avalanche,4,Minnesota Wild,2,Dennis LaRue,Mike Leggo,Colorado Avalanche,Minnesota Wild
+2002020499,Vancouver Canucks,4,Edmonton Oilers,3,Dave Jackson,Stephen Walkom,Vancouver Canucks,Edmonton Oilers
+2002020500,Carolina Hurricanes,1,Dallas Stars,0,Dan Marouelli,Dan O'Halloran,Carolina Hurricanes,Dallas Stars
+2002020501,Chicago Blackhawks,3,Los Angeles Kings,1,Kerry Fraser,Mike Hasenfratz,Chicago Blackhawks,Los Angeles Kings
+2002020502,Anaheim Ducks,4,Phoenix Coyotes,0,Shane Heyer,Rob Shick,Anaheim Ducks,Phoenix Coyotes
+2002020503,Boston Bruins,5,San Jose Sharks,2,Stephane Auger,Paul Stewart,Boston Bruins,San Jose Sharks
+2002020504,Ottawa Senators,2,Philadelphia Flyers,2,Blaine Angus,Don Van Massenhoven,Ottawa Senators,Philadelphia Flyers
+2002020505,New York Islanders,3,Montréal Canadiens,1,Ian Walsh,Scott Zelkin,New York Islanders,Montréal Canadiens
+2002020506,New York Rangers,2,New Jersey Devils,2,Dan O'Halloran,Kevin Pollock,New York Rangers,New Jersey Devils
+2002020507,Washington Capitals,3,Tampa Bay Lightning,0,Chris Rooney,Dean Warren,Washington Capitals,Tampa Bay Lightning
+2002020508,Columbus Blue Jackets,0,Detroit Red Wings,1,Bob Langdon,Tim Peel,Detroit Red Wings,Columbus Blue Jackets
+2002020509,Toronto Maple Leafs,5,Atlanta Thrashers,1,Dave Jackson,Dean Morton,Toronto Maple Leafs,Atlanta Thrashers
+2002020510,Pittsburgh Penguins,5,Buffalo Sabres,2,Paul Devorski,Harry Dumas,Pittsburgh Penguins,Buffalo Sabres
+2002020511,Florida Panthers,2,Nashville Predators,3,Chris Lee,Rob Martell,Nashville Predators,Florida Panthers
+2002020512,St. Louis Blues,5,Los Angeles Kings,0,Mike Hasenfratz,Don Koharski,St. Louis Blues,Los Angeles Kings
+2002020513,Minnesota Wild,2,Calgary Flames,3,Greg Kimmerly,Michael McGeough,Calgary Flames,Minnesota Wild
+2002020514,Colorado Avalanche,5,Vancouver Canucks,3,Mike Leggo,Brad Watson,Colorado Avalanche,Vancouver Canucks
+2002020515,Buffalo Sabres,2,Ottawa Senators,3,Bill McCreary,Dean Morton,Ottawa Senators,Buffalo Sabres
+2002020516,New York Rangers,1,Pittsburgh Penguins,6,Stephen Walkom,Ian Walsh,Pittsburgh Penguins,New York Rangers
+2002020517,Detroit Red Wings,4,Columbus Blue Jackets,2,Dan O'Halloran,Craig Spada,Detroit Red Wings,Columbus Blue Jackets
+2002020518,St. Louis Blues,3,Colorado Avalanche,2,Don Koharski,Tim Peel,St. Louis Blues,Colorado Avalanche
+2002020519,Nashville Predators,3,Dallas Stars,1,Mike Hasenfratz,Scott Zelkin,Nashville Predators,Dallas Stars
+2002020520,Chicago Blackhawks,2,Minnesota Wild,2,Terry Gregson,Rob Martell,Chicago Blackhawks,Minnesota Wild
+2002020521,Edmonton Oilers,2,Vancouver Canucks,4,Marc Joannette,Dennis LaRue,Vancouver Canucks,Edmonton Oilers
+2002020522,Los Angeles Kings,4,Phoenix Coyotes,3,Mark Faucette,Shane Heyer,Los Angeles Kings,Phoenix Coyotes
+2002020523,San Jose Sharks,4,Anaheim Ducks,1,Kelly Sutherland,Brad Watson,San Jose Sharks,Anaheim Ducks
+2002020524,Ottawa Senators,3,Montréal Canadiens,2,Dave Jackson,Dean Warren,Ottawa Senators,Montréal Canadiens
+2002020525,Washington Capitals,3,New Jersey Devils,2,Dan Marouelli,Chris Rooney,Washington Capitals,New Jersey Devils
+2002020526,Carolina Hurricanes,3,Atlanta Thrashers,5,Rob Martell,Scott Zelkin,Atlanta Thrashers,Carolina Hurricanes
+2002020527,Tampa Bay Lightning,5,Boston Bruins,2,Eric Furlatt,Don Koharski,Tampa Bay Lightning,Boston Bruins
+2002020528,Florida Panthers,0,Dallas Stars,4,Harry Dumas,Kerry Fraser,Dallas Stars,Florida Panthers
+2002020529,Colorado Avalanche,1,Philadelphia Flyers,2,Jay Sharrers,Rob Shick,Philadelphia Flyers,Colorado Avalanche
+2002020530,Calgary Flames,3,Toronto Maple Leafs,4,Greg Kimmerly,Michael McGeough,Toronto Maple Leafs,Calgary Flames
+2002020531,Buffalo Sabres,3,Minnesota Wild,4,Terry Gregson,Dean Warren,Minnesota Wild,Buffalo Sabres
+2002020532,New York Islanders,3,Carolina Hurricanes,0,Tim Peel,Paul Stewart,New York Islanders,Carolina Hurricanes
+2002020533,Pittsburgh Penguins,3,Montréal Canadiens,2,Kevin Pollock,Stephen Walkom,Pittsburgh Penguins,Montréal Canadiens
+2002020534,Atlanta Thrashers,0,Boston Bruins,1,Mike Hasenfratz,Chris Rooney,Boston Bruins,Atlanta Thrashers
+2002020535,Columbus Blue Jackets,1,St. Louis Blues,6,Blaine Angus,Dan O'Halloran,St. Louis Blues,Columbus Blue Jackets
+2002020536,New Jersey Devils,2,Washington Capitals,1,Dan Marouelli,Dean Morton,New Jersey Devils,Washington Capitals
+2002020537,Florida Panthers,1,New York Rangers,2,Harry Dumas,Kerry Fraser,New York Rangers,Florida Panthers
+2002020538,Nashville Predators,2,Detroit Red Wings,4,Paul Devorski,Rob Martell,Detroit Red Wings,Nashville Predators
+2002020539,Phoenix Coyotes,4,Philadelphia Flyers,0,Rob Shick,Kelly Sutherland,Phoenix Coyotes,Philadelphia Flyers
+2002020540,Edmonton Oilers,3,Toronto Maple Leafs,2,Michael McGeough,Brad Watson,Edmonton Oilers,Toronto Maple Leafs
+2002020541,Vancouver Canucks,7,Anaheim Ducks,3,Marc Joannette,Dennis LaRue,Vancouver Canucks,Anaheim Ducks
+2002020542,San Jose Sharks,3,Chicago Blackhawks,3,Mark Faucette,Mike Leggo,San Jose Sharks,Chicago Blackhawks
+2002020543,Tampa Bay Lightning,5,New York Rangers,3,Eric Furlatt,Don Koharski,Tampa Bay Lightning,New York Rangers
+2002020544,Colorado Avalanche,6,Los Angeles Kings,1,Greg Kimmerly,Jay Sharrers,Colorado Avalanche,Los Angeles Kings
+2002020545,St. Louis Blues,5,Columbus Blue Jackets,2,Blaine Angus,Scott Zelkin,St. Louis Blues,Columbus Blue Jackets
+2002020546,Calgary Flames,4,Anaheim Ducks,2,Chris Lee,Michael McGeough,Calgary Flames,Anaheim Ducks
+2002020547,Dallas Stars,2,Detroit Red Wings,2,Shane Heyer,Don Van Massenhoven,Dallas Stars,Detroit Red Wings
+2002020548,Boston Bruins,0,New Jersey Devils,1,Dan Marouelli,Dean Morton,New Jersey Devils,Boston Bruins
+2002020549,New York Islanders,2,Florida Panthers,1,Dave Jackson,Paul Stewart,New York Islanders,Florida Panthers
+2002020550,Washington Capitals,4,Buffalo Sabres,3,Paul Devorski,Dan O'Halloran,Washington Capitals,Buffalo Sabres
+2002020551,Pittsburgh Penguins,2,Atlanta Thrashers,3,Kevin Pollock,Chris Rooney,Atlanta Thrashers,Pittsburgh Penguins
+2002020552,Nashville Predators,3,Ottawa Senators,2,Stephane Auger,Scott Zelkin,Nashville Predators,Ottawa Senators
+2002020553,Phoenix Coyotes,4,Edmonton Oilers,3,Greg Kimmerly,Jay Sharrers,Phoenix Coyotes,Edmonton Oilers
+2002020554,Los Angeles Kings,0,Chicago Blackhawks,2,Dennis LaRue,Mike Leggo,Chicago Blackhawks,Los Angeles Kings
+2002020555,San Jose Sharks,2,Philadelphia Flyers,1,Mark Faucette,Marc Joannette,San Jose Sharks,Philadelphia Flyers
+2002020556,Minnesota Wild,4,Anaheim Ducks,1,Michael McGeough,Kelly Sutherland,Minnesota Wild,Anaheim Ducks
+2002020557,Buffalo Sabres,0,New York Islanders,1,Craig Spada,Don Van Massenhoven,New York Islanders,Buffalo Sabres
+2002020558,Carolina Hurricanes,0,New York Rangers,2,Tim Peel,Kevin Pollock,New York Rangers,Carolina Hurricanes
+2002020559,Tampa Bay Lightning,3,Ottawa Senators,6,Harry Dumas,Kerry Fraser,Ottawa Senators,Tampa Bay Lightning
+2002020560,Detroit Red Wings,5,St. Louis Blues,1,Dan O'Halloran,Stephen Walkom,Detroit Red Wings,St. Louis Blues
+2002020561,Columbus Blue Jackets,5,Pittsburgh Penguins,2,Rob Martell,Chris Rooney,Columbus Blue Jackets,Pittsburgh Penguins
+2002020562,Calgary Flames,1,Montréal Canadiens,1,Rob Shick,Brad Watson,Calgary Flames,Montréal Canadiens
+2002020563,Dallas Stars,4,Edmonton Oilers,1,Mike Hasenfratz,Shane Heyer,Dallas Stars,Edmonton Oilers
+2002020564,Vancouver Canucks,3,Toronto Maple Leafs,5,Chris Lee,Bill McCreary,Toronto Maple Leafs,Vancouver Canucks
+2002020565,New Jersey Devils,1,Florida Panthers,2,Dean Morton,Paul Stewart,Florida Panthers,New Jersey Devils
+2002020566,Washington Capitals,1,Phoenix Coyotes,2,Paul Devorski,Dean Warren,Phoenix Coyotes,Washington Capitals
+2002020567,Nashville Predators,3,Colorado Avalanche,7,Blaine Angus,Eric Furlatt,Colorado Avalanche,Nashville Predators
+2002020568,Ottawa Senators,8,Atlanta Thrashers,1,Brad Meier,Stephen Walkom,Ottawa Senators,Atlanta Thrashers
+2002020569,St. Louis Blues,1,Chicago Blackhawks,4,Don Koharski,Kelly Sutherland,Chicago Blackhawks,St. Louis Blues
+2002020570,Colorado Avalanche,1,Florida Panthers,4,Terry Gregson,Shane Heyer,Florida Panthers,Colorado Avalanche
+2002020571,Calgary Flames,4,Tampa Bay Lightning,1,Greg Kimmerly,Dennis LaRue,Calgary Flames,Tampa Bay Lightning
+2002020572,Edmonton Oilers,1,Minnesota Wild,2,Chris Lee,Rob Shick,Minnesota Wild,Edmonton Oilers
+2002020573,Vancouver Canucks,3,Montréal Canadiens,2,Mark Faucette,Mike Leggo,Vancouver Canucks,Montréal Canadiens
+2002020574,Los Angeles Kings,1,Philadelphia Flyers,4,Marc Joannette,Bill McCreary,Philadelphia Flyers,Los Angeles Kings
+2002020575,San Jose Sharks,1,Dallas Stars,3,Stephane Auger,Brad Watson,Dallas Stars,San Jose Sharks
+2002020576,Buffalo Sabres,6,Carolina Hurricanes,3,Blaine Angus,Chris Rooney,Buffalo Sabres,Carolina Hurricanes
+2002020577,New York Islanders,8,Boston Bruins,4,Kerry Fraser,Rob Martell,New York Islanders,Boston Bruins
+2002020578,Washington Capitals,2,Columbus Blue Jackets,2,Dean Morton,Dean Warren,Washington Capitals,Columbus Blue Jackets
+2002020579,New Jersey Devils,2,Toronto Maple Leafs,0,Paul Devorski,Scott Zelkin,New Jersey Devils,Toronto Maple Leafs
+2002020580,Atlanta Thrashers,1,Pittsburgh Penguins,4,Eric Furlatt,Mike Hasenfratz,Pittsburgh Penguins,Atlanta Thrashers
+2002020581,Detroit Red Wings,1,Phoenix Coyotes,4,Dan Marouelli,Kevin Pollock,Phoenix Coyotes,Detroit Red Wings
+2002020582,Anaheim Ducks,0,Philadelphia Flyers,1,Stephane Auger,Bill McCreary,Philadelphia Flyers,Anaheim Ducks
+2002020583,Boston Bruins,2,Carolina Hurricanes,4,Brad Meier,Paul Stewart,Carolina Hurricanes,Boston Bruins
+2002020584,Toronto Maple Leafs,2,New Jersey Devils,1,Dan Marouelli,Chris Rooney,Toronto Maple Leafs,New Jersey Devils
+2002020585,Ottawa Senators,1,Buffalo Sabres,2,Dan O'Halloran,Kevin Pollock,Buffalo Sabres,Ottawa Senators
+2002020586,New York Rangers,2,Washington Capitals,2,Kerry Fraser,Rob Martell,New York Rangers,Washington Capitals
+2002020587,Columbus Blue Jackets,2,Phoenix Coyotes,0,Jay Sharrers,Kelly Sutherland,Columbus Blue Jackets,Phoenix Coyotes
+2002020588,Pittsburgh Penguins,3,New York Islanders,2,Paul Devorski,Don Koharski,Pittsburgh Penguins,New York Islanders
+2002020589,St. Louis Blues,5,Tampa Bay Lightning,1,Terry Gregson,Mike Hasenfratz,St. Louis Blues,Tampa Bay Lightning
+2002020590,Nashville Predators,3,Chicago Blackhawks,3,Tim Peel,Dean Warren,Nashville Predators,Chicago Blackhawks
+2002020591,Calgary Flames,3,Minnesota Wild,2,Chris Lee,Rob Shick,Calgary Flames,Minnesota Wild
+2002020592,Edmonton Oilers,5,Montréal Canadiens,4,Marc Joannette,Greg Kimmerly,Edmonton Oilers,Montréal Canadiens
+2002020593,Vancouver Canucks,3,Florida Panthers,2,Dave Jackson,Mike Leggo,Vancouver Canucks,Florida Panthers
+2002020594,Los Angeles Kings,2,Dallas Stars,3,Mark Faucette,Bill McCreary,Dallas Stars,Los Angeles Kings
+2002020595,San Jose Sharks,1,Colorado Avalanche,6,Don Van Massenhoven,Brad Watson,Colorado Avalanche,San Jose Sharks
+2002020596,Atlanta Thrashers,4,Philadelphia Flyers,5,Don Koharski,Dean Warren,Philadelphia Flyers,Atlanta Thrashers
+2002020597,Chicago Blackhawks,3,Detroit Red Wings,4,Blaine Angus,Terry Gregson,Detroit Red Wings,Chicago Blackhawks
+2002020598,Anaheim Ducks,1,Dallas Stars,1,Stephane Auger,Don Van Massenhoven,Anaheim Ducks,Dallas Stars
+2002020599,Columbus Blue Jackets,1,Nashville Predators,5,Michael McGeough,Jay Sharrers,Nashville Predators,Columbus Blue Jackets
+2002020600,New York Rangers,2,Ottawa Senators,5,Brad Meier,Stephen Walkom,Ottawa Senators,New York Rangers
+2002020601,Minnesota Wild,2,Los Angeles Kings,3,Chris Lee,Dan O'Halloran,Los Angeles Kings,Minnesota Wild
+2002020602,San Jose Sharks,5,Edmonton Oilers,5,Bill McCreary,Kelly Sutherland,San Jose Sharks,Edmonton Oilers
+2002020603,New York Islanders,6,Pittsburgh Penguins,3,Brad Meier,Scott Zelkin,New York Islanders,Pittsburgh Penguins
+2002020604,Philadelphia Flyers,3,Buffalo Sabres,2,Rob Martell,Kevin Pollock,Philadelphia Flyers,Buffalo Sabres
+2002020605,Tampa Bay Lightning,1,Detroit Red Wings,0,Dan Marouelli,Ian Walsh,Tampa Bay Lightning,Detroit Red Wings
+2002020606,Toronto Maple Leafs,5,Boston Bruins,2,Paul Devorski,Dean Warren,Toronto Maple Leafs,Boston Bruins
+2002020607,New Jersey Devils,3,Montréal Canadiens,2,Kerry Fraser,Tim Peel,New Jersey Devils,Montréal Canadiens
+2002020608,Atlanta Thrashers,3,Carolina Hurricanes,3,Eric Furlatt,Mike Hasenfratz,Atlanta Thrashers,Carolina Hurricanes
+2002020609,Nashville Predators,2,St. Louis Blues,1,Michael McGeough,Craig Spada,Nashville Predators,St. Louis Blues
+2002020610,Dallas Stars,7,Los Angeles Kings,4,Blaine Angus,Paul Stewart,Dallas Stars,Los Angeles Kings
+2002020611,Colorado Avalanche,2,Calgary Flames,4,Terry Gregson,Dave Jackson,Calgary Flames,Colorado Avalanche
+2002020612,Florida Panthers,1,Detroit Red Wings,2,Eric Furlatt,Dan Marouelli,Detroit Red Wings,Florida Panthers
+2002020613,New York Rangers,5,Carolina Hurricanes,1,Tim Peel,Rob Shick,New York Rangers,Carolina Hurricanes
+2002020614,Minnesota Wild,1,Columbus Blue Jackets,2,Don Koharski,Don Van Massenhoven,Columbus Blue Jackets,Minnesota Wild
+2002020615,Chicago Blackhawks,0,Phoenix Coyotes,0,Dan O'Halloran,Craig Spada,Chicago Blackhawks,Phoenix Coyotes
+2002020616,Vancouver Canucks,6,Ottawa Senators,4,Stephane Auger,Bill McCreary,Vancouver Canucks,Ottawa Senators
+2002020617,Anaheim Ducks,0,Edmonton Oilers,1,Shane Heyer,Dennis LaRue,Edmonton Oilers,Anaheim Ducks
+2002020618,New York Islanders,0,Philadelphia Flyers,4,Brad Meier,Rob Shick,Philadelphia Flyers,New York Islanders
+2002020619,Tampa Bay Lightning,2,Atlanta Thrashers,3,Mark Faucette,Eric Furlatt,Atlanta Thrashers,Tampa Bay Lightning
+2002020620,Montréal Canadiens,3,New York Rangers,2,Paul Devorski,Marc Joannette,Montréal Canadiens,New York Rangers
+2002020621,Pittsburgh Penguins,2,Toronto Maple Leafs,4,Stephen Walkom,Scott Zelkin,Toronto Maple Leafs,Pittsburgh Penguins
+2002020622,Dallas Stars,4,Chicago Blackhawks,3,Blaine Angus,Kevin Pollock,Dallas Stars,Chicago Blackhawks
+2002020623,Colorado Avalanche,3,Anaheim Ducks,5,Shane Heyer,Dave Jackson,Anaheim Ducks,Colorado Avalanche
+2002020624,Calgary Flames,0,Ottawa Senators,1,Terry Gregson,Chris Lee,Ottawa Senators,Calgary Flames
+2002020625,Los Angeles Kings,4,Edmonton Oilers,5,Paul Stewart,Brad Watson,Edmonton Oilers,Los Angeles Kings
+2002020626,San Jose Sharks,1,St. Louis Blues,4,Stephane Auger,Dennis LaRue,St. Louis Blues,San Jose Sharks
+2002020627,Buffalo Sabres,4,Boston Bruins,2,Greg Kimmerly,Mike Leggo,Buffalo Sabres,Boston Bruins
+2002020628,Carolina Hurricanes,1,Washington Capitals,4,Mark Faucette,Michael McGeough,Washington Capitals,Carolina Hurricanes
+2002020629,Florida Panthers,1,New Jersey Devils,2,Mike Hasenfratz,Dan Marouelli,New Jersey Devils,Florida Panthers
+2002020630,Minnesota Wild,2,Phoenix Coyotes,1,Don Koharski,Don Van Massenhoven,Minnesota Wild,Phoenix Coyotes
+2002020631,Vancouver Canucks,2,Columbus Blue Jackets,3,Terry Gregson,Kelly Sutherland,Columbus Blue Jackets,Vancouver Canucks
+2002020632,Philadelphia Flyers,3,Detroit Red Wings,2,Kerry Fraser,Tim Peel,Philadelphia Flyers,Detroit Red Wings
+2002020633,Pittsburgh Penguins,1,New York Rangers,3,Paul Devorski,Scott Zelkin,New York Rangers,Pittsburgh Penguins
+2002020634,Dallas Stars,6,Colorado Avalanche,3,Kevin Pollock,Paul Stewart,Dallas Stars,Colorado Avalanche
+2002020635,Boston Bruins,6,Toronto Maple Leafs,2,Jay Sharrers,Stephen Walkom,Boston Bruins,Toronto Maple Leafs
+2002020636,Montréal Canadiens,2,Buffalo Sabres,3,Brad Meier,Dean Warren,Buffalo Sabres,Montréal Canadiens
+2002020637,New York Islanders,7,Atlanta Thrashers,3,Greg Kimmerly,Michael McGeough,New York Islanders,Atlanta Thrashers
+2002020638,Washington Capitals,12,Florida Panthers,2,Dan O'Halloran,Rob Shick,Washington Capitals,Florida Panthers
+2002020639,Tampa Bay Lightning,3,New Jersey Devils,3,Eric Furlatt,Dan Marouelli,Tampa Bay Lightning,New Jersey Devils
+2002020640,Nashville Predators,4,Phoenix Coyotes,3,Blaine Angus,Stephane Auger,Nashville Predators,Phoenix Coyotes
+2002020641,Calgary Flames,2,Columbus Blue Jackets,7,Dave Jackson,Brad Watson,Columbus Blue Jackets,Calgary Flames
+2002020642,Edmonton Oilers,0,Ottawa Senators,2,Shane Heyer,Kelly Sutherland,Ottawa Senators,Edmonton Oilers
+2002020643,Los Angeles Kings,1,St. Louis Blues,2,Dennis LaRue,Chris Rooney,St. Louis Blues,Los Angeles Kings
+2002020644,San Jose Sharks,3,Vancouver Canucks,0,Rob Martell,Don Van Massenhoven,San Jose Sharks,Vancouver Canucks
+2002020645,Carolina Hurricanes,2,Colorado Avalanche,3,Mark Faucette,Mike Hasenfratz,Colorado Avalanche,Carolina Hurricanes
+2002020646,Chicago Blackhawks,2,Nashville Predators,0,Blaine Angus,Mike Leggo,Chicago Blackhawks,Nashville Predators
+2002020647,Anaheim Ducks,2,St. Louis Blues,1,Rob Martell,Chris Rooney,Anaheim Ducks,St. Louis Blues
+2002020648,Boston Bruins,1,Pittsburgh Penguins,2,Stephen Walkom,Dean Warren,Pittsburgh Penguins,Boston Bruins
+2002020649,Montréal Canadiens,4,Calgary Flames,2,Stephane Auger,Brad Meier,Montréal Canadiens,Calgary Flames
+2002020650,New York Rangers,5,Toronto Maple Leafs,1,Greg Kimmerly,Bill McCreary,New York Rangers,Toronto Maple Leafs
+2002020651,Philadelphia Flyers,4,Atlanta Thrashers,7,Dan O'Halloran,Kevin Pollock,Atlanta Thrashers,Philadelphia Flyers
+2002020652,Washington Capitals,4,New York Islanders,3,Paul Devorski,Tim Peel,Washington Capitals,New York Islanders
+2002020653,New Jersey Devils,6,Florida Panthers,2,Kerry Fraser,Rob Shick,New Jersey Devils,Florida Panthers
+2002020654,Detroit Red Wings,5,Chicago Blackhawks,4,Don Koharski,Mike Leggo,Detroit Red Wings,Chicago Blackhawks
+2002020655,Edmonton Oilers,8,Columbus Blue Jackets,5,Shane Heyer,Dave Jackson,Edmonton Oilers,Columbus Blue Jackets
+2002020656,Los Angeles Kings,3,San Jose Sharks,2,Marc Joannette,Brad Watson,Los Angeles Kings,San Jose Sharks
+2002020657,Ottawa Senators,7,Tampa Bay Lightning,0,Terry Gregson,Brad Meier,Ottawa Senators,Tampa Bay Lightning
+2002020658,Toronto Maple Leafs,3,Calgary Flames,2,Blaine Angus,Scott Zelkin,Toronto Maple Leafs,Calgary Flames
+2002020659,Minnesota Wild,0,Buffalo Sabres,1,Jay Sharrers,Brad Watson,Buffalo Sabres,Minnesota Wild
+2002020660,Phoenix Coyotes,1,St. Louis Blues,4,Rob Martell,Kelly Sutherland,St. Louis Blues,Phoenix Coyotes
+2002020661,Vancouver Canucks,4,Nashville Predators,3,Dave Jackson,Chris Rooney,Vancouver Canucks,Nashville Predators
+2002020662,Washington Capitals,1,New York Rangers,2,Kerry Fraser,Rob Shick,New York Rangers,Washington Capitals
+2002020663,Carolina Hurricanes,0,Pittsburgh Penguins,2,Don Koharski,Mike Leggo,Pittsburgh Penguins,Carolina Hurricanes
+2002020664,Columbus Blue Jackets,3,Anaheim Ducks,4,Blaine Angus,Jay Sharrers,Anaheim Ducks,Columbus Blue Jackets
+2002020665,New Jersey Devils,5,New York Islanders,0,Greg Kimmerly,Bill McCreary,New Jersey Devils,New York Islanders
+2002020666,Atlanta Thrashers,1,Montréal Canadiens,0,Dean Morton,Dan O'Halloran,Atlanta Thrashers,Montréal Canadiens
+2002020667,Florida Panthers,3,Boston Bruins,0,Mark Faucette,Tim Peel,Florida Panthers,Boston Bruins
+2002020668,Chicago Blackhawks,4,Detroit Red Wings,1,Mike Hasenfratz,Don Van Massenhoven,Chicago Blackhawks,Detroit Red Wings
+2002020669,Ottawa Senators,3,Anaheim Ducks,1,Stephane Auger,Kevin Pollock,Ottawa Senators,Anaheim Ducks
+2002020670,Philadelphia Flyers,4,Montréal Canadiens,1,Rob Shick,Paul Stewart,Philadelphia Flyers,Montréal Canadiens
+2002020671,St. Louis Blues,2,New York Islanders,3,Craig Spada,Don Van Massenhoven,New York Islanders,St. Louis Blues
+2002020672,Minnesota Wild,5,Vancouver Canucks,2,Chris Lee,Dan Marouelli,Minnesota Wild,Vancouver Canucks
+2002020673,Colorado Avalanche,2,Detroit Red Wings,4,Paul Devorski,Shane Heyer,Detroit Red Wings,Colorado Avalanche
+2002020674,Calgary Flames,2,Nashville Predators,2,Marc Joannette,Chris Rooney,Calgary Flames,Nashville Predators
+2002020675,Edmonton Oilers,2,Los Angeles Kings,0,Terry Gregson,Scott Zelkin,Edmonton Oilers,Los Angeles Kings
+2002020676,San Jose Sharks,2,Buffalo Sabres,2,Rob Martell,Kelly Sutherland,San Jose Sharks,Buffalo Sabres
+2002020677,Washington Capitals,1,Toronto Maple Leafs,4,Eric Furlatt,Bill McCreary,Toronto Maple Leafs,Washington Capitals
+2002020678,Carolina Hurricanes,1,New Jersey Devils,2,Don Koharski,Mike Leggo,New Jersey Devils,Carolina Hurricanes
+2002020679,Atlanta Thrashers,3,Boston Bruins,1,Mike Hasenfratz,Dan O'Halloran,Atlanta Thrashers,Boston Bruins
+2002020680,Tampa Bay Lightning,2,Pittsburgh Penguins,3,Tim Peel,Dean Warren,Pittsburgh Penguins,Tampa Bay Lightning
+2002020681,Chicago Blackhawks,2,Vancouver Canucks,4,Dennis LaRue,Don Van Massenhoven,Vancouver Canucks,Chicago Blackhawks
+2002020682,Philadelphia Flyers,3,Tampa Bay Lightning,2,Bill McCreary,Paul Stewart,Philadelphia Flyers,Tampa Bay Lightning
+2002020683,Boston Bruins,7,Columbus Blue Jackets,2,Eric Furlatt,Dave Jackson,Boston Bruins,Columbus Blue Jackets
+2002020684,Montréal Canadiens,2,Toronto Maple Leafs,3,Stephane Auger,Kevin Pollock,Toronto Maple Leafs,Montréal Canadiens
+2002020685,Ottawa Senators,5,Washington Capitals,2,Blaine Angus,Greg Kimmerly,Ottawa Senators,Washington Capitals
+2002020686,New Jersey Devils,5,Carolina Hurricanes,2,Tim Peel,Rob Shick,New Jersey Devils,Carolina Hurricanes
+2002020687,Florida Panthers,3,Pittsburgh Penguins,0,Mike Hasenfratz,Dean Warren,Florida Panthers,Pittsburgh Penguins
+2002020688,St. Louis Blues,4,Chicago Blackhawks,2,Mark Faucette,Brad Watson,St. Louis Blues,Chicago Blackhawks
+2002020689,Minnesota Wild,0,Anaheim Ducks,1,Chris Lee,Dan Marouelli,Anaheim Ducks,Minnesota Wild
+2002020690,Edmonton Oilers,2,Nashville Predators,3,Brad Meier,Scott Zelkin,Nashville Predators,Edmonton Oilers
+2002020691,Phoenix Coyotes,0,Buffalo Sabres,1,Dennis LaRue,Kelly Sutherland,Buffalo Sabres,Phoenix Coyotes
+2002020692,Calgary Flames,2,Los Angeles Kings,1,Terry Gregson,Marc Joannette,Calgary Flames,Los Angeles Kings
+2002020693,San Jose Sharks,1,Dallas Stars,3,Chris Rooney,Stephen Walkom,Dallas Stars,San Jose Sharks
+2002020694,Atlanta Thrashers,1,New York Islanders,4,Rob Martell,Dean Morton,New York Islanders,Atlanta Thrashers
+2002020695,New York Rangers,2,Philadelphia Flyers,4,Kerry Fraser,Bill McCreary,Philadelphia Flyers,New York Rangers
+2002020696,Detroit Red Wings,1,Vancouver Canucks,4,Don Koharski,Mike Leggo,Vancouver Canucks,Detroit Red Wings
+2002020697,Boston Bruins,3,Washington Capitals,3,Stephane Auger,Mike Hasenfratz,Boston Bruins,Washington Capitals
+2002020698,Anaheim Ducks,1,Minnesota Wild,2,Marc Joannette,Chris Rooney,Minnesota Wild,Anaheim Ducks
+2002020699,Florida Panthers,2,Montréal Canadiens,3,Paul Devorski,Paul Stewart,Montréal Canadiens,Florida Panthers
+2002020700,Carolina Hurricanes,3,St. Louis Blues,5,Kerry Fraser,Dean Warren,St. Louis Blues,Carolina Hurricanes
+2002020701,Tampa Bay Lightning,6,Ottawa Senators,2,Dave Jackson,Greg Kimmerly,Tampa Bay Lightning,Ottawa Senators
+2002020702,Columbus Blue Jackets,5,Chicago Blackhawks,1,Bob Langdon,Wes McCauley,Columbus Blue Jackets,Chicago Blackhawks
+2002020703,Colorado Avalanche,1,Dallas Stars,1,Mark Faucette,Stephen Walkom,Colorado Avalanche,Dallas Stars
+2002020704,Calgary Flames,4,Edmonton Oilers,3,Michael McGeough,Brad Meier,Calgary Flames,Edmonton Oilers
+2002020705,Phoenix Coyotes,3,San Jose Sharks,1,Shane Heyer,Dennis LaRue,Phoenix Coyotes,San Jose Sharks
+2002020706,Buffalo Sabres,0,Pittsburgh Penguins,0,Mike Leggo,Dean Morton,Buffalo Sabres,Pittsburgh Penguins
+2002020707,New York Islanders,0,New York Rangers,5,Kevin Pollock,Don Van Massenhoven,New York Rangers,New York Islanders
+2002020708,Toronto Maple Leafs,1,Philadelphia Flyers,3,Dan Marouelli,Scott Zelkin,Philadelphia Flyers,Toronto Maple Leafs
+2002020709,Atlanta Thrashers,8,St. Louis Blues,4,Chris Lee,Dean Warren,Atlanta Thrashers,St. Louis Blues
+2002020710,Nashville Predators,3,Vancouver Canucks,2,Rob Martell,Dan O'Halloran,Nashville Predators,Vancouver Canucks
+2002020711,Washington Capitals,5,Carolina Hurricanes,3,Don Van Massenhoven,Brad Watson,Washington Capitals,Carolina Hurricanes
+2002020712,Tampa Bay Lightning,2,Montréal Canadiens,2,Paul Devorski,Dave Jackson,Tampa Bay Lightning,Montréal Canadiens
+2002020713,Florida Panthers,1,Ottawa Senators,2,Greg Kimmerly,Paul Stewart,Ottawa Senators,Florida Panthers
+2002020714,Dallas Stars,4,Columbus Blue Jackets,2,Shane Heyer,Dennis LaRue,Dallas Stars,Columbus Blue Jackets
+2002020715,Edmonton Oilers,4,Detroit Red Wings,3,Blaine Angus,Michael McGeough,Edmonton Oilers,Detroit Red Wings
+2002020716,Anaheim Ducks,6,Los Angeles Kings,5,Mark Faucette,Stephen Walkom,Anaheim Ducks,Los Angeles Kings
+2002020717,San Jose Sharks,4,New Jersey Devils,5,Marc Joannette,Tim Peel,New Jersey Devils,San Jose Sharks
+2002020718,Atlanta Thrashers,3,Ottawa Senators,3,Eric Furlatt,Dave Jackson,Atlanta Thrashers,Ottawa Senators
+2002020719,Pittsburgh Penguins,1,Boston Bruins,4,Rob Martell,Kevin Pollock,Boston Bruins,Pittsburgh Penguins
+2002020720,Chicago Blackhawks,3,St. Louis Blues,3,Dennis LaRue,Bill McCreary,Chicago Blackhawks,St. Louis Blues
+2002020721,Nashville Predators,2,New York Rangers,4,Paul Devorski,Shane Heyer,New York Rangers,Nashville Predators
+2002020722,Colorado Avalanche,5,Columbus Blue Jackets,0,Mark Faucette,Tim Peel,Colorado Avalanche,Columbus Blue Jackets
+2002020723,Calgary Flames,1,Phoenix Coyotes,7,Blaine Angus,Don Koharski,Phoenix Coyotes,Calgary Flames
+2002020724,Los Angeles Kings,1,Minnesota Wild,2,Marc Joannette,Stephen Walkom,Minnesota Wild,Los Angeles Kings
+2002020725,Buffalo Sabres,4,Toronto Maple Leafs,0,Terry Gregson,Bill McCreary,Buffalo Sabres,Toronto Maple Leafs
+2002020726,Philadelphia Flyers,1,New York Islanders,3,Don Van Massenhoven,Brad Watson,New York Islanders,Philadelphia Flyers
+2002020727,Carolina Hurricanes,3,Florida Panthers,1,Dan Marouelli,Dan O'Halloran,Carolina Hurricanes,Florida Panthers
+2002020728,Dallas Stars,1,Tampa Bay Lightning,4,Brad Meier,Kelly Sutherland,Tampa Bay Lightning,Dallas Stars
+2002020729,Edmonton Oilers,1,Phoenix Coyotes,5,Stephane Auger,Michael McGeough,Phoenix Coyotes,Edmonton Oilers
+2002020730,Vancouver Canucks,2,Detroit Red Wings,5,Kerry Fraser,Tim Peel,Detroit Red Wings,Vancouver Canucks
+2002020731,Anaheim Ducks,1,New Jersey Devils,3,Marc Joannette,Rob Shick,New Jersey Devils,Anaheim Ducks
+2002020732,New York Rangers,1,Atlanta Thrashers,4,Mike Hasenfratz,Paul Stewart,Atlanta Thrashers,New York Rangers
+2002020733,Montréal Canadiens,1,Washington Capitals,1,Dave Jackson,Chris Lee,Montréal Canadiens,Washington Capitals
+2002020734,Pittsburgh Penguins,5,Chicago Blackhawks,3,Eric Furlatt,Kevin Pollock,Pittsburgh Penguins,Chicago Blackhawks
+2002020735,Boston Bruins,1,Philadelphia Flyers,0,Greg Kimmerly,Dan Marouelli,Boston Bruins,Philadelphia Flyers
+2002020736,Toronto Maple Leafs,0,Colorado Avalanche,3,Terry Gregson,Bill McCreary,Colorado Avalanche,Toronto Maple Leafs
+2002020737,Ottawa Senators,4,Buffalo Sabres,3,Chris Rooney,Dean Warren,Ottawa Senators,Buffalo Sabres
+2002020738,Columbus Blue Jackets,4,New York Islanders,1,Rob Martell,Dan O'Halloran,Columbus Blue Jackets,New York Islanders
+2002020739,Florida Panthers,3,Carolina Hurricanes,2,Paul Devorski,Kelly Sutherland,Florida Panthers,Carolina Hurricanes
+2002020740,St. Louis Blues,2,Dallas Stars,4,Mark Faucette,Scott Zelkin,Dallas Stars,St. Louis Blues
+2002020741,Nashville Predators,3,Tampa Bay Lightning,2,Shane Heyer,Brad Meier,Nashville Predators,Tampa Bay Lightning
+2002020742,Calgary Flames,4,Detroit Red Wings,1,Don Koharski,Michael McGeough,Calgary Flames,Detroit Red Wings
+2002020743,Los Angeles Kings,2,New Jersey Devils,1,Blaine Angus,Mike Leggo,Los Angeles Kings,New Jersey Devils
+2002020744,San Jose Sharks,4,Minnesota Wild,1,Rob Shick,Stephen Walkom,San Jose Sharks,Minnesota Wild
+2002020745,Washington Capitals,7,New York Rangers,2,Mike Hasenfratz,Brad Watson,Washington Capitals,New York Rangers
+2002020746,Montréal Canadiens,4,Chicago Blackhawks,3,Chris Rooney,Don Van Massenhoven,Montréal Canadiens,Chicago Blackhawks
+2002020747,Vancouver Canucks,1,Phoenix Coyotes,0,Stephane Auger,Kerry Fraser,Vancouver Canucks,Phoenix Coyotes
+2002020748,Buffalo Sabres,1,Nashville Predators,5,Wes McCauley,Jay Sharrers,Nashville Predators,Buffalo Sabres
+2002020749,Dallas Stars,5,Ottawa Senators,3,Shane Heyer,Tim Peel,Dallas Stars,Ottawa Senators
+2002020750,Los Angeles Kings,0,San Jose Sharks,3,Michael McGeough,Brad Meier,San Jose Sharks,Los Angeles Kings
+2002020751,Boston Bruins,2,Nashville Predators,1,Chris Rooney,Dean Warren,Boston Bruins,Nashville Predators
+2002020752,New York Islanders,5,Pittsburgh Penguins,2,Dave Jackson,Dan O'Halloran,New York Islanders,Pittsburgh Penguins
+2002020753,Philadelphia Flyers,0,Tampa Bay Lightning,3,Stephen Walkom,Brad Watson,Tampa Bay Lightning,Philadelphia Flyers
+2002020754,Washington Capitals,3,St. Louis Blues,5,Dan Marouelli,Kelly Sutherland,St. Louis Blues,Washington Capitals
+2002020755,Columbus Blue Jackets,2,Colorado Avalanche,2,Paul Devorski,Eric Furlatt,Columbus Blue Jackets,Colorado Avalanche
+2002020756,Montréal Canadiens,6,Florida Panthers,3,Kevin Pollock,Don Van Massenhoven,Montréal Canadiens,Florida Panthers
+2002020757,New Jersey Devils,1,Detroit Red Wings,0,Mike Hasenfratz,Bill McCreary,New Jersey Devils,Detroit Red Wings
+2002020758,Atlanta Thrashers,5,New York Rangers,2,Don Koharski,Scott Zelkin,Atlanta Thrashers,New York Rangers
+2002020759,Phoenix Coyotes,4,Calgary Flames,3,Shane Heyer,Brad Meier,Phoenix Coyotes,Calgary Flames
+2002020760,Vancouver Canucks,2,Minnesota Wild,2,Blaine Angus,Rob Shick,Vancouver Canucks,Minnesota Wild
+2002020761,San Jose Sharks,3,Los Angeles Kings,1,Kerry Fraser,Michael McGeough,San Jose Sharks,Los Angeles Kings
+2002020762,Carolina Hurricanes,2,Toronto Maple Leafs,3,Mark Faucette,Dan Marouelli,Toronto Maple Leafs,Carolina Hurricanes
+2002020763,Dallas Stars,4,Calgary Flames,1,Dennis LaRue,Kelly Sutherland,Dallas Stars,Calgary Flames
+2002020764,Edmonton Oilers,5,Minnesota Wild,1,Blaine Angus,Rob Shick,Edmonton Oilers,Minnesota Wild
+2002020765,Anaheim Ducks,3,Ottawa Senators,2,Mike Leggo,Tim Peel,Anaheim Ducks,Ottawa Senators
+2002020766,New York Islanders,3,Montréal Canadiens,1,Mike Hasenfratz,Kevin Pollock,New York Islanders,Montréal Canadiens
+2002020767,Washington Capitals,2,Pittsburgh Penguins,1,Chris Lee,Dean Warren,Washington Capitals,Pittsburgh Penguins
+2002020768,Tampa Bay Lightning,3,Carolina Hurricanes,1,Don Koharski,Dennis LaRue,Tampa Bay Lightning,Carolina Hurricanes
+2002020769,Columbus Blue Jackets,2,Nashville Predators,1,Eric Furlatt,Craig Spada,Columbus Blue Jackets,Nashville Predators
+2002020770,New Jersey Devils,5,Philadelphia Flyers,1,Marc Joannette,Bill McCreary,New Jersey Devils,Philadelphia Flyers
+2002020771,Atlanta Thrashers,2,Toronto Maple Leafs,5,Paul Stewart,Scott Zelkin,Toronto Maple Leafs,Atlanta Thrashers
+2002020772,Detroit Red Wings,2,Florida Panthers,2,Terry Gregson,Greg Kimmerly,Detroit Red Wings,Florida Panthers
+2002020773,Boston Bruins,1,Chicago Blackhawks,3,Stephane Auger,Dave Jackson,Chicago Blackhawks,Boston Bruins
+2002020774,New York Rangers,3,Colorado Avalanche,4,Dan O'Halloran,Stephen Walkom,Colorado Avalanche,New York Rangers
+2002020775,St. Louis Blues,2,Buffalo Sabres,1,Rob Martell,Brad Watson,St. Louis Blues,Buffalo Sabres
+2002020776,Vancouver Canucks,3,Edmonton Oilers,3,Kerry Fraser,Brad Meier,Vancouver Canucks,Edmonton Oilers
+2002020777,Los Angeles Kings,3,Ottawa Senators,0,Mike Leggo,Michael McGeough,Los Angeles Kings,Ottawa Senators
+2002020778,San Jose Sharks,3,Anaheim Ducks,4,Shane Heyer,Tim Peel,Anaheim Ducks,San Jose Sharks
+2002020779,Boston Bruins,2,Colorado Avalanche,3,Paul Devorski,Greg Kimmerly,Colorado Avalanche,Boston Bruins
+2002020780,New York Islanders,1,Philadelphia Flyers,2,Mark Faucette,Dan O'Halloran,Philadelphia Flyers,New York Islanders
+2002020781,Tampa Bay Lightning,1,Washington Capitals,5,Don Koharski,Dennis LaRue,Washington Capitals,Tampa Bay Lightning
+2002020782,Montréal Canadiens,3,Atlanta Thrashers,4,Eric Furlatt,Chris Lee,Atlanta Thrashers,Montréal Canadiens
+2002020783,New Jersey Devils,4,Buffalo Sabres,1,Stephane Auger,Ian Walsh,New Jersey Devils,Buffalo Sabres
+2002020784,Pittsburgh Penguins,2,Vancouver Canucks,3,Terry Gregson,Don Van Massenhoven,Vancouver Canucks,Pittsburgh Penguins
+2002020785,Detroit Red Wings,5,Nashville Predators,5,Tim Peel,Rob Shick,Detroit Red Wings,Nashville Predators
+2002020786,Calgary Flames,2,Anaheim Ducks,3,Shane Heyer,Brad Meier,Anaheim Ducks,Calgary Flames
+2002020787,New York Rangers,3,Ottawa Senators,5,Stephane Auger,Mark Faucette,Ottawa Senators,New York Rangers
+2002020788,Washington Capitals,1,New Jersey Devils,4,Terry Gregson,Greg Kimmerly,New Jersey Devils,Washington Capitals
+2002020789,Columbus Blue Jackets,4,Vancouver Canucks,4,Wes McCauley,Bill McCreary,Columbus Blue Jackets,Vancouver Canucks
+2002020790,Florida Panthers,0,Toronto Maple Leafs,6,Tim Peel,Stephen Walkom,Toronto Maple Leafs,Florida Panthers
+2002020791,Minnesota Wild,2,Chicago Blackhawks,1,Kevin Pollock,Brad Watson,Minnesota Wild,Chicago Blackhawks
+2002020792,Dallas Stars,2,St. Louis Blues,2,Dave Jackson,Dennis LaRue,Dallas Stars,St. Louis Blues
+2002020793,Edmonton Oilers,2,Anaheim Ducks,1,Michael McGeough,Brad Meier,Edmonton Oilers,Anaheim Ducks
+2002020794,San Jose Sharks,6,Carolina Hurricanes,2,Mike Leggo,Kelly Sutherland,San Jose Sharks,Carolina Hurricanes
+2002020795,Los Angeles Kings,4,Phoenix Coyotes,3,Mike Hasenfratz,Paul Stewart,Los Angeles Kings,Phoenix Coyotes
+2002020796,Boston Bruins,6,Montréal Canadiens,3,Don Van Massenhoven,Scott Zelkin,Boston Bruins,Montréal Canadiens
+2002020797,Ottawa Senators,2,Philadelphia Flyers,2,Eric Furlatt,Dan Marouelli,Ottawa Senators,Philadelphia Flyers
+2002020798,Tampa Bay Lightning,2,Toronto Maple Leafs,3,Kerry Fraser,Don Koharski,Toronto Maple Leafs,Tampa Bay Lightning
+2002020799,Pittsburgh Penguins,0,Florida Panthers,6,Paul Devorski,Chris Lee,Florida Panthers,Pittsburgh Penguins
+2002020800,Detroit Red Wings,0,Colorado Avalanche,1,Bill McCreary,Rob Shick,Colorado Avalanche,Detroit Red Wings
+2002020801,St. Louis Blues,4,New York Rangers,4,Blaine Angus,Dave Jackson,St. Louis Blues,New York Rangers
+2002020802,Calgary Flames,2,Chicago Blackhawks,2,Shane Heyer,Dean Warren,Calgary Flames,Chicago Blackhawks
+2002020803,Buffalo Sabres,2,Vancouver Canucks,4,Chris Lee,Kelly Sutherland,Vancouver Canucks,Buffalo Sabres
+2002020804,Washington Capitals,3,New York Islanders,0,Terry Gregson,Greg Kimmerly,Washington Capitals,New York Islanders
+2002020805,New Jersey Devils,2,Atlanta Thrashers,4,Stephane Auger,Mark Faucette,Atlanta Thrashers,New Jersey Devils
+2002020806,Minnesota Wild,4,San Jose Sharks,3,Shane Heyer,Dave Jackson,Minnesota Wild,San Jose Sharks
+2002020807,Edmonton Oilers,3,Calgary Flames,4,Michael McGeough,Dean Warren,Calgary Flames,Edmonton Oilers
+2002020808,Anaheim Ducks,3,Phoenix Coyotes,2,Mike Hasenfratz,Paul Stewart,Anaheim Ducks,Phoenix Coyotes
+2002020809,Los Angeles Kings,8,Carolina Hurricanes,2,Marc Joannette,Brad Watson,Los Angeles Kings,Carolina Hurricanes
+2002020810,Boston Bruins,2,Pittsburgh Penguins,5,Dan O'Halloran,Rob Shick,Pittsburgh Penguins,Boston Bruins
+2002020811,Philadelphia Flyers,2,New York Rangers,1,Paul Devorski,Kerry Fraser,Philadelphia Flyers,New York Rangers
+2002020812,Colorado Avalanche,5,Detroit Red Wings,3,Dan Marouelli,Kevin Pollock,Colorado Avalanche,Detroit Red Wings
+2002020813,Toronto Maple Leafs,3,Montréal Canadiens,1,Bill McCreary,Kelly Sutherland,Toronto Maple Leafs,Montréal Canadiens
+2002020814,Ottawa Senators,3,Atlanta Thrashers,1,Eric Furlatt,Scott Zelkin,Ottawa Senators,Atlanta Thrashers
+2002020815,New York Islanders,3,Buffalo Sabres,1,Mark Faucette,Greg Kimmerly,New York Islanders,Buffalo Sabres
+2002020816,Florida Panthers,4,Tampa Bay Lightning,4,Tim Peel,Stephen Walkom,Florida Panthers,Tampa Bay Lightning
+2002020817,St. Louis Blues,4,San Jose Sharks,1,Blaine Angus,Don Koharski,St. Louis Blues,San Jose Sharks
+2002020818,Nashville Predators,3,Columbus Blue Jackets,2,Chris Lee,Rob Martell,Nashville Predators,Columbus Blue Jackets
+2002020819,Phoenix Coyotes,1,Dallas Stars,3,Marc Joannette,Brad Watson,Dallas Stars,Phoenix Coyotes
+2002020820,Edmonton Oilers,0,Chicago Blackhawks,3,Brad Meier,Jay Sharrers,Chicago Blackhawks,Edmonton Oilers
+2002020821,New Jersey Devils,3,Minnesota Wild,2,Dan O'Halloran,Rob Shick,New Jersey Devils,Minnesota Wild
+2002020822,Washington Capitals,0,Montréal Canadiens,2,Kerry Fraser,Chris Rooney,Montréal Canadiens,Washington Capitals
+2002020823,Dallas Stars,3,Los Angeles Kings,1,Dave Jackson,Dean Warren,Dallas Stars,Los Angeles Kings
+2002020824,Anaheim Ducks,2,Carolina Hurricanes,1,Mike Hasenfratz,Paul Stewart,Anaheim Ducks,Carolina Hurricanes
+2002020825,Colorado Avalanche,4,Calgary Flames,2,Dennis LaRue,Kevin Pollock,Colorado Avalanche,Calgary Flames
+2002020826,Philadelphia Flyers,0,Minnesota Wild,1,Terry Gregson,Greg Kimmerly,Minnesota Wild,Philadelphia Flyers
+2002020827,Detroit Red Wings,5,San Jose Sharks,4,Dean Morton,Don Van Massenhoven,Detroit Red Wings,San Jose Sharks
+2002020828,Vancouver Canucks,2,Chicago Blackhawks,1,Marc Joannette,Michael McGeough,Vancouver Canucks,Chicago Blackhawks
+2002020829,Buffalo Sabres,2,St. Louis Blues,3,Jay Sharrers,Rob Shick,St. Louis Blues,Buffalo Sabres
+2002020830,New York Islanders,6,Tampa Bay Lightning,2,Paul Stewart,Kelly Sutherland,New York Islanders,Tampa Bay Lightning
+2002020831,Toronto Maple Leafs,4,Edmonton Oilers,5,Kerry Fraser,Rob Martell,Edmonton Oilers,Toronto Maple Leafs
+2002020832,Montréal Canadiens,3,Boston Bruins,1,Stephane Auger,Paul Devorski,Montréal Canadiens,Boston Bruins
+2002020833,Nashville Predators,2,Los Angeles Kings,3,Blaine Angus,Chris Lee,Los Angeles Kings,Nashville Predators
+2002020834,Dallas Stars,2,Carolina Hurricanes,1,Dan Marouelli,Kevin Pollock,Dallas Stars,Carolina Hurricanes
+2002020835,Colorado Avalanche,3,New Jersey Devils,1,Dennis LaRue,Michael McGeough,Colorado Avalanche,New Jersey Devils
+2002020836,Columbus Blue Jackets,1,San Jose Sharks,0,Dean Morton,Tim Peel,Columbus Blue Jackets,San Jose Sharks
+2002020837,Pittsburgh Penguins,0,Ottawa Senators,3,Stephen Walkom,Ian Walsh,Ottawa Senators,Pittsburgh Penguins
+2002020838,Atlanta Thrashers,1,Washington Capitals,5,Dan O'Halloran,Scott Zelkin,Washington Capitals,Atlanta Thrashers
+2002020839,Florida Panthers,1,New York Rangers,3,Bill McCreary,Chris Rooney,New York Rangers,Florida Panthers
+2002020840,Minnesota Wild,2,Philadelphia Flyers,0,Don Koharski,Mike Leggo,Minnesota Wild,Philadelphia Flyers
+2002020841,Chicago Blackhawks,1,Toronto Maple Leafs,3,Mark Faucette,Brad Watson,Toronto Maple Leafs,Chicago Blackhawks
+2002020842,Phoenix Coyotes,0,New Jersey Devils,3,Kevin Pollock,Dean Warren,New Jersey Devils,Phoenix Coyotes
+2002020843,Anaheim Ducks,4,Calgary Flames,3,Shane Heyer,Marc Joannette,Anaheim Ducks,Calgary Flames
+2002020844,Ottawa Senators,2,Edmonton Oilers,0,Greg Kimmerly,Don Van Massenhoven,Ottawa Senators,Edmonton Oilers
+2002020845,Montréal Canadiens,1,Columbus Blue Jackets,2,Chris Lee,Rob Martell,Columbus Blue Jackets,Montréal Canadiens
+2002020846,Detroit Red Wings,4,Buffalo Sabres,2,Rob Shick,Kelly Sutherland,Detroit Red Wings,Buffalo Sabres
+2002020847,St. Louis Blues,3,Philadelphia Flyers,4,Dennis LaRue,Dan Marouelli,Philadelphia Flyers,St. Louis Blues
+2002020848,Nashville Predators,2,New York Islanders,0,Blaine Angus,Mike Hasenfratz,Nashville Predators,New York Islanders
+2002020849,Vancouver Canucks,2,Colorado Avalanche,1,Kerry Fraser,Brad Meier,Vancouver Canucks,Colorado Avalanche
+2002020850,Los Angeles Kings,4,Calgary Flames,2,Shane Heyer,Dean Warren,Los Angeles Kings,Calgary Flames
+2002020851,New York Rangers,1,Pittsburgh Penguins,0,Dave Jackson,Paul Stewart,New York Rangers,Pittsburgh Penguins
+2002020852,Carolina Hurricanes,3,Washington Capitals,1,Paul Devorski,Terry Gregson,Carolina Hurricanes,Washington Capitals
+2002020853,Atlanta Thrashers,2,Tampa Bay Lightning,2,Dean Morton,Dan O'Halloran,Atlanta Thrashers,Tampa Bay Lightning
+2002020854,Florida Panthers,5,Boston Bruins,6,Bill McCreary,Chris Rooney,Boston Bruins,Florida Panthers
+2002020855,Minnesota Wild,2,Phoenix Coyotes,3,Mark Faucette,Kevin Pollock,Phoenix Coyotes,Minnesota Wild
+2002020856,Chicago Blackhawks,2,San Jose Sharks,4,Dennis LaRue,Brad Watson,San Jose Sharks,Chicago Blackhawks
+2002020857,Dallas Stars,2,Anaheim Ducks,4,Stephane Auger,Tim Peel,Anaheim Ducks,Dallas Stars
+2002020858,Montréal Canadiens,3,Edmonton Oilers,2,Marc Joannette,Stephen Walkom,Montréal Canadiens,Edmonton Oilers
+2002020859,Los Angeles Kings,2,New York Islanders,3,Mike Leggo,Brad Meier,New York Islanders,Los Angeles Kings
+2002020860,Buffalo Sabres,5,New York Rangers,4,Eric Furlatt,Craig Spada,Buffalo Sabres,New York Rangers
+2002020861,Toronto Maple Leafs,2,Ottawa Senators,1,Michael McGeough,Kelly Sutherland,Toronto Maple Leafs,Ottawa Senators
+2002020862,Philadelphia Flyers,2,Carolina Hurricanes,2,Dave Jackson,Don Van Massenhoven,Philadelphia Flyers,Carolina Hurricanes
+2002020863,Atlanta Thrashers,2,Detroit Red Wings,6,Mark Faucette,Dean Morton,Detroit Red Wings,Atlanta Thrashers
+2002020864,Columbus Blue Jackets,1,Chicago Blackhawks,7,Terry Gregson,Scott Zelkin,Chicago Blackhawks,Columbus Blue Jackets
+2002020865,New Jersey Devils,1,Pittsburgh Penguins,4,Greg Kimmerly,Paul Stewart,Pittsburgh Penguins,New Jersey Devils
+2002020866,Tampa Bay Lightning,5,Boston Bruins,2,Bill McCreary,Chris Rooney,Tampa Bay Lightning,Boston Bruins
+2002020867,Florida Panthers,1,Washington Capitals,2,Mike Hasenfratz,Don Koharski,Washington Capitals,Florida Panthers
+2002020868,St. Louis Blues,3,Phoenix Coyotes,5,Blaine Angus,Tim Peel,Phoenix Coyotes,St. Louis Blues
+2002020869,Nashville Predators,2,Anaheim Ducks,1,Dan O'Halloran,Brad Watson,Nashville Predators,Anaheim Ducks
+2002020870,Colorado Avalanche,3,Minnesota Wild,2,Dennis LaRue,Dan Marouelli,Colorado Avalanche,Minnesota Wild
+2002020871,Calgary Flames,2,Vancouver Canucks,2,Kerry Fraser,Dean Warren,Calgary Flames,Vancouver Canucks
+2002020872,Dallas Stars,3,San Jose Sharks,1,Stephane Auger,Rob Martell,Dallas Stars,San Jose Sharks
+2002020873,Atlanta Thrashers,4,Buffalo Sabres,3,Dan O'Rourke,Brad Watson,Atlanta Thrashers,Buffalo Sabres
+2002020874,St. Louis Blues,5,Calgary Flames,3,Blaine Angus,Tim Peel,St. Louis Blues,Calgary Flames
+2002020875,Ottawa Senators,3,New York Rangers,2,Michael McGeough,Stephen Walkom,Ottawa Senators,New York Rangers
+2002020876,Tampa Bay Lightning,3,Washington Capitals,1,Bill McCreary,Chris Rooney,Tampa Bay Lightning,Washington Capitals
+2002020877,Nashville Predators,5,Boston Bruins,1,Mike Hasenfratz,Dan O'Halloran,Nashville Predators,Boston Bruins
+2002020878,Chicago Blackhawks,4,Colorado Avalanche,5,Mark Faucette,Brad Meier,Colorado Avalanche,Chicago Blackhawks
+2002020879,Los Angeles Kings,3,San Jose Sharks,2,Kerry Fraser,Mike Leggo,Los Angeles Kings,San Jose Sharks
+2002020880,Anaheim Ducks,2,New York Islanders,2,Eric Furlatt,Rob Shick,Anaheim Ducks,New York Islanders
+2002020881,Philadelphia Flyers,2,New Jersey Devils,2,Don Koharski,Brad Watson,Philadelphia Flyers,New Jersey Devils
+2002020882,Toronto Maple Leafs,4,Carolina Hurricanes,3,Greg Kimmerly,Stephen Walkom,Toronto Maple Leafs,Carolina Hurricanes
+2002020883,Montréal Canadiens,0,Florida Panthers,3,Shane Heyer,Michael McGeough,Florida Panthers,Montréal Canadiens
+2002020884,Pittsburgh Penguins,4,Edmonton Oilers,3,Paul Devorski,Craig Spada,Pittsburgh Penguins,Edmonton Oilers
+2002020885,Detroit Red Wings,3,Vancouver Canucks,4,Kevin Pollock,Don Van Massenhoven,Vancouver Canucks,Detroit Red Wings
+2002020886,Phoenix Coyotes,5,Columbus Blue Jackets,2,Eric Furlatt,Rob Martell,Phoenix Coyotes,Columbus Blue Jackets
+2002020887,Buffalo Sabres,2,Montréal Canadiens,1,Blaine Angus,Greg Kimmerly,Buffalo Sabres,Montréal Canadiens
+2002020888,Carolina Hurricanes,1,Boston Bruins,1,Don Koharski,Kevin Pollock,Carolina Hurricanes,Boston Bruins
+2002020889,Tampa Bay Lightning,2,Atlanta Thrashers,0,Dan O'Halloran,Dean Warren,Tampa Bay Lightning,Atlanta Thrashers
+2002020890,New Jersey Devils,3,Ottawa Senators,5,Shane Heyer,Dave Jackson,Ottawa Senators,New Jersey Devils
+2002020891,Minnesota Wild,2,New York Rangers,4,Terry Gregson,Dennis LaRue,New York Rangers,Minnesota Wild
+2002020892,Dallas Stars,1,Calgary Flames,1,Rob Martell,Rob Shick,Dallas Stars,Calgary Flames
+2002020893,Anaheim Ducks,2,Columbus Blue Jackets,0,Mike Leggo,Tim Peel,Anaheim Ducks,Columbus Blue Jackets
+2002020894,San Jose Sharks,0,New York Islanders,3,Kerry Fraser,Eric Furlatt,New York Islanders,San Jose Sharks
+2002020895,Ottawa Senators,3,Florida Panthers,4,Jay Sharrers,Don Van Massenhoven,Florida Panthers,Ottawa Senators
+2002020896,Washington Capitals,2,Toronto Maple Leafs,6,Don Koharski,Chris Rooney,Toronto Maple Leafs,Washington Capitals
+2002020897,Detroit Red Wings,6,Edmonton Oilers,2,Terry Gregson,Greg Kimmerly,Detroit Red Wings,Edmonton Oilers
+2002020898,Philadelphia Flyers,5,Los Angeles Kings,0,Marc Joannette,Brad Meier,Philadelphia Flyers,Los Angeles Kings
+2002020899,Pittsburgh Penguins,2,Colorado Avalanche,5,Chris Lee,Michael McGeough,Colorado Avalanche,Pittsburgh Penguins
+2002020900,St. Louis Blues,2,Vancouver Canucks,4,Paul Stewart,Stephen Walkom,Vancouver Canucks,St. Louis Blues
+2002020901,Nashville Predators,4,Calgary Flames,1,Kelly Sutherland,Scott Zelkin,Nashville Predators,Calgary Flames
+2002020902,Chicago Blackhawks,1,Phoenix Coyotes,2,Dennis LaRue,Brad Watson,Phoenix Coyotes,Chicago Blackhawks
+2002020903,Buffalo Sabres,1,Los Angeles Kings,4,Dan Marouelli,Jay Sharrers,Los Angeles Kings,Buffalo Sabres
+2002020904,New York Islanders,4,Colorado Avalanche,1,Dave Jackson,Marc Joannette,New York Islanders,Colorado Avalanche
+2002020905,Carolina Hurricanes,2,Tampa Bay Lightning,2,Kevin Pollock,Don Van Massenhoven,Carolina Hurricanes,Tampa Bay Lightning
+2002020906,New Jersey Devils,3,Boston Bruins,2,Bill McCreary,Brad Meier,New Jersey Devils,Boston Bruins
+2002020907,Dallas Stars,2,Phoenix Coyotes,2,Mark Faucette,Dean Warren,Dallas Stars,Phoenix Coyotes
+2002020908,Anaheim Ducks,2,New York Rangers,6,Tim Peel,Rob Shick,New York Rangers,Anaheim Ducks
+2002020909,San Jose Sharks,6,Columbus Blue Jackets,0,Eric Furlatt,Rob Martell,San Jose Sharks,Columbus Blue Jackets
+2002020910,Pittsburgh Penguins,2,St. Louis Blues,1,Kelly Sutherland,Stephen Walkom,Pittsburgh Penguins,St. Louis Blues
+2002020911,Montréal Canadiens,3,Toronto Maple Leafs,5,Blaine Angus,Paul Devorski,Toronto Maple Leafs,Montréal Canadiens
+2002020912,Ottawa Senators,4,Nashville Predators,0,Shane Heyer,Dennis LaRue,Ottawa Senators,Nashville Predators
+2002020913,Philadelphia Flyers,2,Florida Panthers,4,Dave Jackson,Bill McCreary,Florida Panthers,Philadelphia Flyers
+2002020914,Washington Capitals,1,Detroit Red Wings,5,Michael McGeough,Ian Walsh,Detroit Red Wings,Washington Capitals
+2002020915,Edmonton Oilers,2,Vancouver Canucks,3,Stephane Auger,Kerry Fraser,Vancouver Canucks,Edmonton Oilers
+2002020916,New York Islanders,4,Boston Bruins,4,Chris Lee,Dan Marouelli,New York Islanders,Boston Bruins
+2002020917,Carolina Hurricanes,0,Anaheim Ducks,4,Kelly Sutherland,Don Van Massenhoven,Anaheim Ducks,Carolina Hurricanes
+2002020918,Minnesota Wild,3,St. Louis Blues,1,Jay Sharrers,Stephen Walkom,Minnesota Wild,St. Louis Blues
+2002020919,Pittsburgh Penguins,3,New Jersey Devils,4,Dan O'Halloran,Scott Zelkin,New Jersey Devils,Pittsburgh Penguins
+2002020920,Colorado Avalanche,4,New York Rangers,1,Terry Gregson,Brad Watson,Colorado Avalanche,New York Rangers
+2002020921,Tampa Bay Lightning,1,Buffalo Sabres,4,Mark Faucette,Dean Warren,Buffalo Sabres,Tampa Bay Lightning
+2002020922,Phoenix Coyotes,2,Calgary Flames,4,Eric Furlatt,Rob Shick,Calgary Flames,Phoenix Coyotes
+2002020923,Toronto Maple Leafs,2,Nashville Predators,5,Shane Heyer,Dennis LaRue,Nashville Predators,Toronto Maple Leafs
+2002020924,Chicago Blackhawks,0,Dallas Stars,3,Paul Devorski,Rob Martell,Dallas Stars,Chicago Blackhawks
+2002020925,Edmonton Oilers,3,Atlanta Thrashers,3,Stephane Auger,Kerry Fraser,Edmonton Oilers,Atlanta Thrashers
+2002020926,Vancouver Canucks,7,Columbus Blue Jackets,2,Mike Hasenfratz,Greg Kimmerly,Vancouver Canucks,Columbus Blue Jackets
+2002020927,Washington Capitals,4,Montréal Canadiens,1,Bill McCreary,Dan O'Halloran,Washington Capitals,Montréal Canadiens
+2002020928,Florida Panthers,2,Buffalo Sabres,2,Chris Rooney,Dean Warren,Florida Panthers,Buffalo Sabres
+2002020929,Detroit Red Wings,5,Los Angeles Kings,4,Dennis LaRue,Michael McGeough,Detroit Red Wings,Los Angeles Kings
+2002020930,San Jose Sharks,5,Calgary Flames,2,Mike Leggo,Brad Watson,San Jose Sharks,Calgary Flames
+2002020931,Boston Bruins,5,Dallas Stars,5,Dave Jackson,Don Koharski,Boston Bruins,Dallas Stars
+2002020932,Ottawa Senators,0,Minnesota Wild,3,Kevin Pollock,Don Van Massenhoven,Minnesota Wild,Ottawa Senators
+2002020933,Tampa Bay Lightning,2,Anaheim Ducks,0,Mark Faucette,Chris Rooney,Tampa Bay Lightning,Anaheim Ducks
+2002020934,Toronto Maple Leafs,5,New York Islanders,2,Paul Devorski,Michael McGeough,Toronto Maple Leafs,New York Islanders
+2002020935,New Jersey Devils,3,New York Rangers,3,Marc Joannette,Bill McCreary,New Jersey Devils,New York Rangers
+2002020936,Pittsburgh Penguins,3,Los Angeles Kings,5,Shane Heyer,Kelly Sutherland,Los Angeles Kings,Pittsburgh Penguins
+2002020937,Nashville Predators,5,Columbus Blue Jackets,0,Bob Langdon,Scott Zelkin,Nashville Predators,Columbus Blue Jackets
+2002020938,Chicago Blackhawks,0,Philadelphia Flyers,2,Dan Marouelli,Paul Stewart,Philadelphia Flyers,Chicago Blackhawks
+2002020939,Colorado Avalanche,4,Edmonton Oilers,2,Mike Hasenfratz,Stephen Walkom,Colorado Avalanche,Edmonton Oilers
+2002020940,Vancouver Canucks,8,Atlanta Thrashers,0,Terry Gregson,Greg Kimmerly,Vancouver Canucks,Atlanta Thrashers
+2002020941,Washington Capitals,3,Buffalo Sabres,2,Bob Langdon,Dan O'Halloran,Washington Capitals,Buffalo Sabres
+2002020942,Florida Panthers,1,Anaheim Ducks,2,Blaine Angus,Rob Martell,Anaheim Ducks,Florida Panthers
+2002020943,Phoenix Coyotes,4,Carolina Hurricanes,2,Mike Leggo,Paul Stewart,Phoenix Coyotes,Carolina Hurricanes
+2002020944,Ottawa Senators,3,Dallas Stars,2,Dan Marouelli,Kevin Pollock,Ottawa Senators,Dallas Stars
+2002020945,New York Islanders,3,New Jersey Devils,3,Mark Faucette,Shane Heyer,New York Islanders,New Jersey Devils
+2002020946,Tampa Bay Lightning,3,Florida Panthers,1,Paul Devorski,Rob Martell,Tampa Bay Lightning,Florida Panthers
+2002020947,Columbus Blue Jackets,3,Los Angeles Kings,1,Stephen Walkom,Scott Zelkin,Columbus Blue Jackets,Los Angeles Kings
+2002020948,Montréal Canadiens,3,Minnesota Wild,6,Stephane Auger,Don Van Massenhoven,Minnesota Wild,Montréal Canadiens
+2002020949,Detroit Red Wings,7,Toronto Maple Leafs,2,Tim Peel,Rob Shick,Detroit Red Wings,Toronto Maple Leafs
+2002020950,New York Rangers,4,Boston Bruins,1,Dave Jackson,Don Koharski,New York Rangers,Boston Bruins
+2002020951,Philadelphia Flyers,5,Chicago Blackhawks,2,Kerry Fraser,Marc Joannette,Philadelphia Flyers,Chicago Blackhawks
+2002020952,St. Louis Blues,4,Edmonton Oilers,1,Dennis LaRue,Kelly Sutherland,St. Louis Blues,Edmonton Oilers
+2002020953,Nashville Predators,6,Pittsburgh Penguins,0,Blaine Angus,Chris Rooney,Nashville Predators,Pittsburgh Penguins
+2002020954,Colorado Avalanche,3,Atlanta Thrashers,4,Greg Kimmerly,Mike Leggo,Atlanta Thrashers,Colorado Avalanche
+2002020955,Vancouver Canucks,2,San Jose Sharks,3,Terry Gregson,Brad Meier,San Jose Sharks,Vancouver Canucks
+2002020956,Buffalo Sabres,5,Dallas Stars,3,Eric Furlatt,Dean Warren,Buffalo Sabres,Dallas Stars
+2002020957,Phoenix Coyotes,3,Anaheim Ducks,1,Greg Kimmerly,Paul Stewart,Phoenix Coyotes,Anaheim Ducks
+2002020958,Boston Bruins,2,Philadelphia Flyers,3,Dan Marouelli,Kevin Pollock,Philadelphia Flyers,Boston Bruins
+2002020959,Nashville Predators,5,Chicago Blackhawks,4,Paul Devorski,Kelly Sutherland,Nashville Predators,Chicago Blackhawks
+2002020960,Colorado Avalanche,4,Pittsburgh Penguins,1,Terry Gregson,Mike Leggo,Colorado Avalanche,Pittsburgh Penguins
+2002020961,Los Angeles Kings,4,Atlanta Thrashers,1,Dennis LaRue,Michael McGeough,Los Angeles Kings,Atlanta Thrashers
+2002020962,Toronto Maple Leafs,4,Carolina Hurricanes,1,Chris Lee,Bill McCreary,Toronto Maple Leafs,Carolina Hurricanes
+2002020963,Montréal Canadiens,1,Vancouver Canucks,1,Shane Heyer,Dave Jackson,Montréal Canadiens,Vancouver Canucks
+2002020964,Ottawa Senators,1,Tampa Bay Lightning,2,Rob Shick,Dean Warren,Tampa Bay Lightning,Ottawa Senators
+2002020965,New York Islanders,2,Buffalo Sabres,1,Mark Faucette,Rob Martell,New York Islanders,Buffalo Sabres
+2002020966,New York Rangers,5,Florida Panthers,2,Marc Joannette,Don Koharski,New York Rangers,Florida Panthers
+2002020967,Columbus Blue Jackets,3,Edmonton Oilers,3,Dan O'Halloran,Chris Rooney,Columbus Blue Jackets,Edmonton Oilers
+2002020968,New Jersey Devils,2,Washington Capitals,1,Blaine Angus,Kerry Fraser,New Jersey Devils,Washington Capitals
+2002020969,St. Louis Blues,2,Minnesota Wild,0,Stephen Walkom,Brad Watson,St. Louis Blues,Minnesota Wild
+2002020970,Calgary Flames,4,San Jose Sharks,3,Mike Hasenfratz,Brad Meier,Calgary Flames,San Jose Sharks
+2002020971,Dallas Stars,3,Pittsburgh Penguins,1,Greg Kimmerly,Dennis LaRue,Dallas Stars,Pittsburgh Penguins
+2002020972,Detroit Red Wings,5,Phoenix Coyotes,2,Brad Watson,Scott Zelkin,Detroit Red Wings,Phoenix Coyotes
+2002020973,Washington Capitals,2,Carolina Hurricanes,0,Dan Marouelli,Rob Shick,Washington Capitals,Carolina Hurricanes
+2002020974,Chicago Blackhawks,2,Colorado Avalanche,3,Eric Furlatt,Stephen Walkom,Colorado Avalanche,Chicago Blackhawks
+2002020975,Anaheim Ducks,1,Atlanta Thrashers,4,Mike Leggo,Michael McGeough,Atlanta Thrashers,Anaheim Ducks
+2002020976,Boston Bruins,4,Vancouver Canucks,6,Mark Faucette,Don Koharski,Vancouver Canucks,Boston Bruins
+2002020977,Columbus Blue Jackets,2,Detroit Red Wings,3,Paul Stewart,Brad Watson,Detroit Red Wings,Columbus Blue Jackets
+2002020978,Toronto Maple Leafs,1,Florida Panthers,2,Mike Hasenfratz,Brad Meier,Florida Panthers,Toronto Maple Leafs
+2002020979,New York Rangers,1,New York Islanders,1,Blaine Angus,Kerry Fraser,New York Rangers,New York Islanders
+2002020980,Buffalo Sabres,1,Washington Capitals,2,Terry Gregson,Tim Peel,Washington Capitals,Buffalo Sabres
+2002020981,Ottawa Senators,4,Toronto Maple Leafs,1,Marc Joannette,Brad Meier,Ottawa Senators,Toronto Maple Leafs
+2002020982,New York Islanders,1,Tampa Bay Lightning,3,Blaine Angus,Dan Marouelli,Tampa Bay Lightning,New York Islanders
+2002020983,Philadelphia Flyers,3,Vancouver Canucks,0,Paul Devorski,Rob Shick,Philadelphia Flyers,Vancouver Canucks
+2002020984,Carolina Hurricanes,2,Boston Bruins,4,Stephen Walkom,Scott Zelkin,Boston Bruins,Carolina Hurricanes
+2002020985,Pittsburgh Penguins,1,Phoenix Coyotes,4,Tom Kowal,Dan O'Halloran,Phoenix Coyotes,Pittsburgh Penguins
+2002020986,St. Louis Blues,2,Nashville Predators,1,Stephane Auger,Eric Furlatt,St. Louis Blues,Nashville Predators
+2002020987,Minnesota Wild,3,New Jersey Devils,2,Chris Lee,Don Van Massenhoven,Minnesota Wild,New Jersey Devils
+2002020988,Edmonton Oilers,2,San Jose Sharks,1,Dave Jackson,Michael McGeough,Edmonton Oilers,San Jose Sharks
+2002020989,Los Angeles Kings,1,Anaheim Ducks,2,Greg Kimmerly,Mike Leggo,Anaheim Ducks,Los Angeles Kings
+2002020990,Florida Panthers,1,Colorado Avalanche,3,Bill McCreary,Dean Warren,Colorado Avalanche,Florida Panthers
+2002020991,Detroit Red Wings,3,Tampa Bay Lightning,2,Terry Gregson,Tom Kowal,Detroit Red Wings,Tampa Bay Lightning
+2002020992,Calgary Flames,5,New Jersey Devils,4,Chris Lee,Michael McGeough,Calgary Flames,New Jersey Devils
+2002020993,Dallas Stars,7,Chicago Blackhawks,4,Rob Martell,Kevin Pollock,Dallas Stars,Chicago Blackhawks
+2002020994,Anaheim Ducks,3,Montréal Canadiens,1,Shane Heyer,Greg Kimmerly,Anaheim Ducks,Montréal Canadiens
+2002020995,Buffalo Sabres,4,Toronto Maple Leafs,2,Dan O'Halloran,Paul Stewart,Buffalo Sabres,Toronto Maple Leafs
+2002020996,Washington Capitals,4,Atlanta Thrashers,4,Brad Meier,Scott Zelkin,Washington Capitals,Atlanta Thrashers
+2002020997,Columbus Blue Jackets,5,Vancouver Canucks,4,Stephane Auger,Bob Langdon,Columbus Blue Jackets,Vancouver Canucks
+2002020998,Pittsburgh Penguins,0,Carolina Hurricanes,4,Paul Devorski,Eric Furlatt,Carolina Hurricanes,Pittsburgh Penguins
+2002020999,Boston Bruins,4,New York Islanders,1,Chris Rooney,Rob Shick,Boston Bruins,New York Islanders
+2002021000,St. Louis Blues,6,Phoenix Coyotes,3,Tim Peel,Brad Watson,St. Louis Blues,Phoenix Coyotes
+2002021001,Nashville Predators,2,Minnesota Wild,2,Blaine Angus,Mike Hasenfratz,Nashville Predators,Minnesota Wild
+2002021002,Los Angeles Kings,1,Edmonton Oilers,2,Shane Heyer,Kelly Sutherland,Edmonton Oilers,Los Angeles Kings
+2002021003,San Jose Sharks,4,Montréal Canadiens,3,Dave Jackson,Greg Kimmerly,San Jose Sharks,Montréal Canadiens
+2002021004,New York Rangers,5,Philadelphia Flyers,1,Paul Devorski,Dan O'Halloran,New York Rangers,Philadelphia Flyers
+2002021005,Carolina Hurricanes,1,Minnesota Wild,0,Kerry Fraser,Marc Joannette,Carolina Hurricanes,Minnesota Wild
+2002021006,Atlanta Thrashers,1,Florida Panthers,2,Tom Kowal,Dennis LaRue,Florida Panthers,Atlanta Thrashers
+2002021007,Tampa Bay Lightning,4,Colorado Avalanche,3,Mark Faucette,Dean Warren,Tampa Bay Lightning,Colorado Avalanche
+2002021008,Detroit Red Wings,7,St. Louis Blues,2,Rob Shick,Stephen Walkom,Detroit Red Wings,St. Louis Blues
+2002021009,Chicago Blackhawks,0,Calgary Flames,2,Eric Furlatt,Terry Gregson,Calgary Flames,Chicago Blackhawks
+2002021010,Dallas Stars,1,Nashville Predators,2,Bill McCreary,Kevin Pollock,Nashville Predators,Dallas Stars
+2002021011,Anaheim Ducks,1,Edmonton Oilers,4,Don Koharski,Rob Martell,Edmonton Oilers,Anaheim Ducks
+2002021012,Boston Bruins,5,Washington Capitals,4,Mike Leggo,Brad Meier,Boston Bruins,Washington Capitals
+2002021013,Toronto Maple Leafs,3,Vancouver Canucks,3,Terry Gregson,Michael McGeough,Toronto Maple Leafs,Vancouver Canucks
+2002021014,New York Islanders,2,New Jersey Devils,4,Kerry Fraser,Marc Joannette,New Jersey Devils,New York Islanders
+2002021015,Philadelphia Flyers,1,Colorado Avalanche,2,Dan Marouelli,Stephen Walkom,Colorado Avalanche,Philadelphia Flyers
+2002021016,Columbus Blue Jackets,2,Calgary Flames,3,Dennis LaRue,Paul Stewart,Calgary Flames,Columbus Blue Jackets
+2002021017,Pittsburgh Penguins,1,Ottawa Senators,5,Eric Furlatt,Chris Rooney,Ottawa Senators,Pittsburgh Penguins
+2002021018,Florida Panthers,0,Buffalo Sabres,4,Blaine Angus,Tom Kowal,Buffalo Sabres,Florida Panthers
+2002021019,Phoenix Coyotes,6,San Jose Sharks,4,Greg Kimmerly,Don Van Massenhoven,Phoenix Coyotes,San Jose Sharks
+2002021020,Los Angeles Kings,2,Montréal Canadiens,1,Dave Jackson,Rob Martell,Los Angeles Kings,Montréal Canadiens
+2002021021,Atlanta Thrashers,4,Minnesota Wild,6,Mike Leggo,Dean Warren,Minnesota Wild,Atlanta Thrashers
+2002021022,Chicago Blackhawks,8,Boston Bruins,5,Mike Hasenfratz,Tim Peel,Chicago Blackhawks,Boston Bruins
+2002021023,Tampa Bay Lightning,1,Buffalo Sabres,1,Tom Kowal,Kevin Pollock,Tampa Bay Lightning,Buffalo Sabres
+2002021024,Anaheim Ducks,4,Detroit Red Wings,1,Dave Jackson,Don Koharski,Anaheim Ducks,Detroit Red Wings
+2002021025,Ottawa Senators,4,Pittsburgh Penguins,2,Brad Meier,Dan O'Halloran,Ottawa Senators,Pittsburgh Penguins
+2002021026,Dallas Stars,3,San Jose Sharks,0,Dennis LaRue,Kelly Sutherland,Dallas Stars,San Jose Sharks
+2002021027,New York Rangers,1,Florida Panthers,2,Mike Leggo,Dan Marouelli,Florida Panthers,New York Rangers
+2002021028,Washington Capitals,2,Philadelphia Flyers,1,Kerry Fraser,Chris Rooney,Washington Capitals,Philadelphia Flyers
+2002021029,Carolina Hurricanes,6,Columbus Blue Jackets,5,Marc Joannette,Scott Zelkin,Carolina Hurricanes,Columbus Blue Jackets
+2002021030,Nashville Predators,1,Montréal Canadiens,3,Shane Heyer,Bill McCreary,Montréal Canadiens,Nashville Predators
+2002021031,Colorado Avalanche,2,Phoenix Coyotes,2,Mark Faucette,Brad Watson,Colorado Avalanche,Phoenix Coyotes
+2002021032,Edmonton Oilers,2,Toronto Maple Leafs,3,Mike Hasenfratz,Tim Peel,Toronto Maple Leafs,Edmonton Oilers
+2002021033,Los Angeles Kings,2,Detroit Red Wings,3,Rob Shick,Don Van Massenhoven,Detroit Red Wings,Los Angeles Kings
+2002021034,Ottawa Senators,4,Boston Bruins,3,Stephane Auger,Paul Devorski,Ottawa Senators,Boston Bruins
+2002021035,Columbus Blue Jackets,0,Dallas Stars,2,Dan O'Halloran,Chris Rooney,Dallas Stars,Columbus Blue Jackets
+2002021036,New Jersey Devils,2,Atlanta Thrashers,3,Paul Stewart,Ian Walsh,Atlanta Thrashers,New Jersey Devils
+2002021037,Calgary Flames,2,Edmonton Oilers,5,Mike Hasenfratz,Brad Meier,Edmonton Oilers,Calgary Flames
+2002021038,Vancouver Canucks,4,New York Islanders,3,Don Koharski,Rob Martell,Vancouver Canucks,New York Islanders
+2002021039,San Jose Sharks,2,St. Louis Blues,4,Dave Jackson,Dennis LaRue,St. Louis Blues,San Jose Sharks
+2002021040,Buffalo Sabres,2,Carolina Hurricanes,3,Mike Leggo,Craig Spada,Carolina Hurricanes,Buffalo Sabres
+2002021041,Tampa Bay Lightning,4,Los Angeles Kings,2,Shane Heyer,Kevin Pollock,Tampa Bay Lightning,Los Angeles Kings
+2002021042,Pittsburgh Penguins,2,Nashville Predators,2,Stephane Auger,Kerry Fraser,Pittsburgh Penguins,Nashville Predators
+2002021043,Florida Panthers,0,Montréal Canadiens,4,Dan Marouelli,Dean Warren,Montréal Canadiens,Florida Panthers
+2002021044,Minnesota Wild,4,Dallas Stars,2,Don Van Massenhoven,Brad Watson,Minnesota Wild,Dallas Stars
+2002021045,Phoenix Coyotes,2,Detroit Red Wings,3,Kelly Sutherland,Stephen Walkom,Detroit Red Wings,Phoenix Coyotes
+2002021046,Anaheim Ducks,5,Chicago Blackhawks,2,Mark Faucette,Tim Peel,Anaheim Ducks,Chicago Blackhawks
+2002021047,Boston Bruins,4,New Jersey Devils,3,Mike Leggo,Bill McCreary,Boston Bruins,New Jersey Devils
+2002021048,Ottawa Senators,3,New York Rangers,2,Blaine Angus,Terry Gregson,Ottawa Senators,New York Rangers
+2002021049,Philadelphia Flyers,5,Carolina Hurricanes,3,Stephane Auger,Kerry Fraser,Philadelphia Flyers,Carolina Hurricanes
+2002021050,Columbus Blue Jackets,1,Colorado Avalanche,5,Brad Watson,Scott Zelkin,Colorado Avalanche,Columbus Blue Jackets
+2002021051,Atlanta Thrashers,2,Montréal Canadiens,4,Shane Heyer,Greg Kimmerly,Montréal Canadiens,Atlanta Thrashers
+2002021052,Calgary Flames,4,Toronto Maple Leafs,3,Eric Furlatt,Dave Jackson,Calgary Flames,Toronto Maple Leafs
+2002021053,Edmonton Oilers,2,New York Islanders,5,Don Koharski,Brad Meier,New York Islanders,Edmonton Oilers
+2002021054,Vancouver Canucks,4,St. Louis Blues,4,Dennis LaRue,Stephen Walkom,Vancouver Canucks,St. Louis Blues
+2002021055,Buffalo Sabres,2,Tampa Bay Lightning,4,Marc Joannette,Dan O'Halloran,Tampa Bay Lightning,Buffalo Sabres
+2002021056,Washington Capitals,1,Los Angeles Kings,3,Kerry Fraser,Greg Kimmerly,Los Angeles Kings,Washington Capitals
+2002021057,Minnesota Wild,3,Nashville Predators,1,Paul Devorski,Mike Hasenfratz,Minnesota Wild,Nashville Predators
+2002021058,Phoenix Coyotes,0,Chicago Blackhawks,4,Mark Faucette,Kelly Sutherland,Chicago Blackhawks,Phoenix Coyotes
+2002021059,Boston Bruins,4,Florida Panthers,1,Wes McCauley,Paul Stewart,Boston Bruins,Florida Panthers
+2002021060,New Jersey Devils,3,New York Rangers,1,Stephane Auger,Dan Marouelli,New Jersey Devils,New York Rangers
+2002021061,Pittsburgh Penguins,1,Philadelphia Flyers,4,Shane Heyer,Bill McCreary,Philadelphia Flyers,Pittsburgh Penguins
+2002021062,Detroit Red Wings,5,Colorado Avalanche,3,Michael McGeough,Kevin Pollock,Detroit Red Wings,Colorado Avalanche
+2002021063,Montréal Canadiens,1,Tampa Bay Lightning,2,Blaine Angus,Marc Joannette,Tampa Bay Lightning,Montréal Canadiens
+2002021064,Ottawa Senators,2,New York Islanders,5,Don Van Massenhoven,Dean Warren,New York Islanders,Ottawa Senators
+2002021065,Carolina Hurricanes,0,Los Angeles Kings,0,Dan O'Halloran,Brad Watson,Carolina Hurricanes,Los Angeles Kings
+2002021066,Atlanta Thrashers,5,Buffalo Sabres,3,Mike Hasenfratz,Greg Kimmerly,Atlanta Thrashers,Buffalo Sabres
+2002021067,Columbus Blue Jackets,5,Minnesota Wild,0,Terry Gregson,Chris Rooney,Columbus Blue Jackets,Minnesota Wild
+2002021068,Vancouver Canucks,0,Toronto Maple Leafs,1,Don Koharski,Dennis LaRue,Toronto Maple Leafs,Vancouver Canucks
+2002021069,Nashville Predators,0,St. Louis Blues,1,Paul Devorski,Scott Zelkin,St. Louis Blues,Nashville Predators
+2002021070,Phoenix Coyotes,4,Anaheim Ducks,2,Brad Meier,Tim Peel,Phoenix Coyotes,Anaheim Ducks
+2002021071,Edmonton Oilers,4,Dallas Stars,3,Eric Furlatt,Stephen Walkom,Edmonton Oilers,Dallas Stars
+2002021072,San Jose Sharks,3,Calgary Flames,2,Mark Faucette,Kelly Sutherland,San Jose Sharks,Calgary Flames
+2002021073,Pittsburgh Penguins,2,Florida Panthers,4,Stephane Auger,Shane Heyer,Florida Panthers,Pittsburgh Penguins
+2002021074,Washington Capitals,2,Colorado Avalanche,1,Dan Marouelli,Dan O'Halloran,Washington Capitals,Colorado Avalanche
+2002021075,Detroit Red Wings,6,Ottawa Senators,2,Terry Gregson,Brad Watson,Detroit Red Wings,Ottawa Senators
+2002021076,Anaheim Ducks,2,Calgary Flames,2,Don Koharski,Brad Meier,Anaheim Ducks,Calgary Flames
+2002021077,New Jersey Devils,2,Philadelphia Flyers,4,Kerry Fraser,Rob Martell,Philadelphia Flyers,New Jersey Devils
+2002021078,New York Rangers,1,New York Islanders,0,Bill McCreary,Rob Shick,New York Rangers,New York Islanders
+2002021079,Tampa Bay Lightning,3,Minnesota Wild,3,Chris Lee,Kevin Pollock,Tampa Bay Lightning,Minnesota Wild
+2002021080,Atlanta Thrashers,3,Columbus Blue Jackets,2,Paul Stewart,Ian Walsh,Atlanta Thrashers,Columbus Blue Jackets
+2002021081,Nashville Predators,3,Edmonton Oilers,5,Shane Heyer,Don Van Massenhoven,Edmonton Oilers,Nashville Predators
+2002021082,Dallas Stars,2,Vancouver Canucks,4,Paul Devorski,Scott Zelkin,Vancouver Canucks,Dallas Stars
+2002021083,San Jose Sharks,2,Chicago Blackhawks,3,Mike Leggo,Stephen Walkom,Chicago Blackhawks,San Jose Sharks
+2002021084,Buffalo Sabres,5,Philadelphia Flyers,2,Greg Kimmerly,Bob Langdon,Buffalo Sabres,Philadelphia Flyers
+2002021085,Carolina Hurricanes,5,Ottawa Senators,6,Terry Gregson,Mike Hasenfratz,Ottawa Senators,Carolina Hurricanes
+2002021086,Toronto Maple Leafs,3,New York Islanders,3,Dan Marouelli,Bill McCreary,Toronto Maple Leafs,New York Islanders
+2002021087,Montréal Canadiens,0,New Jersey Devils,1,Dave Jackson,Rob Shick,New Jersey Devils,Montréal Canadiens
+2002021088,Pittsburgh Penguins,1,Detroit Red Wings,5,Dean Morton,Dean Warren,Detroit Red Wings,Pittsburgh Penguins
+2002021089,St. Louis Blues,6,Vancouver Canucks,4,Paul Devorski,Don Van Massenhoven,St. Louis Blues,Vancouver Canucks
+2002021090,Phoenix Coyotes,2,Boston Bruins,1,Eric Furlatt,Stephen Walkom,Phoenix Coyotes,Boston Bruins
+2002021091,Los Angeles Kings,1,Calgary Flames,4,Mark Faucette,Kelly Sutherland,Calgary Flames,Los Angeles Kings
+2002021092,New York Rangers,3,Buffalo Sabres,0,Stephane Auger,Paul Stewart,New York Rangers,Buffalo Sabres
+2002021093,Atlanta Thrashers,4,Dallas Stars,5,Dean Morton,Tim Peel,Dallas Stars,Atlanta Thrashers
+2002021094,Florida Panthers,1,Minnesota Wild,3,Chris Lee,Kevin Pollock,Minnesota Wild,Florida Panthers
+2002021095,Chicago Blackhawks,3,Anaheim Ducks,4,Don Koharski,Scott Zelkin,Anaheim Ducks,Chicago Blackhawks
+2002021096,Colorado Avalanche,2,San Jose Sharks,0,Brad Watson,Scott Zelkin,Colorado Avalanche,San Jose Sharks
+2002021097,Columbus Blue Jackets,4,Toronto Maple Leafs,3,Dean Morton,Tim Peel,Columbus Blue Jackets,Toronto Maple Leafs
+2002021098,Montréal Canadiens,3,New York Islanders,6,Rob Shick,Dean Warren,New York Islanders,Montréal Canadiens
+2002021099,Philadelphia Flyers,4,Pittsburgh Penguins,2,Stephane Auger,Rob Martell,Philadelphia Flyers,Pittsburgh Penguins
+2002021100,St. Louis Blues,3,Anaheim Ducks,2,Marc Joannette,Dan Marouelli,St. Louis Blues,Anaheim Ducks
+2002021101,Calgary Flames,1,Washington Capitals,4,Eric Furlatt,Dennis LaRue,Washington Capitals,Calgary Flames
+2002021102,Phoenix Coyotes,3,Edmonton Oilers,2,Dan O'Halloran,Chris Rooney,Phoenix Coyotes,Edmonton Oilers
+2002021103,Vancouver Canucks,7,Nashville Predators,3,Brad Meier,Kelly Sutherland,Vancouver Canucks,Nashville Predators
+2002021104,Los Angeles Kings,2,Tampa Bay Lightning,2,Shane Heyer,Mike Leggo,Los Angeles Kings,Tampa Bay Lightning
+2002021105,New Jersey Devils,3,Pittsburgh Penguins,1,Greg Kimmerly,Rob Martell,New Jersey Devils,Pittsburgh Penguins
+2002021106,Atlanta Thrashers,1,Ottawa Senators,5,Chris Lee,Paul Stewart,Ottawa Senators,Atlanta Thrashers
+2002021107,Dallas Stars,2,Minnesota Wild,3,Kerry Fraser,Marc Joannette,Minnesota Wild,Dallas Stars
+2002021108,San Jose Sharks,3,Boston Bruins,2,Chris Rooney,Brad Watson,San Jose Sharks,Boston Bruins
+2002021109,Philadelphia Flyers,1,New York Rangers,2,Don Van Massenhoven,Stephen Walkom,New York Rangers,Philadelphia Flyers
+2002021110,St. Louis Blues,2,Detroit Red Wings,4,Paul Devorski,Don Koharski,Detroit Red Wings,St. Louis Blues
+2002021111,Colorado Avalanche,8,Chicago Blackhawks,1,Terry Gregson,Tim Peel,Colorado Avalanche,Chicago Blackhawks
+2002021112,Toronto Maple Leafs,3,Buffalo Sabres,2,Rob Shick,Paul Stewart,Toronto Maple Leafs,Buffalo Sabres
+2002021113,Montréal Canadiens,5,Carolina Hurricanes,3,Stephane Auger,Eric Furlatt,Montréal Canadiens,Carolina Hurricanes
+2002021114,New York Islanders,2,New Jersey Devils,4,Dave Jackson,Bill McCreary,New Jersey Devils,New York Islanders
+2002021115,Columbus Blue Jackets,2,Atlanta Thrashers,3,Rob Martell,Jay Sharrers,Atlanta Thrashers,Columbus Blue Jackets
+2002021116,Florida Panthers,1,Ottawa Senators,3,Kerry Fraser,Chris Lee,Ottawa Senators,Florida Panthers
+2002021117,Calgary Flames,1,Nashville Predators,1,Blaine Angus,Brad Meier,Calgary Flames,Nashville Predators
+2002021118,Phoenix Coyotes,0,Tampa Bay Lightning,4,Mike Hasenfratz,Brad Watson,Tampa Bay Lightning,Phoenix Coyotes
+2002021119,Edmonton Oilers,5,Washington Capitals,3,Dennis LaRue,Dan Marouelli,Edmonton Oilers,Washington Capitals
+2002021120,Los Angeles Kings,3,Boston Bruins,4,Mike Leggo,Dan O'Halloran,Boston Bruins,Los Angeles Kings
+2002021121,San Jose Sharks,2,Anaheim Ducks,3,Shane Heyer,Chris Rooney,Anaheim Ducks,San Jose Sharks
+2002021122,Dallas Stars,3,St. Louis Blues,1,Paul Devorski,Marc Joannette,Dallas Stars,St. Louis Blues
+2002021123,Chicago Blackhawks,1,Pittsburgh Penguins,1,Don Koharski,Tim Peel,Chicago Blackhawks,Pittsburgh Penguins
+2002021124,Minnesota Wild,4,Detroit Red Wings,0,Terry Gregson,Scott Zelkin,Minnesota Wild,Detroit Red Wings
+2002021125,Edmonton Oilers,3,Nashville Predators,2,Dennis LaRue,Dan Marouelli,Edmonton Oilers,Nashville Predators
+2002021126,Vancouver Canucks,6,Washington Capitals,0,Brad Meier,Kevin Pollock,Vancouver Canucks,Washington Capitals
+2002021127,Boston Bruins,3,Toronto Maple Leafs,2,Rob Shick,Kelly Sutherland,Boston Bruins,Toronto Maple Leafs
+2002021128,Buffalo Sabres,4,Colorado Avalanche,3,Greg Kimmerly,Paul Stewart,Buffalo Sabres,Colorado Avalanche
+2002021129,Philadelphia Flyers,6,Atlanta Thrashers,2,Bill McCreary,Dean Warren,Philadelphia Flyers,Atlanta Thrashers
+2002021130,Florida Panthers,1,New Jersey Devils,4,Stephane Auger,Kerry Fraser,New Jersey Devils,Florida Panthers
+2002021131,Calgary Flames,2,Phoenix Coyotes,0,Mike Hasenfratz,Brad Meier,Calgary Flames,Phoenix Coyotes
+2002021132,Anaheim Ducks,5,Columbus Blue Jackets,0,Blaine Angus,Dan O'Halloran,Anaheim Ducks,Columbus Blue Jackets
+2002021133,San Jose Sharks,1,Tampa Bay Lightning,4,Shane Heyer,Brad Watson,Tampa Bay Lightning,San Jose Sharks
+2002021134,Ottawa Senators,2,Colorado Avalanche,2,Dave Jackson,Dennis LaRue,Ottawa Senators,Colorado Avalanche
+2002021135,Carolina Hurricanes,3,Toronto Maple Leafs,3,Mark Faucette,Dean Warren,Carolina Hurricanes,Toronto Maple Leafs
+2002021136,Montréal Canadiens,3,Washington Capitals,4,Bill McCreary,Kelly Sutherland,Washington Capitals,Montréal Canadiens
+2002021137,Detroit Red Wings,4,Minnesota Wild,0,Terry Gregson,Greg Kimmerly,Detroit Red Wings,Minnesota Wild
+2002021138,Nashville Predators,1,Philadelphia Flyers,1,Kerry Fraser,Stephen Walkom,Nashville Predators,Philadelphia Flyers
+2002021139,Chicago Blackhawks,2,New York Islanders,9,Marc Joannette,Dan Marouelli,New York Islanders,Chicago Blackhawks
+2002021140,Vancouver Canucks,3,Dallas Stars,4,Kevin Pollock,Don Van Massenhoven,Dallas Stars,Vancouver Canucks
+2002021141,Los Angeles Kings,1,Columbus Blue Jackets,2,Blaine Angus,Shane Heyer,Columbus Blue Jackets,Los Angeles Kings
+2002021142,Buffalo Sabres,2,Florida Panthers,1,Mike Hasenfratz,Dean Morton,Buffalo Sabres,Florida Panthers
+2002021143,New York Rangers,1,Pittsburgh Penguins,3,Dennis LaRue,Rob Shick,Pittsburgh Penguins,New York Rangers
+2002021144,Atlanta Thrashers,5,Carolina Hurricanes,1,Stephane Auger,Scott Zelkin,Atlanta Thrashers,Carolina Hurricanes
+2002021145,Minnesota Wild,0,St. Louis Blues,1,Terry Gregson,Marc Joannette,St. Louis Blues,Minnesota Wild
+2002021146,Edmonton Oilers,4,Phoenix Coyotes,3,Brad Meier,Don Van Massenhoven,Edmonton Oilers,Phoenix Coyotes
+2002021147,Anaheim Ducks,3,San Jose Sharks,2,Rob Martell,Tim Peel,Anaheim Ducks,San Jose Sharks
+2002021148,Tampa Bay Lightning,2,New Jersey Devils,2,Paul Devorski,Paul Stewart,Tampa Bay Lightning,New Jersey Devils
+2002021149,Philadelphia Flyers,2,Boston Bruins,2,Mark Faucette,Stephen Walkom,Philadelphia Flyers,Boston Bruins
+2002021150,St. Louis Blues,2,Florida Panthers,1,Dan Marouelli,Kelly Sutherland,St. Louis Blues,Florida Panthers
+2002021151,Colorado Avalanche,3,Los Angeles Kings,0,Don Koharski,Mike Leggo,Colorado Avalanche,Los Angeles Kings
+2002021152,Chicago Blackhawks,4,Nashville Predators,1,Stephane Auger,Kerry Fraser,Chicago Blackhawks,Nashville Predators
+2002021153,Calgary Flames,2,Dallas Stars,1,Rob Martell,Tim Peel,Calgary Flames,Dallas Stars
+2002021154,Vancouver Canucks,5,Phoenix Coyotes,1,Dan O'Halloran,Brad Watson,Vancouver Canucks,Phoenix Coyotes
+2002021155,San Jose Sharks,3,Detroit Red Wings,0,Blaine Angus,Eric Furlatt,San Jose Sharks,Detroit Red Wings
+2002021156,Buffalo Sabres,4,Montréal Canadiens,1,Kelly Sutherland,Dean Warren,Buffalo Sabres,Montréal Canadiens
+2002021157,Ottawa Senators,2,Washington Capitals,3,Kerry Fraser,Brad Meier,Washington Capitals,Ottawa Senators
+2002021158,New York Islanders,2,Toronto Maple Leafs,5,Dennis LaRue,Rob Shick,Toronto Maple Leafs,New York Islanders
+2002021159,Atlanta Thrashers,1,New Jersey Devils,1,Shane Heyer,Scott Zelkin,Atlanta Thrashers,New Jersey Devils
+2002021160,Minnesota Wild,4,Chicago Blackhawks,3,Mike Hasenfratz,Mike Leggo,Minnesota Wild,Chicago Blackhawks
+2002021161,Edmonton Oilers,4,Columbus Blue Jackets,0,Tim Peel,Don Van Massenhoven,Edmonton Oilers,Columbus Blue Jackets
+2002021162,Philadelphia Flyers,3,Pittsburgh Penguins,0,Dennis LaRue,Paul Stewart,Philadelphia Flyers,Pittsburgh Penguins
+2002021163,Boston Bruins,1,New York Rangers,3,Bill McCreary,Kevin Pollock,New York Rangers,Boston Bruins
+2002021164,St. Louis Blues,2,Detroit Red Wings,6,Dave Jackson,Stephen Walkom,Detroit Red Wings,St. Louis Blues
+2002021165,Colorado Avalanche,6,Phoenix Coyotes,1,Stephane Auger,Brad Watson,Colorado Avalanche,Phoenix Coyotes
+2002021166,Toronto Maple Leafs,4,Washington Capitals,3,Terry Gregson,Greg Kimmerly,Toronto Maple Leafs,Washington Capitals
+2002021167,Montréal Canadiens,1,Ottawa Senators,3,Marc Joannette,Brad Meier,Ottawa Senators,Montréal Canadiens
+2002021168,Carolina Hurricanes,1,Buffalo Sabres,3,Shane Heyer,Ian Walsh,Buffalo Sabres,Carolina Hurricanes
+2002021169,Tampa Bay Lightning,1,Florida Panthers,1,Paul Devorski,Chris Rooney,Tampa Bay Lightning,Florida Panthers
+2002021170,Nashville Predators,2,Atlanta Thrashers,3,Mark Faucette,Scott Zelkin,Atlanta Thrashers,Nashville Predators
+2002021171,Calgary Flames,4,Columbus Blue Jackets,6,Blaine Angus,Tim Peel,Columbus Blue Jackets,Calgary Flames
+2002021172,Los Angeles Kings,1,Vancouver Canucks,5,Don Koharski,Dan O'Halloran,Vancouver Canucks,Los Angeles Kings
+2002021173,San Jose Sharks,3,Dallas Stars,4,Mike Leggo,Rob Martell,Dallas Stars,San Jose Sharks
+2002021174,New Jersey Devils,6,New York Islanders,0,Bill McCreary,Kevin Pollock,New Jersey Devils,New York Islanders
+2002021175,Chicago Blackhawks,4,Edmonton Oilers,4,Kerry Fraser,Dave Jackson,Chicago Blackhawks,Edmonton Oilers
+2002021176,Anaheim Ducks,3,Vancouver Canucks,1,Don Koharski,Rob Shick,Anaheim Ducks,Vancouver Canucks
+2002021177,Boston Bruins,2,Tampa Bay Lightning,2,Dan Marouelli,Kelly Sutherland,Boston Bruins,Tampa Bay Lightning
+2002021178,Carolina Hurricanes,0,Montréal Canadiens,4,Paul Devorski,Scott Zelkin,Montréal Canadiens,Carolina Hurricanes
+2002021179,New York Rangers,3,Atlanta Thrashers,4,Marc Joannette,Brad Meier,Atlanta Thrashers,New York Rangers
+2002021180,Pittsburgh Penguins,1,Philadelphia Flyers,6,Dan O'Rourke,Jay Sharrers,Philadelphia Flyers,Pittsburgh Penguins
+2002021181,Detroit Red Wings,3,Nashville Predators,0,Shane Heyer,Brad Watson,Detroit Red Wings,Nashville Predators
+2002021182,St. Louis Blues,5,Edmonton Oilers,5,Don Koharski,Tim Peel,St. Louis Blues,Edmonton Oilers
+2002021183,Minnesota Wild,3,Calgary Flames,0,Stephane Auger,Bob Langdon,Minnesota Wild,Calgary Flames
+2002021184,Dallas Stars,3,Buffalo Sabres,0,Eric Furlatt,Chris Rooney,Dallas Stars,Buffalo Sabres
+2002021185,Colorado Avalanche,3,San Jose Sharks,1,Terry Gregson,Mike Hasenfratz,Colorado Avalanche,San Jose Sharks
+2002021186,Phoenix Coyotes,4,Los Angeles Kings,5,Rob Martell,Dan O'Halloran,Los Angeles Kings,Phoenix Coyotes
+2002021187,Ottawa Senators,3,Boston Bruins,2,Bill McCreary,Brad Meier,Ottawa Senators,Boston Bruins
+2002021188,New York Islanders,2,New York Rangers,2,Kevin Pollock,Stephen Walkom,New York Islanders,New York Rangers
+2002021189,Philadelphia Flyers,4,Columbus Blue Jackets,0,Chris Lee,Ian Walsh,Philadelphia Flyers,Columbus Blue Jackets
+2002021190,Washington Capitals,3,Florida Panthers,0,Mark Faucette,Jay Sharrers,Washington Capitals,Florida Panthers
+2002021191,New Jersey Devils,2,Toronto Maple Leafs,3,Don Van Massenhoven,Dean Warren,Toronto Maple Leafs,New Jersey Devils
+2002021192,Nashville Predators,1,Anaheim Ducks,2,Harry Dumas,Kerry Fraser,Anaheim Ducks,Nashville Predators
+2002021193,Buffalo Sabres,4,Atlanta Thrashers,3,Wes McCauley,Scott Zelkin,Buffalo Sabres,Atlanta Thrashers
+2002021194,Tampa Bay Lightning,2,Montréal Canadiens,1,Mark Faucette,Marc Joannette,Tampa Bay Lightning,Montréal Canadiens
+2002021195,Columbus Blue Jackets,3,Minnesota Wild,0,Shane Heyer,Dave Jackson,Columbus Blue Jackets,Minnesota Wild
+2002021196,Pittsburgh Penguins,3,Carolina Hurricanes,2,Eric Furlatt,Chris Lee,Pittsburgh Penguins,Carolina Hurricanes
+2002021197,Dallas Stars,2,Anaheim Ducks,1,Stephane Auger,Paul Stewart,Dallas Stars,Anaheim Ducks
+2002021198,Calgary Flames,2,San Jose Sharks,2,Mike Hasenfratz,Kelly Sutherland,Calgary Flames,San Jose Sharks
+2002021199,Phoenix Coyotes,3,Vancouver Canucks,3,Mike Leggo,Tim Peel,Phoenix Coyotes,Vancouver Canucks
+2002021200,Los Angeles Kings,5,Colorado Avalanche,3,Dennis LaRue,Rob Martell,Los Angeles Kings,Colorado Avalanche
+2002021201,Washington Capitals,1,Ottawa Senators,5,Paul Devorski,Don Van Massenhoven,Ottawa Senators,Washington Capitals
+2002021202,Toronto Maple Leafs,2,Minnesota Wild,1,Terry Gregson,Chris Lee,Toronto Maple Leafs,Minnesota Wild
+2002021203,New Jersey Devils,1,Boston Bruins,1,Kerry Fraser,Michael McGeough,New Jersey Devils,Boston Bruins
+2002021204,Detroit Red Wings,5,New York Islanders,2,Dan Marouelli,Dan O'Halloran,Detroit Red Wings,New York Islanders
+2002021205,St. Louis Blues,4,Chicago Blackhawks,6,Chris Rooney,Paul Stewart,Chicago Blackhawks,St. Louis Blues
+2002021206,Edmonton Oilers,3,San Jose Sharks,3,Greg Kimmerly,Brad Meier,Edmonton Oilers,San Jose Sharks
+2002021207,Columbus Blue Jackets,5,Detroit Red Wings,5,Blaine Angus,Scott Zelkin,Columbus Blue Jackets,Detroit Red Wings
+2002021208,New York Rangers,1,New Jersey Devils,2,Paul Devorski,Don Koharski,New Jersey Devils,New York Rangers
+2002021209,Tampa Bay Lightning,1,Philadelphia Flyers,4,Stephane Auger,Rob Shick,Philadelphia Flyers,Tampa Bay Lightning
+2002021210,Florida Panthers,4,Carolina Hurricanes,1,Marc Joannette,Chris Rooney,Florida Panthers,Carolina Hurricanes
+2002021211,Chicago Blackhawks,2,St. Louis Blues,2,Eric Furlatt,Dave Jackson,Chicago Blackhawks,St. Louis Blues
+2002021212,Calgary Flames,2,Los Angeles Kings,1,Greg Kimmerly,Brad Meier,Calgary Flames,Los Angeles Kings
+2002021213,Phoenix Coyotes,1,Nashville Predators,0,Mike Leggo,Rob Martell,Phoenix Coyotes,Nashville Predators
+2002021214,Anaheim Ducks,3,Colorado Avalanche,4,Shane Heyer,Dennis LaRue,Colorado Avalanche,Anaheim Ducks
+2002021215,Boston Bruins,8,Buffalo Sabres,5,Jay Sharrers,Paul Stewart,Boston Bruins,Buffalo Sabres
+2002021216,New York Islanders,2,Atlanta Thrashers,3,Don Koharski,Michael McGeough,Atlanta Thrashers,New York Islanders
+2002021217,Toronto Maple Leafs,1,Ottawa Senators,3,Dan Marouelli,Dean Warren,Ottawa Senators,Toronto Maple Leafs
+2002021218,Montréal Canadiens,5,New York Rangers,4,Terry Gregson,Kevin Pollock,Montréal Canadiens,New York Rangers
+2002021219,Washington Capitals,5,Pittsburgh Penguins,3,Stephen Walkom,Scott Zelkin,Washington Capitals,Pittsburgh Penguins
+2002021220,Edmonton Oilers,1,Calgary Flames,4,Greg Kimmerly,Brad Watson,Calgary Flames,Edmonton Oilers
+2002021221,Carolina Hurricanes,1,New York Islanders,2,Mike Hasenfratz,Scott Zelkin,New York Islanders,Carolina Hurricanes
+2002021222,Chicago Blackhawks,4,Detroit Red Wings,3,Eric Furlatt,Rob Shick,Chicago Blackhawks,Detroit Red Wings
+2002021223,Buffalo Sabres,2,New Jersey Devils,2,Bill McCreary,Dean Warren,Buffalo Sabres,New Jersey Devils
+2002021224,Minnesota Wild,4,Columbus Blue Jackets,3,Dave Jackson,Chris Rooney,Minnesota Wild,Columbus Blue Jackets
+2002021225,Atlanta Thrashers,6,Tampa Bay Lightning,2,Michael McGeough,Jay Sharrers,Atlanta Thrashers,Tampa Bay Lightning
+2002021226,Florida Panthers,2,Philadelphia Flyers,6,Stephane Auger,Mark Faucette,Philadelphia Flyers,Florida Panthers
+2002021227,Dallas Stars,2,Nashville Predators,0,Blaine Angus,Craig Spada,Dallas Stars,Nashville Predators
+2002021228,Colorado Avalanche,5,St. Louis Blues,2,Kerry Fraser,Rob Martell,Colorado Avalanche,St. Louis Blues
+2002021229,Vancouver Canucks,0,Los Angeles Kings,2,Brad Meier,Kelly Sutherland,Los Angeles Kings,Vancouver Canucks
+2002021230,San Jose Sharks,3,Phoenix Coyotes,3,Shane Heyer,Mike Leggo,San Jose Sharks,Phoenix Coyotes

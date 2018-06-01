@@ -1,0 +1,1067 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+1996020001,St. Louis Blues,4,Colorado Avalanche,2,Mark Faucette,Andy McElman,St. Louis Blues,Colorado Avalanche
+1996020002,Edmonton Oilers,4,Buffalo Sabres,3,Rob Shick,Swede Knox,Edmonton Oilers,Buffalo Sabres
+1996020003,Los Angeles Kings,1,New York Islanders,0,Don Koharski,Shane Heyer,Los Angeles Kings,New York Islanders
+1996020004,Boston Bruins,4,New York Rangers,4,Dave Jackson,Kevin Collins,Boston Bruins,New York Rangers
+1996020005,Hartford Whalers,1,Phoenix Coyotes,0,Lance Roberts,Brian Murphy,Hartford Whalers,Phoenix Coyotes
+1996020006,Pittsburgh Penguins,3,Tampa Bay Lightning,4,Dennis Larue,Mark Pare,Tampa Bay Lightning,Pittsburgh Penguins
+1996020007,Montréal Canadiens,3,Ottawa Senators,3,Gregson,Champoux,Montréal Canadiens,Ottawa Senators
+1996020008,New Jersey Devils,3,Detroit Red Wings,1,Blaine Angus,Ron Asselstine,New Jersey Devils,Detroit Red Wings
+1996020009,Philadelphia Flyers,1,Florida Panthers,3,Bill McCreary,Dan McCourt,Florida Panthers,Philadelphia Flyers
+1996020010,Washington Capitals,2,Chicago Blackhawks,5,Don Van Massenhoven,Gordon Broseker,Chicago Blackhawks,Washington Capitals
+1996020011,Toronto Maple Leafs,4,Anaheim Ducks,1,Dan Marouelli,Greg Devorski,Toronto Maple Leafs,Anaheim Ducks
+1996020012,Dallas Stars,4,Colorado Avalanche,1,Faucette,Schachte,Dallas Stars,Colorado Avalanche
+1996020013,Vancouver Canucks,3,Calgary Flames,1,Paul Stewart,Brad Lazarowich,Vancouver Canucks,Calgary Flames
+1996020014,San Jose Sharks,2,New York Islanders,2,Don Koharski,Shane Heyer,San Jose Sharks,New York Islanders
+1996020015,New York Rangers,2,Florida Panthers,5,Don Van Massenhoven,Ron Asselstine,Florida Panthers,New York Rangers
+1996020016,St. Louis Blues,1,Chicago Blackhawks,4,Kerry Fraser,Andy McElman,Chicago Blackhawks,St. Louis Blues
+1996020017,Calgary Flames,3,Buffalo Sabres,0,Rob Shick,Mike Cvik,Calgary Flames,Buffalo Sabres
+1996020018,Edmonton Oilers,2,Vancouver Canucks,0,Paul Stewart,Swede Knox,Edmonton Oilers,Vancouver Canucks
+1996020019,Los Angeles Kings,6,San Jose Sharks,7,Don Koharski,Shane Heyer,San Jose Sharks,Los Angeles Kings
+1996020020,Boston Bruins,2,Phoenix Coyotes,5,Dennis Larue,Brian Murphy,Phoenix Coyotes,Boston Bruins
+1996020021,Montréal Canadiens,6,Anaheim Ducks,6,Walkom,Devorski,Montréal Canadiens,Anaheim Ducks
+1996020022,Philadelphia Flyers,3,New Jersey Devils,1,Paul Devorski,Dan McCourt,Philadelphia Flyers,New Jersey Devils
+1996020023,Hartford Whalers,7,Pittsburgh Penguins,3,Paul Devorski,Kevin Collins,Hartford Whalers,Pittsburgh Penguins
+1996020024,Florida Panthers,1,New York Rangers,1,Mark Faucette,Gordon Broseker,Florida Panthers,New York Rangers
+1996020025,Toronto Maple Leafs,2,Edmonton Oilers,4,Mick McGeough,Lonnie Cameron,Edmonton Oilers,Toronto Maple Leafs
+1996020026,Dallas Stars,5,Washington Capitals,3,Fraser,Driscoll,Dallas Stars,Washington Capitals
+1996020027,Colorado Avalanche,6,San Jose Sharks,0,Paul Stewart,Wayne Bonney,Colorado Avalanche,San Jose Sharks
+1996020028,Ottawa Senators,3,New York Islanders,3,Mick McGeough,Pierre Champoux,Ottawa Senators,New York Islanders
+1996020029,Montréal Canadiens,6,Los Angeles Kings,3,Roberts,Devorski,Montréal Canadiens,Los Angeles Kings
+1996020030,Detroit Red Wings,2,Edmonton Oilers,0,Trottier,Cameron,Detroit Red Wings,Edmonton Oilers
+1996020031,Chicago Blackhawks,0,Anaheim Ducks,2,Kerry Fraser,Scott Driscoll,Anaheim Ducks,Chicago Blackhawks
+1996020032,Calgary Flames,1,St. Louis Blues,3,Rob Shick,Swede Knox,St. Louis Blues,Calgary Flames
+1996020033,Vancouver Canucks,1,Buffalo Sabres,2,Bill McCreary,Mike Cvik,Buffalo Sabres,Vancouver Canucks
+1996020034,New York Rangers,1,Dallas Stars,2,Terry Gregson,Mark Pare,Dallas Stars,New York Rangers
+1996020035,Philadelphia Flyers,5,Los Angeles Kings,4,Stephen Walkom,Ron Asselstine,Philadelphia Flyers,Los Angeles Kings
+1996020036,Colorado Avalanche,6,Anaheim Ducks,6,Paul Stewart,Wayne Bonney,Colorado Avalanche,Anaheim Ducks
+1996020037,Phoenix Coyotes,4,San Jose Sharks,1,Dave Jackson,Jay Sharrers,Phoenix Coyotes,San Jose Sharks
+1996020038,Ottawa Senators,3,Pittsburgh Penguins,2,Lance Roberts,Dan McCourt,Ottawa Senators,Pittsburgh Penguins
+1996020039,Washington Capitals,6,Tampa Bay Lightning,2,Terry Gregson,Mark Pare,Washington Capitals,Tampa Bay Lightning
+1996020040,Detroit Red Wings,1,Calgary Flames,2,Mick McGeough,Lonnie Cameron,Calgary Flames,Detroit Red Wings
+1996020041,Chicago Blackhawks,0,Colorado Avalanche,2,Richard Trottier,Scott Driscoll,Colorado Avalanche,Chicago Blackhawks
+1996020042,Edmonton Oilers,1,St. Louis Blues,3,Bill McCreary,Swede Knox,St. Louis Blues,Edmonton Oilers
+1996020043,Pittsburgh Penguins,3,Ottawa Senators,2,Mark Faucette,Greg Devorski,Pittsburgh Penguins,Ottawa Senators
+1996020044,Buffalo Sabres,1,Detroit Red Wings,6,Don Van Massenhoven,Brian Murphy,Detroit Red Wings,Buffalo Sabres
+1996020045,Montréal Canadiens,5,New York Rangers,2,Devorsky,Champoux,Montréal Canadiens,New York Rangers
+1996020046,New York Islanders,5,Philadelphia Flyers,1,Dan Marouelli,Ron Asselstine,New York Islanders,Philadelphia Flyers
+1996020047,New Jersey Devils,2,Dallas Stars,4,Stephen Walkom,Andy McElman,Dallas Stars,New Jersey Devils
+1996020048,Washington Capitals,3,Los Angeles Kings,4,Dan O'Halloran,Gordon Broseker,Los Angeles Kings,Washington Capitals
+1996020049,Florida Panthers,6,Hartford Whalers,0,Blaine Angus,Kevin Collins,Florida Panthers,Hartford Whalers
+1996020050,Toronto Maple Leafs,4,Tampa Bay Lightning,7,Richard Trottier,Dan McCourt,Tampa Bay Lightning,Toronto Maple Leafs
+1996020051,Phoenix Coyotes,4,Anaheim Ducks,2,Dave Jackson,Shane Heyer,Phoenix Coyotes,Anaheim Ducks
+1996020052,Vancouver Canucks,5,St. Louis Blues,3,Bill McCreary,Wayne Bonney,Vancouver Canucks,St. Louis Blues
+1996020053,San Jose Sharks,3,Boston Bruins,5,Larue,Mike Cvik,Boston Bruins,San Jose Sharks
+1996020054,Philadelphia Flyers,0,Calgary Flames,1,Terry Gregson,Gordon Broseker,Calgary Flames,Philadelphia Flyers
+1996020055,Chicago Blackhawks,3,Dallas Stars,5,Don Koharski,Lonnie Cameron,Dallas Stars,Chicago Blackhawks
+1996020056,New York Rangers,5,Calgary Flames,4,Dan Marouelli,Andy McElman,New York Rangers,Calgary Flames
+1996020057,Phoenix Coyotes,3,Edmonton Oilers,6,Rob Shick,Jay Sharrers,Edmonton Oilers,Phoenix Coyotes
+1996020058,Vancouver Canucks,4,Boston Bruins,5,Dave Jackson,Wayne Bonney,Boston Bruins,Vancouver Canucks
+1996020059,Buffalo Sabres,0,Tampa Bay Lightning,4,Lance Roberts,Scott Driscoll,Tampa Bay Lightning,Buffalo Sabres
+1996020060,New Jersey Devils,3,Montréal Canadiens,2,Mark Faucette,Andy McElman,New Jersey Devils,Montréal Canadiens
+1996020061,Toronto Maple Leafs,1,Chicago Blackhawks,3,Paul Devorski,Stephane Provost,Chicago Blackhawks,Toronto Maple Leafs
+1996020062,Dallas Stars,3,Detroit Red Wings,1,Koharski,Champoux,Dallas Stars,Detroit Red Wings
+1996020063,Colorado Avalanche,7,Edmonton Oilers,2,Dave Jackson,Mike Cvik,Colorado Avalanche,Edmonton Oilers
+1996020064,Los Angeles Kings,3,Philadelphia Flyers,2,Don Van Massenhoven,Swede Knox,Los Angeles Kings,Philadelphia Flyers
+1996020065,Montréal Canadiens,4,Calgary Flames,2,Fraser,McCourt,Montréal Canadiens,Calgary Flames
+1996020066,New York Rangers,8,Pittsburgh Penguins,1,Mark Faucette,Ron Asselstine,New York Rangers,Pittsburgh Penguins
+1996020067,San Jose Sharks,3,Florida Panthers,3,Shick,Devorski,San Jose Sharks,Florida Panthers
+1996020068,Anaheim Ducks,3,Philadelphia Flyers,4,Don Van Massenhoven,Swede Knox,Philadelphia Flyers,Anaheim Ducks
+1996020069,Buffalo Sabres,4,Pittsburgh Penguins,1,Kerry Fraser,Brad Kovachik,Buffalo Sabres,Pittsburgh Penguins
+1996020070,New York Islanders,1,Hartford Whalers,3,Blaine Angus,Ron Asselstine,Hartford Whalers,New York Islanders
+1996020071,Chicago Blackhawks,2,Detroit Red Wings,1,Dave Jackson,Brian Murphy,Chicago Blackhawks,Detroit Red Wings
+1996020072,St. Louis Blues,6,Toronto Maple Leafs,1,Mick McGeough,Kevin Collins,St. Louis Blues,Toronto Maple Leafs
+1996020073,Dallas Stars,1,Vancouver Canucks,6,Devorski,Champoux,Vancouver Canucks,Dallas Stars
+1996020074,Colorado Avalanche,1,Florida Panthers,2,Don Koharski,Mike Cvik,Florida Panthers,Colorado Avalanche
+1996020075,Los Angeles Kings,4,Boston Bruins,2,Don Van Massenhoven,Swede Knox,Los Angeles Kings,Boston Bruins
+1996020076,New York Rangers,2,St. Louis Blues,1,Paul Stewart,Scott Driscoll,New York Rangers,St. Louis Blues
+1996020077,New Jersey Devils,2,Ottawa Senators,2,Richard Trottier,Ron Asselstine,New Jersey Devils,Ottawa Senators
+1996020078,Washington Capitals,1,Buffalo Sabres,4,Stephen Walkom,Gordon Broseker,Buffalo Sabres,Washington Capitals
+1996020079,Phoenix Coyotes,1,Philadelphia Flyers,3,Mick McGeough,Baron Parker,Philadelphia Flyers,Phoenix Coyotes
+1996020080,Anaheim Ducks,1,San Jose Sharks,4,Rob Shick,Greg Devorski,San Jose Sharks,Anaheim Ducks
+1996020081,Hartford Whalers,6,New Jersey Devils,2,Paul Stewart,Scott Driscoll,Hartford Whalers,New Jersey Devils
+1996020082,Pittsburgh Penguins,2,Washington Capitals,1,Kerry Fraser,Kevin Collins,Pittsburgh Penguins,Washington Capitals
+1996020083,Ottawa Senators,6,Montréal Canadiens,3,Mark Faucette,Dan McCourt,Ottawa Senators,Montréal Canadiens
+1996020084,Detroit Red Wings,4,New York Islanders,2,Larue,Champoux,Detroit Red Wings,New York Islanders
+1996020085,Dallas Stars,2,Toronto Maple Leafs,0,Devorski,Nowak,Dallas Stars,Toronto Maple Leafs
+1996020086,Colorado Avalanche,9,Vancouver Canucks,2,Lance Roberts,Shane Heyer,Colorado Avalanche,Vancouver Canucks
+1996020087,Tampa Bay Lightning,5,New York Rangers,2,Bill McCreary,Gordon Broseker,Tampa Bay Lightning,New York Rangers
+1996020088,Chicago Blackhawks,2,Los Angeles Kings,1,Mick McGeough,Andy McElman,Chicago Blackhawks,Los Angeles Kings
+1996020089,St. Louis Blues,2,San Jose Sharks,3,Lance Roberts,Brian Murphy,San Jose Sharks,St. Louis Blues
+1996020090,Phoenix Coyotes,1,Florida Panthers,1,Dan Marouelli,Baron Parker,Phoenix Coyotes,Florida Panthers
+1996020091,Calgary Flames,6,Edmonton Oilers,3,Terry Gregson,Lonnie Cameron,Calgary Flames,Edmonton Oilers
+1996020092,Anaheim Ducks,1,Boston Bruins,5,Don Van Massenhoven,Greg Devorski,Boston Bruins,Anaheim Ducks
+1996020093,Detroit Red Wings,3,Los Angeles Kings,0,Walkom,Scapinello,Detroit Red Wings,Los Angeles Kings
+1996020094,New York Islanders,3,Tampa Bay Lightning,6,Paul Stewart,Mike Cvik,Tampa Bay Lightning,New York Islanders
+1996020095,Philadelphia Flyers,3,Anaheim Ducks,0,Richard Trottier,Kevin Collins,Philadelphia Flyers,Anaheim Ducks
+1996020096,Toronto Maple Leafs,4,San Jose Sharks,3,Walkom,Knox,Toronto Maple Leafs,San Jose Sharks
+1996020097,Phoenix Coyotes,1,St. Louis Blues,2,Dan Marouelli,Bob Hodges,St. Louis Blues,Phoenix Coyotes
+1996020098,Calgary Flames,5,Colorado Avalanche,1,Mick McGeough,Lonnie Cameron,Calgary Flames,Colorado Avalanche
+1996020099,Edmonton Oilers,5,Pittsburgh Penguins,2,Terry Gregson,Andy McElman,Edmonton Oilers,Pittsburgh Penguins
+1996020100,New York Rangers,2,Washington Capitals,3,Don Koharski,Kevin Collins,Washington Capitals,New York Rangers
+1996020101,Florida Panthers,5,Ottawa Senators,2,Bill McCreary,Dan McCourt,Florida Panthers,Ottawa Senators
+1996020102,Detroit Red Wings,4,Dallas Stars,1,Shick,Knox,Detroit Red Wings,Dallas Stars
+1996020103,Vancouver Canucks,1,Colorado Avalanche,4,Terry Gregson,Lonnie Cameron,Colorado Avalanche,Vancouver Canucks
+1996020104,Boston Bruins,1,Toronto Maple Leafs,2,Richard Trottier,Pierre Champoux,Toronto Maple Leafs,Boston Bruins
+1996020105,Hartford Whalers,4,Anaheim Ducks,1,Dan O'Halloran,Brian Murphy,Hartford Whalers,Anaheim Ducks
+1996020106,Buffalo Sabres,6,Montréal Canadiens,3,Mark Faucette,Swede Knox,Buffalo Sabres,Montréal Canadiens
+1996020107,New Jersey Devils,3,San Jose Sharks,1,Dave Jackson,Mike Cvik,New Jersey Devils,San Jose Sharks
+1996020108,Tampa Bay Lightning,2,Ottawa Senators,5,Bill McCreary,Dan McCourt,Ottawa Senators,Tampa Bay Lightning
+1996020109,Chicago Blackhawks,6,St. Louis Blues,4,Kerry Fraser,Scott Driscoll,Chicago Blackhawks,St. Louis Blues
+1996020110,Calgary Flames,7,Pittsburgh Penguins,5,Stephen Walkom,Andy McElman,Calgary Flames,Pittsburgh Penguins
+1996020111,Los Angeles Kings,2,Edmonton Oilers,8,Dan Marouelli,Shane Heyer,Edmonton Oilers,Los Angeles Kings
+1996020112,Florida Panthers,6,New York Rangers,4,Rob Shick,Dan McCourt,Florida Panthers,New York Rangers
+1996020113,Detroit Red Wings,2,Chicago Blackhawks,2,Stewart,Ron Asselstine,Detroit Red Wings,Chicago Blackhawks
+1996020114,Boston Bruins,1,Detroit Red Wings,2,Lance Roberts,Pierre Champoux,Detroit Red Wings,Boston Bruins
+1996020115,Buffalo Sabres,6,Hartford Whalers,3,Don Van Massenhoven,Ron Asselstine,Buffalo Sabres,Hartford Whalers
+1996020116,Montréal Canadiens,6,Philadelphia Flyers,5,Koharski,Gauthier,Montréal Canadiens,Philadelphia Flyers
+1996020117,New York Islanders,2,San Jose Sharks,2,Dave Jackson,Mike Cvik,New York Islanders,San Jose Sharks
+1996020118,Tampa Bay Lightning,1,New Jersey Devils,4,Rob Schick,Dan McCourt,New Jersey Devils,Tampa Bay Lightning
+1996020119,Toronto Maple Leafs,5,Phoenix Coyotes,2,Mark Faucette,Swede Knox,Toronto Maple Leafs,Phoenix Coyotes
+1996020120,St. Louis Blues,4,Washington Capitals,6,Richard Trottier,Leon Stickle,Washington Capitals,St. Louis Blues
+1996020121,Dallas Stars,5,Ottawa Senators,1,Blaine Angus,Pare,Dallas Stars,Ottawa Senators
+1996020122,Edmonton Oilers,2,Colorado Avalanche,4,Stephen Walkom,Andy McElman,Colorado Avalanche,Edmonton Oilers
+1996020123,Vancouver Canucks,2,Pittsburgh Penguins,1,Terry Gregson,Wayne Bonney,Vancouver Canucks,Pittsburgh Penguins
+1996020124,Los Angeles Kings,0,Calgary Flames,0,Dan Marouelli,Shane Heyer,Los Angeles Kings,Calgary Flames
+1996020125,New York Rangers,6,Buffalo Sabres,4,Dave Jackson,Mike Cvik,New York Rangers,Buffalo Sabres
+1996020126,Philadelphia Flyers,2,Florida Panthers,3,Kerry Fraser,Gordon Broseker,Florida Panthers,Philadelphia Flyers
+1996020127,Chicago Blackhawks,2,San Jose Sharks,6,Paul Devorski,Greg Devorski,San Jose Sharks,Chicago Blackhawks
+1996020128,Anaheim Ducks,1,Calgary Flames,4,Dan Marouelli,Shane Heyer,Calgary Flames,Anaheim Ducks
+1996020129,Montréal Canadiens,4,Phoenix Coyotes,5,Koharski,Knox,Phoenix Coyotes,Montréal Canadiens
+1996020130,Colorado Avalanche,1,Washington Capitals,0,Richard Trottier,Mark Pare,Colorado Avalanche,Washington Capitals
+1996020131,Boston Bruins,5,New Jersey Devils,2,Rob Shick,Kevin Collins,Boston Bruins,New Jersey Devils
+1996020132,New York Rangers,1,Florida Panthers,1,Lance Roberts,Gordon Broseker,New York Rangers,Florida Panthers
+1996020133,Tampa Bay Lightning,2,Chicago Blackhawks,2,Mark Faucette,Tim Nowak,Tampa Bay Lightning,Chicago Blackhawks
+1996020134,Toronto Maple Leafs,2,Los Angeles Kings,5,Don Koharski,Ron Asselstine,Los Angeles Kings,Toronto Maple Leafs
+1996020135,Hartford Whalers,2,New York Islanders,2,Rob Shick,Kevin Collins,Hartford Whalers,New York Islanders
+1996020136,Ottawa Senators,2,Los Angeles Kings,2,Dennis Larue,Pierre Champoux,Ottawa Senators,Los Angeles Kings
+1996020137,New Jersey Devils,1,New York Rangers,6,Paul Stewart,Gordon Broseker,New York Rangers,New Jersey Devils
+1996020138,Washington Capitals,4,Philadelphia Flyers,2,Bill McCreary,Ron Asselstine,Washington Capitals,Philadelphia Flyers
+1996020139,Florida Panthers,3,Chicago Blackhawks,2,Mark Faucette,Brian Murphy,Florida Panthers,Chicago Blackhawks
+1996020140,Detroit Red Wings,5,Montréal Canadiens,3,Gregson,Heyer,Detroit Red Wings,Montréal Canadiens
+1996020141,Dallas Stars,2,Buffalo Sabres,0,Trottier,McElman,Dallas Stars,Buffalo Sabres
+1996020142,Colorado Avalanche,6,St. Louis Blues,3,Paul Devorski,Mark Pare,Colorado Avalanche,St. Louis Blues
+1996020143,Edmonton Oilers,4,Phoenix Coyotes,1,Mick McGeough,Mike Cvik,Edmonton Oilers,Phoenix Coyotes
+1996020144,San Jose Sharks,3,Calgary Flames,1,Fraser,Cameron,San Jose Sharks,Calgary Flames
+1996020145,Anaheim Ducks,3,Vancouver Canucks,6,Blaine Angus,Wayne Bonney,Vancouver Canucks,Anaheim Ducks
+1996020146,Boston Bruins,4,Hartford Whalers,4,Dave Jackson,Greg Devorski,Boston Bruins,Hartford Whalers
+1996020147,New York Islanders,3,Toronto Maple Leafs,5,Lance Roberts,Ron Asselstine,Toronto Maple Leafs,New York Islanders
+1996020148,Tampa Bay Lightning,3,Philadelphia Flyers,4,Don Van Massenhoven,Brian Murphy,Philadelphia Flyers,Tampa Bay Lightning
+1996020149,Ottawa Senators,2,Detroit Red Wings,2,Terry Gregson,Pierre Champoux,Ottawa Senators,Detroit Red Wings
+1996020150,Washington Capitals,4,Pittsburgh Penguins,2,Dan Marouelli,Scott Driscoll,Washington Capitals,Pittsburgh Penguins
+1996020151,St. Louis Blues,2,Buffalo Sabres,4,Don Koharski,Shane Heyer,Buffalo Sabres,St. Louis Blues
+1996020152,Dallas Stars,2,Chicago Blackhawks,3,McCreary,McElman,Chicago Blackhawks,Dallas Stars
+1996020153,Calgary Flames,2,Phoenix Coyotes,3,Paul Devorski,Mike Cvik,Phoenix Coyotes,Calgary Flames
+1996020154,Edmonton Oilers,4,Vancouver Canucks,5,Kerry Fraser,Swede Knox,Vancouver Canucks,Edmonton Oilers
+1996020155,Anaheim Ducks,4,San Jose Sharks,3,Mick McGeough,Lonnie Cameron,Anaheim Ducks,San Jose Sharks
+1996020156,Boston Bruins,2,New York Rangers,5,Mark Faucette,Bob Hodges,New York Rangers,Boston Bruins
+1996020157,Hartford Whalers,2,Los Angeles Kings,3,Rob Martell,Kevin Collins,Los Angeles Kings,Hartford Whalers
+1996020158,Pittsburgh Penguins,7,Ottawa Senators,3,Dan Marouelli,Dan McCourt,Pittsburgh Penguins,Ottawa Senators
+1996020159,New York Islanders,6,Washington Capitals,1,Stephen Walkom,Scott Driscoll,New York Islanders,Washington Capitals
+1996020160,New Jersey Devils,2,Tampa Bay Lightning,1,Lance Roberts,Ron Asselstine,New Jersey Devils,Tampa Bay Lightning
+1996020161,Florida Panthers,2,Philadelphia Flyers,3,Don Van Massenhoven,Brian Murphy,Philadelphia Flyers,Florida Panthers
+1996020162,Toronto Maple Leafs,6,Detroit Red Wings,2,Paul Stewart,Ray Scapinello,Toronto Maple Leafs,Detroit Red Wings
+1996020163,Colorado Avalanche,0,Buffalo Sabres,0,Dan O'Halloran,Wayne Bonney,Colorado Avalanche,Buffalo Sabres
+1996020164,Vancouver Canucks,4,Calgary Flames,3,Kerry Fraser,Mike Cvik,Vancouver Canucks,Calgary Flames
+1996020165,San Jose Sharks,4,Montréal Canadiens,3,Devorski,Cameron,San Jose Sharks,Montréal Canadiens
+1996020166,Chicago Blackhawks,4,Edmonton Oilers,2,Bill McCreary,Shane Heyer,Chicago Blackhawks,Edmonton Oilers
+1996020167,St. Louis Blues,6,Dallas Stars,3,Paul Stewart,Andy McElman,St. Louis Blues,Dallas Stars
+1996020168,Phoenix Coyotes,4,Montréal Canadiens,4,Mick McGeough,Baron Parker,Phoenix Coyotes,Montréal Canadiens
+1996020169,Anaheim Ducks,1,Colorado Avalanche,1,Paul Devorski,Lonnie Cameron,Anaheim Ducks,Colorado Avalanche
+1996020170,Boston Bruins,4,Los Angeles Kings,4,Don Van Massenhoven,Gordon Broseker,Boston Bruins,Los Angeles Kings
+1996020171,New York Rangers,3,Tampa Bay Lightning,5,Stephan Walkom,Dan McCourt,Tampa Bay Lightning,New York Rangers
+1996020172,Philadelphia Flyers,3,New York Islanders,4,Mark Faucette,Scott Driscoll,New York Islanders,Philadelphia Flyers
+1996020173,Detroit Red Wings,5,Hartford Whalers,1,Fraser,Sharrers,Detroit Red Wings,Hartford Whalers
+1996020174,Toronto Maple Leafs,6,St. Louis Blues,3,Bill McCreary,Jay Sharrers,Toronto Maple Leafs,St. Louis Blues
+1996020175,Hartford Whalers,5,Boston Bruins,1,Dan Marouelli,Gordon Broseker,Hartford Whalers,Boston Bruins
+1996020176,Pittsburgh Penguins,5,Edmonton Oilers,2,Mark Faucette,Pierre Champoux,Pittsburgh Penguins,Edmonton Oilers
+1996020177,New York Islanders,1,New York Rangers,1,Terry Gregson,Dan McCourt,New York Islanders,New York Rangers
+1996020178,Tampa Bay Lightning,1,Washington Capitals,2,Richard Trottier,Mark Pare,Washington Capitals,Tampa Bay Lightning
+1996020179,Detroit Red Wings,0,New Jersey Devils,2,Jackson,Hodges,New Jersey Devils,Detroit Red Wings
+1996020180,Phoenix Coyotes,2,Dallas Stars,3,Don Koharski,Swede Knox,Dallas Stars,Phoenix Coyotes
+1996020181,San Jose Sharks,1,Colorado Avalanche,4,Mick McGeough,Mike Cvik,Colorado Avalanche,San Jose Sharks
+1996020182,Anaheim Ducks,5,Montréal Canadiens,6,Rob Shick,Ron Asselstine,Montréal Canadiens,Anaheim Ducks
+1996020183,Boston Bruins,0,Edmonton Oilers,6,Terry Gregson,Gordon Broseker,Edmonton Oilers,Boston Bruins
+1996020184,Buffalo Sabres,2,Philadelphia Flyers,5,Paul Stewart,Pierre Champoux,Philadelphia Flyers,Buffalo Sabres
+1996020185,Ottawa Senators,6,Toronto Maple Leafs,2,Don Van Massenhoven,Kevin Collins,Ottawa Senators,Toronto Maple Leafs
+1996020186,Florida Panthers,4,Washington Capitals,2,Paul Devorski,Mark Pare,Florida Panthers,Washington Capitals
+1996020187,Chicago Blackhawks,2,New Jersey Devils,4,Dennis Larue,Andy McElman,New Jersey Devils,Chicago Blackhawks
+1996020188,Los Angeles Kings,4,Montréal Canadiens,1,Lance Roberts,Ron Asselstine,Los Angeles Kings,Montréal Canadiens
+1996020189,Hartford Whalers,1,Detroit Red Wings,4,Dan Marouelli,Tim Nowak,Detroit Red Wings,Hartford Whalers
+1996020190,Tampa Bay Lightning,5,Pittsburgh Penguins,5,Paul Devorski,Mark Pare,Tampa Bay Lightning,Pittsburgh Penguins
+1996020191,Phoenix Coyotes,1,Colorado Avalanche,4,Rob Shick,Swede Knox,Colorado Avalanche,Phoenix Coyotes
+1996020192,Vancouver Canucks,2,St. Louis Blues,4,Don Koharski,Lonnie Cameron,St. Louis Blues,Vancouver Canucks
+1996020193,San Jose Sharks,3,Dallas Stars,1,Roberts,Mike Cvik,San Jose Sharks,Dallas Stars
+1996020194,Anaheim Ducks,7,Los Angeles Kings,4,Mick McGeough,Ron Asselstine,Anaheim Ducks,Los Angeles Kings
+1996020195,Hartford Whalers,4,Buffalo Sabres,3,Terry Gregson,Tim Nowak,Hartford Whalers,Buffalo Sabres
+1996020196,Ottawa Senators,3,Boston Bruins,4,Blaine Angus,Kevin Collins,Boston Bruins,Ottawa Senators
+1996020197,New Jersey Devils,4,New York Islanders,0,Kerry Fraser,Wayne Bonney,New Jersey Devils,New York Islanders
+1996020198,Philadelphia Flyers,1,Chicago Blackhawks,4,Bill McCreary,Greg Devorski,Chicago Blackhawks,Philadelphia Flyers
+1996020199,Washington Capitals,3,New York Rangers,2,Mark Faucette,Gordon Broseker,Washington Capitals,New York Rangers
+1996020200,Florida Panthers,4,Pittsburgh Penguins,2,Richard Trottier,Mark Pare,Florida Panthers,Pittsburgh Penguins
+1996020201,Toronto Maple Leafs,7,Edmonton Oilers,3,Dave Jackson,Pierre Champoux,Toronto Maple Leafs,Edmonton Oilers
+1996020202,Colorado Avalanche,5,Montréal Canadiens,2,Dennis Larue,Swede Knox,Colorado Avalanche,Montréal Canadiens
+1996020203,Calgary Flames,2,St. Louis Blues,3,Paul Stewart,Lonnie Cameron,St. Louis Blues,Calgary Flames
+1996020204,Philadelphia Flyers,3,Toronto Maple Leafs,1,Bill McCreary,Greg Devorski,Philadelphia Flyers,Toronto Maple Leafs
+1996020205,Detroit Red Wings,4,Tampa Bay Lightning,2,Walkom,Stickle,Detroit Red Wings,Tampa Bay Lightning
+1996020206,Chicago Blackhawks,2,Ottawa Senators,0,Paul Devorski,Ron Asselstine,Chicago Blackhawks,Ottawa Senators
+1996020207,Buffalo Sabres,3,Florida Panthers,2,Dave Jackson,Andy McElman,Buffalo Sabres,Florida Panthers
+1996020208,Montréal Canadiens,3,Edmonton Oilers,2,Blaine Angus,Morin,Montréal Canadiens,Edmonton Oilers
+1996020209,New York Islanders,2,Colorado Avalanche,6,Richard Trottier,Wayne Bonney,Colorado Avalanche,New York Islanders
+1996020210,New York Rangers,2,Vancouver Canucks,3,Kerry Fraser,Greg Devorski,Vancouver Canucks,New York Rangers
+1996020211,Anaheim Ducks,2,Dallas Stars,3,Lance Roberts,Shane Heyer,Dallas Stars,Anaheim Ducks
+1996020212,Pittsburgh Penguins,3,Buffalo Sabres,0,Don Van Massenhoven,Andy McElman,Pittsburgh Penguins,Buffalo Sabres
+1996020213,New Jersey Devils,3,Washington Capitals,2,Rob Shick,Wayne Bonney,New Jersey Devils,Washington Capitals
+1996020214,San Jose Sharks,3,Hartford Whalers,4,Dennis Larue,Shane Heyer,Hartford Whalers,San Jose Sharks
+1996020215,Ottawa Senators,0,Edmonton Oilers,4,Dave Jackson,Wayne Bonney,Edmonton Oilers,Ottawa Senators
+1996020216,Montréal Canadiens,3,Florida Panthers,5,Walkom,Champoux,Florida Panthers,Montréal Canadiens
+1996020217,New York Islanders,5,Vancouver Canucks,4,Don Van Massenhoven,Gordon Broseker,New York Islanders,Vancouver Canucks
+1996020218,New York Rangers,1,Philadelphia Flyers,2,Rob Shick,Kevin Collins,Philadelphia Flyers,New York Rangers
+1996020219,Detroit Red Wings,1,Colorado Avalanche,4,McCreary,Scapinello,Colorado Avalanche,Detroit Red Wings
+1996020220,Dallas Stars,3,Calgary Flames,3,Marouelli,McCourt,Dallas Stars,Calgary Flames
+1996020221,Anaheim Ducks,3,Toronto Maple Leafs,2,Lance Roberts,Shane Heyer,Anaheim Ducks,Toronto Maple Leafs
+1996020222,Boston Bruins,2,Pittsburgh Penguins,1,Kerry Fraser,Brian Murphy,Boston Bruins,Pittsburgh Penguins
+1996020223,Buffalo Sabres,5,Colorado Avalanche,4,Terry Gregson,Mark Pare,Buffalo Sabres,Colorado Avalanche
+1996020224,New Jersey Devils,0,Vancouver Canucks,3,Paul Devorski,Gordon Broseker,Vancouver Canucks,New Jersey Devils
+1996020225,Philadelphia Flyers,2,Washington Capitals,5,Don Koharski,Kevin Collins,Washington Capitals,Philadelphia Flyers
+1996020226,Chicago Blackhawks,1,Calgary Flames,2,Bill McCreary,Scott Driscoll,Calgary Flames,Chicago Blackhawks
+1996020227,St. Louis Blues,5,Tampa Bay Lightning,3,Mick McGeough,Swede Knox,St. Louis Blues,Tampa Bay Lightning
+1996020228,Phoenix Coyotes,1,Hartford Whalers,2,Lance Roberts,Lonnie Cameron,Hartford Whalers,Phoenix Coyotes
+1996020229,Los Angeles Kings,4,Toronto Maple Leafs,1,Richard Trottier,Don Henderson,Los Angeles Kings,Toronto Maple Leafs
+1996020230,Ottawa Senators,4,Chicago Blackhawks,3,Stephen Walkom,Wayne Bonney,Ottawa Senators,Chicago Blackhawks
+1996020231,Washington Capitals,3,Montréal Canadiens,1,Paul Devorski,Kevin Collins,Washington Capitals,Montréal Canadiens
+1996020232,Florida Panthers,3,New York Islanders,3,Mark Faucette,Tim Nowak,Florida Panthers,New York Islanders
+1996020233,Detroit Red Wings,5,San Jose Sharks,1,McGeough,Ron Asselstine,Detroit Red Wings,San Jose Sharks
+1996020234,Dallas Stars,4,Anaheim Ducks,3,Marouelli,McCourt,Dallas Stars,Anaheim Ducks
+1996020235,Pittsburgh Penguins,3,New York Rangers,8,Terry Gregson,Pierre Champoux,New York Rangers,Pittsburgh Penguins
+1996020236,Buffalo Sabres,5,Boston Bruins,1,Paul Devorski,Greg Devorski,Buffalo Sabres,Boston Bruins
+1996020237,Montréal Canadiens,6,Vancouver Canucks,1,Fraser,Kovachik,Montréal Canadiens,Vancouver Canucks
+1996020238,New York Islanders,1,Ottawa Senators,4,Rob Shick,Kevin Collins,Ottawa Senators,New York Islanders
+1996020239,New Jersey Devils,6,Tampa Bay Lightning,3,Don Van Massenhoven,Gordon Broseker,New Jersey Devils,Tampa Bay Lightning
+1996020240,Philadelphia Flyers,2,San Jose Sharks,2,Dave Jackson,Swede Knox,Philadelphia Flyers,San Jose Sharks
+1996020241,St. Louis Blues,2,Calgary Flames,0,Don Koharski,Scott Driscoll,St. Louis Blues,Calgary Flames
+1996020242,Colorado Avalanche,4,Hartford Whalers,4,Richard Trottier,Lonnie Cameron,Colorado Avalanche,Hartford Whalers
+1996020243,Phoenix Coyotes,3,Toronto Maple Leafs,2,Dan Marouelli,Jay Sharrers,Phoenix Coyotes,Toronto Maple Leafs
+1996020244,Chicago Blackhawks,2,Los Angeles Kings,4,Mick McGeough,Dan McCourt,Los Angeles Kings,Chicago Blackhawks
+1996020245,St. Louis Blues,4,Anaheim Ducks,2,Rob Martell,Scott Driscoll,St. Louis Blues,Anaheim Ducks
+1996020246,Edmonton Oilers,3,Dallas Stars,7,Mark Faucette,Mike Cvik,Dallas Stars,Edmonton Oilers
+1996020247,Boston Bruins,4,San Jose Sharks,2,Brad Watson,Swede Knox,Boston Bruins,San Jose Sharks
+1996020248,Florida Panthers,2,Washington Capitals,4,Terry Gregson,Pierre Champoux,Washington Capitals,Florida Panthers
+1996020249,Phoenix Coyotes,2,Detroit Red Wings,2,Dan Marouelli,Jay Sharrers,Phoenix Coyotes,Detroit Red Wings
+1996020250,Calgary Flames,5,New York Rangers,3,Richard Trottier,Shane Heyer,Calgary Flames,New York Rangers
+1996020251,Pittsburgh Penguins,4,St. Louis Blues,2,Blaine Angus,Mark Pare,Pittsburgh Penguins,St. Louis Blues
+1996020252,Ottawa Senators,1,New Jersey Devils,2,Kerry Fraser,Jean Morin,New Jersey Devils,Ottawa Senators
+1996020253,Washington Capitals,2,Boston Bruins,2,Mick McGeough,Thor Nelson,Washington Capitals,Boston Bruins
+1996020254,Tampa Bay Lightning,3,Los Angeles Kings,0,Terry Gregson,Pierre Champoux,Tampa Bay Lightning,Los Angeles Kings
+1996020255,Toronto Maple Leafs,4,Buffalo Sabres,3,Rob Shick,Andy McElman,Toronto Maple Leafs,Buffalo Sabres
+1996020256,Edmonton Oilers,4,Chicago Blackhawks,4,Mark Faucette,Shane Heyer,Edmonton Oilers,Chicago Blackhawks
+1996020257,Vancouver Canucks,2,Dallas Stars,0,Richard Trottier,Brad Lazarowich,Vancouver Canucks,Dallas Stars
+1996020258,Hartford Whalers,3,Montréal Canadiens,1,Mick McGeough,Swede Knox,Hartford Whalers,Montréal Canadiens
+1996020259,Florida Panthers,4,Los Angeles Kings,1,Terry Gregson,Pierre Champoux,Florida Panthers,Los Angeles Kings
+1996020260,Colorado Avalanche,6,Phoenix Coyotes,0,Don Koharski,Wayne Bonney,Colorado Avalanche,Phoenix Coyotes
+1996020261,Calgary Flames,1,Dallas Stars,3,Mark Faucette,Don Henderson,Dallas Stars,Calgary Flames
+1996020262,Anaheim Ducks,2,New York Islanders,2,Dennis Larue,Kevin Collins,Anaheim Ducks,New York Islanders
+1996020263,Boston Bruins,2,Montréal Canadiens,6,Dave Jackson,Tim Nowak,Montréal Canadiens,Boston Bruins
+1996020264,Buffalo Sabres,6,Toronto Maple Leafs,3,Bill McCreary,Andy McElman,Buffalo Sabres,Toronto Maple Leafs
+1996020265,Philadelphia Flyers,7,Pittsburgh Penguins,3,Kerry Fraser,Ray Scapinello,Philadelphia Flyers,Pittsburgh Penguins
+1996020266,St. Louis Blues,4,Phoenix Coyotes,3,Rob Shick,Gordon Broseker,St. Louis Blues,Phoenix Coyotes
+1996020267,Edmonton Oilers,3,New York Rangers,2,Paul Devorski,Shane Heyer,Edmonton Oilers,New York Rangers
+1996020268,Vancouver Canucks,2,Chicago Blackhawks,1,Ron Koharski,Bob Hodges,Vancouver Canucks,Chicago Blackhawks
+1996020269,San Jose Sharks,1,Detroit Red Wings,6,Trottier,Collins,Detroit Red Wings,San Jose Sharks
+1996020270,Hartford Whalers,1,Pittsburgh Penguins,7,Dan Ohalloran,Scott Driscoll,Pittsburgh Penguins,Hartford Whalers
+1996020271,New Jersey Devils,1,Washington Capitals,5,Lance Roberts,Mark Pare,Washington Capitals,New Jersey Devils
+1996020272,Dallas Stars,1,Florida Panthers,2,Van Massenhoven,Gordon Broseker,Florida Panthers,Dallas Stars
+1996020273,Colorado Avalanche,3,New York Islanders,2,Stephen Walkom,Wayne Bonney,Colorado Avalanche,New York Islanders
+1996020274,Calgary Flames,2,Chicago Blackhawks,5,Paul Devorski,Mike Cvik,Chicago Blackhawks,Calgary Flames
+1996020275,Boston Bruins,2,Buffalo Sabres,3,Lance Roberts,Scott Driscoll,Buffalo Sabres,Boston Bruins
+1996020276,Ottawa Senators,3,Hartford Whalers,3,Bill McCreary,Ron Asselstine,Ottawa Senators,Hartford Whalers
+1996020277,Washington Capitals,4,New Jersey Devils,3,Kerry Fraser,Tim Nowak,Washington Capitals,New Jersey Devils
+1996020278,Tampa Bay Lightning,1,Philadelphia Flyers,2,Dave Jackson,Dan McCourt,Philadelphia Flyers,Tampa Bay Lightning
+1996020279,Toronto Maple Leafs,3,Montréal Canadiens,4,Mark Faucette,Andy McElman,Montréal Canadiens,Toronto Maple Leafs
+1996020280,St. Louis Blues,1,Florida Panthers,3,Don Van Massenhoven,Gordon Broseker,Florida Panthers,St. Louis Blues
+1996020281,Phoenix Coyotes,3,New York Islanders,3,Dennis Larue,Greg Devorski,Phoenix Coyotes,New York Islanders
+1996020282,Edmonton Oilers,3,Calgary Flames,2,Don Koharski,Mark Wheler,Edmonton Oilers,Calgary Flames
+1996020283,Vancouver Canucks,5,New York Rangers,3,Dan Marouelli,Lonnie Cameron,Vancouver Canucks,New York Rangers
+1996020284,San Jose Sharks,0,Anaheim Ducks,3,Waldom,Collins,Anaheim Ducks,San Jose Sharks
+1996020285,Los Angeles Kings,0,Detroit Red Wings,6,Rob Shick,Shane Heyer,Detroit Red Wings,Los Angeles Kings
+1996020286,Anaheim Ducks,3,Detroit Red Wings,1,Paul Devorski,Kevin Collins,Anaheim Ducks,Detroit Red Wings
+1996020287,Montréal Canadiens,4,Tampa Bay Lightning,2,Trottier,Ron Asselstine,Montréal Canadiens,Tampa Bay Lightning
+1996020288,Boston Bruins,2,Philadelphia Flyers,0,Terry Gregson,Ron Asselstine,Boston Bruins,Philadelphia Flyers
+1996020289,Florida Panthers,4,Buffalo Sabres,3,Lance Roberts,Dan McCourt,Florida Panthers,Buffalo Sabres
+1996020290,Toronto Maple Leafs,3,Vancouver Canucks,2,Bill McCreary,Mark Pare,Toronto Maple Leafs,Vancouver Canucks
+1996020291,Phoenix Coyotes,1,New York Rangers,3,Stephen Walkom,Jay Sharrers,New York Rangers,Phoenix Coyotes
+1996020292,Calgary Flames,1,Edmonton Oilers,10,Dan Marouelli,Swede Knox,Edmonton Oilers,Calgary Flames
+1996020293,Hartford Whalers,2,Vancouver Canucks,6,Terry Gregson,Ron Asselstine,Vancouver Canucks,Hartford Whalers
+1996020294,Pittsburgh Penguins,2,Montréal Canadiens,2,Paul Devorski,Tim Nowak,Pittsburgh Penguins,Montréal Canadiens
+1996020295,New York Islanders,4,Philadelphia Flyers,1,Don Koharski,Scott Driscoll,New York Islanders,Philadelphia Flyers
+1996020296,Washington Capitals,1,Ottawa Senators,2,Blaine Angus,Gordon Broseker,Ottawa Senators,Washington Capitals
+1996020297,Tampa Bay Lightning,0,Buffalo Sabres,3,Kerry Fraser,Dan McCourt,Buffalo Sabres,Tampa Bay Lightning
+1996020298,Detroit Red Wings,5,Toronto Maple Leafs,2,Van Massenhoven,Pare,Detroit Red Wings,Toronto Maple Leafs
+1996020299,Dallas Stars,2,New Jersey Devils,3,Walkom,Champoux,New Jersey Devils,Dallas Stars
+1996020300,Colorado Avalanche,2,New York Rangers,5,Mick McGeough,Mike Cvik,New York Rangers,Colorado Avalanche
+1996020301,Edmonton Oilers,1,Los Angeles Kings,5,Dan Marouelli,Swede Knox,Los Angeles Kings,Edmonton Oilers
+1996020302,San Jose Sharks,3,Chicago Blackhawks,2,Jackson,Wayne Bonney,San Jose Sharks,Chicago Blackhawks
+1996020303,Anaheim Ducks,2,St. Louis Blues,3,Rob Shick,Lonnie Cameron,St. Louis Blues,Anaheim Ducks
+1996020304,Phoenix Coyotes,4,New Jersey Devils,3,Mick McGeough,Jay Sharrers,Phoenix Coyotes,New Jersey Devils
+1996020305,Calgary Flames,2,Los Angeles Kings,0,Dave Jackson,Swede Knox,Calgary Flames,Los Angeles Kings
+1996020306,Boston Bruins,7,Vancouver Canucks,3,Richard Trottier,Greg Devorski,Boston Bruins,Vancouver Canucks
+1996020307,Buffalo Sabres,3,Ottawa Senators,0,Don Koharski,Andy McElman,Buffalo Sabres,Ottawa Senators
+1996020308,Washington Capitals,0,New York Islanders,2,Terry Gregson,Gordon Broseker,New York Islanders,Washington Capitals
+1996020309,Tampa Bay Lightning,1,Dallas Stars,2,Mark Faucette,Dan McCourt,Dallas Stars,Tampa Bay Lightning
+1996020310,Florida Panthers,1,Hartford Whalers,1,Kerry Fraser,Scott Driscoll,Florida Panthers,Hartford Whalers
+1996020311,San Jose Sharks,2,Edmonton Oilers,4,Larue,Wayne Bonney,Edmonton Oilers,San Jose Sharks
+1996020312,Anaheim Ducks,2,Chicago Blackhawks,0,Dan Marouelli,Lonnie Cameron,Anaheim Ducks,Chicago Blackhawks
+1996020313,Pittsburgh Penguins,6,Boston Bruins,2,Greg Kimmerly,Tim Nowak,Pittsburgh Penguins,Boston Bruins
+1996020314,Ottawa Senators,3,Philadelphia Flyers,4,Lance Roberts,Mark Pare,Philadelphia Flyers,Ottawa Senators
+1996020315,Montréal Canadiens,0,Washington Capitals,2,Don Koharski,Brian Murphy,Washington Capitals,Montréal Canadiens
+1996020316,New York Islanders,2,Buffalo Sabres,3,Paul Stewart,Kevin Collins,Buffalo Sabres,New York Islanders
+1996020317,Tampa Bay Lightning,3,Hartford Whalers,6,Kerry Fraser,Scott Driscoll,Hartford Whalers,Tampa Bay Lightning
+1996020318,Dallas Stars,5,Toronto Maple Leafs,2,Marouelli,Champoux,Dallas Stars,Toronto Maple Leafs
+1996020319,Colorado Avalanche,2,New Jersey Devils,1,Mick McGeough,Mike Cvik,Colorado Avalanche,New Jersey Devils
+1996020320,Phoenix Coyotes,3,Calgary Flames,1,Rob Shick,Jay Sharrers,Phoenix Coyotes,Calgary Flames
+1996020321,Los Angeles Kings,3,Chicago Blackhawks,5,Dave Jackson,Lonnie Cameron,Chicago Blackhawks,Los Angeles Kings
+1996020322,New York Rangers,6,Montréal Canadiens,2,Stephen Walkom,Kevin Collins,New York Rangers,Montréal Canadiens
+1996020323,Philadelphia Flyers,4,Vancouver Canucks,3,Don Van Massenhoven,Ron Asselstine,Philadelphia Flyers,Vancouver Canucks
+1996020324,Detroit Red Wings,2,Florida Panthers,4,Devorski,Schachte,Florida Panthers,Detroit Red Wings
+1996020325,St. Louis Blues,3,San Jose Sharks,4,Mark Faucette,Pierre Champoux,San Jose Sharks,St. Louis Blues
+1996020326,Anaheim Ducks,4,Edmonton Oilers,2,Dave Jackson,Wayne Bonney,Anaheim Ducks,Edmonton Oilers
+1996020327,Pittsburgh Penguins,4,Hartford Whalers,4,Stephen Walkom,Andy McElman,Pittsburgh Penguins,Hartford Whalers
+1996020328,New York Islanders,3,Calgary Flames,1,Richard Trottier,Gordon Broseker,New York Islanders,Calgary Flames
+1996020329,New Jersey Devils,2,Florida Panthers,0,Don Van Massenhoven,Ron Asselstine,New Jersey Devils,Florida Panthers
+1996020330,Toronto Maple Leafs,2,St. Louis Blues,0,Paul Devorski,Brian Murphy,Toronto Maple Leafs,St. Louis Blues
+1996020331,Detroit Red Wings,2,Vancouver Canucks,2,Faucette,Stickle,Detroit Red Wings,Vancouver Canucks
+1996020332,Phoenix Coyotes,1,Los Angeles Kings,4,Dave Jackson,Swede Knox,Los Angeles Kings,Phoenix Coyotes
+1996020333,Buffalo Sabres,6,Vancouver Canucks,7,Paul Devorski,Andy McElman,Vancouver Canucks,Buffalo Sabres
+1996020334,Ottawa Senators,2,Pittsburgh Penguins,4,Mark Faucette,Brian Murphy,Pittsburgh Penguins,Ottawa Senators
+1996020335,Montréal Canadiens,3,Boston Bruins,4,Marouelli,Champoux,Boston Bruins,Montréal Canadiens
+1996020336,New York Rangers,1,Philadelphia Flyers,1,Richard Trottier,Ron Asselstine,New York Rangers,Philadelphia Flyers
+1996020337,Washington Capitals,0,Detroit Red Wings,2,Mick McGeough,Gordon Broseker,Detroit Red Wings,Washington Capitals
+1996020338,Dallas Stars,1,San Jose Sharks,2,Koharski,Driscoll,San Jose Sharks,Dallas Stars
+1996020339,Colorado Avalanche,2,Edmonton Oilers,0,Terry Gregson,Swede Knox,Colorado Avalanche,Edmonton Oilers
+1996020340,Anaheim Ducks,3,Tampa Bay Lightning,1,Bill McCreary,Ray Scapinello,Anaheim Ducks,Tampa Bay Lightning
+1996020341,Boston Bruins,2,Hartford Whalers,4,Richard Trottier,Greg Devorski,Hartford Whalers,Boston Bruins
+1996020342,New Jersey Devils,2,Calgary Flames,1,Paul Stewart,Gordon Broseker,New Jersey Devils,Calgary Flames
+1996020343,Florida Panthers,4,New York Islanders,2,Mick McGeough,Stephane Provost,Florida Panthers,New York Islanders
+1996020344,St. Louis Blues,0,Phoenix Coyotes,3,Stephen Walkom,Mike Cvik,Phoenix Coyotes,St. Louis Blues
+1996020345,Los Angeles Kings,1,Tampa Bay Lightning,2,Bill McCreary,Mark Pare,Tampa Bay Lightning,Los Angeles Kings
+1996020346,Buffalo Sabres,1,Anaheim Ducks,1,Mark Faucette,Dan McCourt,Buffalo Sabres,Anaheim Ducks
+1996020347,New York Rangers,6,Toronto Maple Leafs,5,Kerry Fraser,Pierre Champoux,New York Rangers,Toronto Maple Leafs
+1996020348,Washington Capitals,3,Pittsburgh Penguins,5,Paul Stewart,Greg Devorski,Pittsburgh Penguins,Washington Capitals
+1996020349,Chicago Blackhawks,1,Montréal Canadiens,3,Stephen Walcom,Mike Cvik,Montréal Canadiens,Chicago Blackhawks
+1996020350,Dallas Stars,3,Philadelphia Flyers,6,Shick,Driscoll,Philadelphia Flyers,Dallas Stars
+1996020351,Colorado Avalanche,3,St. Louis Blues,4,Terry Gregson,Swede Knox,St. Louis Blues,Colorado Avalanche
+1996020352,Edmonton Oilers,5,Ottawa Senators,2,Dan O'Halloran,Wayne Bonney,Edmonton Oilers,Ottawa Senators
+1996020353,Boston Bruins,1,Calgary Flames,1,Dave Jackson,Brian Murphy,Boston Bruins,Calgary Flames
+1996020354,Hartford Whalers,6,Buffalo Sabres,4,Don Koharski,Kevin Collins,Hartford Whalers,Buffalo Sabres
+1996020355,Pittsburgh Penguins,5,Anaheim Ducks,3,Mark Faucette,Mike Cvik,Pittsburgh Penguins,Anaheim Ducks
+1996020356,Montréal Canadiens,3,Chicago Blackhawks,2,Mcmgeough,McCourt,Montréal Canadiens,Chicago Blackhawks
+1996020357,New York Islanders,2,Washington Capitals,0,Paul Devorski,Greg Devorski,New York Islanders,Washington Capitals
+1996020358,New Jersey Devils,3,Phoenix Coyotes,4,Lance Roberts,Pierre Champoux,Phoenix Coyotes,New Jersey Devils
+1996020359,Toronto Maple Leafs,0,New York Rangers,4,Dan Marouelli,Ron Asselstine,New York Rangers,Toronto Maple Leafs
+1996020360,Vancouver Canucks,2,Ottawa Senators,3,Don Van Massenhoven,Lonnie Cameron,Ottawa Senators,Vancouver Canucks
+1996020361,San Jose Sharks,3,Tampa Bay Lightning,4,Dan O'Halloran,Heyer,Tampa Bay Lightning,San Jose Sharks
+1996020362,Los Angeles Kings,4,Colorado Avalanche,2,Bill McCreary,Mark Pare,Los Angeles Kings,Colorado Avalanche
+1996020363,Florida Panthers,1,Dallas Stars,1,Paul Stewart,Pierre Racicot,Florida Panthers,Dallas Stars
+1996020364,Edmonton Oilers,2,St. Louis Blues,3,Terry Gregson,Wayne Bonney,St. Louis Blues,Edmonton Oilers
+1996020365,Boston Bruins,2,Anaheim Ducks,5,Don Koharski,Kevin Collins,Anaheim Ducks,Boston Bruins
+1996020366,New York Rangers,5,Phoenix Coyotes,2,Dave Jackson,Mike Cvik,New York Rangers,Phoenix Coyotes
+1996020367,Chicago Blackhawks,1,Toronto Maple Leafs,3,Rob Shick,Mark Pare,Toronto Maple Leafs,Chicago Blackhawks
+1996020368,New York Islanders,8,Phoenix Coyotes,2,Lance Roberts,Mike Cvik,New York Islanders,Phoenix Coyotes
+1996020369,Philadelphia Flyers,5,Florida Panthers,4,Paul Devorski,Ron Asselstine,Philadelphia Flyers,Florida Panthers
+1996020370,Toronto Maple Leafs,2,New Jersey Devils,5,Mick McGeough,Scott Driscoll,New Jersey Devils,Toronto Maple Leafs
+1996020371,Detroit Red Wings,0,Edmonton Oilers,0,Paul Stewart,Dan Schachte,Detroit Red Wings,Edmonton Oilers
+1996020372,Calgary Flames,5,Ottawa Senators,5,Don Van Massenhoven,Swede Knox,Calgary Flames,Ottawa Senators
+1996020373,Los Angeles Kings,3,Pittsburgh Penguins,5,Dan O'Halloran,Shane Heyer,Pittsburgh Penguins,Los Angeles Kings
+1996020374,Hartford Whalers,5,Florida Panthers,2,Dave Jackson,Kevin Collins,Hartford Whalers,Florida Panthers
+1996020375,Montréal Canadiens,2,Buffalo Sabres,3,Rob Shick,Pierre Campoux,Buffalo Sabres,Montréal Canadiens
+1996020376,New York Rangers,3,New York Islanders,5,Don Koharski,Ron Asselstine,New York Islanders,New York Rangers
+1996020377,Dallas Stars,5,St. Louis Blues,5,Trottier,McElman,Dallas Stars,St. Louis Blues
+1996020378,Vancouver Canucks,1,Colorado Avalanche,6,Kerry Fraser,Baron Parker,Colorado Avalanche,Vancouver Canucks
+1996020379,San Jose Sharks,3,Washington Capitals,2,Don Van Massenhoven,Lonnie Cameron,San Jose Sharks,Washington Capitals
+1996020380,Anaheim Ducks,3,Pittsburgh Penguins,7,Terry Gregson,Shane Heyer,Pittsburgh Penguins,Anaheim Ducks
+1996020381,Boston Bruins,4,New Jersey Devils,7,Paul Devorski,Greg Devorski,New Jersey Devils,Boston Bruins
+1996020382,Philadelphia Flyers,3,Hartford Whalers,2,Lance Roberts,Ron Asselstine,Philadelphia Flyers,Hartford Whalers
+1996020383,Tampa Bay Lightning,2,Edmonton Oilers,2,Blaine Angus,Brian Murphy,Tampa Bay Lightning,Edmonton Oilers
+1996020384,Detroit Red Wings,6,Chicago Blackhawks,2,Marouelli,Morin,Detroit Red Wings,Chicago Blackhawks
+1996020385,Los Angeles Kings,1,Calgary Flames,5,Terry Gregson,Lonnie Cameron,Calgary Flames,Los Angeles Kings
+1996020386,Buffalo Sabres,0,New York Rangers,3,Mick McGeough,Scott Driscoll,New York Rangers,Buffalo Sabres
+1996020387,Ottawa Senators,2,Phoenix Coyotes,4,Rob Shick,Pierre Champoux,Phoenix Coyotes,Ottawa Senators
+1996020388,St. Louis Blues,1,Chicago Blackhawks,4,Bill McCreary,Dan McCourt,Chicago Blackhawks,St. Louis Blues
+1996020389,Dallas Stars,2,Vancouver Canucks,1,Marouelli,McElman,Dallas Stars,Vancouver Canucks
+1996020390,San Jose Sharks,0,Pittsburgh Penguins,4,Don Van Massenhoven,Shane Heyer,Pittsburgh Penguins,San Jose Sharks
+1996020391,Anaheim Ducks,5,Washington Capitals,4,Kerry Fraser,Lonnie Cameron,Anaheim Ducks,Washington Capitals
+1996020392,Boston Bruins,0,Buffalo Sabres,4,Stephen Walkom,Greg Devorski,Buffalo Sabres,Boston Bruins
+1996020393,Hartford Whalers,0,Philadelphia Flyers,4,Paul Stewart,Kevin Collins,Philadelphia Flyers,Hartford Whalers
+1996020394,New Jersey Devils,3,Montréal Canadiens,3,Paul Devorski,Ron Asselstine,New Jersey Devils,Montréal Canadiens
+1996020395,Tampa Bay Lightning,4,New York Islanders,1,Faucette,Murphy,Tampa Bay Lightning,New York Islanders
+1996020396,Florida Panthers,6,Edmonton Oilers,3,Blaine Angus,Gordon Broseker,Florida Panthers,Edmonton Oilers
+1996020397,Toronto Maple Leafs,3,Phoenix Coyotes,5,Don Koharski,Scott Driscoll,Phoenix Coyotes,Toronto Maple Leafs
+1996020398,Calgary Flames,4,Colorado Avalanche,1,Richard Trottier,Swede Knox,Calgary Flames,Colorado Avalanche
+1996020399,Los Angeles Kings,4,Washington Capitals,4,Dennis Larue,Lonnie Cameron,Los Angeles Kings,Washington Capitals
+1996020400,Ottawa Senators,0,Dallas Stars,4,Lance Roberts,Pierre Champoux,Dallas Stars,Ottawa Senators
+1996020401,Philadelphia Flyers,6,Boston Bruins,0,Dan Marouelli,Mark Pare,Philadelphia Flyers,Boston Bruins
+1996020402,Detroit Red Wings,3,Toronto Maple Leafs,1,Rob Shick,Leon Stickle,Detroit Red Wings,Toronto Maple Leafs
+1996020403,Chicago Blackhawks,2,Pittsburgh Penguins,1,Kerry Fraser,Andy McElman,Chicago Blackhawks,Pittsburgh Penguins
+1996020404,St. Louis Blues,0,Vancouver Canucks,8,Bill McCreary,Dan McCourt,Vancouver Canucks,St. Louis Blues
+1996020405,Montréal Canadiens,2,Tampa Bay Lightning,4,Marouelli,Hodges,Tampa Bay Lightning,Montréal Canadiens
+1996020406,New York Rangers,5,Hartford Whalers,2,Steven Walkom,Mark Pare,New York Rangers,Hartford Whalers
+1996020407,Calgary Flames,0,New Jersey Devils,5,Richard Trottier,Mike Cvik,New Jersey Devils,Calgary Flames
+1996020408,Hartford Whalers,5,St. Louis Blues,3,Terry Gregson,Brian Murphy,Hartford Whalers,St. Louis Blues
+1996020409,Pittsburgh Penguins,4,Boston Bruins,6,Don Van Massenhoven,Gordon Broseker,Boston Bruins,Pittsburgh Penguins
+1996020410,New York Islanders,4,Los Angeles Kings,3,Stephen Walkom,Mark Pare,New York Islanders,Los Angeles Kings
+1996020411,Colorado Avalanche,4,Detroit Red Wings,3,Kerry Fraser,Dan McCourt,Colorado Avalanche,Detroit Red Wings
+1996020412,Phoenix Coyotes,4,Washington Capitals,3,Mark Faucette,Jay Sharrers,Phoenix Coyotes,Washington Capitals
+1996020413,San Jose Sharks,3,Toronto Maple Leafs,6,Stewart,Henderson,Toronto Maple Leafs,San Jose Sharks
+1996020414,Buffalo Sabres,5,Tampa Bay Lightning,3,Bill McCreary,Gordon Broseker,Buffalo Sabres,Tampa Bay Lightning
+1996020415,New York Rangers,4,Los Angeles Kings,0,Terry Gregson,Pierre Champoux,New York Rangers,Los Angeles Kings
+1996020416,Chicago Blackhawks,2,Dallas Stars,3,Mark Faucette,Ron Asselstine,Dallas Stars,Chicago Blackhawks
+1996020417,Calgary Flames,3,Detroit Red Wings,3,Mick McGeough,Mike Cvik,Calgary Flames,Detroit Red Wings
+1996020418,Edmonton Oilers,4,Colorado Avalanche,4,Richard Trottier,Swede Knox,Edmonton Oilers,Colorado Avalanche
+1996020419,Vancouver Canucks,1,New Jersey Devils,2,Paul Stewart,Lonnie Cameron,New Jersey Devils,Vancouver Canucks
+1996020420,Boston Bruins,3,Tampa Bay Lightning,0,Dan O'Halloran,Kevin Collins,Boston Bruins,Tampa Bay Lightning
+1996020421,Ottawa Senators,5,Florida Panthers,2,Paul Devorski,Scott Driscoll,Ottawa Senators,Florida Panthers
+1996020422,Philadelphia Flyers,5,New York Islanders,0,Don Van Massenhoven,Pierre Champoux,Philadelphia Flyers,New York Islanders
+1996020423,St. Louis Blues,0,Pittsburgh Penguins,4,Lance Roberts,Ron Asselstine,Pittsburgh Penguins,St. Louis Blues
+1996020424,Hartford Whalers,1,Dallas Stars,4,Mark Faucette,Kevin Collins,Dallas Stars,Hartford Whalers
+1996020425,Buffalo Sabres,6,Los Angeles Kings,2,Dave Jackson,Gordon Broseker,Buffalo Sabres,Los Angeles Kings
+1996020426,Washington Capitals,3,San Jose Sharks,2,Dennis Larue,Greg Devorski,Washington Capitals,San Jose Sharks
+1996020427,Chicago Blackhawks,1,Florida Panthers,3,Don Koharski,Ron Asselstine,Florida Panthers,Chicago Blackhawks
+1996020428,Phoenix Coyotes,5,Toronto Maple Leafs,2,Dan Marouelli,Jay Sharrers,Phoenix Coyotes,Toronto Maple Leafs
+1996020429,Edmonton Oilers,2,New Jersey Devils,3,Mick McGeough,Swede Knox,New Jersey Devils,Edmonton Oilers
+1996020430,Vancouver Canucks,3,Detroit Red Wings,2,Paul Stewart,Lonnie Cameron,Vancouver Canucks,Detroit Red Wings
+1996020431,Anaheim Ducks,7,Calgary Flames,0,Blaine Angus,Don Henderson,Anaheim Ducks,Calgary Flames
+1996020432,Boston Bruins,4,Washington Capitals,3,Richard Trottier,Kevin Collins,Boston Bruins,Washington Capitals
+1996020433,Hartford Whalers,6,Tampa Bay Lightning,5,Paul Devorski,Mark Pare,Hartford Whalers,Tampa Bay Lightning
+1996020434,Pittsburgh Penguins,3,San Jose Sharks,1,Stephen Walkom,Dan McCourt,Pittsburgh Penguins,San Jose Sharks
+1996020435,Ottawa Senators,2,Buffalo Sabres,3,Bill McCreary,Jean Morin,Buffalo Sabres,Ottawa Senators
+1996020436,Montréal Canadiens,2,New York Rangers,3,Faucette,Driscoll,New York Rangers,Montréal Canadiens
+1996020437,New York Islanders,2,Dallas Stars,3,Don Van Massenhoven,Greg Devorski,Dallas Stars,New York Islanders
+1996020438,Philadelphia Flyers,4,St. Louis Blues,0,Terry Gregson,Pierre Champoux,Philadelphia Flyers,St. Louis Blues
+1996020439,Colorado Avalanche,2,Toronto Maple Leafs,6,Lance Roberts,Mike Cvik,Toronto Maple Leafs,Colorado Avalanche
+1996020440,New York Rangers,7,Florida Panthers,3,Paul Devorski,Greg Devorski,New York Rangers,Florida Panthers
+1996020441,Chicago Blackhawks,2,Philadelphia Flyers,2,Dave Jackson,Andy McElman,Chicago Blackhawks,Philadelphia Flyers
+1996020442,St. Louis Blues,7,Los Angeles Kings,4,Don Koharski,Ron Asselstine,St. Louis Blues,Los Angeles Kings
+1996020443,Phoenix Coyotes,2,Calgary Flames,7,Lance Roberts,Baron Parker,Calgary Flames,Phoenix Coyotes
+1996020444,Edmonton Oilers,2,Detroit Red Wings,6,Paul Stewart,Swede Knox,Detroit Red Wings,Edmonton Oilers
+1996020445,Boston Bruins,3,Chicago Blackhawks,3,Mark Faucette,Mark Pare,Boston Bruins,Chicago Blackhawks
+1996020446,Montréal Canadiens,0,Ottawa Senators,6,Jackson,Champoux,Ottawa Senators,Montréal Canadiens
+1996020447,New York Islanders,3,Florida Panthers,4,Richard Trottier,Greg Devorski,Florida Panthers,New York Islanders
+1996020448,New Jersey Devils,0,Buffalo Sabres,0,Kerry Fraser,Kevin Collins,New Jersey Devils,Buffalo Sabres
+1996020449,Tampa Bay Lightning,1,Washington Capitals,3,Stephen Walkom,Tim Nowak,Washington Capitals,Tampa Bay Lightning
+1996020450,Toronto Maple Leafs,5,Pittsburgh Penguins,6,Bill McCreary,Scott Driscoll,Pittsburgh Penguins,Toronto Maple Leafs
+1996020451,Dallas Stars,1,San Jose Sharks,2,Roberts,McElman,San Jose Sharks,Dallas Stars
+1996020452,Colorado Avalanche,4,Calgary Flames,3,Don Koharski,Mike Cvik,Colorado Avalanche,Calgary Flames
+1996020453,Vancouver Canucks,0,Edmonton Oilers,7,Dan Maroueilli,Lonnie Cameron,Edmonton Oilers,Vancouver Canucks
+1996020454,Anaheim Ducks,1,Phoenix Coyotes,2,Rob Shick,Don Henderson,Phoenix Coyotes,Anaheim Ducks
+1996020455,Pittsburgh Penguins,3,Montréal Canadiens,3,Paul Devorski,Dan McCourt,Pittsburgh Penguins,Montréal Canadiens
+1996020456,Buffalo Sabres,5,Hartford Whalers,1,Stephen Walkom,Ray Scapinello,Buffalo Sabres,Hartford Whalers
+1996020457,Ottawa Senators,5,New York Rangers,2,Richard Trottier,Pierre Champoux,Ottawa Senators,New York Rangers
+1996020458,New York Islanders,4,New Jersey Devils,1,Paul Stewart,Brian Murphy,New York Islanders,New Jersey Devils
+1996020459,Tampa Bay Lightning,3,Florida Panthers,3,Mark Faucette,Gordon Broseker,Tampa Bay Lightning,Florida Panthers
+1996020460,Detroit Red Wings,5,Washington Capitals,4,Don Van Massenhoven,Scott Driscoll,Detroit Red Wings,Washington Capitals
+1996020461,Chicago Blackhawks,4,St. Louis Blues,4,Terry Gregson,Andy McElman,Chicago Blackhawks,St. Louis Blues
+1996020462,San Jose Sharks,6,Vancouver Canucks,1,Rob Schick,Shane Heyer,San Jose Sharks,Vancouver Canucks
+1996020463,Los Angeles Kings,5,Phoenix Coyotes,2,Mick McGeough,Lonnie Cameron,Los Angeles Kings,Phoenix Coyotes
+1996020464,New York Rangers,3,Anaheim Ducks,2,Kerry Fraser,Ron Asselstine,New York Rangers,Anaheim Ducks
+1996020465,St. Louis Blues,2,Toronto Maple Leafs,3,Don Van Massenhoven,Dan McCourt,Toronto Maple Leafs,St. Louis Blues
+1996020466,Dallas Stars,6,Boston Bruins,4,Gregson,Knox,Dallas Stars,Boston Bruins
+1996020467,Phoenix Coyotes,7,Vancouver Canucks,4,Rob Shick,Lonnie Cameron,Phoenix Coyotes,Vancouver Canucks
+1996020468,Edmonton Oilers,4,Philadelphia Flyers,6,Bill McCreary,Wayne Bonney,Philadelphia Flyers,Edmonton Oilers
+1996020469,Hartford Whalers,3,Ottawa Senators,2,Dave Jackson,Kevin Collins,Hartford Whalers,Ottawa Senators
+1996020470,Pittsburgh Penguins,2,Buffalo Sabres,0,Richard Trottier,Bob Hodges,Pittsburgh Penguins,Buffalo Sabres
+1996020471,New York Islanders,1,Detroit Red Wings,7,Kerry Fraser,Pierre Champoux,Detroit Red Wings,New York Islanders
+1996020472,New Jersey Devils,5,Anaheim Ducks,3,Dennis Larue,Ron Asselstine,New Jersey Devils,Anaheim Ducks
+1996020473,Washington Capitals,1,Florida Panthers,1,Paul Devorski,Greg Devorski,Washington Capitals,Florida Panthers
+1996020474,Tampa Bay Lightning,4,Montréal Canadiens,4,Lance Roberts,Gordon Broseker,Tampa Bay Lightning,Montréal Canadiens
+1996020475,Toronto Maple Leafs,5,Chicago Blackhawks,4,Dan Marouelli,Mark Pare,Toronto Maple Leafs,Chicago Blackhawks
+1996020476,Edmonton Oilers,5,San Jose Sharks,3,Don Koharski,Wayne Bonney,Edmonton Oilers,San Jose Sharks
+1996020477,Los Angeles Kings,2,Colorado Avalanche,5,Mick McGeough,Shane Heyer,Colorado Avalanche,Los Angeles Kings
+1996020478,Florida Panthers,1,Montréal Canadiens,2,Lance Roberts,Gordon Broseker,Montréal Canadiens,Florida Panthers
+1996020479,Chicago Blackhawks,4,Hartford Whalers,3,Don Van Massenhoven,Swede Knox,Chicago Blackhawks,Hartford Whalers
+1996020480,St. Louis Blues,4,Boston Bruins,2,Terry Gregson,Dan McCourt,St. Louis Blues,Boston Bruins
+1996020481,Colorado Avalanche,3,Dallas Stars,2,Rob Shick,Lonnie Cameron,Colorado Avalanche,Dallas Stars
+1996020482,Calgary Flames,2,Philadelphia Flyers,4,Bill McCreary,Mike Cvik,Philadelphia Flyers,Calgary Flames
+1996020483,Vancouver Canucks,6,San Jose Sharks,1,Rod Shick,Lonnie Cameron,Vancouver Canucks,San Jose Sharks
+1996020484,Pittsburgh Penguins,5,Washington Capitals,3,Dave Jackson,Greg Devorski,Pittsburgh Penguins,Washington Capitals
+1996020485,Ottawa Senators,3,Anaheim Ducks,4,Paul Stewart,Pierre Champoux,Anaheim Ducks,Ottawa Senators
+1996020486,Toronto Maple Leafs,2,New York Islanders,0,Trottier,Stickle,Toronto Maple Leafs,New York Islanders
+1996020487,Detroit Red Wings,3,Phoenix Coyotes,5,Kerry Fraser,Ray Scapinello,Phoenix Coyotes,Detroit Red Wings
+1996020488,Dallas Stars,2,New York Rangers,3,Marouelli,Knox,New York Rangers,Dallas Stars
+1996020489,Edmonton Oilers,2,Los Angeles Kings,1,Bill McCreary,Mike Cvik,Edmonton Oilers,Los Angeles Kings
+1996020490,Buffalo Sabres,6,New Jersey Devils,5,Paul Stewart,Scott Driscoll,Buffalo Sabres,New Jersey Devils
+1996020491,Tampa Bay Lightning,4,New York Rangers,2,Paul Devorski,Dan McCourt,Tampa Bay Lightning,New York Rangers
+1996020492,Chicago Blackhawks,1,Colorado Avalanche,4,Dan Marouelli,Andy McElman,Colorado Avalanche,Chicago Blackhawks
+1996020493,Calgary Flames,1,San Jose Sharks,5,Mick McGeough,Mike Cvik,San Jose Sharks,Calgary Flames
+1996020494,Vancouver Canucks,3,Philadelphia Flyers,5,Don Koharski,Baron Parker,Philadelphia Flyers,Vancouver Canucks
+1996020495,Ottawa Senators,3,Boston Bruins,2,Mark Faucette,Pierre Champoux,Ottawa Senators,Boston Bruins
+1996020496,Washington Capitals,3,Hartford Whalers,2,Lance Roberts,Gordon Broseker,Washington Capitals,Hartford Whalers
+1996020497,Florida Panthers,0,Anaheim Ducks,3,Dan O'Halloran,Pierre Racicot,Anaheim Ducks,Florida Panthers
+1996020498,Dallas Stars,4,Montréal Canadiens,6,Walkom,Heyer,Montréal Canadiens,Dallas Stars
+1996020499,Hartford Whalers,4,Boston Bruins,5,Kerry Fraser,Scott Driscoll,Boston Bruins,Hartford Whalers
+1996020500,New York Rangers,4,New York Islanders,3,Don Van Massenhoven,Brian Murphy,New York Rangers,New York Islanders
+1996020501,New Jersey Devils,1,Pittsburgh Penguins,6,Rob Shick,Kevin Collins,Pittsburgh Penguins,New Jersey Devils
+1996020502,Chicago Blackhawks,2,Phoenix Coyotes,4,Paul Stewart,Mark Pare,Phoenix Coyotes,Chicago Blackhawks
+1996020503,St. Louis Blues,2,Montréal Canadiens,2,Dennis Larue,Shane Heyer,St. Louis Blues,Montréal Canadiens
+1996020504,Colorado Avalanche,3,Calgary Flames,2,Don Koharski,Andy McElman,Colorado Avalanche,Calgary Flames
+1996020505,Vancouver Canucks,4,Los Angeles Kings,3,Mick McGeough,Lonnie Cameron,Vancouver Canucks,Los Angeles Kings
+1996020506,San Jose Sharks,1,Philadelphia Flyers,4,Trottier,Wayne Bonney,Philadelphia Flyers,San Jose Sharks
+1996020507,Buffalo Sabres,2,St. Louis Blues,2,Bill McCreary,Greg Devorski,Buffalo Sabres,St. Louis Blues
+1996020508,Ottawa Senators,0,New Jersey Devils,1,Blaine Angus,Ron Asselstine,New Jersey Devils,Ottawa Senators
+1996020509,Washington Capitals,3,Phoenix Coyotes,0,Don Van Massenhoven,Gordon Broseker,Washington Capitals,Phoenix Coyotes
+1996020510,Tampa Bay Lightning,3,Anaheim Ducks,2,Dave Jackson,Stephane Provost,Tampa Bay Lightning,Anaheim Ducks
+1996020511,Detroit Red Wings,1,Dallas Stars,2,Terry Gregson,Shane Heyer,Dallas Stars,Detroit Red Wings
+1996020512,Edmonton Oilers,4,Toronto Maple Leafs,3,Mark Faucette,Swede Knox,Edmonton Oilers,Toronto Maple Leafs
+1996020513,Boston Bruins,3,Dallas Stars,2,Don Van Massenhoven,Kevin Collins,Boston Bruins,Dallas Stars
+1996020514,Hartford Whalers,1,Washington Capitals,1,Blaine Angus,Scott Driscoll,Hartford Whalers,Washington Capitals
+1996020515,Pittsburgh Penguins,7,Tampa Bay Lightning,3,Kerry Fraser,Greg Devorski,Pittsburgh Penguins,Tampa Bay Lightning
+1996020516,Montréal Canadiens,3,New York Islanders,1,Shick,Champoux,Montréal Canadiens,New York Islanders
+1996020517,New York Rangers,6,Ottawa Senators,4,Dan Marouelli,Brian Murphy,New York Rangers,Ottawa Senators
+1996020518,Colorado Avalanche,4,Philadelphia Flyers,4,Paul Stewart,Andy McElman,Colorado Avalanche,Philadelphia Flyers
+1996020519,Vancouver Canucks,7,Toronto Maple Leafs,3,Trottier,Cameron,Vancouver Canucks,Toronto Maple Leafs
+1996020520,San Jose Sharks,3,Calgary Flames,4,McGeough,Wayne Bonney,Calgary Flames,San Jose Sharks
+1996020521,Los Angeles Kings,0,Florida Panthers,5,Stephen Walkom,Mark Pare,Florida Panthers,Los Angeles Kings
+1996020522,Buffalo Sabres,5,Phoenix Coyotes,1,Lance Roberts,Ron Asselstine,Buffalo Sabres,Phoenix Coyotes
+1996020523,New Jersey Devils,3,St. Louis Blues,5,Dave Jackson,Brian Murphy,St. Louis Blues,New Jersey Devils
+1996020524,Chicago Blackhawks,5,Detroit Red Wings,5,Bill McCreary,Shane Heyer,Chicago Blackhawks,Detroit Red Wings
+1996020525,Ottawa Senators,3,Tampa Bay Lightning,4,Rob Shick,Scott Driscoll,Tampa Bay Lightning,Ottawa Senators
+1996020526,Montréal Canadiens,5,Hartford Whalers,4,Fraser,Gauthier,Montréal Canadiens,Hartford Whalers
+1996020527,New York Rangers,2,Colorado Avalanche,2,Terry Gregson,Brian Murphy,New York Rangers,Colorado Avalanche
+1996020528,Anaheim Ducks,1,Vancouver Canucks,5,Mark Faucette,Mark Pare,Vancouver Canucks,Anaheim Ducks
+1996020529,New York Islanders,3,Pittsburgh Penguins,5,Dave Jackson,Pierre Racicot,Pittsburgh Penguins,New York Islanders
+1996020530,Philadelphia Flyers,7,Boston Bruins,3,Bill McCreary,Pierre Champoux,Philadelphia Flyers,Boston Bruins
+1996020531,St. Louis Blues,2,Edmonton Oilers,5,Richard Trottier,Shane Heyer,Edmonton Oilers,St. Louis Blues
+1996020532,Calgary Flames,4,Toronto Maple Leafs,3,Stephen Walkom,Don Henderson,Calgary Flames,Toronto Maple Leafs
+1996020533,San Jose Sharks,1,Buffalo Sabres,1,Faucette,Pare,San Jose Sharks,Buffalo Sabres
+1996020534,Los Angeles Kings,6,Vancouver Canucks,2,Paul Devorski,Swede Knox,Los Angeles Kings,Vancouver Canucks
+1996020535,New York Rangers,3,Tampa Bay Lightning,4,Dave Jackson,Gordon Broseker,Tampa Bay Lightning,New York Rangers
+1996020536,New Jersey Devils,1,Colorado Avalanche,1,Terry Gregson,Pierre Champoux,New Jersey Devils,Colorado Avalanche
+1996020537,Chicago Blackhawks,4,Edmonton Oilers,1,Rob Shick,Andy McElman,Chicago Blackhawks,Edmonton Oilers
+1996020538,Dallas Stars,6,Detroit Red Wings,3,Koharski,Wayne Bonney,Dallas Stars,Detroit Red Wings
+1996020539,Anaheim Ducks,3,Florida Panthers,2,Paul Devorski,Mike Cvik,Anaheim Ducks,Florida Panthers
+1996020540,Boston Bruins,5,Montréal Canadiens,4,Terry Gregson,Brian Murphy,Boston Bruins,Montréal Canadiens
+1996020541,Ottawa Senators,0,Colorado Avalanche,2,Dan Marouelli,Ron Asselstine,Colorado Avalanche,Ottawa Senators
+1996020542,Philadelphia Flyers,1,Tampa Bay Lightning,3,Richard Trottier,Greg Devorski,Tampa Bay Lightning,Philadelphia Flyers
+1996020543,Washington Capitals,2,New York Rangers,0,Bill McCreary,Gerard Gauthier,Washington Capitals,New York Rangers
+1996020544,Phoenix Coyotes,4,Detroit Red Wings,5,Mark Faucette,Ray Scapinello,Detroit Red Wings,Phoenix Coyotes
+1996020545,Calgary Flames,3,Hartford Whalers,2,Mick McGeough,Brad Lazarowich,Calgary Flames,Hartford Whalers
+1996020546,San Jose Sharks,3,St. Louis Blues,4,Paul Devorski,Swede Knox,St. Louis Blues,San Jose Sharks
+1996020547,Los Angeles Kings,6,Buffalo Sabres,3,Lance Roberts,Mike Cvik,Los Angeles Kings,Buffalo Sabres
+1996020548,Pittsburgh Penguins,5,New York Islanders,2,Don Koharski,Gordon Broseker,Pittsburgh Penguins,New York Islanders
+1996020549,New Jersey Devils,3,Chicago Blackhawks,3,Bill McCreary,Greg Devorski,New Jersey Devils,Chicago Blackhawks
+1996020550,Dallas Stars,3,Phoenix Coyotes,4,Faucette,Wayne Bonney,Phoenix Coyotes,Dallas Stars
+1996020551,Vancouver Canucks,5,Hartford Whalers,3,Mick McGeough,Mike Cvik,Vancouver Canucks,Hartford Whalers
+1996020552,Anaheim Ducks,5,Buffalo Sabres,2,Rob Shick,Swede Knox,Anaheim Ducks,Buffalo Sabres
+1996020553,Ottawa Senators,3,Pittsburgh Penguins,3,Terry Gregson,Ron Asselstine,Ottawa Senators,Pittsburgh Penguins
+1996020554,Montréal Canadiens,6,Boston Bruins,3,Marouelli,Champoux,Montréal Canadiens,Boston Bruins
+1996020555,Philadelphia Flyers,3,Washington Capitals,3,Stephen Walkom,Greg Devorski,Philadelphia Flyers,Washington Capitals
+1996020556,Tampa Bay Lightning,4,New York Islanders,4,Paul Stewart,Gerard Gauthier,Tampa Bay Lightning,New York Islanders
+1996020557,Toronto Maple Leafs,2,Colorado Avalanche,3,Don Koharski,Scott Driscoll,Colorado Avalanche,Toronto Maple Leafs
+1996020558,Detroit Red Wings,1,Chicago Blackhawks,3,Richard Trottier,Dan Schachte,Chicago Blackhawks,Detroit Red Wings
+1996020559,Calgary Flames,1,Florida Panthers,4,Lance Roberts,Don Henderson,Florida Panthers,Calgary Flames
+1996020560,Edmonton Oilers,1,San Jose Sharks,2,Kerry Fraser,Randy Mitton,San Jose Sharks,Edmonton Oilers
+1996020561,Los Angeles Kings,2,St. Louis Blues,1,Don Van Massenhoven,Shane Heyer,Los Angeles Kings,St. Louis Blues
+1996020562,New York Rangers,3,New Jersey Devils,0,Steve Walkom,Greg Devorski,New York Rangers,New Jersey Devils
+1996020563,Phoenix Coyotes,2,Buffalo Sabres,3,Mick McGeough,Lonnie Cameron,Buffalo Sabres,Phoenix Coyotes
+1996020564,Edmonton Oilers,2,Hartford Whalers,1,Kerry Fraser,Swede Knox,Edmonton Oilers,Hartford Whalers
+1996020565,Vancouver Canucks,2,Anaheim Ducks,3,Paul Devorski,Mike Cvik,Anaheim Ducks,Vancouver Canucks
+1996020566,Boston Bruins,3,Ottawa Senators,4,Dan O'Halloran,Pierre Champoux,Ottawa Senators,Boston Bruins
+1996020567,Montréal Canadiens,1,Dallas Stars,2,Dave Jackson,Bob Hodges,Dallas Stars,Montréal Canadiens
+1996020568,New York Rangers,2,New York Islanders,4,Dan Marouelli,Brad Kovachik,New York Islanders,New York Rangers
+1996020569,Washington Capitals,6,Toronto Maple Leafs,3,Paul Stewart,Gerard Gauthier,Washington Capitals,Toronto Maple Leafs
+1996020570,Chicago Blackhawks,0,Tampa Bay Lightning,2,Don Koharski,Thor Nelson,Tampa Bay Lightning,Chicago Blackhawks
+1996020571,San Jose Sharks,5,Phoenix Coyotes,4,Van Massenhoven,Wayne Bonney,San Jose Sharks,Phoenix Coyotes
+1996020572,Pittsburgh Penguins,3,Dallas Stars,1,Richard Trottier,Gordon Broseker,Pittsburgh Penguins,Dallas Stars
+1996020573,New Jersey Devils,4,Boston Bruins,2,Stephen Walkom,Brad Kovachik,New Jersey Devils,Boston Bruins
+1996020574,Philadelphia Flyers,3,Montréal Canadiens,2,Paul Devorski,Gerard Gauthier,Philadelphia Flyers,Montréal Canadiens
+1996020575,Detroit Red Wings,3,Los Angeles Kings,3,Bill McCreary,Ron Asselstine,Detroit Red Wings,Los Angeles Kings
+1996020576,Vancouver Canucks,4,Florida Panthers,4,Kerry Fraser,Baron Parker,Vancouver Canucks,Florida Panthers
+1996020577,Hartford Whalers,0,Pittsburgh Penguins,3,Blaine Angus,Kevin Collins,Pittsburgh Penguins,Hartford Whalers
+1996020578,Ottawa Senators,5,Washington Capitals,1,Dave Jackson,Jean Morin,Ottawa Senators,Washington Capitals
+1996020579,New York Islanders,1,Buffalo Sabres,2,Paul Stewart,Brad Kovachik,Buffalo Sabres,New York Islanders
+1996020580,Toronto Maple Leafs,2,Los Angeles Kings,3,Gregson,Devorski,Los Angeles Kings,Toronto Maple Leafs
+1996020581,Colorado Avalanche,4,Tampa Bay Lightning,2,Larue,Henderson,Colorado Avalanche,Tampa Bay Lightning
+1996020582,Phoenix Coyotes,1,St. Louis Blues,4,Don Van Massenhoven,Jay Sharrers,St. Louis Blues,Phoenix Coyotes
+1996020583,Calgary Flames,2,Anaheim Ducks,1,Kerry Fraser,Mike Cvik,Calgary Flames,Anaheim Ducks
+1996020584,Edmonton Oilers,4,Florida Panthers,0,Lance Roberts,Swede Knox,Edmonton Oilers,Florida Panthers
+1996020585,Boston Bruins,2,Washington Capitals,3,Mark Faucette,Brian Murphy,Washington Capitals,Boston Bruins
+1996020586,Hartford Whalers,3,Toronto Maple Leafs,1,Bill McCreary,Kevin Collins,Hartford Whalers,Toronto Maple Leafs
+1996020587,Buffalo Sabres,2,Chicago Blackhawks,1,Stephen Walkom,Tim Nowak,Buffalo Sabres,Chicago Blackhawks
+1996020588,Montréal Canadiens,4,Detroit Red Wings,1,Stewart,Gauthier,Montréal Canadiens,Detroit Red Wings
+1996020589,New York Islanders,4,St. Louis Blues,6,Don Van Massenhoven,Jean Morin,St. Louis Blues,New York Islanders
+1996020590,Florida Panthers,2,Colorado Avalanche,4,Dan Marouelli,Gordon Broseker,Colorado Avalanche,Florida Panthers
+1996020591,Pittsburgh Penguins,4,Calgary Flames,2,Lance Roberts,Scott Driscoll,Pittsburgh Penguins,Calgary Flames
+1996020592,New York Rangers,4,Edmonton Oilers,4,Dan Van Massenhoven,Jean Morin,New York Rangers,Edmonton Oilers
+1996020593,Philadelphia Flyers,3,Dallas Stars,3,Mick McGeough,Brian Murphy,Philadelphia Flyers,Dallas Stars
+1996020594,Tampa Bay Lightning,3,Colorado Avalanche,2,Dan Maroueli,Gordon Broseker,Tampa Bay Lightning,Colorado Avalanche
+1996020595,Los Angeles Kings,1,New Jersey Devils,4,Rob Shick,Shane Heyer,New Jersey Devils,Los Angeles Kings
+1996020596,Hartford Whalers,2,Florida Panthers,1,Richard Trottier,Greg Devorski,Hartford Whalers,Florida Panthers
+1996020597,Buffalo Sabres,6,Montréal Canadiens,1,Don Koharski,Scott Driscoll,Buffalo Sabres,Montréal Canadiens
+1996020598,Ottawa Senators,1,Boston Bruins,4,Paul Stewart,Gerry Gauthier,Boston Bruins,Ottawa Senators
+1996020599,New York Islanders,8,Edmonton Oilers,1,Kerry Fraser,Jean Morin,New York Islanders,Edmonton Oilers
+1996020600,Washington Capitals,3,New York Rangers,5,Bill McCreary,Brain Murphy,New York Rangers,Washington Capitals
+1996020601,Toronto Maple Leafs,5,Calgary Flames,3,Faucette,Wayne Bonney,Toronto Maple Leafs,Calgary Flames
+1996020602,Detroit Red Wings,2,Philadelphia Flyers,2,Lance Roberts,Thor Nelson,Detroit Red Wings,Philadelphia Flyers
+1996020603,Chicago Blackhawks,3,Vancouver Canucks,4,Dave Jackson,Swede Knox,Vancouver Canucks,Chicago Blackhawks
+1996020604,San Jose Sharks,7,Los Angeles Kings,2,Terry Gregson,Brad Lazarowich,San Jose Sharks,Los Angeles Kings
+1996020605,Anaheim Ducks,3,New Jersey Devils,1,Guy Hebert,Paul Kariya,Anaheim Ducks,New Jersey Devils
+1996020606,Boston Bruins,1,Florida Panthers,4,Mick McGeough,Kevin Collins,Florida Panthers,Boston Bruins
+1996020607,Pittsburgh Penguins,3,Colorado Avalanche,4,Paul Devorski,Leon Stickle,Colorado Avalanche,Pittsburgh Penguins
+1996020608,St. Louis Blues,4,Vancouver Canucks,3,Dan Marouelli,Swede Knox,St. Louis Blues,Vancouver Canucks
+1996020609,Phoenix Coyotes,6,Anaheim Ducks,3,Stephen Walkom,Randy Mitton,Phoenix Coyotes,Anaheim Ducks
+1996020610,Hartford Whalers,2,New York Islanders,5,Mick McGeough,Scott Driscoll,New York Islanders,Hartford Whalers
+1996020611,Buffalo Sabres,1,Edmonton Oilers,3,Paul Stewart,Pierre Champoux,Edmonton Oilers,Buffalo Sabres
+1996020612,Ottawa Senators,2,Calgary Flames,2,Bill McCreary,Bob Hodges,Ottawa Senators,Calgary Flames
+1996020613,Washington Capitals,2,Dallas Stars,5,Richard Trottier,Tim Nowak,Dallas Stars,Washington Capitals
+1996020614,Chicago Blackhawks,1,Toronto Maple Leafs,2,Don Van Massenhoven,Swede Knox,Toronto Maple Leafs,Chicago Blackhawks
+1996020615,San Jose Sharks,1,New Jersey Devils,3,Gregson,Lazarowich,New Jersey Devils,San Jose Sharks
+1996020616,Boston Bruins,4,Colorado Avalanche,1,Dave Jackson,Kevin Collins,Boston Bruins,Colorado Avalanche
+1996020617,Pittsburgh Penguins,4,New York Rangers,7,Don Koharski,Leon Stickle,New York Rangers,Pittsburgh Penguins
+1996020618,Buffalo Sabres,1,Hartford Whalers,5,Lance Roberts,Pierre Champoux,Hartford Whalers,Buffalo Sabres
+1996020619,Montréal Canadiens,1,St. Louis Blues,8,Faucette,Wayne Bonney,St. Louis Blues,Montréal Canadiens
+1996020620,New York Islanders,3,Chicago Blackhawks,2,Dennis Larue,Brad Kovachik,New York Islanders,Chicago Blackhawks
+1996020621,Philadelphia Flyers,1,Detroit Red Wings,4,Rob Shick,Gordon Broseker,Detroit Red Wings,Philadelphia Flyers
+1996020622,Florida Panthers,3,Tampa Bay Lightning,2,Paul Devorski,Brian Murphy,Florida Panthers,Tampa Bay Lightning
+1996020623,Toronto Maple Leafs,1,Dallas Stars,5,Fraser,Knox,Dallas Stars,Toronto Maple Leafs
+1996020624,Phoenix Coyotes,4,Vancouver Canucks,0,Terry Gregson,Randy Mitton,Phoenix Coyotes,Vancouver Canucks
+1996020625,Los Angeles Kings,2,Anaheim Ducks,2,Stephen Walkom,Shane Heyer,Los Angeles Kings,Anaheim Ducks
+1996020626,Montréal Canadiens,2,Pittsburgh Penguins,5,McGeough,Wayne Bonney,Pittsburgh Penguins,Montréal Canadiens
+1996020627,Washington Capitals,1,Edmonton Oilers,3,Rob Shick,Gordon Broseker,Edmonton Oilers,Washington Capitals
+1996020628,Ottawa Senators,5,Tampa Bay Lightning,3,Kerry Fraser,Lonnie Cameron,Ottawa Senators,Tampa Bay Lightning
+1996020629,New York Rangers,1,Chicago Blackhawks,2,Rob Shick,Gerard Gauthier,Chicago Blackhawks,New York Rangers
+1996020630,Toronto Maple Leafs,2,Colorado Avalanche,5,Roberts,Knox,Colorado Avalanche,Toronto Maple Leafs
+1996020631,St. Louis Blues,1,Anaheim Ducks,4,Terry Gregson,Andy McElman,Anaheim Ducks,St. Louis Blues
+1996020632,Dallas Stars,7,Los Angeles Kings,2,Larue,Morin,Dallas Stars,Los Angeles Kings
+1996020633,Vancouver Canucks,5,San Jose Sharks,2,Stephen Walkom,Baron Parker,Vancouver Canucks,San Jose Sharks
+1996020634,Philadelphia Flyers,4,Phoenix Coyotes,1,Mark Faucette,Gerard Gauthier,Philadelphia Flyers,Phoenix Coyotes
+1996020635,Florida Panthers,5,Montréal Canadiens,1,Paul Devorski,Ron Asselstine,Florida Panthers,Montréal Canadiens
+1996020636,Calgary Flames,4,New York Islanders,3,Dan O'Halloran,Mike Cvik,Calgary Flames,New York Islanders
+1996020637,Buffalo Sabres,3,Pittsburgh Penguins,1,Rob Shick,Bob Hodges,Buffalo Sabres,Pittsburgh Penguins
+1996020638,New Jersey Devils,1,Ottawa Senators,1,Blaine Angus,Pierre Champoux,New Jersey Devils,Ottawa Senators
+1996020639,Washington Capitals,1,Philadelphia Flyers,2,Don Van Massenhoven,Gerard Gauthier,Philadelphia Flyers,Washington Capitals
+1996020640,Toronto Maple Leafs,0,St. Louis Blues,4,Stewart,Driscoll,St. Louis Blues,Toronto Maple Leafs
+1996020641,Detroit Red Wings,0,Phoenix Coyotes,3,Don Koharski,Dan McCourt,Phoenix Coyotes,Detroit Red Wings
+1996020642,Dallas Stars,3,Anaheim Ducks,1,Jackson,Morin,Dallas Stars,Anaheim Ducks
+1996020643,Colorado Avalanche,6,Los Angeles Kings,3,Dan Marouelli,Shane Heyer,Colorado Avalanche,Los Angeles Kings
+1996020644,Edmonton Oilers,3,San Jose Sharks,1,Stephen Walkom,Mike Cvik,Edmonton Oilers,San Jose Sharks
+1996020645,Ottawa Senators,2,St. Louis Blues,5,Don Koharsky,Gordon Broseker,St. Louis Blues,Ottawa Senators
+1996020646,Tampa Bay Lightning,1,Montréal Canadiens,4,Paul Devorski,Ron Asselstine,Montréal Canadiens,Tampa Bay Lightning
+1996020647,Florida Panthers,3,Boston Bruins,1,Don Van Massenhoven,Greg Devorski,Florida Panthers,Boston Bruins
+1996020648,Calgary Flames,3,San Jose Sharks,6,Mick McGeough,Don Henderson,San Jose Sharks,Calgary Flames
+1996020649,Vancouver Canucks,2,New York Islanders,1,Trottier,Wayne Bonney,Vancouver Canucks,New York Islanders
+1996020650,Los Angeles Kings,5,Hartford Whalers,3,Denis Larue,Brad Lazarowich,Los Angeles Kings,Hartford Whalers
+1996020651,Buffalo Sabres,3,Dallas Stars,1,Terry Gregson,Dan Schachte,Buffalo Sabres,Dallas Stars
+1996020652,New Jersey Devils,3,Toronto Maple Leafs,3,Kerry Fraser,Pierre Champoux,New Jersey Devils,Toronto Maple Leafs
+1996020653,Edmonton Oilers,1,New York Islanders,0,Bill McCreary,Swede Knox,Edmonton Oilers,New York Islanders
+1996020654,Anaheim Ducks,6,Hartford Whalers,3,Dan O'Halloran,Andy McElman,Anaheim Ducks,Hartford Whalers
+1996020655,Pittsburgh Penguins,4,Phoenix Coyotes,1,Rob Shick,Gordon Broseker,Pittsburgh Penguins,Phoenix Coyotes
+1996020656,Montréal Canadiens,4,New Jersey Devils,4,Koharski,Gauthier,Montréal Canadiens,New Jersey Devils
+1996020657,Philadelphia Flyers,2,New York Rangers,4,Stephen Walkom,Kevin Collins,New York Rangers,Philadelphia Flyers
+1996020658,Tampa Bay Lightning,0,Boston Bruins,3,Don Van Massenhoven,Ray Scapinello,Boston Bruins,Tampa Bay Lightning
+1996020659,Florida Panthers,1,Washington Capitals,3,Mark Faucette,Greg Devorski,Washington Capitals,Florida Panthers
+1996020660,Toronto Maple Leafs,1,Ottawa Senators,2,Jackson,Driscoll,Ottawa Senators,Toronto Maple Leafs
+1996020661,St. Louis Blues,1,Detroit Red Wings,4,Paul Stewart,Jean Morin,Detroit Red Wings,St. Louis Blues
+1996020662,Calgary Flames,3,Vancouver Canucks,0,Bill McCreary,Mike Cvik,Calgary Flames,Vancouver Canucks
+1996020663,San Jose Sharks,2,Colorado Avalanche,1,Marouelli,Lazarowich,San Jose Sharks,Colorado Avalanche
+1996020664,Los Angeles Kings,2,Chicago Blackhawks,3,Dan O'Halloraan,Andy McElman,Chicago Blackhawks,Los Angeles Kings
+1996020665,Buffalo Sabres,2,Washington Capitals,2,Dave Jackson,Gordon Broseker,Buffalo Sabres,Washington Capitals
+1996020666,New York Rangers,2,Boston Bruins,3,Lance Roberts,Kevin Collins,Boston Bruins,New York Rangers
+1996020667,Detroit Red Wings,4,Dallas Stars,3,Terry Gregson,Tim Nowak,Detroit Red Wings,Dallas Stars
+1996020668,Anaheim Ducks,2,Colorado Avalanche,5,Richard Trottier,Andy McElman,Colorado Avalanche,Anaheim Ducks
+1996020669,Ottawa Senators,6,Vancouver Canucks,4,Brad Watson,Bob Hodges,Ottawa Senators,Vancouver Canucks
+1996020670,Montréal Canadiens,2,Florida Panthers,2,McGeough,Champoux,Montréal Canadiens,Florida Panthers
+1996020671,Calgary Flames,2,Los Angeles Kings,3,Bill McCreary,Randy Mitton,Los Angeles Kings,Calgary Flames
+1996020672,San Jose Sharks,2,Chicago Blackhawks,4,Marouelli,Lazarowich,Chicago Blackhawks,San Jose Sharks
+1996020673,Boston Bruins,3,Ottawa Senators,4,Mick McGeough,Brian Murphy,Ottawa Senators,Boston Bruins
+1996020674,Pittsburgh Penguins,6,Vancouver Canucks,4,Kerry Fraser,Jean Morin,Pittsburgh Penguins,Vancouver Canucks
+1996020675,New York Islanders,4,Anaheim Ducks,3,Lance Roberts,Greg Devorski,New York Islanders,Anaheim Ducks
+1996020676,Philadelphia Flyers,1,Buffalo Sabres,1,Don Van Massenhoven,Kevin Collins,Philadelphia Flyers,Buffalo Sabres
+1996020677,Detroit Red Wings,1,St. Louis Blues,1,Faucette,Scapinello,Detroit Red Wings,St. Louis Blues
+1996020678,Phoenix Coyotes,0,Tampa Bay Lightning,2,Paul Stewart,Baron Parker,Tampa Bay Lightning,Phoenix Coyotes
+1996020679,Montréal Canadiens,3,Pittsburgh Penguins,6,Gregson,Hodges,Pittsburgh Penguins,Montréal Canadiens
+1996020680,New York Rangers,5,Hartford Whalers,2,Don Van Massenhoven,Greg Devorski,New York Rangers,Hartford Whalers
+1996020681,New Jersey Devils,4,New York Islanders,1,Don Koharski,Gordon Broseker,New Jersey Devils,New York Islanders
+1996020682,Toronto Maple Leafs,4,Anaheim Ducks,2,Faucette,Ron Asselstine,Toronto Maple Leafs,Anaheim Ducks
+1996020683,Dallas Stars,4,Tampa Bay Lightning,0,Marouelli,Mike Cvik,Dallas Stars,Tampa Bay Lightning
+1996020684,Edmonton Oilers,5,Calgary Flames,2,Paul Devorski,Mark Wheler,Edmonton Oilers,Calgary Flames
+1996020685,San Jose Sharks,3,Los Angeles Kings,2,Trottier,Lazarowich,San Jose Sharks,Los Angeles Kings
+1996020686,Boston Bruins,3,Hartford Whalers,5,Lance Roberts,Brian Murphy,Hartford Whalers,Boston Bruins
+1996020687,Buffalo Sabres,1,Florida Panthers,1,Bill McCreary,Pierre Champoux,Buffalo Sabres,Florida Panthers
+1996020688,Philadelphia Flyers,9,Montréal Canadiens,5,Mick McGeough,Gordon Broseker,Philadelphia Flyers,Montréal Canadiens
+1996020689,Detroit Red Wings,4,Vancouver Canucks,7,Fraser,Gauthier,Vancouver Canucks,Detroit Red Wings
+1996020690,St. Louis Blues,6,Dallas Stars,4,Rob Shick,Mike Cvik,St. Louis Blues,Dallas Stars
+1996020691,Phoenix Coyotes,3,Chicago Blackhawks,2,Paul Stewart,Baron Parker,Phoenix Coyotes,Chicago Blackhawks
+1996020692,New Jersey Devils,2,Florida Panthers,2,Terry Gregson,Greg Devorski,New Jersey Devils,Florida Panthers
+1996020693,Calgary Flames,5,Washington Capitals,2,Paul Devorski,Wayne Bonney,Calgary Flames,Washington Capitals
+1996020694,Boston Bruins,3,St. Louis Blues,3,Stephen Walkom,Gordon Broseker,Boston Bruins,St. Louis Blues
+1996020695,Pittsburgh Penguins,5,Detroit Red Wings,6,Bill McCreary,Gerard Gauthier,Detroit Red Wings,Pittsburgh Penguins
+1996020696,Ottawa Senators,3,San Jose Sharks,3,Lance Roberts,Ron Asselstine,Ottawa Senators,San Jose Sharks
+1996020697,Montréal Canadiens,3,Hartford Whalers,2,Fraser,Morin,Montréal Canadiens,Hartford Whalers
+1996020698,New York Islanders,2,New York Rangers,5,Mark Faucette,Pierre Champoux,New York Rangers,New York Islanders
+1996020699,New Jersey Devils,4,Philadelphia Flyers,2,Rob Shick,Greg Devorski,New Jersey Devils,Philadelphia Flyers
+1996020700,Tampa Bay Lightning,1,Buffalo Sabres,3,Don Koharski,Kevin Collins,Buffalo Sabres,Tampa Bay Lightning
+1996020701,Toronto Maple Leafs,4,Vancouver Canucks,2,McGeough,Hodges,Toronto Maple Leafs,Vancouver Canucks
+1996020702,Colorado Avalanche,2,Chicago Blackhawks,4,Richard Trottier,Mike Cvik,Chicago Blackhawks,Colorado Avalanche
+1996020703,Phoenix Coyotes,4,Dallas Stars,5,Dave Jackson,Baron Parker,Dallas Stars,Phoenix Coyotes
+1996020704,Edmonton Oilers,1,Anaheim Ducks,2,Paul Devorski,Swede Knox,Anaheim Ducks,Edmonton Oilers
+1996020705,Buffalo Sabres,2,Ottawa Senators,1,Mick McGeough,Gerard Gauthier,Buffalo Sabres,Ottawa Senators
+1996020706,Florida Panthers,4,New York Rangers,3,Don Koharski,Kevin Collins,Florida Panthers,New York Rangers
+1996020707,Dallas Stars,2,Los Angeles Kings,1,Stewart,Schachte,Dallas Stars,Los Angeles Kings
+1996020708,Calgary Flames,6,Anaheim Ducks,1,Paul Devorski,Wayne Bonney,Calgary Flames,Anaheim Ducks
+1996020709,Edmonton Oilers,4,Washington Capitals,1,Don Van Massenhoven,Mark Wheler,Edmonton Oilers,Washington Capitals
+1996020710,Montréal Canadiens,4,San Jose Sharks,2,Faucette,Ron Asselstine,Montréal Canadiens,San Jose Sharks
+1996020711,St. Louis Blues,2,Phoenix Coyotes,4,Paul Stewart,Andy McElman,Phoenix Coyotes,St. Louis Blues
+1996020712,New York Islanders,5,Ottawa Senators,5,Rob Shick,Bob Hodges,New York Islanders,Ottawa Senators
+1996020713,Colorado Avalanche,3,Los Angeles Kings,1,Don Van Massenhoven,Randy Mitton,Colorado Avalanche,Los Angeles Kings
+1996020714,Calgary Flames,5,Boston Bruins,1,Dave Jackson,Lonnie Cameron,Calgary Flames,Boston Bruins
+1996020715,Vancouver Canucks,2,Washington Capitals,5,Stephen Walkom,Baron Parker,Washington Capitals,Vancouver Canucks
+1996020716,Hartford Whalers,2,New Jersey Devils,3,Denis Larue,Scott Driscoll,New Jersey Devils,Hartford Whalers
+1996020717,Pittsburgh Penguins,1,New York Islanders,5,Mark Faucette,Pierre Champoux,New York Islanders,Pittsburgh Penguins
+1996020718,Buffalo Sabres,2,Montréal Canadiens,2,Dan Marouelli,Greg Devorski,Buffalo Sabres,Montréal Canadiens
+1996020719,Florida Panthers,5,Tampa Bay Lightning,2,Terry Gregson,Gordon Broseker,Florida Panthers,Tampa Bay Lightning
+1996020720,Detroit Red Wings,7,San Jose Sharks,1,McCreary,Kovachik,Detroit Red Wings,San Jose Sharks
+1996020721,Dallas Stars,0,Phoenix Coyotes,5,Devorski,McElman,Phoenix Coyotes,Dallas Stars
+1996020722,Edmonton Oilers,4,Boston Bruins,3,Dave Jackson,Mike Cvik,Edmonton Oilers,Boston Bruins
+1996020723,Anaheim Ducks,5,Toronto Maple Leafs,2,Don Van Massenhoven,Shane Heyer,Anaheim Ducks,Toronto Maple Leafs
+1996020724,New Jersey Devils,4,Hartford Whalers,0,Richard Trottier,Scott Driscoll,New Jersey Devils,Hartford Whalers
+1996020725,Philadelphia Flyers,4,Ottawa Senators,2,Rob Shick,Pierre Champoux,Philadelphia Flyers,Ottawa Senators
+1996020726,Chicago Blackhawks,7,San Jose Sharks,3,Don Koharski,Dan McCourt,Chicago Blackhawks,San Jose Sharks
+1996020727,St. Louis Blues,4,New York Rangers,1,Blaine Angus,Gerard Gauthier,St. Louis Blues,New York Rangers
+1996020728,Phoenix Coyotes,2,Colorado Avalanche,3,Kerry Fraser,Randy Mitton,Colorado Avalanche,Phoenix Coyotes
+1996020729,Calgary Flames,3,Edmonton Oilers,2,Stephen Walkom,Brad Lazarowich,Calgary Flames,Edmonton Oilers
+1996020730,Los Angeles Kings,4,Toronto Maple Leafs,4,Lance Roberts,Shane Heyer,Los Angeles Kings,Toronto Maple Leafs
+1996020731,Washington Capitals,5,Tampa Bay Lightning,4,Dennis Larue,Gordon Broseker,Washington Capitals,Tampa Bay Lightning
+1996020732,Dallas Stars,4,Detroit Red Wings,3,Van Massenhoven,McElman,Dallas Stars,Detroit Red Wings
+1996020733,Hartford Whalers,2,Ottawa Senators,1,Paul Stewart,Greg Devorski,Hartford Whalers,Ottawa Senators
+1996020734,Montréal Canadiens,1,New Jersey Devils,4,McCreary,Champoux,New Jersey Devils,Montréal Canadiens
+1996020735,New York Islanders,1,Florida Panthers,0,Richard Trottier,Gordon Broseker,New York Islanders,Florida Panthers
+1996020736,Philadelphia Flyers,5,Pittsburgh Penguins,1,Dan Marouelli,Kevin Collins,Philadelphia Flyers,Pittsburgh Penguins
+1996020737,Tampa Bay Lightning,4,Washington Capitals,1,Terry Gregson,Jean Morin,Tampa Bay Lightning,Washington Capitals
+1996020738,Chicago Blackhawks,2,New York Rangers,0,Stephen Walkom,Ron Asselstine,Chicago Blackhawks,New York Rangers
+1996020739,St. Louis Blues,2,Colorado Avalanche,5,Don Koharski,Gerard Gauthier,Colorado Avalanche,St. Louis Blues
+1996020740,Phoenix Coyotes,5,Boston Bruins,4,Rob Shick,Randy Mitton,Phoenix Coyotes,Boston Bruins
+1996020741,Calgary Flames,3,Toronto Maple Leafs,0,Dave Jackson,Bead Lazarowich,Calgary Flames,Toronto Maple Leafs
+1996020742,Vancouver Canucks,4,Anaheim Ducks,2,Lance Roberts,Wayne Bonney,Vancouver Canucks,Anaheim Ducks
+1996020743,Los Angeles Kings,2,Edmonton Oilers,2,Kerry Fraser,Shane Heyer,Los Angeles Kings,Edmonton Oilers
+1996020744,Pittsburgh Penguins,2,Philadelphia Flyers,6,Paul Devorski,Tim Nowak,Philadelphia Flyers,Pittsburgh Penguins
+1996020745,Buffalo Sabres,6,San Jose Sharks,2,Stephen Walkom,Scott Driscoll,Buffalo Sabres,San Jose Sharks
+1996020746,Ottawa Senators,4,Hartford Whalers,2,Dan Marouelli,Greg Devorski,Ottawa Senators,Hartford Whalers
+1996020747,Florida Panthers,2,Detroit Red Wings,4,Terry Gregson,Jean Morin,Detroit Red Wings,Florida Panthers
+1996020748,New York Islanders,1,Montréal Canadiens,4,Dan O'Halloran,Gordon Broseker,Montréal Canadiens,New York Islanders
+1996020749,New York Rangers,2,New Jersey Devils,2,Mick McGeough,Kevin Collins,New York Rangers,New Jersey Devils
+1996020750,Tampa Bay Lightning,3,Detroit Red Wings,3,Terry Gregson,Jean Morin,Tampa Bay Lightning,Detroit Red Wings
+1996020751,St. Louis Blues,4,Chicago Blackhawks,2,Bill McCreary,Ron Asselstine,St. Louis Blues,Chicago Blackhawks
+1996020752,Los Angeles Kings,1,Dallas Stars,2,Mark Faucette,Lonnie Cameron,Dallas Stars,Los Angeles Kings
+1996020753,Anaheim Ducks,5,Edmonton Oilers,1,Kerry Fraser,Shane Heyer,Anaheim Ducks,Edmonton Oilers
+1996020754,Pittsburgh Penguins,4,Florida Panthers,2,Mike McGeough,Tim Nowak,Pittsburgh Penguins,Florida Panthers
+1996020755,Buffalo Sabres,5,Calgary Flames,5,Paul Devorski,Scott Driscoll,Buffalo Sabres,Calgary Flames
+1996020756,Washington Capitals,1,Ottawa Senators,6,Paul Stewart,Brad Kovachik,Ottawa Senators,Washington Capitals
+1996020757,Colorado Avalanche,3,Boston Bruins,2,Lance Roberts,Mike Cvik,Colorado Avalanche,Boston Bruins
+1996020758,Phoenix Coyotes,6,Los Angeles Kings,1,Bill McCreary,Jay Sharrers,Phoenix Coyotes,Los Angeles Kings
+1996020759,Vancouver Canucks,5,Toronto Maple Leafs,6,Mark Faucette,Brad Lazarowich,Toronto Maple Leafs,Vancouver Canucks
+1996020760,San Jose Sharks,3,Dallas Stars,1,Fraser,Cameron,San Jose Sharks,Dallas Stars
+1996020761,New Jersey Devils,1,New York Rangers,1,Dan Marouelli,Andy McElman,New Jersey Devils,New York Rangers
+1996020762,Philadelphia Flyers,2,Hartford Whalers,2,Paul Stewart,Pierre Champoux,Philadelphia Flyers,Hartford Whalers
+1996020763,Detroit Red Wings,4,Calgary Flames,0,Van Massenhoven,McCourt,Detroit Red Wings,Calgary Flames
+1996020764,Edmonton Oilers,6,Toronto Maple Leafs,5,Don Koharski,Wayne Bonney,Edmonton Oilers,Toronto Maple Leafs
+1996020765,Tampa Bay Lightning,5,Philadelphia Flyers,2,Mick McGeough,Gordon Broseker,Tampa Bay Lightning,Philadelphia Flyers
+1996020766,Florida Panthers,2,New Jersey Devils,2,Dave Jackson,Scott Driscoll,Florida Panthers,New Jersey Devils
+1996020767,Chicago Blackhawks,5,Boston Bruins,3,Richard Trottier,Mike Cvik,Chicago Blackhawks,Boston Bruins
+1996020768,St. Louis Blues,1,Ottawa Senators,1,Lance Roberts,Dan Schachte,St. Louis Blues,Ottawa Senators
+1996020769,San Jose Sharks,1,Vancouver Canucks,6,McCreary,Cameron,Vancouver Canucks,San Jose Sharks
+1996020770,Los Angeles Kings,3,Anaheim Ducks,1,Mark Faucette,Swede Knox,Los Angeles Kings,Anaheim Ducks
+1996020771,Hartford Whalers,7,New York Rangers,2,Paul Devorski,Pierre Champoux,Hartford Whalers,New York Rangers
+1996020772,Buffalo Sabres,5,New York Islanders,2,Terry Gregson,Tim Nowak,Buffalo Sabres,New York Islanders
+1996020773,Dallas Stars,4,Calgary Flames,2,Blaine Angus,Schachte,Dallas Stars,Calgary Flames
+1996020774,Edmonton Oilers,3,Colorado Avalanche,4,Don Koharski,Wayne Bonney,Colorado Avalanche,Edmonton Oilers
+1996020775,Hartford Whalers,2,Washington Capitals,0,Richard Trottier,Pierre Champoux,Hartford Whalers,Washington Capitals
+1996020776,Pittsburgh Penguins,2,Chicago Blackhawks,5,Paul Stewart,Greg Devorski,Chicago Blackhawks,Pittsburgh Penguins
+1996020777,Montréal Canadiens,1,Toronto Maple Leafs,5,Terry Gregson,Gerard Gauthier,Toronto Maple Leafs,Montréal Canadiens
+1996020778,Tampa Bay Lightning,3,New Jersey Devils,1,Dave Jackson,Scott Driscoll,Tampa Bay Lightning,New Jersey Devils
+1996020779,Florida Panthers,3,Philadelphia Flyers,4,Mick McGeough,Gordon Broseker,Philadelphia Flyers,Florida Panthers
+1996020780,St. Louis Blues,2,Detroit Red Wings,2,Rob Shick,Mike Cvik,St. Louis Blues,Detroit Red Wings
+1996020781,Los Angeles Kings,4,Vancouver Canucks,0,Bill McCreary,Lonnie Cameron,Los Angeles Kings,Vancouver Canucks
+1996020782,Anaheim Ducks,4,Phoenix Coyotes,2,Mark Faucette,Swede Knox,Anaheim Ducks,Phoenix Coyotes
+1996020783,Buffalo Sabres,5,Boston Bruins,1,Lance Roberts,Ron Asselstine,Buffalo Sabres,Boston Bruins
+1996020784,New York Islanders,4,Pittsburgh Penguins,1,Kerry Fraser,Dan McCourt,New York Islanders,Pittsburgh Penguins
+1996020785,Philadelphia Flyers,2,New York Rangers,1,Dan Marouelli,Greg Devorski,Philadelphia Flyers,New York Rangers
+1996020786,Tampa Bay Lightning,4,San Jose Sharks,3,Stephen Walkom,Scott Driscoll,Tampa Bay Lightning,San Jose Sharks
+1996020787,St. Louis Blues,3,Calgary Flames,5,Don Van Massenhoven,Mike Cvik,Calgary Flames,St. Louis Blues
+1996020788,Dallas Stars,6,Edmonton Oilers,1,Shick,Sharrers,Dallas Stars,Edmonton Oilers
+1996020789,Colorado Avalanche,4,Ottawa Senators,3,Mark Faucette,Wayne Bonney,Colorado Avalanche,Ottawa Senators
+1996020790,Anaheim Ducks,5,Vancouver Canucks,2,Don Koharski,Swede Knox,Anaheim Ducks,Vancouver Canucks
+1996020791,Washington Capitals,3,Boston Bruins,3,Mick McGeough,Dan McCourt,Washington Capitals,Boston Bruins
+1996020792,Phoenix Coyotes,3,Detroit Red Wings,5,Don Koharski,Jay Sharrers,Detroit Red Wings,Phoenix Coyotes
+1996020793,Tampa Bay Lightning,3,St. Louis Blues,2,Dave Jackson,Kevin Collins,Tampa Bay Lightning,St. Louis Blues
+1996020794,Florida Panthers,2,San Jose Sharks,2,Rob Shick,Scott Driscoll,Florida Panthers,San Jose Sharks
+1996020795,Chicago Blackhawks,0,Dallas Stars,1,Don Van Massenhoven,Thor Nelson,Dallas Stars,Chicago Blackhawks
+1996020796,Vancouver Canucks,2,Montréal Canadiens,4,Paul Stewart,Wayne Bonney,Montréal Canadiens,Vancouver Canucks
+1996020797,Los Angeles Kings,3,Colorado Avalanche,1,Terry Gregson,Brad Lazarowich,Los Angeles Kings,Colorado Avalanche
+1996020798,Hartford Whalers,2,Chicago Blackhawks,2,Kerry Fraser,Stephane Provost,Hartford Whalers,Chicago Blackhawks
+1996020799,Ottawa Senators,5,Philadelphia Flyers,8,Mick McGeough,Pierre Champoux,Philadelphia Flyers,Ottawa Senators
+1996020800,New York Islanders,3,New Jersey Devils,5,Paul Devorski,Jean Morin,New Jersey Devils,New York Islanders
+1996020801,Toronto Maple Leafs,1,Washington Capitals,3,Walkom,Ron Asselstine,Washington Capitals,Toronto Maple Leafs
+1996020802,Calgary Flames,2,Phoenix Coyotes,5,Richard Trottier,Don Henderson,Phoenix Coyotes,Calgary Flames
+1996020803,Anaheim Ducks,3,Edmonton Oilers,3,Terry Gregson,Brad Lazarowich,Anaheim Ducks,Edmonton Oilers
+1996020804,Boston Bruins,6,Tampa Bay Lightning,2,Dennis Larue,Brian Murphy,Boston Bruins,Tampa Bay Lightning
+1996020805,New Jersey Devils,4,Buffalo Sabres,1,Stephen Walkom,Jean Morin,New Jersey Devils,Buffalo Sabres
+1996020806,Florida Panthers,3,St. Louis Blues,2,Dave Jackson,Kevin Collins,Florida Panthers,St. Louis Blues
+1996020807,Detroit Red Wings,4,Pittsburgh Penguins,1,Lance Roberts,Leon Stickle,Detroit Red Wings,Pittsburgh Penguins
+1996020808,Colorado Avalanche,2,Dallas Stars,6,Don Van Massenhoven,Andy McElman,Dallas Stars,Colorado Avalanche
+1996020809,Vancouver Canucks,6,Phoenix Coyotes,2,Richard Trottier,Wayne Bonney,Vancouver Canucks,Phoenix Coyotes
+1996020810,Los Angeles Kings,6,Edmonton Oilers,3,Paul Stewart,Brad Lazarowich,Los Angeles Kings,Edmonton Oilers
+1996020811,Hartford Whalers,2,San Jose Sharks,3,Blaine Angus,Brad Kovachik,San Jose Sharks,Hartford Whalers
+1996020812,Ottawa Senators,4,New York Islanders,1,Rob Shick,Ron Asselstine,Ottawa Senators,New York Islanders
+1996020813,Washington Capitals,1,Anaheim Ducks,4,Paul Devorski,Gordon Broseker,Anaheim Ducks,Washington Capitals
+1996020814,Calgary Flames,3,Montréal Canadiens,2,Terry Gregson,Mike Cvik,Calgary Flames,Montréal Canadiens
+1996020815,Boston Bruins,5,Philadelphia Flyers,5,Don Koharski,Brian Murphy,Boston Bruins,Philadelphia Flyers
+1996020816,Ottawa Senators,1,Buffalo Sabres,3,Stephen Walkom,Ron Asselstine,Buffalo Sabres,Ottawa Senators
+1996020817,New Jersey Devils,6,Pittsburgh Penguins,3,Lance Roberts,Jean Morin,New Jersey Devils,Pittsburgh Penguins
+1996020818,Tampa Bay Lightning,2,Florida Panthers,0,Kerry Fraser,Kevin Collins,Tampa Bay Lightning,Florida Panthers
+1996020819,Toronto Maple Leafs,3,San Jose Sharks,2,McCreary,Driscoll,Toronto Maple Leafs,San Jose Sharks
+1996020820,Detroit Red Wings,3,New York Rangers,0,Faucette,Gauthier,Detroit Red Wings,New York Rangers
+1996020821,Colorado Avalanche,2,Chicago Blackhawks,1,Paul Stewart,Andy McElman,Colorado Avalanche,Chicago Blackhawks
+1996020822,Calgary Flames,4,Dallas Stars,1,Richard Trottier,Mike Cvik,Calgary Flames,Dallas Stars
+1996020823,Edmonton Oilers,4,Montréal Canadiens,5,Mick McGeough,Swede Knox,Montréal Canadiens,Edmonton Oilers
+1996020824,Vancouver Canucks,0,Los Angeles Kings,3,Terry Gregson,Brad Lazarowich,Los Angeles Kings,Vancouver Canucks
+1996020825,Hartford Whalers,2,Philadelphia Flyers,5,Rob Shick,Pierre Champoux,Philadelphia Flyers,Hartford Whalers
+1996020826,Washington Capitals,0,New York Islanders,2,Don Koharski,Gordon Broseker,New York Islanders,Washington Capitals
+1996020827,Detroit Red Wings,1,Anaheim Ducks,1,McCreary,Gauthier,Detroit Red Wings,Anaheim Ducks
+1996020828,Phoenix Coyotes,0,Chicago Blackhawks,4,Don Van Massenhoven,Jay Sharrers,Chicago Blackhawks,Phoenix Coyotes
+1996020829,New York Rangers,5,San Jose Sharks,4,Lance Roberts,Pierre Champoux,New York Rangers,San Jose Sharks
+1996020830,Toronto Maple Leafs,4,Boston Bruins,2,Faucette,Devorski,Toronto Maple Leafs,Boston Bruins
+1996020831,Colorado Avalanche,5,Vancouver Canucks,1,Richard Trottier,Andy McElman,Colorado Avalanche,Vancouver Canucks
+1996020832,Pittsburgh Penguins,1,New Jersey Devils,3,Paul Stewart,Dan McCourt,New Jersey Devils,Pittsburgh Penguins
+1996020833,New York Islanders,3,Tampa Bay Lightning,6,Don Koharski,Tim Nowak,Tampa Bay Lightning,New York Islanders
+1996020834,Washington Capitals,2,Calgary Flames,1,Lance Roberts,Scott Driscoll,Washington Capitals,Calgary Flames
+1996020835,Edmonton Oilers,4,Los Angeles Kings,1,Paul Devorski,Mike Cvik,Edmonton Oilers,Los Angeles Kings
+1996020836,Hartford Whalers,2,Calgary Flames,0,Don Koharski,Pierre Racicot,Hartford Whalers,Calgary Flames
+1996020837,Buffalo Sabres,4,Pittsburgh Penguins,2,Mark Faucette,Greg Devorski,Buffalo Sabres,Pittsburgh Penguins
+1996020838,Montréal Canadiens,3,Colorado Avalanche,7,Fraser,Gauthier,Colorado Avalanche,Montréal Canadiens
+1996020839,Philadelphia Flyers,1,New Jersey Devils,3,Stephen Walkom,Scott Driscoll,New Jersey Devils,Philadelphia Flyers
+1996020840,Florida Panthers,0,Phoenix Coyotes,3,Bill McCreary,Ron Asselstine,Phoenix Coyotes,Florida Panthers
+1996020841,Toronto Maple Leafs,4,Detroit Red Wings,4,Stewart,Provost,Toronto Maple Leafs,Detroit Red Wings
+1996020842,Dallas Stars,3,St. Louis Blues,2,Jackson,Knox,Dallas Stars,St. Louis Blues
+1996020843,Vancouver Canucks,1,Chicago Blackhawks,1,Paul Devorski,Brad Lazarowich,Vancouver Canucks,Chicago Blackhawks
+1996020844,Anaheim Ducks,4,Ottawa Senators,1,Dennis Larue,Wayne Bonney,Anaheim Ducks,Ottawa Senators
+1996020845,New York Islanders,5,Boston Bruins,2,Stephen Walkom,Tim Nowak,New York Islanders,Boston Bruins
+1996020846,Washington Capitals,6,Colorado Avalanche,3,Mark Faucette,Scott Driscoll,Washington Capitals,Colorado Avalanche
+1996020847,Tampa Bay Lightning,0,Phoenix Coyotes,5,Lance Roberts,Ron Asselstine,Phoenix Coyotes,Tampa Bay Lightning
+1996020848,San Jose Sharks,2,Ottawa Senators,0,Don Van Massenhoven,Wayne Bonney,San Jose Sharks,Ottawa Senators
+1996020849,Los Angeles Kings,2,New York Rangers,6,Rob Shick,Shane Heyer,New York Rangers,Los Angeles Kings
+1996020850,Hartford Whalers,2,Montréal Canadiens,0,Mick McGeough,Pierre Racicot,Hartford Whalers,Montréal Canadiens
+1996020851,Florida Panthers,1,Calgary Flames,3,Lance Roberts,Ron Asselstine,Calgary Flames,Florida Panthers
+1996020852,Dallas Stars,2,Edmonton Oilers,1,Jackson,Knox,Dallas Stars,Edmonton Oilers
+1996020853,Anaheim Ducks,5,New York Rangers,2,Paul Devorski,Shane Heyer,Anaheim Ducks,New York Rangers
+1996020854,Pittsburgh Penguins,3,Philadelphia Flyers,2,Dan Marouelli,Gordon Broseker,Pittsburgh Penguins,Philadelphia Flyers
+1996020855,Montréal Canadiens,3,Buffalo Sabres,3,Stewart,Champoux,Montréal Canadiens,Buffalo Sabres
+1996020856,New York Islanders,5,New Jersey Devils,1,Richard Trottier,Tim Nowak,New York Islanders,New Jersey Devils
+1996020857,Tampa Bay Lightning,4,Boston Bruins,6,Bill McCreary,Greg Devorski,Boston Bruins,Tampa Bay Lightning
+1996020858,Toronto Maple Leafs,1,Hartford Whalers,1,Fraser,Gauthier,Toronto Maple Leafs,Hartford Whalers
+1996020859,Chicago Blackhawks,0,Phoenix Coyotes,2,Dave Jackson,Andy McElman,Phoenix Coyotes,Chicago Blackhawks
+1996020860,Vancouver Canucks,3,Detroit Red Wings,5,Rob Shick,Brad Lazarowich,Detroit Red Wings,Vancouver Canucks
+1996020861,Los Angeles Kings,3,Ottawa Senators,1,Dennis Larue,Shane Heyer,Los Angeles Kings,Ottawa Senators
+1996020862,Buffalo Sabres,1,New Jersey Devils,4,Kerry Fraser,Gerard Gauthier,New Jersey Devils,Buffalo Sabres
+1996020863,Philadelphia Flyers,5,Washington Capitals,0,Bill McCreary,Gordon Broseker,Philadelphia Flyers,Washington Capitals
+1996020864,Tampa Bay Lightning,2,Calgary Flames,1,Mark Faucette,Greg Devorski,Tampa Bay Lightning,Calgary Flames
+1996020865,Florida Panthers,1,Boston Bruins,3,Mick McGeough,Pierre Racicot,Boston Bruins,Florida Panthers
+1996020866,St. Louis Blues,1,Edmonton Oilers,4,Blaine Angus,Andy McElman,Edmonton Oilers,St. Louis Blues
+1996020867,Colorado Avalanche,2,Anaheim Ducks,2,Don Van Massenhoven,Swede Knox,Colorado Avalanche,Anaheim Ducks
+1996020868,San Jose Sharks,1,New York Rangers,2,Paul Devorski,Wayne Bonney,New York Rangers,San Jose Sharks
+1996020869,Pittsburgh Penguins,2,Montréal Canadiens,2,Richard Trottier,Gordon Broseker,Pittsburgh Penguins,Montréal Canadiens
+1996020870,Toronto Maple Leafs,3,Dallas Stars,3,Gregson,Gauthier,Toronto Maple Leafs,Dallas Stars
+1996020871,Chicago Blackhawks,2,Vancouver Canucks,2,Don Koharski,Kevin Collins,Chicago Blackhawks,Vancouver Canucks
+1996020872,Phoenix Coyotes,1,Ottawa Senators,4,Blaine Angus,Brad Lazarowich,Ottawa Senators,Phoenix Coyotes
+1996020873,Los Angeles Kings,3,Detroit Red Wings,3,Paul Devorski,Mike Cvik,Los Angeles Kings,Detroit Red Wings
+1996020874,New Jersey Devils,6,Edmonton Oilers,1,Dan Ohalloran,Scott Driscoll,New Jersey Devils,Edmonton Oilers
+1996020875,Washington Capitals,4,Vancouver Canucks,1,Dave Jackson,Pierre Champoux,Washington Capitals,Vancouver Canucks
+1996020876,Florida Panthers,3,New York Islanders,2,Mick McGeough,Greg Devorski,Florida Panthers,New York Islanders
+1996020877,San Jose Sharks,3,St. Louis Blues,4,Walkom,Heyer,St. Louis Blues,San Jose Sharks
+1996020878,Hartford Whalers,6,Boston Bruins,3,Paul Stewart,Dan Schachte,Hartford Whalers,Boston Bruins
+1996020879,New York Rangers,3,Washington Capitals,2,Terry Gregson,Scott Driscoll,New York Rangers,Washington Capitals
+1996020880,Toronto Maple Leafs,2,Chicago Blackhawks,3,Marouelli,Ron Asselstine,Chicago Blackhawks,Toronto Maple Leafs
+1996020881,Colorado Avalanche,2,Calgary Flames,3,Richard Trottier,Kevin Collins,Calgary Flames,Colorado Avalanche
+1996020882,Phoenix Coyotes,5,Pittsburgh Penguins,5,Lance Roberts,Jay Sharrers,Phoenix Coyotes,Pittsburgh Penguins
+1996020883,Anaheim Ducks,2,Detroit Red Wings,1,Stephen Walkom,Mike Cvik,Anaheim Ducks,Detroit Red Wings
+1996020884,Boston Bruins,0,Montréal Canadiens,3,Don Koharski,Andy McElman,Montréal Canadiens,Boston Bruins
+1996020885,New Jersey Devils,6,Hartford Whalers,0,Terry Gregson,Scott Driscoll,New Jersey Devils,Hartford Whalers
+1996020886,Philadelphia Flyers,5,Edmonton Oilers,4,Dave Jackson,Pierre Champoux,Philadelphia Flyers,Edmonton Oilers
+1996020887,Tampa Bay Lightning,0,New York Islanders,3,Mick McGeough,Gordon Broseker,New York Islanders,Tampa Bay Lightning
+1996020888,Florida Panthers,5,Vancouver Canucks,4,Mark Faucette,Brian Murray,Florida Panthers,Vancouver Canucks
+1996020889,Los Angeles Kings,2,St. Louis Blues,4,Rob Shick,Shane Heyer,St. Louis Blues,Los Angeles Kings
+1996020890,Ottawa Senators,3,New York Rangers,4,Don Massenhoven,Gerard Gauthier,New York Rangers,Ottawa Senators
+1996020891,Dallas Stars,4,Chicago Blackhawks,4,Trottier,Wayne Bonney,Dallas Stars,Chicago Blackhawks
+1996020892,Colorado Avalanche,6,Pittsburgh Penguins,3,Bill McCreary,Kevin Collins,Colorado Avalanche,Pittsburgh Penguins
+1996020893,San Jose Sharks,1,Phoenix Coyotes,4,Shick,Mike Cvik,Phoenix Coyotes,San Jose Sharks
+1996020894,Anaheim Ducks,4,St. Louis Blues,4,Stephen Walkom,Brad Lazarowich,Anaheim Ducks,St. Louis Blues
+1996020895,Boston Bruins,5,New York Islanders,2,Don Koharski,Andy McElman,Boston Bruins,New York Islanders
+1996020896,Hartford Whalers,2,Edmonton Oilers,4,Mark Faucette,Jean Morin,Edmonton Oilers,Hartford Whalers
+1996020897,Montréal Canadiens,2,Ottawa Senators,2,Devorski,Gauthier,Montréal Canadiens,Ottawa Senators
+1996020898,New Jersey Devils,3,Washington Capitals,2,Mick McGeough,Scott Driscoll,New Jersey Devils,Washington Capitals
+1996020899,Philadelphia Flyers,5,Buffalo Sabres,7,Dan Marouelli,Pierre Champoux,Buffalo Sabres,Philadelphia Flyers
+1996020900,Tampa Bay Lightning,2,Vancouver Canucks,5,Dave Jackson,Gordon Broseker,Vancouver Canucks,Tampa Bay Lightning
+1996020901,Florida Panthers,3,Toronto Maple Leafs,3,Kerry Fraser,Brian Murphy,Florida Panthers,Toronto Maple Leafs
+1996020902,San Jose Sharks,4,Detroit Red Wings,7,Roberts,Mike Cvik,Detroit Red Wings,San Jose Sharks
+1996020903,Los Angeles Kings,2,Calgary Flames,5,Stephen Walkom,Brad Lazarowich,Calgary Flames,Los Angeles Kings
+1996020904,Buffalo Sabres,3,Philadelphia Flyers,2,Don Koharski,Ron Asselstine,Buffalo Sabres,Philadelphia Flyers
+1996020905,Washington Capitals,5,Hartford Whalers,3,Dan Marouelli,Pierre Champoux,Washington Capitals,Hartford Whalers
+1996020906,Tampa Bay Lightning,1,Toronto Maple Leafs,3,Kerry Fraser,Gordon Broseker,Toronto Maple Leafs,Tampa Bay Lightning
+1996020907,Chicago Blackhawks,5,New York Islanders,4,Don Van Massenhoven,Swede Knox,Chicago Blackhawks,New York Islanders
+1996020908,Dallas Stars,6,Pittsburgh Penguins,2,Stewart,Wayne Bonney,Dallas Stars,Pittsburgh Penguins
+1996020909,Colorado Avalanche,4,Detroit Red Wings,2,Bill McCreary,Kevin Collins,Colorado Avalanche,Detroit Red Wings
+1996020910,Anaheim Ducks,2,Calgary Flames,2,Lance Roberts,Shane Heyer,Anaheim Ducks,Calgary Flames
+1996020911,New York Rangers,3,Ottawa Senators,4,Mark Faucette,Mark Pare,Ottawa Senators,New York Rangers
+1996020912,New Jersey Devils,1,Florida Panthers,4,Dan Marouelli,Jean Morin,Florida Panthers,New Jersey Devils
+1996020913,Phoenix Coyotes,3,St. Louis Blues,2,Paul Stewart,Jay Sharrers,Phoenix Coyotes,St. Louis Blues
+1996020914,Pittsburgh Penguins,5,Buffalo Sabres,3,Kerry Fraser,Swede Knox,Pittsburgh Penguins,Buffalo Sabres
+1996020915,Colorado Avalanche,4,Vancouver Canucks,2,Don Van Massenhoven,Wayne Bonney,Colorado Avalanche,Vancouver Canucks
+1996020916,New York Islanders,7,Florida Panthers,4,Dave Jackson,Greg Devorski,New York Islanders,Florida Panthers
+1996020917,New York Rangers,4,Montréal Canadiens,5,Rob Shick,Brian Murphy,Montréal Canadiens,New York Rangers
+1996020918,Washington Capitals,2,New Jersey Devils,2,Mark Faucette,Gordon Broseker,Washington Capitals,New Jersey Devils
+1996020919,Toronto Maple Leafs,3,Philadelphia Flyers,6,Devorski,Hodges,Philadelphia Flyers,Toronto Maple Leafs
+1996020920,Detroit Red Wings,4,Boston Bruins,1,Trottier,Knox,Detroit Red Wings,Boston Bruins
+1996020921,Dallas Stars,7,Phoenix Coyotes,2,Van Massenhoven,Mike Cvik,Dallas Stars,Phoenix Coyotes
+1996020922,Calgary Flames,4,San Jose Sharks,2,Terry Gregson,Leon Stickle,Calgary Flames,San Jose Sharks
+1996020923,Edmonton Oilers,3,Tampa Bay Lightning,1,Bill McCreary,Ron Asselstine,Edmonton Oilers,Tampa Bay Lightning
+1996020924,Anaheim Ducks,6,Los Angeles Kings,2,Paul Stewart,Wayne Bonney,Anaheim Ducks,Los Angeles Kings
+1996020925,Pittsburgh Penguins,6,Toronto Maple Leafs,3,Mark Faucette,Greg Devorski,Pittsburgh Penguins,Toronto Maple Leafs
+1996020926,Ottawa Senators,2,Florida Panthers,2,Paul Devorski,Pierre Champoux,Ottawa Senators,Florida Panthers
+1996020927,Chicago Blackhawks,2,Phoenix Coyotes,4,Lance Roberts,Andy McElman,Phoenix Coyotes,Chicago Blackhawks
+1996020928,St. Louis Blues,4,Hartford Whalers,1,Don Koharski,Swede Knox,St. Louis Blues,Hartford Whalers
+1996020929,Vancouver Canucks,1,San Jose Sharks,2,Terry Gregson,Baron Parker,San Jose Sharks,Vancouver Canucks
+1996020930,New York Rangers,3,Detroit Red Wings,1,Mick McGeough,Kevin Collins,New York Rangers,Detroit Red Wings
+1996020931,Washington Capitals,1,Buffalo Sabres,4,Dave Jackson,Gordon Broseker,Buffalo Sabres,Washington Capitals
+1996020932,Dallas Stars,2,Hartford Whalers,0,Roberts,Mike Cvik,Dallas Stars,Hartford Whalers
+1996020933,Colorado Avalanche,4,Anaheim Ducks,3,Stewart,Henderson,Colorado Avalanche,Anaheim Ducks
+1996020934,Calgary Flames,3,Tampa Bay Lightning,4,Bill McCreary,Ron Asselstine,Tampa Bay Lightning,Calgary Flames
+1996020935,Boston Bruins,4,Ottawa Senators,5,Rob Shick,Dan McCourt,Ottawa Senators,Boston Bruins
+1996020936,Pittsburgh Penguins,2,New Jersey Devils,3,Paul Devorski,Greg Devorski,New Jersey Devils,Pittsburgh Penguins
+1996020937,Montréal Canadiens,1,Washington Capitals,3,Van Massenhove,Champoux,Washington Capitals,Montréal Canadiens
+1996020938,New York Islanders,3,Philadelphia Flyers,3,Mick McGeough,Kevin Collins,New York Islanders,Philadelphia Flyers
+1996020939,Florida Panthers,3,Buffalo Sabres,2,Mark Faucette,Bob Hodges,Florida Panthers,Buffalo Sabres
+1996020940,Toronto Maple Leafs,0,Phoenix Coyotes,3,Trottier,Nowak,Phoenix Coyotes,Toronto Maple Leafs
+1996020941,Vancouver Canucks,3,Tampa Bay Lightning,2,Kerry Fraser,Ron Asselstine,Vancouver Canucks,Tampa Bay Lightning
+1996020942,Los Angeles Kings,2,San Jose Sharks,1,Stephen Walkom,Brad Lazarowich,Los Angeles Kings,San Jose Sharks
+1996020943,Philadelphia Flyers,2,Colorado Avalanche,0,Dave Jackson,Gordon Broseker,Philadelphia Flyers,Colorado Avalanche
+1996020944,Chicago Blackhawks,5,Detroit Red Wings,3,Dan Marouelli,Mike Cvik,Chicago Blackhawks,Detroit Red Wings
+1996020945,St. Louis Blues,1,Dallas Stars,4,Lance Roberts,Andy McElman,Dallas Stars,St. Louis Blues
+1996020946,Edmonton Oilers,1,Anaheim Ducks,4,Terry Gregson,Leon Stickle,Anaheim Ducks,Edmonton Oilers
+1996020947,Montréal Canadiens,3,Boston Bruins,1,Shick,Gauthier,Montréal Canadiens,Boston Bruins
+1996020948,New York Rangers,3,Pittsburgh Penguins,0,Bill McCreary,Dan McCourt,New York Rangers,Pittsburgh Penguins
+1996020949,Vancouver Canucks,2,Los Angeles Kings,2,Terry Gregson,Ron Asselstine,Vancouver Canucks,Los Angeles Kings
+1996020950,San Jose Sharks,1,Edmonton Oilers,5,Fraser,Lazarowich,Edmonton Oilers,San Jose Sharks
+1996020951,Hartford Whalers,0,Colorado Avalanche,4,Stephen Walkhom,Tim Nowak,Colorado Avalanche,Hartford Whalers
+1996020952,New Jersey Devils,3,Philadelphia Flyers,4,Richard Trottier,Dan McCourt,Philadelphia Flyers,New Jersey Devils
+1996020953,Washington Capitals,3,St. Louis Blues,2,Paul Stewart,Brian Murphy,Washington Capitals,St. Louis Blues
+1996020954,Tampa Bay Lightning,5,Ottawa Senators,0,Don Van Massenhoven,Bob Hodges,Tampa Bay Lightning,Ottawa Senators
+1996020955,Calgary Flames,3,Anaheim Ducks,2,Mick McGeough,Leon Stickle,Calgary Flames,Anaheim Ducks
+1996020956,Buffalo Sabres,2,New York Islanders,3,Richard Trottier,Greg Devorski,New York Islanders,Buffalo Sabres
+1996020957,Montréal Canadiens,8,Pittsburgh Penguins,5,Jackson,Gauthier,Montréal Canadiens,Pittsburgh Penguins
+1996020958,Detroit Red Wings,6,Colorado Avalanche,5,Paul Devorski,Ray Scapinello,Detroit Red Wings,Colorado Avalanche
+1996020959,Chicago Blackhawks,5,Washington Capitals,3,Don Koharski,Scott Driscoll,Chicago Blackhawks,Washington Capitals
+1996020960,Vancouver Canucks,5,Anaheim Ducks,3,Faucette,Cameron,Vancouver Canucks,Anaheim Ducks
+1996020961,San Jose Sharks,1,Toronto Maple Leafs,2,Dennis Larue,Brad Lazarowich,Toronto Maple Leafs,San Jose Sharks
+1996020962,Boston Bruins,3,New York Islanders,6,Paul Stewart,Kevin Collins,New York Islanders,Boston Bruins
+1996020963,New Jersey Devils,4,New York Rangers,0,Stephen Walkom,Dan McCourt,New Jersey Devils,New York Rangers
+1996020964,Tampa Bay Lightning,2,Hartford Whalers,5,Marouelli,Hodges,Hartford Whalers,Tampa Bay Lightning
+1996020965,Florida Panthers,2,Ottawa Senators,3,Don Van Massenhoven,Gordon Broseker,Ottawa Senators,Florida Panthers
+1996020966,St. Louis Blues,2,Los Angeles Kings,1,Rob Shick,Andy McElman,St. Louis Blues,Los Angeles Kings
+1996020967,Phoenix Coyotes,1,Toronto Maple Leafs,1,Kerry Fraser,Jay Sharrers,Phoenix Coyotes,Toronto Maple Leafs
+1996020968,Detroit Red Wings,2,Buffalo Sabres,1,Gregson,Pare,Detroit Red Wings,Buffalo Sabres
+1996020969,Chicago Blackhawks,3,Anaheim Ducks,4,Richard Trottier,Scott Driscoll,Anaheim Ducks,Chicago Blackhawks
+1996020970,San Jose Sharks,4,Edmonton Oilers,3,Faucette,Heyer,San Jose Sharks,Edmonton Oilers
+1996020971,Hartford Whalers,2,New York Rangers,1,Don Van Massenhoven,Tim Nowak,Hartford Whalers,New York Rangers
+1996020972,Pittsburgh Penguins,4,Los Angeles Kings,1,Stephen Walkom,Ron Asselstine,Pittsburgh Penguins,Los Angeles Kings
+1996020973,Ottawa Senators,5,Montréal Canadiens,2,Lance Roberts,Gerry Gauthier,Ottawa Senators,Montréal Canadiens
+1996020974,New York Islanders,8,Boston Bruins,2,Dave Jackson,Brian Murphy,New York Islanders,Boston Bruins
+1996020975,Washington Capitals,3,Philadelphia Flyers,5,Bill McCreary,Pierre Champoux,Philadelphia Flyers,Washington Capitals
+1996020976,Florida Panthers,1,Tampa Bay Lightning,1,Dan Marouelli,Gordon Broseker,Florida Panthers,Tampa Bay Lightning
+1996020977,Colorado Avalanche,2,Toronto Maple Leafs,3,Mick McGeough,Wayne Bonney,Toronto Maple Leafs,Colorado Avalanche
+1996020978,Phoenix Coyotes,1,Edmonton Oilers,3,Paul Devorski,Swede Knox,Edmonton Oilers,Phoenix Coyotes
+1996020979,Calgary Flames,2,Vancouver Canucks,5,Don Koharski,Mike Cvik,Vancouver Canucks,Calgary Flames
+1996020980,New Jersey Devils,5,Los Angeles Kings,2,Fraser,Murphy,New Jersey Devils,Los Angeles Kings
+1996020981,Detroit Red Wings,0,Anaheim Ducks,1,Trottier,Pare,Anaheim Ducks,Detroit Red Wings
+1996020982,Chicago Blackhawks,3,Buffalo Sabres,2,Paul Stewart,Scott Driscoll,Chicago Blackhawks,Buffalo Sabres
+1996020983,St. Louis Blues,3,Philadelphia Flyers,2,Dan Marouelli,Ron Asselstine,St. Louis Blues,Philadelphia Flyers
+1996020984,Vancouver Canucks,2,Dallas Stars,3,Faucette,Cameron,Dallas Stars,Vancouver Canucks
+1996020985,Pittsburgh Penguins,4,Florida Panthers,3,Dave Jackson,Pierre Champoux,Pittsburgh Penguins,Florida Panthers
+1996020986,Edmonton Oilers,1,Dallas Stars,3,Don Koharski,Randy Mitton,Dallas Stars,Edmonton Oilers
+1996020987,New York Rangers,1,Buffalo Sabres,1,Kerry Fraser,Gordon Broseker,New York Rangers,Buffalo Sabres
+1996020988,Philadelphia Flyers,1,Tampa Bay Lightning,1,Mick Mcgeuogh,Pierre Champoux,Philadelphia Flyers,Tampa Bay Lightning
+1996020989,Washington Capitals,0,New Jersey Devils,1,Terry Gregson,Bob Hodges,New Jersey Devils,Washington Capitals
+1996020990,Detroit Red Wings,1,St. Louis Blues,1,Stewart,Gauthier,Detroit Red Wings,St. Louis Blues
+1996020991,Phoenix Coyotes,7,San Jose Sharks,1,Paul Devorski,Swede Knox,Phoenix Coyotes,San Jose Sharks
+1996020992,Anaheim Ducks,3,Chicago Blackhawks,3,Mark Faucette,Wayne Bonney,Anaheim Ducks,Chicago Blackhawks
+1996020993,Hartford Whalers,1,Montréal Canadiens,4,Mick McGeough,Greg Devorski,Montréal Canadiens,Hartford Whalers
+1996020994,Buffalo Sabres,0,Ottawa Senators,2,Dave Jackson,Scott Driscoll,Ottawa Senators,Buffalo Sabres
+1996020995,Toronto Maple Leafs,3,Florida Panthers,1,Roberts,Ron Asselstine,Toronto Maple Leafs,Florida Panthers
+1996020996,Dallas Stars,5,New York Islanders,4,Devorski,McElman,Dallas Stars,New York Islanders
+1996020997,Calgary Flames,1,Colorado Avalanche,5,Bill McCreary,Lonnie Cameron,Colorado Avalanche,Calgary Flames
+1996020998,San Jose Sharks,5,Anaheim Ducks,5,Koharski,Schachte,San Jose Sharks,Anaheim Ducks
+1996020999,Pittsburgh Penguins,5,Hartford Whalers,5,Paul Stewart,Gerard Gauthier,Pittsburgh Penguins,Hartford Whalers
+1996021000,Ottawa Senators,4,Washington Capitals,0,Stephen Walkom,Stephane Provost,Ottawa Senators,Washington Capitals
+1996021001,New York Rangers,5,Boston Bruins,4,Terry Gregson,Gordon Broseker,New York Rangers,Boston Bruins
+1996021002,Detroit Red Wings,2,Toronto Maple Leafs,2,Roberts,McCourt,Detroit Red Wings,Toronto Maple Leafs
+1996021003,St. Louis Blues,5,New York Islanders,5,Mark Faucette,Andy McElman,St. Louis Blues,New York Islanders
+1996021004,Edmonton Oilers,4,Chicago Blackhawks,2,Bill McCreary,Lonnie Cameron,Edmonton Oilers,Chicago Blackhawks
+1996021005,Los Angeles Kings,4,Phoenix Coyotes,5,Don Koharski,Wayne Bonney,Phoenix Coyotes,Los Angeles Kings
+1996021006,Buffalo Sabres,5,New York Rangers,1,Mick McGeough,Ron Asselstine,Buffalo Sabres,New York Rangers
+1996021007,New Jersey Devils,3,Tampa Bay Lightning,0,Richard Trottier,Gordon Broseker,New Jersey Devils,Tampa Bay Lightning
+1996021008,Vancouver Canucks,3,Calgary Flames,3,Bill McCreary,Randy Mitton,Vancouver Canucks,Calgary Flames
+1996021009,San Jose Sharks,7,Colorado Avalanche,6,Devorski,Mike Cvik,San Jose Sharks,Colorado Avalanche
+1996021010,Anaheim Ducks,3,Dallas Stars,2,Don Koharski,Wayne Bonney,Anaheim Ducks,Dallas Stars
+1996021011,Boston Bruins,4,Florida Panthers,2,Stephen Walkom,Greg Devorski,Boston Bruins,Florida Panthers
+1996021012,Pittsburgh Penguins,5,Ottawa Senators,2,Rob Schick,Bob Hodges,Pittsburgh Penguins,Ottawa Senators
+1996021013,Montréal Canadiens,1,Hartford Whalers,4,Gregson,Morin,Hartford Whalers,Montréal Canadiens
+1996021014,New York Islanders,2,Tampa Bay Lightning,3,Don Van Massenhoven,Gordon Broseker,Tampa Bay Lightning,New York Islanders
+1996021015,Toronto Maple Leafs,2,Detroit Red Wings,4,McGeough,Pare,Detroit Red Wings,Toronto Maple Leafs
+1996021016,Edmonton Oilers,2,Vancouver Canucks,2,Marouelli,Knox,Edmonton Oilers,Vancouver Canucks
+1996021017,Los Angeles Kings,3,Dallas Stars,3,Paul Devorski,Shane Heyer,Los Angeles Kings,Dallas Stars
+1996021018,Philadelphia Flyers,2,Ottawa Senators,1,Paul Stewart,Dan McCourt,Philadelphia Flyers,Ottawa Senators
+1996021019,Washington Capitals,3,Florida Panthers,3,Kerry Fraser,Scott Driscoll,Washington Capitals,Florida Panthers
+1996021020,St. Louis Blues,0,New Jersey Devils,2,Lance Roberts,Andy McElman,New Jersey Devils,St. Louis Blues
+1996021021,Colorado Avalanche,2,Phoenix Coyotes,1,Richard Trottier,Mike Cvik,Colorado Avalanche,Phoenix Coyotes
+1996021022,Calgary Flames,1,Chicago Blackhawks,2,Bill McCreary,Lonnie Cameron,Chicago Blackhawks,Calgary Flames
+1996021023,Hartford Whalers,4,Buffalo Sabres,2,Rob Shick,Kevin Collins,Hartford Whalers,Buffalo Sabres
+1996021024,Montréal Canadiens,2,New York Islanders,1,Stephen Walkom,Jean Morin,Montréal Canadiens,New York Islanders
+1996021025,New York Rangers,3,Philadelphia Flyers,2,Don Koharski,Scott Driscoll,New York Rangers,Philadelphia Flyers
+1996021026,Phoenix Coyotes,2,Dallas Stars,2,Dave Jackson,Jay Sharrers,Phoenix Coyotes,Dallas Stars
+1996021027,San Jose Sharks,2,Vancouver Canucks,3,Trottier,Mitton,Vancouver Canucks,San Jose Sharks
+1996021028,Pittsburgh Penguins,3,Boston Bruins,1,Paul Stewart,Dan McCourt,Pittsburgh Penguins,Boston Bruins
+1996021029,Tampa Bay Lightning,2,New Jersey Devils,2,Lance Roberts,Gordon Broseker,Tampa Bay Lightning,New Jersey Devils
+1996021030,Calgary Flames,2,Detroit Red Wings,3,Dan Marouelli,Swede Knox,Detroit Red Wings,Calgary Flames
+1996021031,Ottawa Senators,5,Hartford Whalers,4,Don Koharski,Ron Asselstine,Ottawa Senators,Hartford Whalers
+1996021032,New York Islanders,1,Montréal Canadiens,3,Terry Gregson,Scott Driscoll,Montréal Canadiens,New York Islanders
+1996021033,Florida Panthers,4,New Jersey Devils,2,Rob Shick,Kevin Collins,Florida Panthers,New Jersey Devils
+1996021034,Chicago Blackhawks,0,St. Louis Blues,1,Stephen Walkom,Wayne Bonney,St. Louis Blues,Chicago Blackhawks
+1996021035,Dallas Stars,3,Toronto Maple Leafs,2,McGeough,McElman,Dallas Stars,Toronto Maple Leafs
+1996021036,Colorado Avalanche,1,San Jose Sharks,4,Don Van Massenhoven,Shane Heyer,San Jose Sharks,Colorado Avalanche
+1996021037,Edmonton Oilers,3,Detroit Red Wings,3,Kerry Fraser,Swede Knox,Edmonton Oilers,Detroit Red Wings
+1996021038,Vancouver Canucks,6,Phoenix Coyotes,4,Dan Marouelli,Lonnie Cameron,Vancouver Canucks,Phoenix Coyotes
+1996021039,Anaheim Ducks,4,Los Angeles Kings,1,Richard Trottier,Randy Mitton,Anaheim Ducks,Los Angeles Kings
+1996021040,Boston Bruins,1,Buffalo Sabres,5,Paul Stewart,Pierre Champoux,Buffalo Sabres,Boston Bruins
+1996021041,Philadelphia Flyers,3,New York Rangers,6,Bill McCreary,Jean Morin,New York Rangers,Philadelphia Flyers
+1996021042,Washington Capitals,3,Montréal Canadiens,2,Don Koharski,Dan McCourt,Washington Capitals,Montréal Canadiens
+1996021043,Tampa Bay Lightning,4,Pittsburgh Penguins,3,Paul Devorski,Gordon Broseker,Tampa Bay Lightning,Pittsburgh Penguins
+1996021044,St. Louis Blues,5,Toronto Maple Leafs,1,Dave Jackson,Wayne Bonney,St. Louis Blues,Toronto Maple Leafs
+1996021045,New York Islanders,6,Hartford Whalers,4,Don Koharski,Pierre Champoux,New York Islanders,Hartford Whalers
+1996021046,New York Rangers,2,Tampa Bay Lightning,4,Bill McCreary,Dan McCourt,Tampa Bay Lightning,New York Rangers
+1996021047,New Jersey Devils,2,Boston Bruins,0,Mick McGeough,Mark Pare,New Jersey Devils,Boston Bruins
+1996021048,Florida Panthers,4,Pittsburgh Penguins,2,Paul Devorski,Kevin Collins,Florida Panthers,Pittsburgh Penguins
+1996021049,Detroit Red Wings,2,Ottawa Senators,3,Faucette,Scapinello,Ottawa Senators,Detroit Red Wings
+1996021050,Chicago Blackhawks,7,Calgary Flames,3,Terry Gregson,Wayne Bonney,Chicago Blackhawks,Calgary Flames
+1996021051,Dallas Stars,1,Colorado Avalanche,2,Shick,McElman,Colorado Avalanche,Dallas Stars
+1996021052,Edmonton Oilers,2,Phoenix Coyotes,6,Dan Marouelli,Mike Cvik,Phoenix Coyotes,Edmonton Oilers
+1996021053,San Jose Sharks,3,Anaheim Ducks,4,Van Massenhoven,Heyer,Anaheim Ducks,San Jose Sharks
+1996021054,Ottawa Senators,1,Buffalo Sabres,0,Terry Gregson,Ray Scapinello,Ottawa Senators,Buffalo Sabres
+1996021055,Montréal Canadiens,3,Philadelphia Flyers,3,Faucette,Knox,Montréal Canadiens,Philadelphia Flyers
+1996021056,Washington Capitals,6,New York Islanders,2,Stephen Walkom,Gordon Broseker,Washington Capitals,New York Islanders
+1996021057,Toronto Maple Leafs,4,Calgary Flames,1,Trottier,Hodges,Toronto Maple Leafs,Calgary Flames
+1996021058,Vancouver Canucks,5,Edmonton Oilers,4,Fraser,Lazarowich,Vancouver Canucks,Edmonton Oilers
+1996021059,Los Angeles Kings,4,San Jose Sharks,1,Dennis Larue,Don Henderson,Los Angeles Kings,San Jose Sharks
+1996021060,Boston Bruins,7,Pittsburgh Penguins,3,Lance Roberts,Pierre Champoux,Boston Bruins,Pittsburgh Penguins
+1996021061,Hartford Whalers,2,Tampa Bay Lightning,1,Scott Zelkin,Kevin Collins,Hartford Whalers,Tampa Bay Lightning
+1996021062,Buffalo Sabres,3,Washington Capitals,8,Mick McGeough,Ron Asselstine,Washington Capitals,Buffalo Sabres
+1996021063,Philadelphia Flyers,5,New Jersey Devils,4,Dan O'Halloran,Pat Dapuzzo,Philadelphia Flyers,New Jersey Devils
+1996021064,Detroit Red Wings,1,St. Louis Blues,3,Stewart,Gauthier,St. Louis Blues,Detroit Red Wings
+1996021065,Dallas Stars,2,Chicago Blackhawks,5,Koharski,Schachte,Chicago Blackhawks,Dallas Stars
+1996021066,Colorado Avalanche,2,Los Angeles Kings,4,Don Van Massenhoven,Mark Wheler,Los Angeles Kings,Colorado Avalanche

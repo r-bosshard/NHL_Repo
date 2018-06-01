@@ -1,0 +1,1218 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2006020001,Carolina Hurricanes,2,Buffalo Sabres,2,Dan O'Rourke,Don Koharski,Carolina Hurricanes,Buffalo Sabres
+2006020002,Toronto Maple Leafs,1,Ottawa Senators,4,Dan O'Halloran,Eric Furlatt,Ottawa Senators,Toronto Maple Leafs
+2006020003,Colorado Avalanche,2,Dallas Stars,3,Michael McGeough,Ian Walsh,Dallas Stars,Colorado Avalanche
+2006020004,Ottawa Senators,0,Toronto Maple Leafs,6,Stephane Auger,Don VanMassenhoven,Toronto Maple Leafs,Ottawa Senators
+2006020005,New York Rangers,5,Washington Capitals,2,Dan O'Halloran,Eric Furlatt,New York Rangers,Washington Capitals
+2006020006,Atlanta Thrashers,2,Tampa Bay Lightning,2,Dave Jackson,Dan O'Rourke,Atlanta Thrashers,Tampa Bay Lightning
+2006020007,Pittsburgh Penguins,4,Philadelphia Flyers,0,Don Koharski,Greg Kimmerly,Pittsburgh Penguins,Philadelphia Flyers
+2006020008,Detroit Red Wings,1,Vancouver Canucks,3,Chris Rooney,Dennis LaRue,Vancouver Canucks,Detroit Red Wings
+2006020009,Nashville Predators,6,Chicago Blackhawks,8,Tim Peel,Dean Warren,Chicago Blackhawks,Nashville Predators
+2006020010,Minnesota Wild,3,Colorado Avalanche,2,Kelly Sutherland,Rob Shick,Minnesota Wild,Colorado Avalanche
+2006020011,Edmonton Oilers,3,Calgary Flames,1,Brad Watson,Tom Kowal,Edmonton Oilers,Calgary Flames
+2006020012,Phoenix Coyotes,6,New York Islanders,3,Mike Hasenfratz,Brad Meier,Phoenix Coyotes,New York Islanders
+2006020013,San Jose Sharks,5,St. Louis Blues,4,Mike Leggo,Rob Martell,San Jose Sharks,St. Louis Blues
+2006020014,Carolina Hurricanes,0,New Jersey Devils,4,Dave Jackson,Gord Dwyer,New Jersey Devils,Carolina Hurricanes
+2006020015,Columbus Blue Jackets,2,Vancouver Canucks,3,Wes McCauley,Tim Peel,Vancouver Canucks,Columbus Blue Jackets
+2006020016,Florida Panthers,8,Boston Bruins,3,Paul Devorski,Justin StPierre,Florida Panthers,Boston Bruins
+2006020017,Buffalo Sabres,4,Montréal Canadiens,4,Stephane Auger,Kevin Pollock,Buffalo Sabres,Montréal Canadiens
+2006020018,Anaheim Ducks,4,Los Angeles Kings,3,Michael McGeough,Ian Walsh,Anaheim Ducks,Los Angeles Kings
+2006020019,Toronto Maple Leafs,2,Montréal Canadiens,2,Greg Kimmerly,Kevin Pollock,Toronto Maple Leafs,Montréal Canadiens
+2006020020,Ottawa Senators,3,Buffalo Sabres,4,Marc Joannette,Chris Lee,Buffalo Sabres,Ottawa Senators
+2006020021,Philadelphia Flyers,4,New York Rangers,4,Dan Marouelli,Craig Spada,Philadelphia Flyers,New York Rangers
+2006020022,Washington Capitals,5,Carolina Hurricanes,2,Wes McCauley,Bill McCreary,Washington Capitals,Carolina Hurricanes
+2006020023,Atlanta Thrashers,6,Florida Panthers,0,Don VanMassenhoven,Gord Dwyer,Atlanta Thrashers,Florida Panthers
+2006020024,Pittsburgh Penguins,0,Detroit Red Wings,2,Dan O'Halloran,Eric Furlatt,Detroit Red Wings,Pittsburgh Penguins
+2006020025,Tampa Bay Lightning,2,Boston Bruins,3,Paul Devorski,Justin StPierre,Boston Bruins,Tampa Bay Lightning
+2006020026,Minnesota Wild,6,Nashville Predators,5,Mike Leggo,Dean Warren,Minnesota Wild,Nashville Predators
+2006020027,Dallas Stars,3,New Jersey Devils,1,Dan O'Rourke,Don Koharski,Dallas Stars,New Jersey Devils
+2006020028,Chicago Blackhawks,4,Columbus Blue Jackets,5,Chris Rooney,Dennis LaRue,Columbus Blue Jackets,Chicago Blackhawks
+2006020029,Calgary Flames,2,Edmonton Oilers,1,Kelly Sutherland,Rob Shick,Calgary Flames,Edmonton Oilers
+2006020030,Phoenix Coyotes,1,Anaheim Ducks,2,Michael McGeough,Ian Walsh,Anaheim Ducks,Phoenix Coyotes
+2006020031,Los Angeles Kings,4,St. Louis Blues,1,Mike Hasenfratz,Brad Meier,Los Angeles Kings,St. Louis Blues
+2006020032,San Jose Sharks,2,New York Islanders,0,Brad Watson,Tom Kowal,San Jose Sharks,New York Islanders
+2006020033,Colorado Avalanche,3,Vancouver Canucks,2,Tim Peel,Dean Warren,Colorado Avalanche,Vancouver Canucks
+2006020034,Anaheim Ducks,2,St. Louis Blues,0,Brad Watson,Tom Kowal,Anaheim Ducks,St. Louis Blues
+2006020035,Columbus Blue Jackets,5,Phoenix Coyotes,1,Marc Joannette,Chris Lee,Columbus Blue Jackets,Phoenix Coyotes
+2006020036,Toronto Maple Leafs,1,Florida Panthers,1,Wes McCauley,Bill McCreary,Toronto Maple Leafs,Florida Panthers
+2006020037,Tampa Bay Lightning,0,Atlanta Thrashers,1,Dan Marouelli,Craig Spada,Atlanta Thrashers,Tampa Bay Lightning
+2006020038,Calgary Flames,1,San Jose Sharks,4,Chris Rooney,Dennis LaRue,San Jose Sharks,Calgary Flames
+2006020039,New York Rangers,2,Philadelphia Flyers,4,Marc Joannette,Chris Lee,Philadelphia Flyers,New York Rangers
+2006020040,Minnesota Wild,1,Vancouver Canucks,1,Dean Warren,Justin StPierre,Minnesota Wild,Vancouver Canucks
+2006020041,Los Angeles Kings,4,New York Islanders,2,Brad Watson,Tom Kowal,Los Angeles Kings,New York Islanders
+2006020042,Philadelphia Flyers,1,Montréal Canadiens,3,Paul Devorski,Ian Walsh,Montréal Canadiens,Philadelphia Flyers
+2006020043,Atlanta Thrashers,4,Boston Bruins,1,Don Koharski,Mike Hasenfratz,Atlanta Thrashers,Boston Bruins
+2006020044,Florida Panthers,6,Carolina Hurricanes,3,Dan Marouelli,Craig Spada,Florida Panthers,Carolina Hurricanes
+2006020045,Detroit Red Wings,9,Phoenix Coyotes,2,Don VanMassenhoven,Dean Morton,Detroit Red Wings,Phoenix Coyotes
+2006020046,Anaheim Ducks,4,New York Islanders,4,Greg Kimmerly,Kevin Pollock,Anaheim Ducks,New York Islanders
+2006020047,New York Rangers,5,Pittsburgh Penguins,6,Chris Rooney,Brian Pochmara,Pittsburgh Penguins,New York Rangers
+2006020048,Ottawa Senators,0,Calgary Flames,1,Bill McCreary,Stephane Auger,Calgary Flames,Ottawa Senators
+2006020049,New Jersey Devils,6,Toronto Maple Leafs,6,Paul Devorski,Justin StPierre,New Jersey Devils,Toronto Maple Leafs
+2006020050,St. Louis Blues,2,Boston Bruins,2,Dean Warren,Gord Dwyer,St. Louis Blues,Boston Bruins
+2006020051,Minnesota Wild,2,Washington Capitals,2,Dan O'Rourke,Eric Furlatt,Minnesota Wild,Washington Capitals
+2006020052,Chicago Blackhawks,3,Nashville Predators,1,Don VanMassenhoven,Dean Morton,Chicago Blackhawks,Nashville Predators
+2006020053,Edmonton Oilers,6,San Jose Sharks,4,Michael McGeough,Brad Meier,Edmonton Oilers,San Jose Sharks
+2006020054,Los Angeles Kings,1,Dallas Stars,4,Greg Kimmerly,Kevin Pollock,Dallas Stars,Los Angeles Kings
+2006020055,Atlanta Thrashers,3,Carolina Hurricanes,4,Wes McCauley,Dan O'Halloran,Carolina Hurricanes,Atlanta Thrashers
+2006020056,Florida Panthers,3,Tampa Bay Lightning,2,Don Koharski,Mike Hasenfratz,Florida Panthers,Tampa Bay Lightning
+2006020057,Detroit Red Wings,2,Buffalo Sabres,2,Mike Leggo,Dave Jackson,Detroit Red Wings,Buffalo Sabres
+2006020058,Vancouver Canucks,4,San Jose Sharks,6,Kelly Sutherland,Rob Shick,San Jose Sharks,Vancouver Canucks
+2006020059,Buffalo Sabres,7,New York Rangers,4,Craig Spada,Dean Warren,Buffalo Sabres,New York Rangers
+2006020060,Toronto Maple Leafs,5,Calgary Flames,4,Tim Peel,Justin StPierre,Toronto Maple Leafs,Calgary Flames
+2006020061,Montréal Canadiens,2,Ottawa Senators,2,Dan Marouelli,Francois StLaurent,Montréal Canadiens,Ottawa Senators
+2006020063,Washington Capitals,3,Atlanta Thrashers,4,Paul Devorski,Ian Walsh,Atlanta Thrashers,Washington Capitals
+2006020064,New Jersey Devils,3,Philadelphia Flyers,2,Chris Rooney,Marc Joannette,New Jersey Devils,Philadelphia Flyers
+2006020065,Pittsburgh Penguins,1,Carolina Hurricanes,5,Mike Leggo,Dave Jackson,Carolina Hurricanes,Pittsburgh Penguins
+2006020066,Tampa Bay Lightning,4,Florida Panthers,1,Don Koharski,Mike Hasenfratz,Tampa Bay Lightning,Florida Panthers
+2006020067,St. Louis Blues,4,Chicago Blackhawks,3,Dan O'Rourke,Eric Furlatt,St. Louis Blues,Chicago Blackhawks
+2006020068,Nashville Predators,4,Phoenix Coyotes,1,Wes McCauley,Dan O'Halloran,Nashville Predators,Phoenix Coyotes
+2006020069,Minnesota Wild,5,Columbus Blue Jackets,0,Don VanMassenhoven,Gord Dwyer,Minnesota Wild,Columbus Blue Jackets
+2006020070,Colorado Avalanche,3,Edmonton Oilers,4,Greg Kimmerly,Kevin Pollock,Edmonton Oilers,Colorado Avalanche
+2006020071,Los Angeles Kings,1,Dallas Stars,4,Dennis LaRue,Michael McGeough,Dallas Stars,Los Angeles Kings
+2006020072,Anaheim Ducks,3,Dallas Stars,3,Dennis LaRue,Rob Shick,Anaheim Ducks,Dallas Stars
+2006020073,New York Rangers,4,New Jersey Devils,2,Mike Leggo,Stephane Auger,New York Rangers,New Jersey Devils
+2006020074,Tampa Bay Lightning,1,Carolina Hurricanes,5,Wes McCauley,Dan O'Halloran,Carolina Hurricanes,Tampa Bay Lightning
+2006020075,New York Islanders,1,Nashville Predators,1,Tim Peel,Justin StPierre,New York Islanders,Nashville Predators
+2006020076,Colorado Avalanche,3,Chicago Blackhawks,5,Tom Kowal,Brad Meier,Chicago Blackhawks,Colorado Avalanche
+2006020077,Vancouver Canucks,2,Edmonton Oilers,1,Dan O'Rourke,Eric Furlatt,Vancouver Canucks,Edmonton Oilers
+2006020078,Los Angeles Kings,1,Detroit Red Wings,3,Kelly Sutherland,Rob Shick,Detroit Red Wings,Los Angeles Kings
+2006020079,Buffalo Sabres,9,Philadelphia Flyers,1,Don VanMassenhoven,Gord Dwyer,Buffalo Sabres,Philadelphia Flyers
+2006020080,Montréal Canadiens,5,Calgary Flames,4,Dave Jackson,Chris Lee,Montréal Canadiens,Calgary Flames
+2006020081,St. Louis Blues,2,Phoenix Coyotes,5,Dan Marouelli,Craig Spada,Phoenix Coyotes,St. Louis Blues
+2006020082,Edmonton Oilers,2,Vancouver Canucks,1,Dennis LaRue,Ian Walsh,Edmonton Oilers,Vancouver Canucks
+2006020083,San Jose Sharks,2,Dallas Stars,0,Chris Rooney,Kelly Sutherland,San Jose Sharks,Dallas Stars
+2006020084,New York Rangers,0,Nashville Predators,3,Dave Jackson,Chris Lee,Nashville Predators,New York Rangers
+2006020085,Washington Capitals,5,Florida Panthers,2,Mike Leggo,Stephane Auger,Washington Capitals,Florida Panthers
+2006020086,Toronto Maple Leafs,1,Colorado Avalanche,4,Paul Devorski,Mike Hasenfratz,Colorado Avalanche,Toronto Maple Leafs
+2006020087,Pittsburgh Penguins,1,New Jersey Devils,2,Don VanMassenhoven,Gord Dwyer,New Jersey Devils,Pittsburgh Penguins
+2006020088,Chicago Blackhawks,2,Montréal Canadiens,1,Craig Spada,Tom Kowal,Chicago Blackhawks,Montréal Canadiens
+2006020089,Anaheim Ducks,4,Detroit Red Wings,1,Dan O'Rourke,Brad Meier,Anaheim Ducks,Detroit Red Wings
+2006020090,Los Angeles Kings,1,Minnesota Wild,2,Chris Rooney,Brad Watson,Minnesota Wild,Los Angeles Kings
+2006020091,Boston Bruins,3,Calgary Flames,2,Wes McCauley,Stephane Auger,Boston Bruins,Calgary Flames
+2006020092,Atlanta Thrashers,3,Washington Capitals,3,Greg Kimmerly,Marc Joannette,Atlanta Thrashers,Washington Capitals
+2006020093,Ottawa Senators,1,Colorado Avalanche,2,Paul Devorski,Mike Hasenfratz,Colorado Avalanche,Ottawa Senators
+2006020094,New Jersey Devils,3,Nashville Predators,3,Don Koharski,Gord Dwyer,New Jersey Devils,Nashville Predators
+2006020095,New York Islanders,3,Pittsburgh Penguins,4,Kevin Pollock,Dean Warren,Pittsburgh Penguins,New York Islanders
+2006020096,Tampa Bay Lightning,4,Philadelphia Flyers,1,Bill McCreary,Tim Peel,Tampa Bay Lightning,Philadelphia Flyers
+2006020097,Phoenix Coyotes,0,Los Angeles Kings,4,Dennis LaRue,Ian Walsh,Los Angeles Kings,Phoenix Coyotes
+2006020098,San Jose Sharks,5,Detroit Red Wings,1,Dan O'Rourke,Brad Meier,San Jose Sharks,Detroit Red Wings
+2006020099,Columbus Blue Jackets,2,Toronto Maple Leafs,4,Chris Rooney,Michael McGeough,Toronto Maple Leafs,Columbus Blue Jackets
+2006020100,Florida Panthers,3,Philadelphia Flyers,2,Bill McCreary,Tim Peel,Florida Panthers,Philadelphia Flyers
+2006020101,Buffalo Sabres,5,Carolina Hurricanes,4,Dan Marouelli,Justin StPierre,Buffalo Sabres,Carolina Hurricanes
+2006020102,St. Louis Blues,2,Vancouver Canucks,3,Dave Jackson,Chris Lee,Vancouver Canucks,St. Louis Blues
+2006020103,Dallas Stars,5,Chicago Blackhawks,4,Brad Watson,Tom Kowal,Dallas Stars,Chicago Blackhawks
+2006020104,Anaheim Ducks,2,Minnesota Wild,1,Dennis LaRue,Brian Pochmara,Anaheim Ducks,Minnesota Wild
+2006020105,Boston Bruins,2,Buffalo Sabres,6,Dan O'Halloran,Tim Peel,Buffalo Sabres,Boston Bruins
+2006020106,Toronto Maple Leafs,4,New York Rangers,4,Don VanMassenhoven,Gord Dwyer,Toronto Maple Leafs,New York Rangers
+2006020107,Montréal Canadiens,8,Colorado Avalanche,5,Don Koharski,Justin StPierre,Montréal Canadiens,Colorado Avalanche
+2006020108,Ottawa Senators,8,New Jersey Devils,1,Dan Marouelli,Craig Spada,Ottawa Senators,New Jersey Devils
+2006020109,New York Islanders,4,Carolina Hurricanes,3,Paul Devorski,Eric Furlatt,New York Islanders,Carolina Hurricanes
+2006020110,Washington Capitals,4,Tampa Bay Lightning,6,Wes McCauley,Mike Hasenfratz,Tampa Bay Lightning,Washington Capitals
+2006020111,Atlanta Thrashers,4,Florida Panthers,2,Kevin Pollock,Dean Warren,Atlanta Thrashers,Florida Panthers
+2006020112,Pittsburgh Penguins,5,Columbus Blue Jackets,3,Greg Kimmerly,Marc Joannette,Pittsburgh Penguins,Columbus Blue Jackets
+2006020113,Nashville Predators,3,Vancouver Canucks,4,Chris Rooney,Michael McGeough,Vancouver Canucks,Nashville Predators
+2006020114,Chicago Blackhawks,3,St. Louis Blues,4,Dave Jackson,Chris Lee,St. Louis Blues,Chicago Blackhawks
+2006020115,Edmonton Oilers,3,Detroit Red Wings,1,Kelly Sutherland,Rob Shick,Edmonton Oilers,Detroit Red Wings
+2006020116,Phoenix Coyotes,0,Dallas Stars,4,Brad Meier,Brian Pochmara,Dallas Stars,Phoenix Coyotes
+2006020117,San Jose Sharks,1,Minnesota Wild,4,Dennis LaRue,Ian Walsh,Minnesota Wild,San Jose Sharks
+2006020118,Los Angeles Kings,2,Anaheim Ducks,2,Mike Leggo,Tom Kowal,Los Angeles Kings,Anaheim Ducks
+2006020119,Columbus Blue Jackets,0,San Jose Sharks,3,Stephane Auger,Kevin Pollock,San Jose Sharks,Columbus Blue Jackets
+2006020120,Montréal Canadiens,1,Buffalo Sabres,4,Don VanMassenhoven,Craig Spada,Buffalo Sabres,Montréal Canadiens
+2006020121,Florida Panthers,3,Atlanta Thrashers,6,Michael McGeough,Dean Warren,Atlanta Thrashers,Florida Panthers
+2006020122,Colorado Avalanche,6,Los Angeles Kings,1,Kelly Sutherland,Marc Joannette,Colorado Avalanche,Los Angeles Kings
+2006020123,Dallas Stars,2,Vancouver Canucks,1,Rob Shick,Brian Pochmara,Dallas Stars,Vancouver Canucks
+2006020124,Edmonton Oilers,5,Phoenix Coyotes,2,Chris Rooney,Brad Watson,Edmonton Oilers,Phoenix Coyotes
+2006020125,Pittsburgh Penguins,4,New Jersey Devils,2,Dan O'Halloran,Stephane Auger,Pittsburgh Penguins,New Jersey Devils
+2006020126,Toronto Maple Leafs,2,Ottawa Senators,6,Bill McCreary,Greg Kimmerly,Ottawa Senators,Toronto Maple Leafs
+2006020127,Calgary Flames,6,Phoenix Coyotes,1,Chris Rooney,Brad Meier,Calgary Flames,Phoenix Coyotes
+2006020128,New York Rangers,2,Florida Panthers,4,Dave Jackson,Ian Walsh,Florida Panthers,New York Rangers
+2006020130,Detroit Red Wings,2,San Jose Sharks,1,Dan Marouelli,Eric Furlatt,Detroit Red Wings,San Jose Sharks
+2006020131,Minnesota Wild,3,Los Angeles Kings,1,Wes McCauley,Don Koharski,Minnesota Wild,Los Angeles Kings
+2006020132,Chicago Blackhawks,0,Vancouver Canucks,5,Dan O'Rourke,Michael McGeough,Vancouver Canucks,Chicago Blackhawks
+2006020133,Colorado Avalanche,3,Washington Capitals,5,Rob Shick,Steve Kozari,Washington Capitals,Colorado Avalanche
+2006020134,Anaheim Ducks,6,Edmonton Oilers,2,Kelly Sutherland,Marc Joannette,Anaheim Ducks,Edmonton Oilers
+2006020135,Boston Bruins,2,Montréal Canadiens,3,Don VanMassenhoven,Ian Walsh,Montréal Canadiens,Boston Bruins
+2006020136,Philadelphia Flyers,2,Atlanta Thrashers,2,Dan O'Halloran,Stephane Auger,Philadelphia Flyers,Atlanta Thrashers
+2006020137,Ottawa Senators,7,Toronto Maple Leafs,2,Kevin Pollock,Justin StPierre,Ottawa Senators,Toronto Maple Leafs
+2006020138,New Jersey Devils,2,Florida Panthers,0,Dave Jackson,Tim Peel,New Jersey Devils,Florida Panthers
+2006020139,New York Islanders,0,Buffalo Sabres,3,Paul Devorski,Chris Lee,Buffalo Sabres,New York Islanders
+2006020140,Tampa Bay Lightning,5,Carolina Hurricanes,1,Craig Spada,Gord Dwyer,Tampa Bay Lightning,Carolina Hurricanes
+2006020141,Nashville Predators,4,San Jose Sharks,3,Dan O'Rourke,Mike Hasenfratz,Nashville Predators,San Jose Sharks
+2006020142,Phoenix Coyotes,6,Edmonton Oilers,2,Mike Leggo,Tom Kowal,Phoenix Coyotes,Edmonton Oilers
+2006020143,Columbus Blue Jackets,2,Los Angeles Kings,0,Bill McCreary,Greg Kimmerly,Columbus Blue Jackets,Los Angeles Kings
+2006020144,Minnesota Wild,2,Anaheim Ducks,2,Dan Marouelli,Eric Furlatt,Minnesota Wild,Anaheim Ducks
+2006020145,Dallas Stars,3,Detroit Red Wings,4,Kelly Sutherland,Marc Joannette,Detroit Red Wings,Dallas Stars
+2006020146,Vancouver Canucks,2,Washington Capitals,2,Brad Watson,Steve Kozari,Vancouver Canucks,Washington Capitals
+2006020147,Boston Bruins,2,Ottawa Senators,1,Dennis LaRue,Chris Lee,Boston Bruins,Ottawa Senators
+2006020148,Buffalo Sabres,4,Atlanta Thrashers,4,Tim Peel,Justin StPierre,Buffalo Sabres,Atlanta Thrashers
+2006020149,Montréal Canadiens,4,Toronto Maple Leafs,4,Dan O'Halloran,Dean Warren,Montréal Canadiens,Toronto Maple Leafs
+2006020151,Philadelphia Flyers,2,Pittsburgh Penguins,8,Ian Walsh,Gord Dwyer,Pittsburgh Penguins,Philadelphia Flyers
+2006020152,Carolina Hurricanes,6,Tampa Bay Lightning,4,Stephane Auger,Kevin Pollock,Carolina Hurricanes,Tampa Bay Lightning
+2006020153,New Jersey Devils,1,Columbus Blue Jackets,0,Paul Devorski,Francois StLaurent,New Jersey Devils,Columbus Blue Jackets
+2006020154,St. Louis Blues,2,Detroit Red Wings,3,Dan Marouelli,Eric Furlatt,Detroit Red Wings,St. Louis Blues
+2006020155,Edmonton Oilers,4,Washington Capitals,0,Mike Leggo,Brad Meier,Edmonton Oilers,Washington Capitals
+2006020156,Dallas Stars,3,Los Angeles Kings,2,Dan O'Rourke,Mike Hasenfratz,Dallas Stars,Los Angeles Kings
+2006020157,Chicago Blackhawks,0,Anaheim Ducks,3,Chris Rooney,Bill McCreary,Anaheim Ducks,Chicago Blackhawks
+2006020158,Calgary Flames,2,Nashville Predators,3,Brad Watson,Steve Kozari,Nashville Predators,Calgary Flames
+2006020159,Phoenix Coyotes,3,New York Rangers,7,Don Koharski,Tom Kowal,New York Rangers,Phoenix Coyotes
+2006020160,Tampa Bay Lightning,2,San Jose Sharks,4,Dave Jackson,Greg Kimmerly,San Jose Sharks,Tampa Bay Lightning
+2006020161,Colorado Avalanche,4,Minnesota Wild,1,Michael McGeough,Craig Spada,Colorado Avalanche,Minnesota Wild
+2006020162,Philadelphia Flyers,3,Chicago Blackhawks,0,Dennis LaRue,Francois StLaurent,Philadelphia Flyers,Chicago Blackhawks
+2006020163,Toronto Maple Leafs,4,Atlanta Thrashers,2,Chris Rooney,Marc Joannette,Toronto Maple Leafs,Atlanta Thrashers
+2006020164,St. Louis Blues,5,Anaheim Ducks,5,Tim Peel,Mike Hasenfratz,St. Louis Blues,Anaheim Ducks
+2006020165,Calgary Flames,2,Washington Capitals,4,Mike Leggo,Steve Kozari,Washington Capitals,Calgary Flames
+2006020166,Los Angeles Kings,4,New York Rangers,1,Dan O'Rourke,Tom Kowal,Los Angeles Kings,New York Rangers
+2006020167,New York Islanders,5,Chicago Blackhawks,2,Brad Meier,Gord Dwyer,New York Islanders,Chicago Blackhawks
+2006020168,Montréal Canadiens,4,Ottawa Senators,2,Chris Rooney,Marc Joannette,Montréal Canadiens,Ottawa Senators
+2006020169,Florida Panthers,1,San Jose Sharks,2,Dave Jackson,Greg Kimmerly,San Jose Sharks,Florida Panthers
+2006020170,Vancouver Canucks,2,Nashville Predators,3,Brad Watson,Steve Kozari,Nashville Predators,Vancouver Canucks
+2006020171,Atlanta Thrashers,2,Carolina Hurricanes,5,Bill McCreary,Ian Walsh,Carolina Hurricanes,Atlanta Thrashers
+2006020172,Columbus Blue Jackets,3,Colorado Avalanche,5,Dennis LaRue,Brian Pochmara,Colorado Avalanche,Columbus Blue Jackets
+2006020173,Tampa Bay Lightning,2,Toronto Maple Leafs,4,Dave Jackson,Greg Kimmerly,Toronto Maple Leafs,Tampa Bay Lightning
+2006020174,Detroit Red Wings,3,Calgary Flames,2,Dan O'Halloran,Mike Hasenfratz,Detroit Red Wings,Calgary Flames
+2006020175,Dallas Stars,4,St. Louis Blues,1,Michael McGeough,Craig Spada,Dallas Stars,St. Louis Blues
+2006020176,Edmonton Oilers,3,Nashville Predators,5,Tim Peel,Brad Watson,Nashville Predators,Edmonton Oilers
+2006020177,Anaheim Ducks,3,New York Rangers,4,Dan O'Rourke,Paul Devorski,New York Rangers,Anaheim Ducks
+2006020178,Los Angeles Kings,3,Pittsburgh Penguins,4,Wes McCauley,Dean Warren,Pittsburgh Penguins,Los Angeles Kings
+2006020179,Boston Bruins,4,Buffalo Sabres,4,Stephane Auger,Don VanMassenhoven,Boston Bruins,Buffalo Sabres
+2006020180,Philadelphia Flyers,2,Tampa Bay Lightning,5,Dan O'Halloran,Marc Joannette,Tampa Bay Lightning,Philadelphia Flyers
+2006020182,New Jersey Devils,2,New York Islanders,5,Brad Meier,Gord Dwyer,New York Islanders,New Jersey Devils
+2006020183,Florida Panthers,4,Toronto Maple Leafs,2,Bill McCreary,Ian Walsh,Florida Panthers,Toronto Maple Leafs
+2006020184,St. Louis Blues,4,Colorado Avalanche,1,Kevin Pollock,Justin StPierre,St. Louis Blues,Colorado Avalanche
+2006020185,Minnesota Wild,5,Vancouver Canucks,2,Kelly Sutherland,Tom Kowal,Minnesota Wild,Vancouver Canucks
+2006020186,Chicago Blackhawks,1,Detroit Red Wings,2,Dennis LaRue,Mike Hasenfratz,Detroit Red Wings,Chicago Blackhawks
+2006020187,San Jose Sharks,1,New York Rangers,3,Wes McCauley,Paul Devorski,New York Rangers,San Jose Sharks
+2006020188,Washington Capitals,3,Atlanta Thrashers,4,Chris Rooney,Don VanMassenhoven,Atlanta Thrashers,Washington Capitals
+2006020189,Columbus Blue Jackets,4,Calgary Flames,4,Dan Marouelli,Eric Furlatt,Columbus Blue Jackets,Calgary Flames
+2006020190,Edmonton Oilers,2,Dallas Stars,3,Michael McGeough,Tim Peel,Dallas Stars,Edmonton Oilers
+2006020191,Anaheim Ducks,6,Phoenix Coyotes,2,Wes McCauley,Dean Warren,Anaheim Ducks,Phoenix Coyotes
+2006020192,Boston Bruins,6,Tampa Bay Lightning,5,Chris Rooney,Mike Hasenfratz,Boston Bruins,Tampa Bay Lightning
+2006020193,Buffalo Sabres,1,Toronto Maple Leafs,4,Greg Kimmerly,Eric Furlatt,Toronto Maple Leafs,Buffalo Sabres
+2006020194,Montréal Canadiens,1,New Jersey Devils,2,Dave Jackson,Craig Spada,New Jersey Devils,Montréal Canadiens
+2006020195,Ottawa Senators,2,Carolina Hurricanes,3,Chris Lee,Dean Morton,Carolina Hurricanes,Ottawa Senators
+2006020196,New York Islanders,1,Atlanta Thrashers,4,Dan O'Halloran,Marc Joannette,Atlanta Thrashers,New York Islanders
+2006020197,Philadelphia Flyers,3,Washington Capitals,5,Dan Marouelli,Stephane Auger,Washington Capitals,Philadelphia Flyers
+2006020198,Detroit Red Wings,4,Columbus Blue Jackets,1,Brad Meier,Brian Pochmara,Detroit Red Wings,Columbus Blue Jackets
+2006020199,St. Louis Blues,2,Calgary Flames,3,Dennis LaRue,Gord Dwyer,Calgary Flames,St. Louis Blues
+2006020200,Minnesota Wild,3,Nashville Predators,4,Kevin Pollock,Justin StPierre,Nashville Predators,Minnesota Wild
+2006020201,Colorado Avalanche,3,Vancouver Canucks,2,Bill McCreary,Ian Walsh,Colorado Avalanche,Vancouver Canucks
+2006020202,Phoenix Coyotes,6,Los Angeles Kings,4,Paul Devorski,Dean Warren,Phoenix Coyotes,Los Angeles Kings
+2006020203,San Jose Sharks,3,Pittsburgh Penguins,2,Kelly Sutherland,Tom Kowal,San Jose Sharks,Pittsburgh Penguins
+2006020204,New York Rangers,3,Buffalo Sabres,4,Marc Joannette,Dean Morton,Buffalo Sabres,New York Rangers
+2006020205,Washington Capitals,4,Ottawa Senators,3,Don Koharski,Brian Pochmara,Washington Capitals,Ottawa Senators
+2006020206,Atlanta Thrashers,5,Boston Bruins,3,Dan O'Rourke,Brad Watson,Atlanta Thrashers,Boston Bruins
+2006020207,Toronto Maple Leafs,4,Philadelphia Flyers,1,Mike Leggo,Chris Lee,Toronto Maple Leafs,Philadelphia Flyers
+2006020208,New York Islanders,1,Tampa Bay Lightning,5,Stephane Auger,Dean Morton,Tampa Bay Lightning,New York Islanders
+2006020209,Vancouver Canucks,2,Dallas Stars,1,Kevin Pollock,Justin StPierre,Vancouver Canucks,Dallas Stars
+2006020210,Anaheim Ducks,3,Pittsburgh Penguins,2,Tom Kowal,Dean Warren,Anaheim Ducks,Pittsburgh Penguins
+2006020211,New Jersey Devils,2,Carolina Hurricanes,2,Mike Leggo,Don Koharski,New Jersey Devils,Carolina Hurricanes
+2006020212,Montréal Canadiens,2,Edmonton Oilers,2,Eric Furlatt,Chris Lee,Montréal Canadiens,Edmonton Oilers
+2006020213,Colorado Avalanche,5,Los Angeles Kings,6,Tim Peel,Brad Meier,Los Angeles Kings,Colorado Avalanche
+2006020214,Calgary Flames,3,Dallas Stars,1,Kevin Pollock,Justin StPierre,Calgary Flames,Dallas Stars
+2006020215,San Jose Sharks,3,Minnesota Wild,1,Michael McGeough,Dean Warren,San Jose Sharks,Minnesota Wild
+2006020216,Atlanta Thrashers,5,Ottawa Senators,4,Craig Spada,Gord Dwyer,Atlanta Thrashers,Ottawa Senators
+2006020217,Pittsburgh Penguins,3,Tampa Bay Lightning,4,Mike Leggo,Dean Morton,Tampa Bay Lightning,Pittsburgh Penguins
+2006020218,Florida Panthers,3,New York Rangers,3,Dan O'Rourke,Brad Watson,Florida Panthers,New York Rangers
+2006020219,Detroit Red Wings,3,Edmonton Oilers,0,Don VanMassenhoven,Brian Pochmara,Detroit Red Wings,Edmonton Oilers
+2006020220,Boston Bruins,4,Toronto Maple Leafs,6,Marc Joannette,Francois StLaurent,Toronto Maple Leafs,Boston Bruins
+2006020221,Philadelphia Flyers,1,New York Islanders,3,Dave Jackson,Kelly Sutherland,New York Islanders,Philadelphia Flyers
+2006020222,Carolina Hurricanes,5,Washington Capitals,0,Chris Rooney,Craig Spada,Carolina Hurricanes,Washington Capitals
+2006020223,New Jersey Devils,1,Chicago Blackhawks,1,Eric Furlatt,Chris Lee,New Jersey Devils,Chicago Blackhawks
+2006020224,St. Louis Blues,2,Columbus Blue Jackets,4,Paul Devorski,Greg Kimmerly,Columbus Blue Jackets,St. Louis Blues
+2006020225,Phoenix Coyotes,0,Dallas Stars,1,Tim Peel,Brad Meier,Dallas Stars,Phoenix Coyotes
+2006020226,Vancouver Canucks,0,Anaheim Ducks,6,Dennis LaRue,Tom Kowal,Anaheim Ducks,Vancouver Canucks
+2006020227,Los Angeles Kings,3,San Jose Sharks,7,Michael McGeough,Mike Hasenfratz,San Jose Sharks,Los Angeles Kings
+2006020228,Columbus Blue Jackets,1,Edmonton Oilers,4,Bill McCreary,Gord Dwyer,Edmonton Oilers,Columbus Blue Jackets
+2006020229,Pittsburgh Penguins,3,Ottawa Senators,6,Dave Jackson,Kelly Sutherland,Ottawa Senators,Pittsburgh Penguins
+2006020230,Atlanta Thrashers,2,New York Rangers,5,Dan Marouelli,Brad Watson,New York Rangers,Atlanta Thrashers
+2006020231,Detroit Red Wings,3,Nashville Predators,0,Paul Devorski,Greg Kimmerly,Detroit Red Wings,Nashville Predators
+2006020232,Buffalo Sabres,5,Florida Panthers,4,Mike Leggo,Chris Lee,Buffalo Sabres,Florida Panthers
+2006020233,Chicago Blackhawks,3,St. Louis Blues,1,Don VanMassenhoven,Ian Walsh,Chicago Blackhawks,St. Louis Blues
+2006020234,Calgary Flames,3,Anaheim Ducks,0,Wes McCauley,Dan O'Halloran,Calgary Flames,Anaheim Ducks
+2006020235,Boston Bruins,4,Ottawa Senators,3,Dan O'Rourke,Marc Joannette,Boston Bruins,Ottawa Senators
+2006020236,Toronto Maple Leafs,5,Montréal Canadiens,1,Ian Walsh,Dean Warren,Toronto Maple Leafs,Montréal Canadiens
+2006020237,Philadelphia Flyers,4,Buffalo Sabres,5,Kelly Sutherland,Kevin Pollock,Buffalo Sabres,Philadelphia Flyers
+2006020238,Washington Capitals,3,New York Rangers,1,Bill McCreary,Craig Spada,Washington Capitals,New York Rangers
+2006020239,Carolina Hurricanes,6,Pittsburgh Penguins,2,Brad Watson,Justin StPierre,Carolina Hurricanes,Pittsburgh Penguins
+2006020240,New Jersey Devils,4,Florida Panthers,2,Stephane Auger,Eric Furlatt,New Jersey Devils,Florida Panthers
+2006020241,Tampa Bay Lightning,5,Atlanta Thrashers,3,Chris Rooney,Dan Marouelli,Tampa Bay Lightning,Atlanta Thrashers
+2006020242,Nashville Predators,1,Colorado Avalanche,0,Gord Dwyer,Brian Pochmara,Nashville Predators,Colorado Avalanche
+2006020243,Phoenix Coyotes,1,San Jose Sharks,2,Dennis LaRue,Mike Hasenfratz,San Jose Sharks,Phoenix Coyotes
+2006020244,Vancouver Canucks,2,Calgary Flames,3,Wes McCauley,Dan O'Halloran,Calgary Flames,Vancouver Canucks
+2006020245,Los Angeles Kings,2,Minnesota Wild,2,Tim Peel,Brad Meier,Los Angeles Kings,Minnesota Wild
+2006020246,St. Louis Blues,5,Edmonton Oilers,3,Paul Devorski,Greg Kimmerly,St. Louis Blues,Edmonton Oilers
+2006020247,Chicago Blackhawks,1,Columbus Blue Jackets,0,Dave Jackson,Gord Dwyer,Chicago Blackhawks,Columbus Blue Jackets
+2006020248,Anaheim Ducks,3,Minnesota Wild,2,Tim Peel,Mike Hasenfratz,Anaheim Ducks,Minnesota Wild
+2006020249,Carolina Hurricanes,4,Buffalo Sabres,7,Chris Rooney,Don Koharski,Buffalo Sabres,Carolina Hurricanes
+2006020250,Ottawa Senators,3,Montréal Canadiens,6,Dan O'Rourke,Ian Walsh,Montréal Canadiens,Ottawa Senators
+2006020251,Pittsburgh Penguins,3,Philadelphia Flyers,2,Stephane Auger,Eric Furlatt,Pittsburgh Penguins,Philadelphia Flyers
+2006020252,Florida Panthers,1,Washington Capitals,4,Dan Marouelli,Justin StPierre,Washington Capitals,Florida Panthers
+2006020253,Colorado Avalanche,1,Edmonton Oilers,2,Dan O'Halloran,Steve Kozari,Edmonton Oilers,Colorado Avalanche
+2006020254,Los Angeles Kings,4,San Jose Sharks,2,Michael McGeough,Tim Peel,Los Angeles Kings,San Jose Sharks
+2006020255,New York Rangers,3,New Jersey Devils,2,Kelly Sutherland,Tom Kowal,New York Rangers,New Jersey Devils
+2006020256,Calgary Flames,3,St. Louis Blues,0,Brad Meier,Dean Warren,Calgary Flames,St. Louis Blues
+2006020257,Phoenix Coyotes,4,Minnesota Wild,3,Don VanMassenhoven,Gord Dwyer,Phoenix Coyotes,Minnesota Wild
+2006020258,Vancouver Canucks,2,Detroit Red Wings,3,Bill McCreary,Marc Joannette,Detroit Red Wings,Vancouver Canucks
+2006020259,Buffalo Sabres,2,Ottawa Senators,4,Dan Marouelli,Francois StLaurent,Ottawa Senators,Buffalo Sabres
+2006020260,Washington Capitals,2,Boston Bruins,2,Kelly Sutherland,Tom Kowal,Washington Capitals,Boston Bruins
+2006020261,Carolina Hurricanes,2,New York Rangers,1,Wes McCauley,Justin StPierre,Carolina Hurricanes,New York Rangers
+2006020263,Tampa Bay Lightning,1,Montréal Canadiens,3,Dan O'Rourke,Brian Pochmara,Montréal Canadiens,Tampa Bay Lightning
+2006020264,Dallas Stars,0,New York Islanders,3,Dan O'Halloran,Steve Kozari,New York Islanders,Dallas Stars
+2006020265,Colorado Avalanche,3,San Jose Sharks,4,Mike Leggo,Brad Watson,San Jose Sharks,Colorado Avalanche
+2006020266,Anaheim Ducks,4,Philadelphia Flyers,7,Michael McGeough,Craig Spada,Philadelphia Flyers,Anaheim Ducks
+2006020267,Boston Bruins,2,Toronto Maple Leafs,1,Dave Jackson,Chris Lee,Boston Bruins,Toronto Maple Leafs
+2006020268,Florida Panthers,5,Montréal Canadiens,1,Dan O'Rourke,Mike Hasenfratz,Florida Panthers,Montréal Canadiens
+2006020269,Nashville Predators,6,Minnesota Wild,6,Wes McCauley,Kevin Pollock,Nashville Predators,Minnesota Wild
+2006020270,Edmonton Oilers,6,St. Louis Blues,2,Bill McCreary,Marc Joannette,Edmonton Oilers,St. Louis Blues
+2006020271,Phoenix Coyotes,2,Chicago Blackhawks,2,Mike Leggo,Brad Watson,Phoenix Coyotes,Chicago Blackhawks
+2006020272,Los Angeles Kings,3,Philadelphia Flyers,4,Don VanMassenhoven,Gord Dwyer,Philadelphia Flyers,Los Angeles Kings
+2006020273,Washington Capitals,1,Carolina Hurricanes,4,Greg Kimmerly,Chris Lee,Carolina Hurricanes,Washington Capitals
+2006020274,Columbus Blue Jackets,0,Colorado Avalanche,3,Chris Rooney,Dan Marouelli,Colorado Avalanche,Columbus Blue Jackets
+2006020275,New Jersey Devils,3,Ottawa Senators,2,Kelly Sutherland,Tom Kowal,New Jersey Devils,Ottawa Senators
+2006020276,Atlanta Thrashers,3,Dallas Stars,5,Stephane Auger,Michael McGeough,Dallas Stars,Atlanta Thrashers
+2006020277,Buffalo Sabres,4,Pittsburgh Penguins,2,Dennis LaRue,Tim Peel,Buffalo Sabres,Pittsburgh Penguins
+2006020278,Tampa Bay Lightning,2,New York Islanders,2,Wes McCauley,Justin StPierre,Tampa Bay Lightning,New York Islanders
+2006020279,Calgary Flames,4,Detroit Red Wings,1,Bill McCreary,Marc Joannette,Calgary Flames,Detroit Red Wings
+2006020280,Vancouver Canucks,4,St. Louis Blues,2,Craig Spada,Dean Warren,Vancouver Canucks,St. Louis Blues
+2006020281,Anaheim Ducks,3,Chicago Blackhawks,3,Dan O'Halloran,Brad Watson,Anaheim Ducks,Chicago Blackhawks
+2006020282,Los Angeles Kings,5,Phoenix Coyotes,3,Mike Leggo,Dan O'Halloran,Los Angeles Kings,Phoenix Coyotes
+2006020283,Boston Bruins,3,Washington Capitals,2,Kelly Sutherland,Ian Walsh,Boston Bruins,Washington Capitals
+2006020284,Toronto Maple Leafs,1,New Jersey Devils,2,Dennis LaRue,Tim Peel,New Jersey Devils,Toronto Maple Leafs
+2006020285,Montréal Canadiens,3,Atlanta Thrashers,1,Dave Jackson,Paul Devorski,Montréal Canadiens,Atlanta Thrashers
+2006020286,Ottawa Senators,4,Buffalo Sabres,1,Eric Furlatt,Tom Kowal,Ottawa Senators,Buffalo Sabres
+2006020288,Pittsburgh Penguins,3,New York Rangers,1,Chris Rooney,Dan Marouelli,Pittsburgh Penguins,New York Rangers
+2006020289,Florida Panthers,1,New York Islanders,4,Stephane Auger,Justin StPierre,New York Islanders,Florida Panthers
+2006020290,Nashville Predators,4,Columbus Blue Jackets,2,Dan O'Rourke,Michael McGeough,Nashville Predators,Columbus Blue Jackets
+2006020291,Minnesota Wild,1,Colorado Avalanche,1,Kevin Pollock,Brad Meier,Minnesota Wild,Colorado Avalanche
+2006020292,Edmonton Oilers,3,Detroit Red Wings,3,Craig Spada,Dean Warren,Edmonton Oilers,Detroit Red Wings
+2006020293,San Jose Sharks,6,Philadelphia Flyers,1,Rob Shick,Gord Dwyer,San Jose Sharks,Philadelphia Flyers
+2006020294,New York Rangers,4,Tampa Bay Lightning,1,Kelly Sutherland,Tom Kowal,New York Rangers,Tampa Bay Lightning
+2006020295,Anaheim Ducks,6,Phoenix Coyotes,4,Rob Shick,Gord Dwyer,Anaheim Ducks,Phoenix Coyotes
+2006020296,Vancouver Canucks,2,Chicago Blackhawks,1,Bill McCreary,Marc Joannette,Vancouver Canucks,Chicago Blackhawks
+2006020297,Boston Bruins,2,Florida Panthers,3,Dennis LaRue,Tim Peel,Florida Panthers,Boston Bruins
+2006020298,Buffalo Sabres,7,Tampa Bay Lightning,2,Chris Rooney,Kevin Pollock,Buffalo Sabres,Tampa Bay Lightning
+2006020299,Philadelphia Flyers,3,Pittsburgh Penguins,5,Greg Kimmerly,Chris Lee,Pittsburgh Penguins,Philadelphia Flyers
+2006020300,Columbus Blue Jackets,1,Nashville Predators,3,Ian Walsh,Brad Meier,Nashville Predators,Columbus Blue Jackets
+2006020301,Toronto Maple Leafs,4,New York Islanders,2,Wes McCauley,Michael McGeough,Toronto Maple Leafs,New York Islanders
+2006020302,Ottawa Senators,5,Minnesota Wild,3,Dave Jackson,Paul Devorski,Ottawa Senators,Minnesota Wild
+2006020303,Dallas Stars,5,Colorado Avalanche,4,Craig Spada,Dean Warren,Dallas Stars,Colorado Avalanche
+2006020304,New York Rangers,4,Carolina Hurricanes,0,Dennis LaRue,Tim Peel,New York Rangers,Carolina Hurricanes
+2006020305,Detroit Red Wings,3,Vancouver Canucks,4,Stephane Auger,Eric Furlatt,Vancouver Canucks,Detroit Red Wings
+2006020306,Edmonton Oilers,2,Calgary Flames,1,Brad Watson,Steve Kozari,Edmonton Oilers,Calgary Flames
+2006020307,Anaheim Ducks,5,San Jose Sharks,0,Dan Marouelli,Dan O'Rourke,Anaheim Ducks,San Jose Sharks
+2006020308,Buffalo Sabres,7,Toronto Maple Leafs,4,Brad Meier,Dean Morton,Buffalo Sabres,Toronto Maple Leafs
+2006020309,Philadelphia Flyers,2,Ottawa Senators,3,Bill McCreary,Justin StPierre,Ottawa Senators,Philadelphia Flyers
+2006020310,Washington Capitals,2,Atlanta Thrashers,4,Dave Jackson,Tom Kowal,Atlanta Thrashers,Washington Capitals
+2006020311,Columbus Blue Jackets,3,St. Louis Blues,3,Dan O'Halloran,Brian Pochmara,Columbus Blue Jackets,St. Louis Blues
+2006020312,Montréal Canadiens,4,Minnesota Wild,2,Wes McCauley,Michael McGeough,Montréal Canadiens,Minnesota Wild
+2006020313,New York Islanders,4,Carolina Hurricanes,2,Dennis LaRue,Kevin Pollock,New York Islanders,Carolina Hurricanes
+2006020314,Pittsburgh Penguins,3,Boston Bruins,3,Greg Kimmerly,Chris Lee,Pittsburgh Penguins,Boston Bruins
+2006020315,Florida Panthers,4,Tampa Bay Lightning,6,Marc Joannette,Gord Dwyer,Tampa Bay Lightning,Florida Panthers
+2006020316,Dallas Stars,1,Nashville Predators,0,Chris Rooney,Dean Warren,Dallas Stars,Nashville Predators
+2006020317,Colorado Avalanche,2,Anaheim Ducks,2,Mike Leggo,Ian Walsh,Colorado Avalanche,Anaheim Ducks
+2006020318,Calgary Flames,4,Chicago Blackhawks,1,Brad Watson,Mike Hasenfratz,Calgary Flames,Chicago Blackhawks
+2006020319,Phoenix Coyotes,3,New Jersey Devils,1,Dan O'Rourke,Rob Shick,Phoenix Coyotes,New Jersey Devils
+2006020320,San Jose Sharks,6,Los Angeles Kings,3,Dan Marouelli,Craig Spada,San Jose Sharks,Los Angeles Kings
+2006020321,Nashville Predators,6,Vancouver Canucks,0,Dan O'Halloran,Brian Pochmara,Nashville Predators,Vancouver Canucks
+2006020322,Boston Bruins,1,Carolina Hurricanes,5,Mike Leggo,Bill McCreary,Carolina Hurricanes,Boston Bruins
+2006020323,Philadelphia Flyers,3,Columbus Blue Jackets,2,Brad Meier,Dean Warren,Philadelphia Flyers,Columbus Blue Jackets
+2006020324,New York Islanders,3,Pittsburgh Penguins,1,Dave Jackson,Gord Dwyer,New York Islanders,Pittsburgh Penguins
+2006020325,Minnesota Wild,4,Phoenix Coyotes,0,Stephane Auger,Brad Watson,Minnesota Wild,Phoenix Coyotes
+2006020326,Anaheim Ducks,4,New Jersey Devils,2,Chris Rooney,Rob Shick,Anaheim Ducks,New Jersey Devils
+2006020327,Washington Capitals,1,Toronto Maple Leafs,7,Marc Joannette,Steve Kozari,Toronto Maple Leafs,Washington Capitals
+2006020328,Florida Panthers,4,Ottawa Senators,6,Chris Lee,Kevin Pollock,Ottawa Senators,Florida Panthers
+2006020329,Detroit Red Wings,2,St. Louis Blues,2,Paul Devorski,Tom Kowal,Detroit Red Wings,St. Louis Blues
+2006020330,Buffalo Sabres,1,Montréal Canadiens,2,Wes McCauley,Michael McGeough,Montréal Canadiens,Buffalo Sabres
+2006020331,Tampa Bay Lightning,3,Atlanta Thrashers,2,Greg Kimmerly,Ian Walsh,Tampa Bay Lightning,Atlanta Thrashers
+2006020332,Dallas Stars,5,Los Angeles Kings,3,Craig Spada,Eric Furlatt,Dallas Stars,Los Angeles Kings
+2006020333,Edmonton Oilers,5,Chicago Blackhawks,1,Dan Marouelli,Mike Hasenfratz,Edmonton Oilers,Chicago Blackhawks
+2006020334,Toronto Maple Leafs,1,Boston Bruins,3,Wes McCauley,Michael McGeough,Boston Bruins,Toronto Maple Leafs
+2006020335,Montréal Canadiens,2,Philadelphia Flyers,4,Dan O'Halloran,Tim Peel,Philadelphia Flyers,Montréal Canadiens
+2006020337,Atlanta Thrashers,1,Florida Panthers,0,Greg Kimmerly,Chris Lee,Atlanta Thrashers,Florida Panthers
+2006020338,Columbus Blue Jackets,5,Minnesota Wild,3,Paul Devorski,Tom Kowal,Columbus Blue Jackets,Minnesota Wild
+2006020339,Pittsburgh Penguins,1,New York Rangers,2,Mike Leggo,Steve Kozari,New York Rangers,Pittsburgh Penguins
+2006020340,St. Louis Blues,1,Phoenix Coyotes,2,Stephane Auger,Brad Watson,Phoenix Coyotes,St. Louis Blues
+2006020341,Nashville Predators,6,Detroit Red Wings,2,Ian Walsh,Kevin Pollock,Nashville Predators,Detroit Red Wings
+2006020342,Colorado Avalanche,4,Vancouver Canucks,1,Craig Spada,Eric Furlatt,Colorado Avalanche,Vancouver Canucks
+2006020343,Los Angeles Kings,3,Calgary Flames,1,Dan Marouelli,Dan O'Rourke,Los Angeles Kings,Calgary Flames
+2006020344,San Jose Sharks,2,New Jersey Devils,0,Chris Rooney,Kelly Sutherland,San Jose Sharks,New Jersey Devils
+2006020345,Tampa Bay Lightning,3,Ottawa Senators,1,Don Koharski,Kevin Pollock,Tampa Bay Lightning,Ottawa Senators
+2006020346,New York Rangers,2,Buffalo Sabres,3,Mike Leggo,Gord Dwyer,Buffalo Sabres,New York Rangers
+2006020347,Anaheim Ducks,5,Calgary Flames,3,Chris Rooney,Kelly Sutherland,Anaheim Ducks,Calgary Flames
+2006020348,Detroit Red Wings,2,Dallas Stars,1,Stephane Auger,Brad Watson,Detroit Red Wings,Dallas Stars
+2006020349,Los Angeles Kings,2,New Jersey Devils,2,Dan O'Rourke,Kelly Sutherland,Los Angeles Kings,New Jersey Devils
+2006020350,New York Rangers,4,Atlanta Thrashers,5,Mike Hasenfratz,Steve Kozari,Atlanta Thrashers,New York Rangers
+2006020351,Pittsburgh Penguins,3,New York Islanders,2,Wes McCauley,Marc Joannette,Pittsburgh Penguins,New York Islanders
+2006020352,Carolina Hurricanes,1,Ottawa Senators,4,Dave Jackson,Gord Dwyer,Ottawa Senators,Carolina Hurricanes
+2006020353,Toronto Maple Leafs,1,Boston Bruins,4,Craig Spada,Kevin Pollock,Boston Bruins,Toronto Maple Leafs
+2006020354,Montréal Canadiens,0,Florida Panthers,0,Eric Furlatt,Dean Warren,Montréal Canadiens,Florida Panthers
+2006020355,Tampa Bay Lightning,2,Washington Capitals,5,Dan O'Halloran,Francois StLaurent,Washington Capitals,Tampa Bay Lightning
+2006020356,St. Louis Blues,0,San Jose Sharks,2,Mike Leggo,Tim Peel,San Jose Sharks,St. Louis Blues
+2006020357,Calgary Flames,5,Colorado Avalanche,2,Dan Marouelli,Tom Kowal,Calgary Flames,Colorado Avalanche
+2006020358,Edmonton Oilers,2,Anaheim Ducks,3,Brad Meier,Justin StPierre,Anaheim Ducks,Edmonton Oilers
+2006020359,Vancouver Canucks,1,Columbus Blue Jackets,0,Dennis LaRue,Rob Shick,Vancouver Canucks,Columbus Blue Jackets
+2006020360,Philadelphia Flyers,2,Nashville Predators,3,Wes McCauley,Marc Joannette,Nashville Predators,Philadelphia Flyers
+2006020361,Minnesota Wild,1,San Jose Sharks,2,Paul Devorski,Ian Walsh,San Jose Sharks,Minnesota Wild
+2006020362,Chicago Blackhawks,2,Dallas Stars,1,Mike Leggo,Tim Peel,Chicago Blackhawks,Dallas Stars
+2006020363,Boston Bruins,3,Tampa Bay Lightning,3,Kerry Fraser,Mike Hasenfratz,Boston Bruins,Tampa Bay Lightning
+2006020364,Washington Capitals,4,Dallas Stars,3,Eric Furlatt,Kevin Pollock,Washington Capitals,Dallas Stars
+2006020365,Carolina Hurricanes,4,Montréal Canadiens,2,Dan O'Halloran,Francois StLaurent,Carolina Hurricanes,Montréal Canadiens
+2006020366,Atlanta Thrashers,5,Toronto Maple Leafs,0,Bill McCreary,Dan O'Rourke,Atlanta Thrashers,Toronto Maple Leafs
+2006020367,Ottawa Senators,6,Florida Panthers,0,Craig Spada,Dean Warren,Ottawa Senators,Florida Panthers
+2006020368,New York Islanders,2,Philadelphia Flyers,3,Don Koharski,Greg Kimmerly,Philadelphia Flyers,New York Islanders
+2006020369,St. Louis Blues,4,Nashville Predators,5,Paul Devorski,Ian Walsh,Nashville Predators,St. Louis Blues
+2006020370,Edmonton Oilers,3,Colorado Avalanche,7,Dan Marouelli,Rob Shick,Colorado Avalanche,Edmonton Oilers
+2006020371,Phoenix Coyotes,7,Los Angeles Kings,4,Dennis LaRue,Michael McGeough,Phoenix Coyotes,Los Angeles Kings
+2006020372,Vancouver Canucks,1,Anaheim Ducks,2,Brad Meier,Justin StPierre,Anaheim Ducks,Vancouver Canucks
+2006020373,New Jersey Devils,5,Pittsburgh Penguins,2,Don Koharski,Greg Kimmerly,New Jersey Devils,Pittsburgh Penguins
+2006020374,Buffalo Sabres,3,New York Rangers,3,Stephane Auger,Dean Warren,Buffalo Sabres,New York Rangers
+2006020375,Minnesota Wild,0,Detroit Red Wings,3,Mike Leggo,Tim Peel,Detroit Red Wings,Minnesota Wild
+2006020376,Chicago Blackhawks,5,St. Louis Blues,2,Wes McCauley,Marc Joannette,Chicago Blackhawks,St. Louis Blues
+2006020377,Calgary Flames,2,Columbus Blue Jackets,1,Dan Marouelli,Justin StPierre,Calgary Flames,Columbus Blue Jackets
+2006020378,Los Angeles Kings,3,Anaheim Ducks,4,Rob Shick,Chris Lee,Anaheim Ducks,Los Angeles Kings
+2006020379,Montréal Canadiens,3,Toronto Maple Leafs,3,Kelly Sutherland,Gord Dwyer,Montréal Canadiens,Toronto Maple Leafs
+2006020380,Ottawa Senators,5,Tampa Bay Lightning,2,Dan O'Rourke,Greg Kimmerly,Ottawa Senators,Tampa Bay Lightning
+2006020381,Carolina Hurricanes,5,Boston Bruins,2,Craig Spada,Kevin Pollock,Carolina Hurricanes,Boston Bruins
+2006020382,Detroit Red Wings,2,San Jose Sharks,3,Paul Devorski,Ian Walsh,San Jose Sharks,Detroit Red Wings
+2006020383,Philadelphia Flyers,3,New Jersey Devils,3,Kerry Fraser,Bill McCreary,Philadelphia Flyers,New Jersey Devils
+2006020384,Pittsburgh Penguins,3,New York Islanders,5,Stephane Auger,Eric Furlatt,New York Islanders,Pittsburgh Penguins
+2006020385,Florida Panthers,1,Atlanta Thrashers,3,Dan O'Halloran,Francois StLaurent,Atlanta Thrashers,Florida Panthers
+2006020386,Washington Capitals,7,Buffalo Sabres,4,Don Koharski,Mike Hasenfratz,Washington Capitals,Buffalo Sabres
+2006020387,Nashville Predators,3,Chicago Blackhawks,4,Chris Rooney,Brad Watson,Chicago Blackhawks,Nashville Predators
+2006020388,Edmonton Oilers,0,Columbus Blue Jackets,4,Dan Marouelli,Tom Kowal,Columbus Blue Jackets,Edmonton Oilers
+2006020389,Dallas Stars,3,Minnesota Wild,3,Dennis LaRue,Michael McGeough,Dallas Stars,Minnesota Wild
+2006020390,Vancouver Canucks,2,Colorado Avalanche,1,Brad Meier,Justin StPierre,Vancouver Canucks,Colorado Avalanche
+2006020391,New York Rangers,4,New York Islanders,7,Kerry Fraser,Bill McCreary,New York Islanders,New York Rangers
+2006020392,Anaheim Ducks,2,Los Angeles Kings,3,Dave Jackson,Chris Lee,Los Angeles Kings,Anaheim Ducks
+2006020393,Montréal Canadiens,5,Boston Bruins,6,Dan O'Rourke,Kelly Sutherland,Boston Bruins,Montréal Canadiens
+2006020394,Dallas Stars,1,San Jose Sharks,0,Brad Watson,Tom Kowal,Dallas Stars,San Jose Sharks
+2006020395,Phoenix Coyotes,3,Nashville Predators,2,Dave Jackson,Chris Lee,Phoenix Coyotes,Nashville Predators
+2006020396,Vancouver Canucks,0,Edmonton Oilers,4,Mike Leggo,Michael McGeough,Edmonton Oilers,Vancouver Canucks
+2006020397,Toronto Maple Leafs,2,Atlanta Thrashers,5,Dean Warren,Gord Dwyer,Atlanta Thrashers,Toronto Maple Leafs
+2006020398,New York Islanders,2,Ottawa Senators,4,Kelly Sutherland,Francois StLaurent,Ottawa Senators,New York Islanders
+2006020399,Pittsburgh Penguins,2,Florida Panthers,3,Paul Devorski,Justin StPierre,Florida Panthers,Pittsburgh Penguins
+2006020400,Tampa Bay Lightning,1,Buffalo Sabres,4,Rob Shick,Tim Peel,Buffalo Sabres,Tampa Bay Lightning
+2006020401,St. Louis Blues,1,Detroit Red Wings,5,Kerry Fraser,Chris Rooney,Detroit Red Wings,St. Louis Blues
+2006020402,Minnesota Wild,2,Chicago Blackhawks,2,Ian Walsh,Brad Meier,Minnesota Wild,Chicago Blackhawks
+2006020403,Colorado Avalanche,0,Columbus Blue Jackets,3,Dennis LaRue,Mike Hasenfratz,Columbus Blue Jackets,Colorado Avalanche
+2006020404,Calgary Flames,3,Carolina Hurricanes,0,Mike Leggo,Michael McGeough,Calgary Flames,Carolina Hurricanes
+2006020405,Washington Capitals,6,Ottawa Senators,2,Kevin Pollock,Justin StPierre,Washington Capitals,Ottawa Senators
+2006020406,New Jersey Devils,2,Montréal Canadiens,1,Wes McCauley,Marc Joannette,New Jersey Devils,Montréal Canadiens
+2006020407,Dallas Stars,3,Phoenix Coyotes,0,Mike Hasenfratz,Tom Kowal,Dallas Stars,Phoenix Coyotes
+2006020408,Edmonton Oilers,3,Carolina Hurricanes,1,Mike Leggo,Michael McGeough,Edmonton Oilers,Carolina Hurricanes
+2006020409,Anaheim Ducks,4,Nashville Predators,0,Greg Kimmerly,Brad Watson,Anaheim Ducks,Nashville Predators
+2006020410,Boston Bruins,3,Toronto Maple Leafs,1,Kelly Sutherland,Stephane Auger,Boston Bruins,Toronto Maple Leafs
+2006020411,New York Rangers,2,Pittsburgh Penguins,2,Wes McCauley,Marc Joannette,New York Rangers,Pittsburgh Penguins
+2006020412,New York Islanders,2,Montréal Canadiens,4,Dan Marouelli,Dean Warren,Montréal Canadiens,New York Islanders
+2006020413,Tampa Bay Lightning,8,Atlanta Thrashers,0,Rob Shick,Eric Furlatt,Tampa Bay Lightning,Atlanta Thrashers
+2006020414,Florida Panthers,3,Buffalo Sabres,1,Don Koharski,Tim Peel,Florida Panthers,Buffalo Sabres
+2006020415,Detroit Red Wings,4,St. Louis Blues,3,Kerry Fraser,Chris Rooney,Detroit Red Wings,St. Louis Blues
+2006020416,Minnesota Wild,2,Calgary Flames,2,Dennis LaRue,Steve Kozari,Minnesota Wild,Calgary Flames
+2006020417,Chicago Blackhawks,1,Phoenix Coyotes,1,Ian Walsh,Brad Meier,Chicago Blackhawks,Phoenix Coyotes
+2006020418,Los Angeles Kings,1,Nashville Predators,4,Bill McCreary,Tom Kowal,Nashville Predators,Los Angeles Kings
+2006020419,San Jose Sharks,2,Colorado Avalanche,5,Greg Kimmerly,Brad Watson,Colorado Avalanche,San Jose Sharks
+2006020420,Washington Capitals,1,Anaheim Ducks,6,Kelly Sutherland,Stephane Auger,Anaheim Ducks,Washington Capitals
+2006020421,New Jersey Devils,2,Philadelphia Flyers,0,Kevin Pollock,Dean Warren,New Jersey Devils,Philadelphia Flyers
+2006020422,Dallas Stars,0,Edmonton Oilers,2,Paul Devorski,Francois StLaurent,Edmonton Oilers,Dallas Stars
+2006020423,Vancouver Canucks,4,Carolina Hurricanes,3,Mike Hasenfratz,Gord Dwyer,Vancouver Canucks,Carolina Hurricanes
+2006020424,Boston Bruins,1,New Jersey Devils,5,Dave Jackson,Stephane Auger,New Jersey Devils,Boston Bruins
+2006020425,Montréal Canadiens,2,Buffalo Sabres,2,Dan O'Halloran,Chris Lee,Montréal Canadiens,Buffalo Sabres
+2006020426,Ottawa Senators,1,New York Rangers,3,Dan Marouelli,Marc Joannette,New York Rangers,Ottawa Senators
+2006020427,New York Islanders,4,Florida Panthers,4,Kelly Sutherland,Craig Spada,New York Islanders,Florida Panthers
+2006020428,Philadelphia Flyers,3,Washington Capitals,5,Dan O'Rourke,Don Koharski,Washington Capitals,Philadelphia Flyers
+2006020429,Atlanta Thrashers,3,Pittsburgh Penguins,4,Wes McCauley,Rob Shick,Pittsburgh Penguins,Atlanta Thrashers
+2006020430,Detroit Red Wings,5,Toronto Maple Leafs,1,Dennis LaRue,Brad Meier,Detroit Red Wings,Toronto Maple Leafs
+2006020431,Tampa Bay Lightning,3,Anaheim Ducks,4,Tim Peel,Eric Furlatt,Anaheim Ducks,Tampa Bay Lightning
+2006020432,St. Louis Blues,1,Columbus Blue Jackets,5,Ian Walsh,Justin StPierre,Columbus Blue Jackets,St. Louis Blues
+2006020433,Minnesota Wild,5,Chicago Blackhawks,4,Kerry Fraser,Chris Rooney,Minnesota Wild,Chicago Blackhawks
+2006020434,Phoenix Coyotes,3,Dallas Stars,4,Bill McCreary,Tom Kowal,Dallas Stars,Phoenix Coyotes
+2006020435,Calgary Flames,5,Vancouver Canucks,3,Mike Hasenfratz,Gord Dwyer,Calgary Flames,Vancouver Canucks
+2006020436,Los Angeles Kings,5,Colorado Avalanche,4,Greg Kimmerly,Brad Watson,Los Angeles Kings,Colorado Avalanche
+2006020437,San Jose Sharks,3,Nashville Predators,1,Paul Devorski,Francois StLaurent,San Jose Sharks,Nashville Predators
+2006020438,Columbus Blue Jackets,6,Ottawa Senators,2,Don Koharski,Brad Meier,Columbus Blue Jackets,Ottawa Senators
+2006020439,New York Rangers,2,Florida Panthers,1,Dan O'Halloran,Chris Lee,New York Rangers,Florida Panthers
+2006020440,Chicago Blackhawks,4,Edmonton Oilers,1,Kerry Fraser,Justin StPierre,Chicago Blackhawks,Edmonton Oilers
+2006020441,Washington Capitals,4,Pittsburgh Penguins,4,Rob Shick,Craig Spada,Washington Capitals,Pittsburgh Penguins
+2006020442,Colorado Avalanche,5,Carolina Hurricanes,2,Brad Watson,Brian Pochmara,Colorado Avalanche,Carolina Hurricanes
+2006020443,San Jose Sharks,4,Phoenix Coyotes,0,Bill McCreary,Gord Dwyer,San Jose Sharks,Phoenix Coyotes
+2006020444,New Jersey Devils,2,Buffalo Sabres,3,Kerry Fraser,Dan O'Rourke,Buffalo Sabres,New Jersey Devils
+2006020445,Philadelphia Flyers,1,New York Rangers,3,Rob Shick,Craig Spada,New York Rangers,Philadelphia Flyers
+2006020446,Toronto Maple Leafs,5,Tampa Bay Lightning,4,Dave Jackson,Stephane Auger,Toronto Maple Leafs,Tampa Bay Lightning
+2006020447,Montréal Canadiens,4,Boston Bruins,3,Dan Marouelli,Kevin Pollock,Montréal Canadiens,Boston Bruins
+2006020448,Florida Panthers,4,Anaheim Ducks,5,Tim Peel,Eric Furlatt,Anaheim Ducks,Florida Panthers
+2006020449,Detroit Red Wings,2,Ottawa Senators,3,Paul Devorski,Dean Morton,Ottawa Senators,Detroit Red Wings
+2006020450,St. Louis Blues,2,Chicago Blackhawks,3,Dan O'Halloran,Steve Kozari,Chicago Blackhawks,St. Louis Blues
+2006020451,Nashville Predators,3,Edmonton Oilers,2,Michael McGeough,Mike Hasenfratz,Nashville Predators,Edmonton Oilers
+2006020452,Dallas Stars,1,Columbus Blue Jackets,3,Don Koharski,Chris Lee,Columbus Blue Jackets,Dallas Stars
+2006020453,Calgary Flames,5,Minnesota Wild,2,Greg Kimmerly,Tom Kowal,Calgary Flames,Minnesota Wild
+2006020454,Vancouver Canucks,5,Phoenix Coyotes,2,Mike Leggo,Kelly Sutherland,Vancouver Canucks,Phoenix Coyotes
+2006020455,Los Angeles Kings,1,San Jose Sharks,3,Bill McCreary,Gord Dwyer,San Jose Sharks,Los Angeles Kings
+2006020456,Atlanta Thrashers,1,Anaheim Ducks,2,Michael McGeough,Brian Pochmara,Anaheim Ducks,Atlanta Thrashers
+2006020457,Pittsburgh Penguins,8,Philadelphia Flyers,4,Kerry Fraser,Dan O'Rourke,Pittsburgh Penguins,Philadelphia Flyers
+2006020458,Colorado Avalanche,4,St. Louis Blues,1,Wes McCauley,Marc Joannette,Colorado Avalanche,St. Louis Blues
+2006020459,Boston Bruins,5,New Jersey Devils,3,Brad Watson,Dean Warren,Boston Bruins,New Jersey Devils
+2006020460,Buffalo Sabres,2,Florida Panthers,1,Ian Walsh,Kevin Pollock,Buffalo Sabres,Florida Panthers
+2006020461,Montréal Canadiens,4,Tampa Bay Lightning,2,Dan Marouelli,Justin StPierre,Montréal Canadiens,Tampa Bay Lightning
+2006020462,Nashville Predators,6,Ottawa Senators,0,Tim Peel,Eric Furlatt,Nashville Predators,Ottawa Senators
+2006020463,Chicago Blackhawks,2,Detroit Red Wings,3,Rob Shick,Craig Spada,Detroit Red Wings,Chicago Blackhawks
+2006020464,Dallas Stars,2,New York Rangers,5,Dan O'Halloran,Steve Kozari,New York Rangers,Dallas Stars
+2006020465,Edmonton Oilers,3,Minnesota Wild,1,Greg Kimmerly,Tom Kowal,Edmonton Oilers,Minnesota Wild
+2006020466,Phoenix Coyotes,4,Columbus Blue Jackets,4,Don Koharski,Chris Lee,Phoenix Coyotes,Columbus Blue Jackets
+2006020467,Vancouver Canucks,3,Calgary Flames,1,Chris Rooney,Dave Jackson,Vancouver Canucks,Calgary Flames
+2006020468,San Jose Sharks,2,Los Angeles Kings,4,Mike Leggo,Brad Meier,Los Angeles Kings,San Jose Sharks
+2006020470,Pittsburgh Penguins,7,New York Islanders,4,Brad Watson,Dean Warren,Pittsburgh Penguins,New York Islanders
+2006020471,Atlanta Thrashers,2,Washington Capitals,3,Stephane Auger,Eric Furlatt,Washington Capitals,Atlanta Thrashers
+2006020472,Colorado Avalanche,4,Edmonton Oilers,1,Marc Joannette,Mike Hasenfratz,Colorado Avalanche,Edmonton Oilers
+2006020473,New Jersey Devils,1,Detroit Red Wings,2,Michael McGeough,Chris Lee,Detroit Red Wings,New Jersey Devils
+2006020474,Los Angeles Kings,3,Dallas Stars,3,Tim Peel,Brad Meier,Los Angeles Kings,Dallas Stars
+2006020475,Boston Bruins,3,Florida Panthers,6,Kevin Pollock,Gord Dwyer,Florida Panthers,Boston Bruins
+2006020476,Buffalo Sabres,1,Ottawa Senators,3,Paul Devorski,Justin StPierre,Ottawa Senators,Buffalo Sabres
+2006020477,Toronto Maple Leafs,9,New York Rangers,2,Dan Marouelli,Kelly Sutherland,Toronto Maple Leafs,New York Rangers
+2006020478,Montréal Canadiens,6,Pittsburgh Penguins,3,Bill McCreary,Ian Walsh,Montréal Canadiens,Pittsburgh Penguins
+2006020479,New York Islanders,6,Atlanta Thrashers,0,Mike Leggo,Wes McCauley,New York Islanders,Atlanta Thrashers
+2006020480,Washington Capitals,4,Philadelphia Flyers,1,Brad Watson,Dean Warren,Washington Capitals,Philadelphia Flyers
+2006020481,Columbus Blue Jackets,4,Chicago Blackhawks,6,Rob Shick,Craig Spada,Chicago Blackhawks,Columbus Blue Jackets
+2006020482,Tampa Bay Lightning,2,Carolina Hurricanes,3,Kerry Fraser,Dan O'Rourke,Carolina Hurricanes,Tampa Bay Lightning
+2006020483,Nashville Predators,2,St. Louis Blues,2,Don Koharski,Stephane Auger,Nashville Predators,St. Louis Blues
+2006020484,Phoenix Coyotes,3,Calgary Flames,6,Dan O'Halloran,Steve Kozari,Calgary Flames,Phoenix Coyotes
+2006020485,Vancouver Canucks,2,Minnesota Wild,1,Chris Rooney,Dave Jackson,Vancouver Canucks,Minnesota Wild
+2006020486,San Jose Sharks,4,Anaheim Ducks,3,Greg Kimmerly,Tom Kowal,San Jose Sharks,Anaheim Ducks
+2006020487,St. Louis Blues,1,Nashville Predators,2,Marc Joannette,Mike Hasenfratz,Nashville Predators,St. Louis Blues
+2006020488,New York Rangers,1,New Jersey Devils,6,Mike Leggo,Michael McGeough,New Jersey Devils,New York Rangers
+2006020489,Chicago Blackhawks,2,Colorado Avalanche,1,Kelly Sutherland,Stephane Auger,Chicago Blackhawks,Colorado Avalanche
+2006020490,Columbus Blue Jackets,4,Detroit Red Wings,3,Brad Watson,Dean Warren,Columbus Blue Jackets,Detroit Red Wings
+2006020491,Anaheim Ducks,4,Calgary Flames,1,Dan O'Halloran,Steve Kozari,Anaheim Ducks,Calgary Flames
+2006020492,Buffalo Sabres,2,Montréal Canadiens,5,Bill McCreary,Michael McGeough,Montréal Canadiens,Buffalo Sabres
+2006020493,New York Rangers,3,New York Islanders,4,Craig Spada,Eric Furlatt,New York Islanders,New York Rangers
+2006020494,Philadelphia Flyers,1,Carolina Hurricanes,2,Marc Joannette,Mike Hasenfratz,Carolina Hurricanes,Philadelphia Flyers
+2006020495,Pittsburgh Penguins,1,St. Louis Blues,4,Paul Devorski,Tim Peel,St. Louis Blues,Pittsburgh Penguins
+2006020496,Washington Capitals,4,Tampa Bay Lightning,5,Dan O'Rourke,Ian Walsh,Tampa Bay Lightning,Washington Capitals
+2006020497,Toronto Maple Leafs,3,Florida Panthers,7,Kevin Pollock,Justin StPierre,Florida Panthers,Toronto Maple Leafs
+2006020498,Ottawa Senators,2,Boston Bruins,7,Don Koharski,Gord Dwyer,Boston Bruins,Ottawa Senators
+2006020499,New Jersey Devils,3,Atlanta Thrashers,3,Mike Leggo,Rob Martell,New Jersey Devils,Atlanta Thrashers
+2006020500,Minnesota Wild,5,Vancouver Canucks,2,Kelly Sutherland,Stephane Auger,Minnesota Wild,Vancouver Canucks
+2006020501,Edmonton Oilers,6,Colorado Avalanche,7,Chris Rooney,Dave Jackson,Colorado Avalanche,Edmonton Oilers
+2006020502,Los Angeles Kings,3,Calgary Flames,5,Wes McCauley,Dan Marouelli,Calgary Flames,Los Angeles Kings
+2006020503,Detroit Red Wings,5,Columbus Blue Jackets,0,Paul Devorski,Michael McGeough,Detroit Red Wings,Columbus Blue Jackets
+2006020504,Chicago Blackhawks,1,Nashville Predators,2,Brad Watson,Brad Meier,Nashville Predators,Chicago Blackhawks
+2006020505,Anaheim Ducks,4,Dallas Stars,1,Wes McCauley,Dan Marouelli,Anaheim Ducks,Dallas Stars
+2006020506,Boston Bruins,2,Vancouver Canucks,0,Marc Joannette,Mike Hasenfratz,Boston Bruins,Vancouver Canucks
+2006020507,Atlanta Thrashers,3,Pittsburgh Penguins,3,Craig Spada,Eric Furlatt,Atlanta Thrashers,Pittsburgh Penguins
+2006020508,Montréal Canadiens,4,Philadelphia Flyers,2,Don Koharski,Greg Kimmerly,Montréal Canadiens,Philadelphia Flyers
+2006020509,Ottawa Senators,2,Tampa Bay Lightning,4,Chris Lee,Dean Warren,Tampa Bay Lightning,Ottawa Senators
+2006020510,Florida Panthers,3,New York Rangers,2,Dan O'Rourke,Ian Walsh,Florida Panthers,New York Rangers
+2006020511,St. Louis Blues,5,Los Angeles Kings,2,Kelly Sutherland,Stephane Auger,St. Louis Blues,Los Angeles Kings
+2006020512,Nashville Predators,2,Buffalo Sabres,7,Kerry Fraser,Mike Leggo,Buffalo Sabres,Nashville Predators
+2006020513,Colorado Avalanche,6,Calgary Flames,3,Kerry Fraser,Brad Watson,Colorado Avalanche,Calgary Flames
+2006020514,Phoenix Coyotes,2,Edmonton Oilers,3,Chris Rooney,Tim Peel,Edmonton Oilers,Phoenix Coyotes
+2006020515,San Jose Sharks,0,Dallas Stars,3,Wes McCauley,Dan Marouelli,Dallas Stars,San Jose Sharks
+2006020516,Washington Capitals,1,New Jersey Devils,4,Bill McCreary,Kevin Pollock,New Jersey Devils,Washington Capitals
+2006020517,Carolina Hurricanes,5,New York Islanders,1,Kerry Fraser,Ian Walsh,Carolina Hurricanes,New York Islanders
+2006020518,Columbus Blue Jackets,3,Vancouver Canucks,2,Eric Furlatt,Justin StPierre,Columbus Blue Jackets,Vancouver Canucks
+2006020519,Detroit Red Wings,3,Minnesota Wild,1,Chris Lee,Brad Meier,Detroit Red Wings,Minnesota Wild
+2006020520,Chicago Blackhawks,3,Toronto Maple Leafs,1,Paul Devorski,Gord Dwyer,Chicago Blackhawks,Toronto Maple Leafs
+2006020521,Philadelphia Flyers,3,Ottawa Senators,6,Bill McCreary,Kevin Pollock,Ottawa Senators,Philadelphia Flyers
+2006020522,Boston Bruins,4,Montréal Canadiens,2,Dave Jackson,Greg Kimmerly,Boston Bruins,Montréal Canadiens
+2006020523,Toronto Maple Leafs,2,Washington Capitals,3,Paul Devorski,Dan O'Halloran,Washington Capitals,Toronto Maple Leafs
+2006020524,New York Islanders,4,Columbus Blue Jackets,0,Craig Spada,Dean Warren,New York Islanders,Columbus Blue Jackets
+2006020525,Atlanta Thrashers,5,New Jersey Devils,2,Dan O'Rourke,Justin StPierre,Atlanta Thrashers,New Jersey Devils
+2006020526,Tampa Bay Lightning,4,New York Rangers,3,Don Koharski,Rob Martell,Tampa Bay Lightning,New York Rangers
+2006020527,Florida Panthers,2,Carolina Hurricanes,3,Wes McCauley,Ian Walsh,Carolina Hurricanes,Florida Panthers
+2006020528,St. Louis Blues,3,Buffalo Sabres,2,Chris Lee,Brad Meier,St. Louis Blues,Buffalo Sabres
+2006020529,Nashville Predators,7,Los Angeles Kings,0,Chris Rooney,Mike Hasenfratz,Nashville Predators,Los Angeles Kings
+2006020530,Minnesota Wild,3,Detroit Red Wings,2,Michael McGeough,Tom Kowal,Minnesota Wild,Detroit Red Wings
+2006020531,Dallas Stars,3,Edmonton Oilers,2,Dennis LaRue,Marc Joannette,Dallas Stars,Edmonton Oilers
+2006020532,Colorado Avalanche,3,Chicago Blackhawks,2,Brad Watson,Gord Dwyer,Colorado Avalanche,Chicago Blackhawks
+2006020533,Phoenix Coyotes,2,Anaheim Ducks,0,Kelly Sutherland,Rob Shick,Phoenix Coyotes,Anaheim Ducks
+2006020534,San Jose Sharks,4,Calgary Flames,1,Mike Leggo,Tim Peel,San Jose Sharks,Calgary Flames
+2006020535,Buffalo Sabres,6,Washington Capitals,3,Greg Kimmerly,Dean Warren,Buffalo Sabres,Washington Capitals
+2006020536,Carolina Hurricanes,4,Florida Panthers,2,Wes McCauley,Chris Rooney,Carolina Hurricanes,Florida Panthers
+2006020537,Atlanta Thrashers,2,Tampa Bay Lightning,1,Don Koharski,Rob Martell,Atlanta Thrashers,Tampa Bay Lightning
+2006020538,Columbus Blue Jackets,5,Boston Bruins,4,Kevin Pollock,Gord Dwyer,Columbus Blue Jackets,Boston Bruins
+2006020539,Chicago Blackhawks,2,Dallas Stars,1,Tim Peel,Justin StPierre,Chicago Blackhawks,Dallas Stars
+2006020540,Toronto Maple Leafs,4,Minnesota Wild,3,Bill McCreary,Stephane Auger,Toronto Maple Leafs,Minnesota Wild
+2006020541,New Jersey Devils,3,Pittsburgh Penguins,0,Dave Jackson,Mike Hasenfratz,New Jersey Devils,Pittsburgh Penguins
+2006020542,New York Islanders,2,New York Rangers,0,Kerry Fraser,Ian Walsh,New York Islanders,New York Rangers
+2006020543,Nashville Predators,2,St. Louis Blues,2,Dan O'Rourke,Dan O'Halloran,Nashville Predators,St. Louis Blues
+2006020544,Calgary Flames,1,Vancouver Canucks,3,Tom Kowal,Brad Meier,Vancouver Canucks,Calgary Flames
+2006020545,Los Angeles Kings,3,Phoenix Coyotes,3,Mike Leggo,Rob Shick,Los Angeles Kings,Phoenix Coyotes
+2006020546,San Jose Sharks,3,Anaheim Ducks,4,Michael McGeough,Brad Watson,Anaheim Ducks,San Jose Sharks
+2006020547,Washington Capitals,1,Montréal Canadiens,4,Dave Jackson,Mike Hasenfratz,Montréal Canadiens,Washington Capitals
+2006020548,Ottawa Senators,2,New York Islanders,0,Dan Marouelli,Eric Furlatt,Ottawa Senators,New York Islanders
+2006020549,Pittsburgh Penguins,2,Atlanta Thrashers,4,Paul Devorski,Chris Lee,Atlanta Thrashers,Pittsburgh Penguins
+2006020550,Florida Panthers,3,Philadelphia Flyers,1,Don Koharski,Rob Martell,Florida Panthers,Philadelphia Flyers
+2006020551,Detroit Red Wings,3,Minnesota Wild,1,Craig Spada,Marc Joannette,Detroit Red Wings,Minnesota Wild
+2006020552,Colorado Avalanche,4,Dallas Stars,5,Dan O'Rourke,Dan O'Halloran,Dallas Stars,Colorado Avalanche
+2006020553,Vancouver Canucks,6,Calgary Flames,5,Kelly Sutherland,Dennis LaRue,Vancouver Canucks,Calgary Flames
+2006020554,Buffalo Sabres,4,Carolina Hurricanes,1,Kerry Fraser,Ian Walsh,Buffalo Sabres,Carolina Hurricanes
+2006020555,Columbus Blue Jackets,4,Detroit Red Wings,7,Don VanMassenhoven,Dean Warren,Detroit Red Wings,Columbus Blue Jackets
+2006020556,Tampa Bay Lightning,3,Philadelphia Flyers,4,Wes McCauley,Chris Rooney,Philadelphia Flyers,Tampa Bay Lightning
+2006020557,Edmonton Oilers,4,Los Angeles Kings,7,Kelly Sutherland,Dennis LaRue,Los Angeles Kings,Edmonton Oilers
+2006020558,San Jose Sharks,2,Phoenix Coyotes,3,Mike Leggo,Justin StPierre,Phoenix Coyotes,San Jose Sharks
+2006020559,Carolina Hurricanes,4,Anaheim Ducks,2,Paul Devorski,Chris Lee,Carolina Hurricanes,Anaheim Ducks
+2006020560,Ottawa Senators,1,New York Rangers,0,Kerry Fraser,Ian Walsh,Ottawa Senators,New York Rangers
+2006020561,New Jersey Devils,4,Washington Capitals,3,Rob Shick,Eric Furlatt,New Jersey Devils,Washington Capitals
+2006020562,Pittsburgh Penguins,4,Toronto Maple Leafs,1,Dave Jackson,Mike Hasenfratz,Pittsburgh Penguins,Toronto Maple Leafs
+2006020563,Florida Panthers,3,Montréal Canadiens,1,Wes McCauley,Chris Rooney,Florida Panthers,Montréal Canadiens
+2006020564,Minnesota Wild,4,Columbus Blue Jackets,3,Tom Kowal,Brad Meier,Minnesota Wild,Columbus Blue Jackets
+2006020565,Chicago Blackhawks,3,Boston Bruins,5,Craig Spada,Marc Joannette,Boston Bruins,Chicago Blackhawks
+2006020566,Dallas Stars,4,Nashville Predators,1,Don Koharski,Rob Martell,Dallas Stars,Nashville Predators
+2006020567,Colorado Avalanche,2,St. Louis Blues,4,Dan O'Rourke,Dan O'Halloran,St. Louis Blues,Colorado Avalanche
+2006020568,Calgary Flames,6,Los Angeles Kings,4,Bill McCreary,Stephane Auger,Calgary Flames,Los Angeles Kings
+2006020569,Buffalo Sabres,4,Atlanta Thrashers,1,Eric Furlatt,Gord Dwyer,Buffalo Sabres,Atlanta Thrashers
+2006020570,Toronto Maple Leafs,2,Ottawa Senators,3,Ian Walsh,Dean Warren,Ottawa Senators,Toronto Maple Leafs
+2006020571,New York Islanders,0,New Jersey Devils,2,Rob Shick,Tim Peel,New Jersey Devils,New York Islanders
+2006020572,New York Rangers,4,Washington Capitals,1,Dan Marouelli,Kevin Pollock,New York Rangers,Washington Capitals
+2006020573,Tampa Bay Lightning,3,Montréal Canadiens,1,Paul Devorski,Chris Lee,Tampa Bay Lightning,Montréal Canadiens
+2006020574,St. Louis Blues,2,Colorado Avalanche,0,Kelly Sutherland,Dennis LaRue,St. Louis Blues,Colorado Avalanche
+2006020575,Nashville Predators,5,Boston Bruins,0,Greg Kimmerly,Don VanMassenhoven,Nashville Predators,Boston Bruins
+2006020576,Phoenix Coyotes,8,San Jose Sharks,0,Michael McGeough,Justin StPierre,Phoenix Coyotes,San Jose Sharks
+2006020577,Edmonton Oilers,2,Vancouver Canucks,6,Bill McCreary,Stephane Auger,Vancouver Canucks,Edmonton Oilers
+2006020578,Minnesota Wild,4,Anaheim Ducks,3,Dan O'Rourke,Brad Meier,Minnesota Wild,Anaheim Ducks
+2006020579,Detroit Red Wings,6,Los Angeles Kings,2,Dan O'Halloran,Tom Kowal,Detroit Red Wings,Los Angeles Kings
+2006020580,Columbus Blue Jackets,3,Chicago Blackhawks,1,Dave Jackson,Mike Hasenfratz,Columbus Blue Jackets,Chicago Blackhawks
+2006020581,Carolina Hurricanes,2,Philadelphia Flyers,5,Wes McCauley,Rob Martell,Philadelphia Flyers,Carolina Hurricanes
+2006020582,Calgary Flames,4,Edmonton Oilers,2,Bill McCreary,Stephane Auger,Calgary Flames,Edmonton Oilers
+2006020583,Dallas Stars,2,San Jose Sharks,4,Craig Spada,Marc Joannette,San Jose Sharks,Dallas Stars
+2006020584,Ottawa Senators,2,Atlanta Thrashers,3,Greg Kimmerly,Don VanMassenhoven,Atlanta Thrashers,Ottawa Senators
+2006020585,Washington Capitals,2,Phoenix Coyotes,3,Kevin Pollock,Gord Dwyer,Phoenix Coyotes,Washington Capitals
+2006020586,Nashville Predators,3,Colorado Avalanche,5,Rob Shick,Chris Lee,Colorado Avalanche,Nashville Predators
+2006020587,Buffalo Sabres,3,New York Islanders,1,Dan Marouelli,Dean Warren,Buffalo Sabres,New York Islanders
+2006020588,Toronto Maple Leafs,5,Boston Bruins,1,Tim Peel,Justin StPierre,Toronto Maple Leafs,Boston Bruins
+2006020589,St. Louis Blues,1,Chicago Blackhawks,4,Craig Spada,Marc Joannette,Chicago Blackhawks,St. Louis Blues
+2006020590,Montréal Canadiens,5,Tampa Bay Lightning,2,Greg Kimmerly,Don VanMassenhoven,Montréal Canadiens,Tampa Bay Lightning
+2006020591,New Jersey Devils,2,New York Rangers,2,Kerry Fraser,Tim Peel,New Jersey Devils,New York Rangers
+2006020592,New York Islanders,2,Philadelphia Flyers,3,Wes McCauley,Rob Martell,Philadelphia Flyers,New York Islanders
+2006020593,Pittsburgh Penguins,3,Carolina Hurricanes,0,Kevin Pollock,Gord Dwyer,Pittsburgh Penguins,Carolina Hurricanes
+2006020594,Detroit Red Wings,2,Anaheim Ducks,1,Dave Jackson,Mike Hasenfratz,Detroit Red Wings,Anaheim Ducks
+2006020595,Minnesota Wild,5,Atlanta Thrashers,1,Bill McCreary,Stephane Auger,Minnesota Wild,Atlanta Thrashers
+2006020596,Calgary Flames,2,Vancouver Canucks,3,Michael McGeough,Brad Watson,Vancouver Canucks,Calgary Flames
+2006020597,Edmonton Oilers,4,Florida Panthers,1,Tom Kowal,Brad Meier,Edmonton Oilers,Florida Panthers
+2006020598,Ottawa Senators,6,Buffalo Sabres,3,Rob Martell,Justin StPierre,Ottawa Senators,Buffalo Sabres
+2006020599,Vancouver Canucks,1,Dallas Stars,1,Michael McGeough,Brad Watson,Vancouver Canucks,Dallas Stars
+2006020600,Los Angeles Kings,3,Columbus Blue Jackets,0,Chris Rooney,Don Koharski,Los Angeles Kings,Columbus Blue Jackets
+2006020601,Boston Bruins,2,Toronto Maple Leafs,10,Eric Furlatt,Gord Dwyer,Toronto Maple Leafs,Boston Bruins
+2006020602,New York Rangers,3,Philadelphia Flyers,2,Dan O'Rourke,Paul Devorski,New York Rangers,Philadelphia Flyers
+2006020603,Washington Capitals,5,Montréal Canadiens,1,Wes McCauley,Tim Peel,Washington Capitals,Montréal Canadiens
+2006020604,Carolina Hurricanes,0,Phoenix Coyotes,2,Kevin Pollock,Dean Warren,Phoenix Coyotes,Carolina Hurricanes
+2006020605,New Jersey Devils,4,New York Islanders,3,Greg Kimmerly,Don VanMassenhoven,New Jersey Devils,New York Islanders
+2006020606,St. Louis Blues,2,Chicago Blackhawks,0,Bill McCreary,Stephane Auger,St. Louis Blues,Chicago Blackhawks
+2006020607,Minnesota Wild,2,Tampa Bay Lightning,3,Craig Spada,Marc Joannette,Tampa Bay Lightning,Minnesota Wild
+2006020608,Calgary Flames,5,Florida Panthers,4,Mike Leggo,Dennis LaRue,Calgary Flames,Florida Panthers
+2006020609,Edmonton Oilers,5,Dallas Stars,5,Dan O'Halloran,Ian Walsh,Edmonton Oilers,Dallas Stars
+2006020610,San Jose Sharks,9,Detroit Red Wings,4,Chris Rooney,Don Koharski,San Jose Sharks,Detroit Red Wings
+2006020611,Atlanta Thrashers,4,Phoenix Coyotes,5,Kevin Pollock,Dean Warren,Phoenix Coyotes,Atlanta Thrashers
+2006020612,Buffalo Sabres,2,Pittsburgh Penguins,4,Don VanMassenhoven,Justin StPierre,Pittsburgh Penguins,Buffalo Sabres
+2006020613,Chicago Blackhawks,3,Nashville Predators,8,Stephane Auger,Michael McGeough,Nashville Predators,Chicago Blackhawks
+2006020614,Colorado Avalanche,4,Tampa Bay Lightning,2,Kerry Fraser,Kelly Sutherland,Colorado Avalanche,Tampa Bay Lightning
+2006020615,Vancouver Canucks,3,Edmonton Oilers,2,Mike Leggo,Dennis LaRue,Vancouver Canucks,Edmonton Oilers
+2006020616,Anaheim Ducks,3,Columbus Blue Jackets,4,Chris Rooney,Don Koharski,Columbus Blue Jackets,Anaheim Ducks
+2006020617,Boston Bruins,4,Philadelphia Flyers,3,Wes McCauley,Dan Marouelli,Boston Bruins,Philadelphia Flyers
+2006020618,Ottawa Senators,2,New Jersey Devils,3,Dan O'Rourke,Paul Devorski,New Jersey Devils,Ottawa Senators
+2006020619,Montréal Canadiens,3,New York Rangers,4,Marc Joannette,Mike Hasenfratz,New York Rangers,Montréal Canadiens
+2006020620,Toronto Maple Leafs,3,Buffalo Sabres,4,Chris Lee,Tom Kowal,Buffalo Sabres,Toronto Maple Leafs
+2006020621,Washington Capitals,3,Atlanta Thrashers,2,Rob Martell,Brad Meier,Washington Capitals,Atlanta Thrashers
+2006020622,Carolina Hurricanes,4,New York Islanders,2,Dave Jackson,Greg Kimmerly,Carolina Hurricanes,New York Islanders
+2006020623,Nashville Predators,3,St. Louis Blues,2,Kevin Pollock,Dean Warren,Nashville Predators,St. Louis Blues
+2006020624,Minnesota Wild,1,Colorado Avalanche,1,Bill McCreary,Stephane Auger,Minnesota Wild,Colorado Avalanche
+2006020625,Calgary Flames,4,Dallas Stars,2,Dan O'Halloran,Ian Walsh,Calgary Flames,Dallas Stars
+2006020626,Los Angeles Kings,4,Detroit Red Wings,2,Kerry Fraser,Kelly Sutherland,Los Angeles Kings,Detroit Red Wings
+2006020627,San Jose Sharks,5,Columbus Blue Jackets,2,Craig Spada,Brad Watson,San Jose Sharks,Columbus Blue Jackets
+2006020628,Ottawa Senators,6,Philadelphia Flyers,1,Mike Hasenfratz,Steve Kozari,Ottawa Senators,Philadelphia Flyers
+2006020629,Montréal Canadiens,0,New Jersey Devils,3,Wes McCauley,Dan Marouelli,New Jersey Devils,Montréal Canadiens
+2006020630,Chicago Blackhawks,2,Phoenix Coyotes,4,Rob Shick,Michael McGeough,Phoenix Coyotes,Chicago Blackhawks
+2006020631,Pittsburgh Penguins,2,Tampa Bay Lightning,2,Chris Lee,Brad Meier,Pittsburgh Penguins,Tampa Bay Lightning
+2006020632,Anaheim Ducks,4,Detroit Red Wings,2,Chris Rooney,Don Koharski,Anaheim Ducks,Detroit Red Wings
+2006020633,Vancouver Canucks,3,Florida Panthers,3,Dan O'Halloran,Ian Walsh,Vancouver Canucks,Florida Panthers
+2006020634,Los Angeles Kings,1,Edmonton Oilers,2,Don Koharski,Brad Watson,Edmonton Oilers,Los Angeles Kings
+2006020635,New York Rangers,3,New York Islanders,5,Rob Shick,Dean Morton,New York Islanders,New York Rangers
+2006020636,Washington Capitals,6,Philadelphia Flyers,2,Kerry Fraser,Dean Warren,Washington Capitals,Philadelphia Flyers
+2006020637,Columbus Blue Jackets,3,St. Louis Blues,3,Michael McGeough,Chris Lee,Columbus Blue Jackets,St. Louis Blues
+2006020638,Toronto Maple Leafs,1,Carolina Hurricanes,4,Mike Hasenfratz,Steve Kozari,Carolina Hurricanes,Toronto Maple Leafs
+2006020639,Montréal Canadiens,4,Atlanta Thrashers,2,Bill McCreary,Stephane Auger,Montréal Canadiens,Atlanta Thrashers
+2006020640,Ottawa Senators,5,Boston Bruins,2,Wes McCauley,Tom Kowal,Ottawa Senators,Boston Bruins
+2006020641,Tampa Bay Lightning,3,Pittsburgh Penguins,2,Dan O'Rourke,Rob Martell,Tampa Bay Lightning,Pittsburgh Penguins
+2006020642,Nashville Predators,5,Anaheim Ducks,4,Dennis LaRue,Brad Meier,Nashville Predators,Anaheim Ducks
+2006020643,Dallas Stars,2,Phoenix Coyotes,5,Don VanMassenhoven,Justin StPierre,Phoenix Coyotes,Dallas Stars
+2006020644,Colorado Avalanche,3,Detroit Red Wings,3,Eric Furlatt,Gord Dwyer,Colorado Avalanche,Detroit Red Wings
+2006020645,Calgary Flames,3,Minnesota Wild,0,Dan O'Halloran,Ian Walsh,Calgary Flames,Minnesota Wild
+2006020646,New Jersey Devils,2,St. Louis Blues,3,Rob Shick,Michael McGeough,St. Louis Blues,New Jersey Devils
+2006020647,Florida Panthers,5,Pittsburgh Penguins,2,Dan O'Rourke,Rob Martell,Florida Panthers,Pittsburgh Penguins
+2006020648,Chicago Blackhawks,1,Buffalo Sabres,2,Greg Kimmerly,Brad Meier,Buffalo Sabres,Chicago Blackhawks
+2006020649,San Jose Sharks,2,Edmonton Oilers,3,Don Koharski,Brad Watson,Edmonton Oilers,San Jose Sharks
+2006020650,Boston Bruins,4,New York Islanders,4,Kerry Fraser,Dean Warren,Boston Bruins,New York Islanders
+2006020651,Buffalo Sabres,2,Toronto Maple Leafs,4,Rob Shick,Tom Kowal,Toronto Maple Leafs,Buffalo Sabres
+2006020652,New York Rangers,4,Ottawa Senators,6,Tim Peel,Mike Hasenfratz,Ottawa Senators,New York Rangers
+2006020653,Philadelphia Flyers,2,Montréal Canadiens,4,Stephane Auger,Chris Lee,Montréal Canadiens,Philadelphia Flyers
+2006020655,Tampa Bay Lightning,5,Washington Capitals,4,Mike Leggo,Dennis LaRue,Tampa Bay Lightning,Washington Capitals
+2006020656,Dallas Stars,1,Anaheim Ducks,5,Dave Jackson,Justin StPierre,Anaheim Ducks,Dallas Stars
+2006020657,Colorado Avalanche,3,Calgary Flames,7,Paul Devorski,Don VanMassenhoven,Calgary Flames,Colorado Avalanche
+2006020658,Phoenix Coyotes,1,Detroit Red Wings,5,Eric Furlatt,Gord Dwyer,Detroit Red Wings,Phoenix Coyotes
+2006020659,Vancouver Canucks,2,Minnesota Wild,5,Kelly Sutherland,Dan O'Halloran,Minnesota Wild,Vancouver Canucks
+2006020660,Los Angeles Kings,2,San Jose Sharks,5,Marc Joannette,Kevin Pollock,San Jose Sharks,Los Angeles Kings
+2006020661,New Jersey Devils,2,Atlanta Thrashers,1,Tim Peel,Mike Hasenfratz,New Jersey Devils,Atlanta Thrashers
+2006020662,Nashville Predators,2,Columbus Blue Jackets,0,Rob Martell,Brad Meier,Nashville Predators,Columbus Blue Jackets
+2006020663,Edmonton Oilers,2,Minnesota Wild,4,Kelly Sutherland,Greg Kimmerly,Minnesota Wild,Edmonton Oilers
+2006020664,Ottawa Senators,8,Montréal Canadiens,3,Chris Rooney,Bill McCreary,Ottawa Senators,Montréal Canadiens
+2006020665,New York Rangers,3,Boston Bruins,1,Rob Shick,Ian Walsh,New York Rangers,Boston Bruins
+2006020666,Philadelphia Flyers,3,Pittsburgh Penguins,5,Tom Kowal,Dean Warren,Pittsburgh Penguins,Philadelphia Flyers
+2006020667,St. Louis Blues,6,Los Angeles Kings,5,Dave Jackson,Justin StPierre,St. Louis Blues,Los Angeles Kings
+2006020668,Buffalo Sabres,2,Tampa Bay Lightning,3,Wes McCauley,Mike Hasenfratz,Tampa Bay Lightning,Buffalo Sabres
+2006020669,Toronto Maple Leafs,1,Vancouver Canucks,6,Eric Furlatt,Gord Dwyer,Vancouver Canucks,Toronto Maple Leafs
+2006020670,New York Islanders,1,New Jersey Devils,2,Dan Marouelli,Chris Lee,New Jersey Devils,New York Islanders
+2006020671,Carolina Hurricanes,3,Atlanta Thrashers,3,Kerry Fraser,Stephane Auger,Carolina Hurricanes,Atlanta Thrashers
+2006020672,Detroit Red Wings,6,Chicago Blackhawks,3,Michael McGeough,Craig Spada,Detroit Red Wings,Chicago Blackhawks
+2006020673,Columbus Blue Jackets,1,Nashville Predators,4,Dennis LaRue,Rob Martell,Nashville Predators,Columbus Blue Jackets
+2006020674,Florida Panthers,7,Washington Capitals,3,Mike Leggo,Brad Meier,Florida Panthers,Washington Capitals
+2006020675,Phoenix Coyotes,1,San Jose Sharks,4,Paul Devorski,Don VanMassenhoven,San Jose Sharks,Phoenix Coyotes
+2006020676,Calgary Flames,3,Edmonton Oilers,1,Kelly Sutherland,Greg Kimmerly,Calgary Flames,Edmonton Oilers
+2006020677,Anaheim Ducks,2,Colorado Avalanche,2,Marc Joannette,Kevin Pollock,Anaheim Ducks,Colorado Avalanche
+2006020678,Chicago Blackhawks,3,Minnesota Wild,3,Dave Jackson,Justin StPierre,Chicago Blackhawks,Minnesota Wild
+2006020679,New York Islanders,3,Tampa Bay Lightning,4,Rob Shick,Ian Walsh,Tampa Bay Lightning,New York Islanders
+2006020680,Boston Bruins,2,Buffalo Sabres,2,Kerry Fraser,Tom Kowal,Boston Bruins,Buffalo Sabres
+2006020681,Dallas Stars,3,Los Angeles Kings,1,Paul Devorski,Marc Joannette,Dallas Stars,Los Angeles Kings
+2006020682,Phoenix Coyotes,4,St. Louis Blues,4,Greg Kimmerly,Kevin Pollock,Phoenix Coyotes,St. Louis Blues
+2006020683,Nashville Predators,5,Calgary Flames,3,Mike Leggo,Justin StPierre,Nashville Predators,Calgary Flames
+2006020684,Detroit Red Wings,2,Montréal Canadiens,0,Brad Watson,Brad Meier,Detroit Red Wings,Montréal Canadiens
+2006020685,San Jose Sharks,3,Colorado Avalanche,1,Kelly Sutherland,Don VanMassenhoven,San Jose Sharks,Colorado Avalanche
+2006020686,Pittsburgh Penguins,5,New York Islanders,2,Craig Spada,Brad Watson,Pittsburgh Penguins,New York Islanders
+2006020687,Atlanta Thrashers,6,Los Angeles Kings,2,Wes McCauley,Dan Marouelli,Atlanta Thrashers,Los Angeles Kings
+2006020688,Montréal Canadiens,0,Vancouver Canucks,4,Tom Kowal,Dean Warren,Vancouver Canucks,Montréal Canadiens
+2006020689,Ottawa Senators,5,Washington Capitals,2,Dan O'Halloran,Brian Pochmara,Ottawa Senators,Washington Capitals
+2006020690,New Jersey Devils,1,New York Rangers,0,Kerry Fraser,Eric Furlatt,New Jersey Devils,New York Rangers
+2006020691,Tampa Bay Lightning,2,Toronto Maple Leafs,4,Mike Leggo,Dennis LaRue,Toronto Maple Leafs,Tampa Bay Lightning
+2006020692,Florida Panthers,2,Carolina Hurricanes,3,Don Koharski,Mike Hasenfratz,Carolina Hurricanes,Florida Panthers
+2006020693,Minnesota Wild,1,Edmonton Oilers,2,Dave Jackson,Tim Peel,Edmonton Oilers,Minnesota Wild
+2006020694,Chicago Blackhawks,4,Columbus Blue Jackets,5,Bill McCreary,Gord Dwyer,Columbus Blue Jackets,Chicago Blackhawks
+2006020695,Anaheim Ducks,2,St. Louis Blues,6,Kelly Sutherland,Don VanMassenhoven,St. Louis Blues,Anaheim Ducks
+2006020696,Buffalo Sabres,6,Boston Bruins,3,Chris Rooney,Ian Walsh,Buffalo Sabres,Boston Bruins
+2006020697,Detroit Red Wings,5,Nashville Predators,3,Bill McCreary,Justin StPierre,Detroit Red Wings,Nashville Predators
+2006020698,Dallas Stars,4,Calgary Flames,2,Greg Kimmerly,Kevin Pollock,Dallas Stars,Calgary Flames
+2006020699,Colorado Avalanche,4,Phoenix Coyotes,3,Marc Joannette,Brad Meier,Colorado Avalanche,Phoenix Coyotes
+2006020700,Boston Bruins,4,Pittsburgh Penguins,4,Dan O'Halloran,Brian Pochmara,Boston Bruins,Pittsburgh Penguins
+2006020701,Philadelphia Flyers,2,New York Islanders,4,Rob Martell,Eric Furlatt,New York Islanders,Philadelphia Flyers
+2006020702,Carolina Hurricanes,2,Washington Capitals,5,Dennis LaRue,Tom Kowal,Washington Capitals,Carolina Hurricanes
+2006020703,Atlanta Thrashers,1,Montréal Canadiens,4,Mike Leggo,Don Koharski,Montréal Canadiens,Atlanta Thrashers
+2006020704,Ottawa Senators,1,Vancouver Canucks,2,Kerry Fraser,Stephane Auger,Vancouver Canucks,Ottawa Senators
+2006020705,New Jersey Devils,2,Tampa Bay Lightning,2,Craig Spada,Brad Watson,New Jersey Devils,Tampa Bay Lightning
+2006020706,Florida Panthers,2,Toronto Maple Leafs,3,Wes McCauley,Dan Marouelli,Toronto Maple Leafs,Florida Panthers
+2006020707,Nashville Predators,4,Columbus Blue Jackets,0,Dan O'Rourke,Kelly Sutherland,Nashville Predators,Columbus Blue Jackets
+2006020708,Edmonton Oilers,4,Anaheim Ducks,1,Dave Jackson,Steve Kozari,Edmonton Oilers,Anaheim Ducks
+2006020709,Los Angeles Kings,1,St. Louis Blues,3,Rob Shick,Don VanMassenhoven,St. Louis Blues,Los Angeles Kings
+2006020710,San Jose Sharks,5,Phoenix Coyotes,2,Michael McGeough,Tim Peel,San Jose Sharks,Phoenix Coyotes
+2006020711,Columbus Blue Jackets,3,Detroit Red Wings,1,Dennis LaRue,Ian Walsh,Columbus Blue Jackets,Detroit Red Wings
+2006020712,Buffalo Sabres,3,Vancouver Canucks,3,Brad Watson,Gord Dwyer,Buffalo Sabres,Vancouver Canucks
+2006020713,Chicago Blackhawks,0,Minnesota Wild,3,Dan O'Rourke,Kelly Sutherland,Minnesota Wild,Chicago Blackhawks
+2006020714,Calgary Flames,3,Anaheim Ducks,2,Kevin Pollock,Steve Kozari,Calgary Flames,Anaheim Ducks
+2006020715,New Jersey Devils,3,Philadelphia Flyers,3,Wes McCauley,Greg Kimmerly,New Jersey Devils,Philadelphia Flyers
+2006020716,New York Rangers,1,Atlanta Thrashers,3,Stephane Auger,Eric Furlatt,Atlanta Thrashers,New York Rangers
+2006020717,Washington Capitals,1,Florida Panthers,4,Bill McCreary,Craig Spada,Florida Panthers,Washington Capitals
+2006020718,Boston Bruins,0,Ottawa Senators,3,Dan Marouelli,Chris Lee,Ottawa Senators,Boston Bruins
+2006020719,Montréal Canadiens,4,Buffalo Sabres,3,Dan O'Halloran,Gord Dwyer,Montréal Canadiens,Buffalo Sabres
+2006020720,Pittsburgh Penguins,8,Toronto Maple Leafs,2,Chris Rooney,Dennis LaRue,Pittsburgh Penguins,Toronto Maple Leafs
+2006020721,Nashville Predators,6,Chicago Blackhawks,3,Don Koharski,Mike Hasenfratz,Nashville Predators,Chicago Blackhawks
+2006020722,Minnesota Wild,1,Dallas Stars,1,Dan O'Rourke,Paul Devorski,Minnesota Wild,Dallas Stars
+2006020723,Carolina Hurricanes,5,Tampa Bay Lightning,5,Kerry Fraser,Rob Martell,Carolina Hurricanes,Tampa Bay Lightning
+2006020724,Colorado Avalanche,3,Detroit Red Wings,1,Rob Shick,Michael McGeough,Colorado Avalanche,Detroit Red Wings
+2006020725,Edmonton Oilers,0,Calgary Flames,4,Kevin Pollock,Steve Kozari,Calgary Flames,Edmonton Oilers
+2006020726,Los Angeles Kings,2,Phoenix Coyotes,3,Dave Jackson,Tim Peel,Phoenix Coyotes,Los Angeles Kings
+2006020727,San Jose Sharks,0,St. Louis Blues,1,Marc Joannette,Justin StPierre,St. Louis Blues,San Jose Sharks
+2006020728,Carolina Hurricanes,6,Washington Capitals,2,Craig Spada,Mike Hasenfratz,Carolina Hurricanes,Washington Capitals
+2006020729,Columbus Blue Jackets,3,Buffalo Sabres,2,Dan O'Halloran,Justin StPierre,Columbus Blue Jackets,Buffalo Sabres
+2006020730,Atlanta Thrashers,5,New York Islanders,4,Dan O'Rourke,Don Koharski,Atlanta Thrashers,New York Islanders
+2006020731,Tampa Bay Lightning,0,New Jersey Devils,2,Michael McGeough,Dean Warren,New Jersey Devils,Tampa Bay Lightning
+2006020732,St. Louis Blues,2,Detroit Red Wings,1,Chris Rooney,Ian Walsh,St. Louis Blues,Detroit Red Wings
+2006020733,Minnesota Wild,1,Calgary Flames,1,Rob Shick,Chris Lee,Minnesota Wild,Calgary Flames
+2006020734,Chicago Blackhawks,1,Nashville Predators,3,Dan Marouelli,Brad Meier,Nashville Predators,Chicago Blackhawks
+2006020735,Dallas Stars,3,Pittsburgh Penguins,3,Mike Leggo,Rob Martell,Dallas Stars,Pittsburgh Penguins
+2006020736,Colorado Avalanche,4,Phoenix Coyotes,4,Dave Jackson,Stephane Auger,Colorado Avalanche,Phoenix Coyotes
+2006020737,Edmonton Oilers,1,San Jose Sharks,5,Kerry Fraser,Gord Dwyer,San Jose Sharks,Edmonton Oilers
+2006020738,Vancouver Canucks,2,Los Angeles Kings,3,Paul Devorski,Tim Peel,Los Angeles Kings,Vancouver Canucks
+2006020739,Philadelphia Flyers,1,New York Rangers,2,Dennis LaRue,Don VanMassenhoven,New York Rangers,Philadelphia Flyers
+2006020740,Toronto Maple Leafs,4,Montréal Canadiens,1,Dan O'Halloran,Brad Watson,Toronto Maple Leafs,Montréal Canadiens
+2006020741,Ottawa Senators,3,Boston Bruins,1,Bill McCreary,Kevin Pollock,Ottawa Senators,Boston Bruins
+2006020742,New York Islanders,5,Buffalo Sabres,3,Marc Joannette,Tom Kowal,New York Islanders,Buffalo Sabres
+2006020743,Washington Capitals,7,Carolina Hurricanes,3,Greg Kimmerly,Justin StPierre,Washington Capitals,Carolina Hurricanes
+2006020744,Columbus Blue Jackets,3,Minnesota Wild,2,Craig Spada,Eric Furlatt,Columbus Blue Jackets,Minnesota Wild
+2006020745,Florida Panthers,4,New Jersey Devils,2,Michael McGeough,Dean Warren,Florida Panthers,New Jersey Devils
+2006020746,St. Louis Blues,3,Nashville Predators,6,Wes McCauley,Brad Meier,Nashville Predators,St. Louis Blues
+2006020747,Phoenix Coyotes,2,Pittsburgh Penguins,7,Kelly Sutherland,Rob Martell,Pittsburgh Penguins,Phoenix Coyotes
+2006020748,Edmonton Oilers,4,Los Angeles Kings,3,Paul Devorski,Tim Peel,Edmonton Oilers,Los Angeles Kings
+2006020749,Chicago Blackhawks,4,Calgary Flames,3,Rob Shick,Chris Lee,Chicago Blackhawks,Calgary Flames
+2006020750,Atlanta Thrashers,1,Philadelphia Flyers,2,Chris Rooney,Ian Walsh,Philadelphia Flyers,Atlanta Thrashers
+2006020751,Detroit Red Wings,3,Colorado Avalanche,1,Mike Leggo,Don Koharski,Detroit Red Wings,Colorado Avalanche
+2006020752,Anaheim Ducks,4,Dallas Stars,1,Dave Jackson,Stephane Auger,Anaheim Ducks,Dallas Stars
+2006020753,Vancouver Canucks,3,San Jose Sharks,1,Kerry Fraser,Gord Dwyer,Vancouver Canucks,San Jose Sharks
+2006020754,Boston Bruins,1,New York Rangers,6,Dennis LaRue,Tom Kowal,New York Rangers,Boston Bruins
+2006020755,Montréal Canadiens,3,Ottawa Senators,1,Don VanMassenhoven,Brad Watson,Montréal Canadiens,Ottawa Senators
+2006020756,Buffalo Sabres,7,Boston Bruins,1,Marc Joannette,Mike Hasenfratz,Buffalo Sabres,Boston Bruins
+2006020757,Philadelphia Flyers,3,Tampa Bay Lightning,3,Don Koharski,Francois StLaurent,Philadelphia Flyers,Tampa Bay Lightning
+2006020758,Carolina Hurricanes,1,Toronto Maple Leafs,4,Dean Warren,Dean Morton,Toronto Maple Leafs,Carolina Hurricanes
+2006020759,Atlanta Thrashers,4,New Jersey Devils,4,Brad Meier,Brian Pochmara,Atlanta Thrashers,New Jersey Devils
+2006020760,Ottawa Senators,3,Washington Capitals,2,Brad Watson,Eric Furlatt,Ottawa Senators,Washington Capitals
+2006020761,New York Islanders,3,Detroit Red Wings,4,Dennis LaRue,Tom Kowal,Detroit Red Wings,New York Islanders
+2006020762,Pittsburgh Penguins,3,Florida Panthers,0,Chris Rooney,Ian Walsh,Pittsburgh Penguins,Florida Panthers
+2006020763,St. Louis Blues,2,Minnesota Wild,5,Mike Leggo,Rob Martell,Minnesota Wild,St. Louis Blues
+2006020764,Colorado Avalanche,4,Nashville Predators,3,Rob Shick,Chris Lee,Colorado Avalanche,Nashville Predators
+2006020765,Calgary Flames,4,Los Angeles Kings,1,Kerry Fraser,Gord Dwyer,Calgary Flames,Los Angeles Kings
+2006020766,Vancouver Canucks,2,Columbus Blue Jackets,2,Kelly Sutherland,Justin StPierre,Vancouver Canucks,Columbus Blue Jackets
+2006020767,San Jose Sharks,2,Dallas Stars,2,Dave Jackson,Stephane Auger,San Jose Sharks,Dallas Stars
+2006020768,New York Rangers,1,Toronto Maple Leafs,2,Wes McCauley,Dan Marouelli,Toronto Maple Leafs,New York Rangers
+2006020769,Edmonton Oilers,5,Columbus Blue Jackets,2,Michael McGeough,Gord Dwyer,Edmonton Oilers,Columbus Blue Jackets
+2006020770,Anaheim Ducks,2,Phoenix Coyotes,1,Bill McCreary,Dan O'Rourke,Anaheim Ducks,Phoenix Coyotes
+2006020771,Boston Bruins,1,Buffalo Sabres,3,Brad Watson,Eric Furlatt,Buffalo Sabres,Boston Bruins
+2006020772,Philadelphia Flyers,5,New Jersey Devils,6,Dennis LaRue,Tom Kowal,New Jersey Devils,Philadelphia Flyers
+2006020773,Carolina Hurricanes,0,Tampa Bay Lightning,4,Marc Joannette,Dean Warren,Tampa Bay Lightning,Carolina Hurricanes
+2006020774,Atlanta Thrashers,2,New York Islanders,5,Mike Hasenfratz,Dean Morton,New York Islanders,Atlanta Thrashers
+2006020775,Pittsburgh Penguins,4,Montréal Canadiens,4,Don Koharski,Francois StLaurent,Pittsburgh Penguins,Montréal Canadiens
+2006020776,Florida Panthers,6,Washington Capitals,3,Craig Spada,Brad Meier,Florida Panthers,Washington Capitals
+2006020777,Colorado Avalanche,3,Minnesota Wild,5,Kelly Sutherland,Dan O'Halloran,Minnesota Wild,Colorado Avalanche
+2006020778,Phoenix Coyotes,3,Nashville Predators,2,Greg Kimmerly,Chris Lee,Phoenix Coyotes,Nashville Predators
+2006020779,Vancouver Canucks,5,Edmonton Oilers,3,Kerry Fraser,Justin StPierre,Vancouver Canucks,Edmonton Oilers
+2006020780,Los Angeles Kings,2,Chicago Blackhawks,3,Dave Jackson,Rob Shick,Chicago Blackhawks,Los Angeles Kings
+2006020781,San Jose Sharks,2,Dallas Stars,4,Bill McCreary,Dan O'Rourke,Dallas Stars,San Jose Sharks
+2006020782,Detroit Red Wings,5,St. Louis Blues,3,Wes McCauley,Paul Devorski,Detroit Red Wings,St. Louis Blues
+2006020783,Calgary Flames,6,Columbus Blue Jackets,2,Michael McGeough,Justin StPierre,Calgary Flames,Columbus Blue Jackets
+2006020784,Montréal Canadiens,2,New York Islanders,4,Dan Marouelli,Stephane Auger,New York Islanders,Montréal Canadiens
+2006020785,Pittsburgh Penguins,2,Washington Capitals,0,Marc Joannette,Mike Hasenfratz,Pittsburgh Penguins,Washington Capitals
+2006020786,Colorado Avalanche,2,Edmonton Oilers,3,Dan O'Rourke,Chris Lee,Edmonton Oilers,Colorado Avalanche
+2006020787,San Jose Sharks,4,Chicago Blackhawks,2,Mike Leggo,Bill McCreary,San Jose Sharks,Chicago Blackhawks
+2006020788,Ottawa Senators,2,Toronto Maple Leafs,2,Chris Rooney,Don VanMassenhoven,Ottawa Senators,Toronto Maple Leafs
+2006020789,Atlanta Thrashers,2,Philadelphia Flyers,5,Rob Martell,Dean Warren,Philadelphia Flyers,Atlanta Thrashers
+2006020790,New Jersey Devils,3,Buffalo Sabres,2,Brad Watson,Eric Furlatt,New Jersey Devils,Buffalo Sabres
+2006020791,Tampa Bay Lightning,3,New York Rangers,2,Don Koharski,Craig Spada,Tampa Bay Lightning,New York Rangers
+2006020792,Florida Panthers,0,Los Angeles Kings,7,Tom Kowal,Dean Morton,Los Angeles Kings,Florida Panthers
+2006020793,St. Louis Blues,2,Dallas Stars,0,Paul Devorski,Tim Peel,St. Louis Blues,Dallas Stars
+2006020794,Nashville Predators,3,Anaheim Ducks,0,Dennis LaRue,Ian Walsh,Nashville Predators,Anaheim Ducks
+2006020795,Carolina Hurricanes,3,Boston Bruins,4,Kevin Pollock,Brad Meier,Boston Bruins,Carolina Hurricanes
+2006020796,Phoenix Coyotes,0,Minnesota Wild,1,Dan O'Halloran,Greg Kimmerly,Minnesota Wild,Phoenix Coyotes
+2006020797,Calgary Flames,4,Vancouver Canucks,3,Kelly Sutherland,Michael McGeough,Calgary Flames,Vancouver Canucks
+2006020798,Washington Capitals,1,New York Islanders,1,Marc Joannette,Mike Hasenfratz,Washington Capitals,New York Islanders
+2006020799,Montréal Canadiens,4,Pittsburgh Penguins,3,Chris Rooney,Dave Jackson,Montréal Canadiens,Pittsburgh Penguins
+2006020800,New York Rangers,3,Detroit Red Wings,4,Don Koharski,Eric Furlatt,Detroit Red Wings,New York Rangers
+2006020801,Washington Capitals,2,Boston Bruins,2,Wes McCauley,Don Koharski,Washington Capitals,Boston Bruins
+2006020802,Atlanta Thrashers,3,Buffalo Sabres,3,Don VanMassenhoven,Justin StPierre,Atlanta Thrashers,Buffalo Sabres
+2006020803,Columbus Blue Jackets,0,Phoenix Coyotes,3,Paul Devorski,Stephane Auger,Phoenix Coyotes,Columbus Blue Jackets
+2006020804,Montréal Canadiens,1,Carolina Hurricanes,2,Dave Jackson,Gord Dwyer,Carolina Hurricanes,Montréal Canadiens
+2006020805,New Jersey Devils,2,New York Rangers,2,Kerry Fraser,Mike Hasenfratz,New Jersey Devils,New York Rangers
+2006020806,Pittsburgh Penguins,4,Nashville Predators,1,Marc Joannette,Eric Furlatt,Pittsburgh Penguins,Nashville Predators
+2006020807,Tampa Bay Lightning,2,Los Angeles Kings,2,Rob Martell,Kevin Pollock,Tampa Bay Lightning,Los Angeles Kings
+2006020808,St. Louis Blues,1,Toronto Maple Leafs,2,Dan O'Halloran,Rob Shick,Toronto Maple Leafs,St. Louis Blues
+2006020809,Dallas Stars,4,Minnesota Wild,2,Bill McCreary,Dennis LaRue,Dallas Stars,Minnesota Wild
+2006020810,Colorado Avalanche,5,Florida Panthers,4,Greg Kimmerly,Brad Watson,Colorado Avalanche,Florida Panthers
+2006020811,Calgary Flames,2,Chicago Blackhawks,2,Tom Kowal,Brad Meier,Calgary Flames,Chicago Blackhawks
+2006020812,Edmonton Oilers,2,Vancouver Canucks,5,Mike Leggo,Dan Marouelli,Vancouver Canucks,Edmonton Oilers
+2006020813,San Jose Sharks,4,Anaheim Ducks,7,Tim Peel,Chris Lee,Anaheim Ducks,San Jose Sharks
+2006020814,Buffalo Sabres,3,Ottawa Senators,2,Dan O'Rourke,Dean Warren,Buffalo Sabres,Ottawa Senators
+2006020815,New York Islanders,2,Philadelphia Flyers,0,Wes McCauley,Don Koharski,New York Islanders,Philadelphia Flyers
+2006020816,Detroit Red Wings,4,Phoenix Coyotes,2,Rob Shick,Eric Furlatt,Detroit Red Wings,Phoenix Coyotes
+2006020817,Vancouver Canucks,0,Chicago Blackhawks,3,Mike Leggo,Dan Marouelli,Chicago Blackhawks,Vancouver Canucks
+2006020818,Anaheim Ducks,2,San Jose Sharks,3,Tim Peel,Chris Lee,San Jose Sharks,Anaheim Ducks
+2006020819,Boston Bruins,2,Carolina Hurricanes,5,Chris Rooney,Dan O'Rourke,Carolina Hurricanes,Boston Bruins
+2006020820,Philadelphia Flyers,4,Pittsburgh Penguins,4,Kerry Fraser,Rob Martell,Philadelphia Flyers,Pittsburgh Penguins
+2006020821,Washington Capitals,4,Los Angeles Kings,3,Don VanMassenhoven,Justin StPierre,Washington Capitals,Los Angeles Kings
+2006020822,Columbus Blue Jackets,2,Calgary Flames,1,Ian Walsh,Dean Warren,Columbus Blue Jackets,Calgary Flames
+2006020823,Ottawa Senators,4,Montréal Canadiens,1,Rob Shick,Gord Dwyer,Ottawa Senators,Montréal Canadiens
+2006020824,New Jersey Devils,2,New York Islanders,0,Craig Spada,Kevin Pollock,New Jersey Devils,New York Islanders
+2006020825,St. Louis Blues,1,Detroit Red Wings,0,Bill McCreary,Dan O'Halloran,St. Louis Blues,Detroit Red Wings
+2006020826,Nashville Predators,4,Toronto Maple Leafs,2,Paul Devorski,Stephane Auger,Nashville Predators,Toronto Maple Leafs
+2006020827,Minnesota Wild,4,Florida Panthers,2,Kelly Sutherland,Dennis LaRue,Minnesota Wild,Florida Panthers
+2006020828,Colorado Avalanche,3,Atlanta Thrashers,6,Greg Kimmerly,Michael McGeough,Atlanta Thrashers,Colorado Avalanche
+2006020829,New York Rangers,5,Tampa Bay Lightning,0,Kerry Fraser,Rob Martell,New York Rangers,Tampa Bay Lightning
+2006020830,Edmonton Oilers,2,Chicago Blackhawks,1,Mike Leggo,Dan Marouelli,Edmonton Oilers,Chicago Blackhawks
+2006020831,Dallas Stars,1,Anaheim Ducks,0,Michael McGeough,Brad Meier,Dallas Stars,Anaheim Ducks
+2006020832,Boston Bruins,3,New York Islanders,3,Craig Spada,Kevin Pollock,Boston Bruins,New York Islanders
+2006020833,Buffalo Sabres,2,Calgary Flames,2,Rob Shick,Greg Kimmerly,Buffalo Sabres,Calgary Flames
+2006020835,Montréal Canadiens,3,Ottawa Senators,5,Marc Joannette,Eric Furlatt,Ottawa Senators,Montréal Canadiens
+2006020836,Philadelphia Flyers,4,St. Louis Blues,3,Dan O'Rourke,Ian Walsh,Philadelphia Flyers,St. Louis Blues
+2006020837,Washington Capitals,2,New York Rangers,5,Dean Warren,Justin StPierre,New York Rangers,Washington Capitals
+2006020838,Florida Panthers,5,Phoenix Coyotes,2,Chris Rooney,Don Koharski,Florida Panthers,Phoenix Coyotes
+2006020839,Nashville Predators,1,Los Angeles Kings,4,Kelly Sutherland,Tim Peel,Los Angeles Kings,Nashville Predators
+2006020840,Minnesota Wild,5,Carolina Hurricanes,4,Paul Devorski,Stephane Auger,Minnesota Wild,Carolina Hurricanes
+2006020841,Vancouver Canucks,3,Atlanta Thrashers,2,Brad Watson,Tom Kowal,Vancouver Canucks,Atlanta Thrashers
+2006020842,New Jersey Devils,1,Tampa Bay Lightning,4,Kerry Fraser,Dave Jackson,Tampa Bay Lightning,New Jersey Devils
+2006020843,Columbus Blue Jackets,4,Chicago Blackhawks,5,Mike Hasenfratz,Steve Kozari,Chicago Blackhawks,Columbus Blue Jackets
+2006020844,Dallas Stars,7,Colorado Avalanche,5,Wes McCauley,Brad Meier,Dallas Stars,Colorado Avalanche
+2006020845,Detroit Red Wings,7,Calgary Flames,4,Kelly Sutherland,Tim Peel,Detroit Red Wings,Calgary Flames
+2006020846,Edmonton Oilers,5,Atlanta Thrashers,1,Brad Watson,Tom Kowal,Edmonton Oilers,Atlanta Thrashers
+2006020847,Philadelphia Flyers,6,Detroit Red Wings,1,Dave Jackson,Paul Devorski,Philadelphia Flyers,Detroit Red Wings
+2006020848,Boston Bruins,3,Edmonton Oilers,0,Dan O'Rourke,Don VanMassenhoven,Boston Bruins,Edmonton Oilers
+2006020849,Carolina Hurricanes,2,Los Angeles Kings,1,Kelly Sutherland,Craig Spada,Carolina Hurricanes,Los Angeles Kings
+2006020850,Toronto Maple Leafs,2,New York Islanders,2,Dan Marouelli,Kevin Pollock,Toronto Maple Leafs,New York Islanders
+2006020851,Montréal Canadiens,0,Florida Panthers,1,Kerry Fraser,Greg Kimmerly,Florida Panthers,Montréal Canadiens
+2006020852,Tampa Bay Lightning,5,Phoenix Coyotes,3,Mike Hasenfratz,Gord Dwyer,Tampa Bay Lightning,Phoenix Coyotes
+2006020853,St. Louis Blues,5,San Jose Sharks,6,Wes McCauley,Brad Meier,San Jose Sharks,St. Louis Blues
+2006020854,Colorado Avalanche,2,Anaheim Ducks,0,Dennis LaRue,Tim Peel,Colorado Avalanche,Anaheim Ducks
+2006020855,Calgary Flames,4,Atlanta Thrashers,1,Brad Watson,Eric Furlatt,Calgary Flames,Atlanta Thrashers
+2006020856,Columbus Blue Jackets,2,St. Louis Blues,4,Wes McCauley,Dave Jackson,St. Louis Blues,Columbus Blue Jackets
+2006020857,Ottawa Senators,4,Florida Panthers,0,Stephane Auger,Chris Lee,Ottawa Senators,Florida Panthers
+2006020858,New Jersey Devils,5,Montréal Canadiens,2,Don Koharski,Dean Morton,New Jersey Devils,Montréal Canadiens
+2006020859,Pittsburgh Penguins,4,Chicago Blackhawks,4,Ian Walsh,Dean Warren,Pittsburgh Penguins,Chicago Blackhawks
+2006020860,Nashville Predators,5,San Jose Sharks,0,Kelly Sutherland,Gord Dwyer,Nashville Predators,San Jose Sharks
+2006020861,Minnesota Wild,2,Vancouver Canucks,3,Rob Shick,Rob Martell,Vancouver Canucks,Minnesota Wild
+2006020862,Dallas Stars,1,Detroit Red Wings,3,Mike Leggo,Steve Kozari,Detroit Red Wings,Dallas Stars
+2006020863,Buffalo Sabres,2,Edmonton Oilers,1,Paul Devorski,Dean Warren,Buffalo Sabres,Edmonton Oilers
+2006020864,Philadelphia Flyers,2,Toronto Maple Leafs,4,Don Koharski,Craig Spada,Toronto Maple Leafs,Philadelphia Flyers
+2006020865,Carolina Hurricanes,1,New York Rangers,4,Dan O'Halloran,Mike Hasenfratz,New York Rangers,Carolina Hurricanes
+2006020866,New York Islanders,4,Boston Bruins,1,Don VanMassenhoven,Ian Walsh,New York Islanders,Boston Bruins
+2006020867,Tampa Bay Lightning,2,Washington Capitals,2,Kelly Sutherland,Gord Dwyer,Tampa Bay Lightning,Washington Capitals
+2006020868,Calgary Flames,5,Colorado Avalanche,7,Brad Watson,Eric Furlatt,Colorado Avalanche,Calgary Flames
+2006020869,Phoenix Coyotes,4,Anaheim Ducks,5,Mike Leggo,Brad Meier,Anaheim Ducks,Phoenix Coyotes
+2006020870,Columbus Blue Jackets,3,San Jose Sharks,0,Marc Joannette,Justin StPierre,Columbus Blue Jackets,San Jose Sharks
+2006020871,New Jersey Devils,4,Pittsburgh Penguins,5,Bill McCreary,Chris Lee,Pittsburgh Penguins,New Jersey Devils
+2006020872,St. Louis Blues,1,Nashville Predators,0,Rob Shick,Tim Peel,St. Louis Blues,Nashville Predators
+2006020873,Chicago Blackhawks,1,Vancouver Canucks,1,Rob Martell,Tom Kowal,Chicago Blackhawks,Vancouver Canucks
+2006020874,New York Rangers,3,Philadelphia Flyers,5,Bill McCreary,Chris Lee,Philadelphia Flyers,New York Rangers
+2006020875,Buffalo Sabres,3,Boston Bruins,3,Dan Marouelli,Craig Spada,Buffalo Sabres,Boston Bruins
+2006020876,Toronto Maple Leafs,4,Edmonton Oilers,3,Paul Devorski,Rob Martell,Toronto Maple Leafs,Edmonton Oilers
+2006020877,Montréal Canadiens,3,Carolina Hurricanes,5,Dave Jackson,Dan O'Rourke,Carolina Hurricanes,Montréal Canadiens
+2006020878,Ottawa Senators,5,Atlanta Thrashers,3,Kerry Fraser,Greg Kimmerly,Ottawa Senators,Atlanta Thrashers
+2006020879,New York Islanders,0,New Jersey Devils,2,Don Koharski,Don VanMassenhoven,New Jersey Devils,New York Islanders
+2006020880,Florida Panthers,5,Tampa Bay Lightning,4,Kelly Sutherland,Dan O'Halloran,Florida Panthers,Tampa Bay Lightning
+2006020881,Nashville Predators,1,Minnesota Wild,4,Eric Furlatt,Mike Hasenfratz,Minnesota Wild,Nashville Predators
+2006020882,Phoenix Coyotes,1,Detroit Red Wings,4,Brad Watson,Ian Walsh,Detroit Red Wings,Phoenix Coyotes
+2006020883,Calgary Flames,5,Colorado Avalanche,2,Stephane Auger,Kevin Pollock,Calgary Flames,Colorado Avalanche
+2006020884,Los Angeles Kings,2,Anaheim Ducks,2,Chris Rooney,Michael McGeough,Los Angeles Kings,Anaheim Ducks
+2006020885,New York Rangers,2,Chicago Blackhawks,1,Bill McCreary,Chris Lee,New York Rangers,Chicago Blackhawks
+2006020886,Pittsburgh Penguins,3,Washington Capitals,2,Mike Leggo,Tom Kowal,Pittsburgh Penguins,Washington Capitals
+2006020887,Dallas Stars,5,San Jose Sharks,2,Rob Shick,Marc Joannette,Dallas Stars,San Jose Sharks
+2006020888,Columbus Blue Jackets,2,Montréal Canadiens,3,Dan Marouelli,Dean Warren,Montréal Canadiens,Columbus Blue Jackets
+2006020889,St. Louis Blues,5,Minnesota Wild,3,Eric Furlatt,Justin StPierre,St. Louis Blues,Minnesota Wild
+2006020890,Anaheim Ducks,3,Los Angeles Kings,3,Chris Rooney,Michael McGeough,Anaheim Ducks,Los Angeles Kings
+2006020891,Vancouver Canucks,5,Colorado Avalanche,4,Stephane Auger,Kevin Pollock,Vancouver Canucks,Colorado Avalanche
+2006020892,New York Islanders,6,Pittsburgh Penguins,5,Don Koharski,Tim Peel,New York Islanders,Pittsburgh Penguins
+2006020893,Nashville Predators,4,Phoenix Coyotes,1,Mike Leggo,Dan O'Halloran,Nashville Predators,Phoenix Coyotes
+2006020894,Philadelphia Flyers,3,Boston Bruins,6,Kerry Fraser,Greg Kimmerly,Boston Bruins,Philadelphia Flyers
+2006020895,Buffalo Sabres,6,Philadelphia Flyers,3,Don VanMassenhoven,Francois StLaurent,Buffalo Sabres,Philadelphia Flyers
+2006020896,Toronto Maple Leafs,0,Boston Bruins,3,Dave Jackson,Dean Warren,Boston Bruins,Toronto Maple Leafs
+2006020897,Carolina Hurricanes,1,Atlanta Thrashers,3,Mike Leggo,Paul Devorski,Atlanta Thrashers,Carolina Hurricanes
+2006020898,Montréal Canadiens,5,Washington Capitals,3,Bill McCreary,Rob Martell,Montréal Canadiens,Washington Capitals
+2006020899,Ottawa Senators,3,Edmonton Oilers,3,Tim Peel,Chris Lee,Ottawa Senators,Edmonton Oilers
+2006020900,New Jersey Devils,2,New York Rangers,1,Wes McCauley,Greg Kimmerly,New Jersey Devils,New York Rangers
+2006020901,Tampa Bay Lightning,2,Florida Panthers,2,Dan O'Halloran,Tom Kowal,Tampa Bay Lightning,Florida Panthers
+2006020902,St. Louis Blues,4,Columbus Blue Jackets,4,Stephane Auger,Marc Joannette,St. Louis Blues,Columbus Blue Jackets
+2006020903,Minnesota Wild,1,Dallas Stars,1,Michael McGeough,Kevin Pollock,Minnesota Wild,Dallas Stars
+2006020904,Colorado Avalanche,4,Calgary Flames,3,Chris Rooney,Dennis LaRue,Colorado Avalanche,Calgary Flames
+2006020905,Anaheim Ducks,2,Vancouver Canucks,3,Kelly Sutherland,Justin StPierre,Vancouver Canucks,Anaheim Ducks
+2006020906,Washington Capitals,2,San Jose Sharks,2,Kerry Fraser,Don Koharski,Washington Capitals,San Jose Sharks
+2006020907,Detroit Red Wings,4,Chicago Blackhawks,2,Dave Jackson,Gord Dwyer,Detroit Red Wings,Chicago Blackhawks
+2006020908,Buffalo Sabres,5,Ottawa Senators,5,Tim Peel,Don VanMassenhoven,Buffalo Sabres,Ottawa Senators
+2006020909,New York Rangers,2,New Jersey Devils,2,Dan Marouelli,Greg Kimmerly,New York Rangers,New Jersey Devils
+2006020910,Carolina Hurricanes,3,Philadelphia Flyers,2,Mike Leggo,Bill McCreary,Carolina Hurricanes,Philadelphia Flyers
+2006020911,Atlanta Thrashers,4,Tampa Bay Lightning,5,Paul Devorski,Craig Spada,Tampa Bay Lightning,Atlanta Thrashers
+2006020912,Columbus Blue Jackets,0,Edmonton Oilers,4,Dave Jackson,Gord Dwyer,Edmonton Oilers,Columbus Blue Jackets
+2006020913,New York Islanders,2,Toronto Maple Leafs,2,Kerry Fraser,Rob Martell,New York Islanders,Toronto Maple Leafs
+2006020914,Florida Panthers,1,Pittsburgh Penguins,2,Ian Walsh,Tom Kowal,Pittsburgh Penguins,Florida Panthers
+2006020915,Nashville Predators,5,Montréal Canadiens,5,Brad Meier,Dean Warren,Nashville Predators,Montréal Canadiens
+2006020916,Chicago Blackhawks,0,San Jose Sharks,2,Stephane Auger,Kevin Pollock,San Jose Sharks,Chicago Blackhawks
+2006020917,Colorado Avalanche,3,Minnesota Wild,4,Dan O'Rourke,Brad Watson,Minnesota Wild,Colorado Avalanche
+2006020918,Phoenix Coyotes,3,Calgary Flames,2,Chris Rooney,Michael McGeough,Phoenix Coyotes,Calgary Flames
+2006020919,Los Angeles Kings,2,Vancouver Canucks,3,Marc Joannette,Justin StPierre,Vancouver Canucks,Los Angeles Kings
+2006020921,Tampa Bay Lightning,2,Boston Bruins,6,Ian Walsh,Tom Kowal,Boston Bruins,Tampa Bay Lightning
+2006020922,Dallas Stars,4,Anaheim Ducks,1,Wes McCauley,Mike Hasenfratz,Dallas Stars,Anaheim Ducks
+2006020923,New Jersey Devils,2,Washington Capitals,4,Bill McCreary,Rob Martell,Washington Capitals,New Jersey Devils
+2006020924,New York Islanders,3,Montréal Canadiens,2,Dan Marouelli,Greg Kimmerly,New York Islanders,Montréal Canadiens
+2006020925,Ottawa Senators,6,Buffalo Sabres,5,Don Koharski,Kevin Pollock,Ottawa Senators,Buffalo Sabres
+2006020926,New York Rangers,2,Columbus Blue Jackets,3,Kerry Fraser,Eric Furlatt,Columbus Blue Jackets,New York Rangers
+2006020927,Philadelphia Flyers,2,Toronto Maple Leafs,5,Don VanMassenhoven,Craig Spada,Toronto Maple Leafs,Philadelphia Flyers
+2006020928,Atlanta Thrashers,1,Carolina Hurricanes,4,Dave Jackson,Gord Dwyer,Carolina Hurricanes,Atlanta Thrashers
+2006020929,Florida Panthers,7,Boston Bruins,2,Brad Meier,Dean Warren,Florida Panthers,Boston Bruins
+2006020930,Nashville Predators,4,Detroit Red Wings,3,Paul Devorski,Chris Lee,Nashville Predators,Detroit Red Wings
+2006020931,Calgary Flames,7,San Jose Sharks,4,Dan O'Rourke,Dennis LaRue,Calgary Flames,San Jose Sharks
+2006020932,Los Angeles Kings,5,Colorado Avalanche,5,Rob Shick,Marc Joannette,Los Angeles Kings,Colorado Avalanche
+2006020933,Washington Capitals,2,New Jersey Devils,3,Dan Marouelli,Francois StLaurent,New Jersey Devils,Washington Capitals
+2006020934,Minnesota Wild,4,Edmonton Oilers,1,Wes McCauley,Tom Kowal,Minnesota Wild,Edmonton Oilers
+2006020935,Chicago Blackhawks,5,St. Louis Blues,1,Chris Rooney,Brian Pochmara,Chicago Blackhawks,St. Louis Blues
+2006020936,Dallas Stars,2,Vancouver Canucks,1,Mike Hasenfratz,Gord Dwyer,Dallas Stars,Vancouver Canucks
+2006020937,Tampa Bay Lightning,5,Pittsburgh Penguins,1,Brad Meier,Dean Warren,Tampa Bay Lightning,Pittsburgh Penguins
+2006020938,Columbus Blue Jackets,3,Nashville Predators,3,Don VanMassenhoven,Justin StPierre,Columbus Blue Jackets,Nashville Predators
+2006020939,Anaheim Ducks,5,Colorado Avalanche,3,Rob Shick,Marc Joannette,Anaheim Ducks,Colorado Avalanche
+2006020940,Boston Bruins,2,Atlanta Thrashers,3,Don Koharski,Chris Lee,Atlanta Thrashers,Boston Bruins
+2006020941,Montréal Canadiens,5,Toronto Maple Leafs,4,Bill McCreary,Stephane Auger,Montréal Canadiens,Toronto Maple Leafs
+2006020942,Calgary Flames,5,Phoenix Coyotes,2,Dan O'Rourke,Dan O'Halloran,Calgary Flames,Phoenix Coyotes
+2006020943,San Jose Sharks,2,Anaheim Ducks,3,Mike Leggo,Marc Joannette,Anaheim Ducks,San Jose Sharks
+2006020944,New York Rangers,4,Montréal Canadiens,0,Don Koharski,Chris Lee,New York Rangers,Montréal Canadiens
+2006020945,Washington Capitals,5,Florida Panthers,5,Eric Furlatt,Brad Meier,Washington Capitals,Florida Panthers
+2006020946,Carolina Hurricanes,2,Ottawa Senators,4,Rob Shick,Dean Warren,Ottawa Senators,Carolina Hurricanes
+2006020947,Toronto Maple Leafs,1,Buffalo Sabres,6,Dan Marouelli,Greg Kimmerly,Buffalo Sabres,Toronto Maple Leafs
+2006020948,New York Islanders,6,Philadelphia Flyers,5,Dave Jackson,Steve Kozari,New York Islanders,Philadelphia Flyers
+2006020949,Pittsburgh Penguins,0,New Jersey Devils,1,Kelly Sutherland,Brad Watson,New Jersey Devils,Pittsburgh Penguins
+2006020950,Tampa Bay Lightning,1,Dallas Stars,2,Kerry Fraser,Chris Rooney,Dallas Stars,Tampa Bay Lightning
+2006020951,St. Louis Blues,3,Vancouver Canucks,1,Wes McCauley,Mike Hasenfratz,St. Louis Blues,Vancouver Canucks
+2006020952,Chicago Blackhawks,1,Detroit Red Wings,4,Don VanMassenhoven,Justin StPierre,Detroit Red Wings,Chicago Blackhawks
+2006020953,Colorado Avalanche,3,Columbus Blue Jackets,2,Ian Walsh,Tom Kowal,Colorado Avalanche,Columbus Blue Jackets
+2006020954,Edmonton Oilers,0,Phoenix Coyotes,3,Dan O'Rourke,Dan O'Halloran,Phoenix Coyotes,Edmonton Oilers
+2006020955,Ottawa Senators,2,Carolina Hurricanes,0,Bill McCreary,Francois StLaurent,Ottawa Senators,Carolina Hurricanes
+2006020956,Calgary Flames,1,Minnesota Wild,1,Dan O'Halloran,Tim Peel,Calgary Flames,Minnesota Wild
+2006020957,San Jose Sharks,3,Nashville Predators,3,Stephane Auger,Kevin Pollock,San Jose Sharks,Nashville Predators
+2006020958,Boston Bruins,3,Philadelphia Flyers,4,Kelly Sutherland,Brad Watson,Philadelphia Flyers,Boston Bruins
+2006020959,New York Rangers,3,Pittsburgh Penguins,3,Rob Shick,Craig Spada,New York Rangers,Pittsburgh Penguins
+2006020960,Washington Capitals,4,Tampa Bay Lightning,4,Paul Devorski,Gord Dwyer,Washington Capitals,Tampa Bay Lightning
+2006020961,New York Islanders,2,St. Louis Blues,3,Eric Furlatt,Brad Meier,St. Louis Blues,New York Islanders
+2006020962,Florida Panthers,2,Dallas Stars,1,Kerry Fraser,Chris Rooney,Florida Panthers,Dallas Stars
+2006020963,Chicago Blackhawks,1,Colorado Avalanche,6,Dennis LaRue,Mike Hasenfratz,Colorado Avalanche,Chicago Blackhawks
+2006020964,Edmonton Oilers,0,Minnesota Wild,5,Wes McCauley,Dan O'Rourke,Minnesota Wild,Edmonton Oilers
+2006020965,Vancouver Canucks,4,Phoenix Coyotes,3,Michael McGeough,Tim Peel,Vancouver Canucks,Phoenix Coyotes
+2006020966,Los Angeles Kings,4,Anaheim Ducks,3,Stephane Auger,Kevin Pollock,Los Angeles Kings,Anaheim Ducks
+2006020967,Carolina Hurricanes,3,Pittsburgh Penguins,2,Eric Furlatt,Brad Meier,Carolina Hurricanes,Pittsburgh Penguins
+2006020968,New Jersey Devils,3,Toronto Maple Leafs,3,Kelly Sutherland,Brad Watson,New Jersey Devils,Toronto Maple Leafs
+2006020969,Atlanta Thrashers,4,Ottawa Senators,2,Don VanMassenhoven,Ian Walsh,Atlanta Thrashers,Ottawa Senators
+2006020970,Detroit Red Wings,6,Chicago Blackhawks,2,Dennis LaRue,Greg Kimmerly,Detroit Red Wings,Chicago Blackhawks
+2006020971,Buffalo Sabres,8,Montréal Canadiens,5,Bill McCreary,Rob Shick,Buffalo Sabres,Montréal Canadiens
+2006020972,Dallas Stars,2,Columbus Blue Jackets,2,Mike Leggo,Rob Martell,Dallas Stars,Columbus Blue Jackets
+2006020973,Anaheim Ducks,3,San Jose Sharks,1,Stephane Auger,Kevin Pollock,Anaheim Ducks,San Jose Sharks
+2006020974,New York Rangers,2,St. Louis Blues,2,Wes McCauley,Dan Marouelli,New York Rangers,St. Louis Blues
+2006020976,Boston Bruins,3,Montréal Canadiens,1,Paul Devorski,Gord Dwyer,Boston Bruins,Montréal Canadiens
+2006020977,Toronto Maple Leafs,1,Buffalo Sabres,3,Dennis LaRue,Marc Joannette,Buffalo Sabres,Toronto Maple Leafs
+2006020978,Washington Capitals,2,New York Islanders,6,Rob Shick,Craig Spada,New York Islanders,Washington Capitals
+2006020979,Florida Panthers,6,Tampa Bay Lightning,2,Kerry Fraser,Chris Rooney,Florida Panthers,Tampa Bay Lightning
+2006020980,Edmonton Oilers,2,Calgary Flames,4,Michael McGeough,Tim Peel,Calgary Flames,Edmonton Oilers
+2006020981,Phoenix Coyotes,3,Columbus Blue Jackets,4,Don Koharski,Mike Hasenfratz,Columbus Blue Jackets,Phoenix Coyotes
+2006020982,Pittsburgh Penguins,3,Philadelphia Flyers,3,Kelly Sutherland,Brad Watson,Pittsburgh Penguins,Philadelphia Flyers
+2006020983,Atlanta Thrashers,3,Carolina Hurricanes,1,Chris Lee,Brad Meier,Atlanta Thrashers,Carolina Hurricanes
+2006020984,Detroit Red Wings,3,Colorado Avalanche,4,Mike Leggo,Tom Kowal,Colorado Avalanche,Detroit Red Wings
+2006020985,Chicago Blackhawks,3,Ottawa Senators,3,Don VanMassenhoven,Dean Warren,Chicago Blackhawks,Ottawa Senators
+2006020986,Dallas Stars,0,San Jose Sharks,4,Greg Kimmerly,Rob Martell,San Jose Sharks,Dallas Stars
+2006020987,New Jersey Devils,1,Boston Bruins,4,Craig Spada,Eric Furlatt,Boston Bruins,New Jersey Devils
+2006020988,Anaheim Ducks,2,Nashville Predators,2,Dave Jackson,Justin StPierre,Anaheim Ducks,Nashville Predators
+2006020989,Vancouver Canucks,3,Minnesota Wild,3,Michael McGeough,Tim Peel,Vancouver Canucks,Minnesota Wild
+2006020990,New York Rangers,1,New York Islanders,1,Bill McCreary,Rob Shick,New York Rangers,New York Islanders
+2006020991,Boston Bruins,0,Colorado Avalanche,2,Bill McCreary,Dean Morton,Colorado Avalanche,Boston Bruins
+2006020992,Philadelphia Flyers,5,New Jersey Devils,4,Paul Devorski,Marc Joannette,Philadelphia Flyers,New Jersey Devils
+2006020993,Atlanta Thrashers,4,Florida Panthers,2,Dan O'Rourke,Don Koharski,Atlanta Thrashers,Florida Panthers
+2006020994,Toronto Maple Leafs,3,Washington Capitals,0,Mike Leggo,Stephane Auger,Toronto Maple Leafs,Washington Capitals
+2006020995,Ottawa Senators,4,Pittsburgh Penguins,4,Dan O'Halloran,Craig Spada,Ottawa Senators,Pittsburgh Penguins
+2006020996,Detroit Red Wings,3,Nashville Predators,3,Brad Watson,Ian Walsh,Detroit Red Wings,Nashville Predators
+2006020997,St. Louis Blues,2,Calgary Flames,4,Greg Kimmerly,Dean Warren,Calgary Flames,St. Louis Blues
+2006020998,Minnesota Wild,0,San Jose Sharks,3,Chris Lee,Tom Kowal,San Jose Sharks,Minnesota Wild
+2006020999,Chicago Blackhawks,3,Los Angeles Kings,0,Kelly Sutherland,Rob Martell,Chicago Blackhawks,Los Angeles Kings
+2006021000,Vancouver Canucks,5,Tampa Bay Lightning,1,Dave Jackson,Steve Kozari,Vancouver Canucks,Tampa Bay Lightning
+2006021001,Buffalo Sabres,2,Colorado Avalanche,3,Mike Leggo,Chris Rooney,Colorado Avalanche,Buffalo Sabres
+2006021002,Columbus Blue Jackets,3,Los Angeles Kings,2,Brad Watson,Rob Martell,Columbus Blue Jackets,Los Angeles Kings
+2006021003,Edmonton Oilers,1,Tampa Bay Lightning,3,Dave Jackson,Michael McGeough,Tampa Bay Lightning,Edmonton Oilers
+2006021004,Anaheim Ducks,2,Phoenix Coyotes,1,Dan Marouelli,Gord Dwyer,Anaheim Ducks,Phoenix Coyotes
+2006021005,Boston Bruins,1,Minnesota Wild,2,Kerry Fraser,Dan O'Rourke,Minnesota Wild,Boston Bruins
+2006021006,Philadelphia Flyers,1,Florida Panthers,2,Marc Joannette,Eric Furlatt,Florida Panthers,Philadelphia Flyers
+2006021007,Atlanta Thrashers,6,Montréal Canadiens,2,Greg Kimmerly,Tom Kowal,Atlanta Thrashers,Montréal Canadiens
+2006021008,Ottawa Senators,5,Toronto Maple Leafs,1,Wes McCauley,Dan O'Halloran,Ottawa Senators,Toronto Maple Leafs
+2006021009,New York Islanders,1,New York Rangers,2,Craig Spada,Kevin Pollock,New York Rangers,New York Islanders
+2006021010,Pittsburgh Penguins,3,New Jersey Devils,3,Chris Rooney,Paul Devorski,Pittsburgh Penguins,New Jersey Devils
+2006021011,St. Louis Blues,5,Dallas Stars,3,Dennis LaRue,Ian Walsh,St. Louis Blues,Dallas Stars
+2006021012,Nashville Predators,6,Calgary Flames,3,Don Koharski,Chris Lee,Nashville Predators,Calgary Flames
+2006021013,Phoenix Coyotes,2,Vancouver Canucks,4,Don VanMassenhoven,Dean Warren,Vancouver Canucks,Phoenix Coyotes
+2006021014,Washington Capitals,0,Carolina Hurricanes,3,Eric Furlatt,Mike Hasenfratz,Carolina Hurricanes,Washington Capitals
+2006021015,Columbus Blue Jackets,0,Dallas Stars,3,Mike Leggo,Stephane Auger,Dallas Stars,Columbus Blue Jackets
+2006021016,Detroit Red Wings,3,Los Angeles Kings,2,Don Koharski,Chris Lee,Detroit Red Wings,Los Angeles Kings
+2006021017,Buffalo Sabres,1,Minnesota Wild,5,Paul Devorski,Marc Joannette,Minnesota Wild,Buffalo Sabres
+2006021018,Anaheim Ducks,5,Edmonton Oilers,1,Dan Marouelli,Rob Shick,Anaheim Ducks,Edmonton Oilers
+2006021019,San Jose Sharks,1,Vancouver Canucks,2,Brad Meier,Gord Dwyer,Vancouver Canucks,San Jose Sharks
+2006021020,Philadelphia Flyers,4,Boston Bruins,1,Wes McCauley,Dan O'Halloran,Philadelphia Flyers,Boston Bruins
+2006021021,Pittsburgh Penguins,3,New York Rangers,2,Chris Rooney,Dan O'Rourke,Pittsburgh Penguins,New York Rangers
+2006021022,Buffalo Sabres,2,New Jersey Devils,3,Eric Furlatt,Mike Hasenfratz,New Jersey Devils,Buffalo Sabres
+2006021023,Toronto Maple Leafs,4,Ottawa Senators,3,Paul Devorski,Marc Joannette,Toronto Maple Leafs,Ottawa Senators
+2006021025,Florida Panthers,3,Atlanta Thrashers,2,Rob Martell,Kevin Pollock,Florida Panthers,Atlanta Thrashers
+2006021026,St. Louis Blues,3,Montréal Canadiens,4,Don VanMassenhoven,Justin StPierre,Montréal Canadiens,St. Louis Blues
+2006021027,Nashville Predators,2,Columbus Blue Jackets,1,Dennis LaRue,Greg Kimmerly,Nashville Predators,Columbus Blue Jackets
+2006021028,Calgary Flames,2,Tampa Bay Lightning,3,Kelly Sutherland,Tom Kowal,Tampa Bay Lightning,Calgary Flames
+2006021029,Phoenix Coyotes,5,Chicago Blackhawks,7,Kerry Fraser,Dean Warren,Chicago Blackhawks,Phoenix Coyotes
+2006021030,New York Rangers,1,Carolina Hurricanes,1,Dan O'Halloran,Tim Peel,New York Rangers,Carolina Hurricanes
+2006021031,Detroit Red Wings,3,Boston Bruins,6,Dave Jackson,Stephane Auger,Boston Bruins,Detroit Red Wings
+2006021032,Minnesota Wild,3,Colorado Avalanche,2,Michael McGeough,Chris Lee,Minnesota Wild,Colorado Avalanche
+2006021033,Dallas Stars,4,Los Angeles Kings,3,Don Koharski,Craig Spada,Dallas Stars,Los Angeles Kings
+2006021034,Anaheim Ducks,4,Vancouver Canucks,2,Brad Meier,Gord Dwyer,Anaheim Ducks,Vancouver Canucks
+2006021035,San Jose Sharks,3,Edmonton Oilers,0,Dan Marouelli,Rob Shick,San Jose Sharks,Edmonton Oilers
+2006021036,Atlanta Thrashers,4,Washington Capitals,2,Chris Rooney,Dean Warren,Atlanta Thrashers,Washington Capitals
+2006021037,Calgary Flames,4,St. Louis Blues,4,Brad Watson,Justin StPierre,Calgary Flames,St. Louis Blues
+2006021038,Phoenix Coyotes,4,Philadelphia Flyers,0,Kerry Fraser,Don VanMassenhoven,Phoenix Coyotes,Philadelphia Flyers
+2006021039,Los Angeles Kings,5,Edmonton Oilers,1,Mike Leggo,Brad Meier,Los Angeles Kings,Edmonton Oilers
+2006021040,New York Rangers,2,Ottawa Senators,3,Chris Rooney,Tim Peel,Ottawa Senators,New York Rangers
+2006021041,Carolina Hurricanes,3,Florida Panthers,1,Dan O'Rourke,Michael McGeough,Carolina Hurricanes,Florida Panthers
+2006021042,Toronto Maple Leafs,3,Tampa Bay Lightning,2,Bill McCreary,Craig Spada,Toronto Maple Leafs,Tampa Bay Lightning
+2006021043,Montréal Canadiens,5,New York Islanders,3,Greg Kimmerly,Eric Furlatt,Montréal Canadiens,New York Islanders
+2006021044,Pittsburgh Penguins,4,Buffalo Sabres,4,Wes McCauley,Dave Jackson,Pittsburgh Penguins,Buffalo Sabres
+2006021045,Nashville Predators,2,Detroit Red Wings,5,Dan Marouelli,Mike Hasenfratz,Detroit Red Wings,Nashville Predators
+2006021046,Dallas Stars,3,Philadelphia Flyers,2,Don VanMassenhoven,Gord Dwyer,Dallas Stars,Philadelphia Flyers
+2006021047,Vancouver Canucks,2,Minnesota Wild,3,Rob Shick,Brad Watson,Minnesota Wild,Vancouver Canucks
+2006021048,San Jose Sharks,7,Chicago Blackhawks,1,Kerry Fraser,Ian Walsh,San Jose Sharks,Chicago Blackhawks
+2006021049,New Jersey Devils,0,Pittsburgh Penguins,3,Kevin Pollock,Dean Warren,Pittsburgh Penguins,New Jersey Devils
+2006021050,Detroit Red Wings,4,Nashville Predators,2,Dan Marouelli,Dan O'Halloran,Detroit Red Wings,Nashville Predators
+2006021051,Colorado Avalanche,3,Calgary Flames,2,Dennis LaRue,Rob Martell,Colorado Avalanche,Calgary Flames
+2006021052,Anaheim Ducks,4,Columbus Blue Jackets,4,Paul Devorski,Ian Walsh,Anaheim Ducks,Columbus Blue Jackets
+2006021053,Boston Bruins,3,Washington Capitals,3,Craig Spada,Marc Joannette,Boston Bruins,Washington Capitals
+2006021054,Philadelphia Flyers,3,Atlanta Thrashers,2,Tim Peel,Kevin Pollock,Philadelphia Flyers,Atlanta Thrashers
+2006021055,Carolina Hurricanes,2,New Jersey Devils,3,Kerry Fraser,Mike Hasenfratz,New Jersey Devils,Carolina Hurricanes
+2006021056,Ottawa Senators,5,New York Islanders,2,Greg Kimmerly,Eric Furlatt,Ottawa Senators,New York Islanders
+2006021057,Florida Panthers,3,Buffalo Sabres,5,Don Koharski,Michael McGeough,Buffalo Sabres,Florida Panthers
+2006021058,Dallas Stars,4,Calgary Flames,2,Kelly Sutherland,Gord Dwyer,Dallas Stars,Calgary Flames
+2006021059,Edmonton Oilers,1,Minnesota Wild,2,Brad Watson,Justin StPierre,Minnesota Wild,Edmonton Oilers
+2006021060,Phoenix Coyotes,1,San Jose Sharks,5,Wes McCauley,Rob Shick,San Jose Sharks,Phoenix Coyotes
+2006021061,Vancouver Canucks,3,St. Louis Blues,2,Mike Leggo,Bill McCreary,Vancouver Canucks,St. Louis Blues
+2006021062,Los Angeles Kings,3,Chicago Blackhawks,3,Rob Martell,Tom Kowal,Los Angeles Kings,Chicago Blackhawks
+2006021063,Washington Capitals,5,Toronto Maple Leafs,1,Dave Jackson,Dean Warren,Washington Capitals,Toronto Maple Leafs
+2006021064,Pittsburgh Penguins,6,Montréal Canadiens,3,Dan O'Halloran,Chris Lee,Pittsburgh Penguins,Montréal Canadiens
+2006021065,Atlanta Thrashers,2,New York Rangers,1,Dan O'Rourke,Mike Hasenfratz,Atlanta Thrashers,New York Rangers
+2006021066,Tampa Bay Lightning,2,Buffalo Sabres,3,Don Koharski,Michael McGeough,Buffalo Sabres,Tampa Bay Lightning
+2006021067,Anaheim Ducks,5,Chicago Blackhawks,2,Dennis LaRue,Ian Walsh,Anaheim Ducks,Chicago Blackhawks
+2006021068,San Jose Sharks,3,Columbus Blue Jackets,0,Paul Devorski,Tom Kowal,San Jose Sharks,Columbus Blue Jackets
+2006021069,New Jersey Devils,2,Carolina Hurricanes,7,Craig Spada,Kevin Pollock,Carolina Hurricanes,New Jersey Devils
+2006021070,Montréal Canadiens,2,Toronto Maple Leafs,2,Dan Marouelli,Marc Joannette,Montréal Canadiens,Toronto Maple Leafs
+2006021071,Ottawa Senators,3,Philadelphia Flyers,2,Dave Jackson,Stephane Auger,Ottawa Senators,Philadelphia Flyers
+2006021072,New York Rangers,7,Boston Bruins,0,Dan O'Halloran,Chris Lee,New York Rangers,Boston Bruins
+2006021073,Florida Panthers,8,New York Islanders,5,Tim Peel,Gord Dwyer,Florida Panthers,New York Islanders
+2006021074,Nashville Predators,3,Dallas Stars,2,Kerry Fraser,Dan O'Rourke,Nashville Predators,Dallas Stars
+2006021075,Edmonton Oilers,2,St. Louis Blues,3,Eric Furlatt,Brad Meier,St. Louis Blues,Edmonton Oilers
+2006021076,Calgary Flames,2,Minnesota Wild,4,Mike Leggo,Justin StPierre,Minnesota Wild,Calgary Flames
+2006021077,Phoenix Coyotes,3,Colorado Avalanche,6,Kelly Sutherland,Rob Martell,Colorado Avalanche,Phoenix Coyotes
+2006021078,Vancouver Canucks,4,Detroit Red Wings,1,Bill McCreary,Brad Watson,Vancouver Canucks,Detroit Red Wings
+2006021079,Los Angeles Kings,5,Columbus Blue Jackets,3,Rob Shick,Ian Walsh,Los Angeles Kings,Columbus Blue Jackets
+2006021080,Washington Capitals,7,Tampa Bay Lightning,1,Greg Kimmerly,Don VanMassenhoven,Washington Capitals,Tampa Bay Lightning
+2006021081,Atlanta Thrashers,4,Buffalo Sabres,3,Craig Spada,Kevin Pollock,Atlanta Thrashers,Buffalo Sabres
+2006021082,Pittsburgh Penguins,3,Ottawa Senators,3,Don Koharski,Michael McGeough,Pittsburgh Penguins,Ottawa Senators
+2006021083,Colorado Avalanche,4,San Jose Sharks,3,Wes McCauley,Chris Rooney,Colorado Avalanche,San Jose Sharks
+2006021084,Dallas Stars,5,Phoenix Coyotes,4,Dennis LaRue,Mike Hasenfratz,Dallas Stars,Phoenix Coyotes
+2006021085,Anaheim Ducks,3,Los Angeles Kings,5,Paul Devorski,Tom Kowal,Los Angeles Kings,Anaheim Ducks
+2006021086,New York Rangers,2,Pittsburgh Penguins,1,Stephane Auger,Don VanMassenhoven,New York Rangers,Pittsburgh Penguins
+2006021087,Edmonton Oilers,1,Vancouver Canucks,2,Chris Rooney,Eric Furlatt,Vancouver Canucks,Edmonton Oilers
+2006021088,Montréal Canadiens,1,Boston Bruins,0,Don VanMassenhoven,Kevin Pollock,Montréal Canadiens,Boston Bruins
+2006021089,Philadelphia Flyers,1,Florida Panthers,4,Kerry Fraser,Dean Morton,Florida Panthers,Philadelphia Flyers
+2006021090,Columbus Blue Jackets,5,Chicago Blackhawks,2,Wes McCauley,Craig Spada,Columbus Blue Jackets,Chicago Blackhawks
+2006021091,Toronto Maple Leafs,2,New Jersey Devils,1,Dave Jackson,Dan O'Halloran,Toronto Maple Leafs,New Jersey Devils
+2006021092,Tampa Bay Lightning,4,New York Islanders,3,Marc Joannette,Brad Meier,Tampa Bay Lightning,New York Islanders
+2006021093,St. Louis Blues,2,Ottawa Senators,4,Dennis LaRue,Michael McGeough,Ottawa Senators,St. Louis Blues
+2006021094,Minnesota Wild,3,Phoenix Coyotes,2,Don Koharski,Greg Kimmerly,Minnesota Wild,Phoenix Coyotes
+2006021095,Calgary Flames,2,Detroit Red Wings,1,Bill McCreary,Eric Furlatt,Calgary Flames,Detroit Red Wings
+2006021096,Buffalo Sabres,5,Washington Capitals,2,Wes McCauley,Kevin Pollock,Buffalo Sabres,Washington Capitals
+2006021097,New York Rangers,5,Philadelphia Flyers,0,Dave Jackson,Dan O'Halloran,New York Rangers,Philadelphia Flyers
+2006021098,Chicago Blackhawks,1,San Jose Sharks,4,Don Koharski,Rob Martell,San Jose Sharks,Chicago Blackhawks
+2006021099,Edmonton Oilers,1,Colorado Avalanche,5,Bill McCreary,Tom Kowal,Colorado Avalanche,Edmonton Oilers
+2006021100,Vancouver Canucks,2,Nashville Predators,0,Chris Rooney,Rob Shick,Vancouver Canucks,Nashville Predators
+2006021101,Los Angeles Kings,2,Dallas Stars,4,Mike Leggo,Brad Watson,Dallas Stars,Los Angeles Kings
+2006021102,Boston Bruins,3,Montréal Canadiens,6,Dan O'Rourke,Paul Devorski,Montréal Canadiens,Boston Bruins
+2006021103,Carolina Hurricanes,4,Washington Capitals,3,Dennis LaRue,Stephane Auger,Carolina Hurricanes,Washington Capitals
+2006021104,Atlanta Thrashers,1,San Jose Sharks,5,Kerry Fraser,Chris Lee,San Jose Sharks,Atlanta Thrashers
+2006021105,New York Islanders,3,Pittsburgh Penguins,1,Dan Marouelli,Mike Hasenfratz,New York Islanders,Pittsburgh Penguins
+2006021106,Tampa Bay Lightning,3,New Jersey Devils,1,Marc Joannette,Dean Warren,Tampa Bay Lightning,New Jersey Devils
+2006021107,Florida Panthers,2,Ottawa Senators,4,Ian Walsh,Brad Meier,Ottawa Senators,Florida Panthers
+2006021108,Detroit Red Wings,1,Columbus Blue Jackets,1,Michael McGeough,Rob Martell,Detroit Red Wings,Columbus Blue Jackets
+2006021109,Minnesota Wild,5,St. Louis Blues,1,Tim Peel,Craig Spada,Minnesota Wild,St. Louis Blues
+2006021110,Phoenix Coyotes,2,Anaheim Ducks,1,Kelly Sutherland,Justin StPierre,Phoenix Coyotes,Anaheim Ducks
+2006021111,Buffalo Sabres,5,Toronto Maple Leafs,4,Dan O'Rourke,Paul Devorski,Buffalo Sabres,Toronto Maple Leafs
+2006021112,Chicago Blackhawks,1,Los Angeles Kings,2,Tim Peel,Craig Spada,Los Angeles Kings,Chicago Blackhawks
+2006021113,Calgary Flames,3,Nashville Predators,2,Rob Shick,Eric Furlatt,Calgary Flames,Nashville Predators
+2006021114,Edmonton Oilers,3,Colorado Avalanche,3,Don Koharski,Rob Shick,Edmonton Oilers,Colorado Avalanche
+2006021115,Anaheim Ducks,3,Dallas Stars,2,Mike Leggo,Kelly Sutherland,Anaheim Ducks,Dallas Stars
+2006021116,Boston Bruins,1,New York Rangers,1,Bill McCreary,Gord Dwyer,Boston Bruins,New York Rangers
+2006021117,Philadelphia Flyers,3,New York Islanders,4,Mike Hasenfratz,Dean Warren,New York Islanders,Philadelphia Flyers
+2006021118,Pittsburgh Penguins,2,Atlanta Thrashers,1,Don VanMassenhoven,Brad Watson,Pittsburgh Penguins,Atlanta Thrashers
+2006021119,Detroit Red Wings,2,St. Louis Blues,2,Dan Marouelli,Rob Martell,Detroit Red Wings,St. Louis Blues
+2006021120,Toronto Maple Leafs,4,Buffalo Sabres,1,Dennis LaRue,Marc Joannette,Toronto Maple Leafs,Buffalo Sabres
+2006021121,Montréal Canadiens,4,Washington Capitals,1,Dan O'Halloran,Eric Furlatt,Montréal Canadiens,Washington Capitals
+2006021122,Carolina Hurricanes,6,San Jose Sharks,4,Dave Jackson,Kevin Pollock,Carolina Hurricanes,San Jose Sharks
+2006021123,Tampa Bay Lightning,2,Ottawa Senators,7,Kerry Fraser,Brad Meier,Ottawa Senators,Tampa Bay Lightning
+2006021124,Florida Panthers,3,New Jersey Devils,3,Wes McCauley,Stephane Auger,Florida Panthers,New Jersey Devils
+2006021125,Minnesota Wild,4,Los Angeles Kings,1,Chris Lee,Ian Walsh,Minnesota Wild,Los Angeles Kings
+2006021126,Phoenix Coyotes,3,Dallas Stars,3,Michael McGeough,Justin StPierre,Phoenix Coyotes,Dallas Stars
+2006021127,Edmonton Oilers,0,Nashville Predators,4,Don Koharski,Greg Kimmerly,Nashville Predators,Edmonton Oilers
+2006021128,New York Islanders,1,New York Rangers,2,Chris Rooney,Paul Devorski,New York Rangers,New York Islanders
+2006021129,Pittsburgh Penguins,5,Boston Bruins,0,Brad Watson,Tom Kowal,Pittsburgh Penguins,Boston Bruins
+2006021130,Columbus Blue Jackets,4,St. Louis Blues,1,Kelly Sutherland,Rob Martell,Columbus Blue Jackets,St. Louis Blues
+2006021131,Chicago Blackhawks,2,Calgary Flames,3,Dan O'Rourke,Dean Warren,Calgary Flames,Chicago Blackhawks
+2006021132,Vancouver Canucks,4,Colorado Avalanche,4,Don Koharski,Greg Kimmerly,Vancouver Canucks,Colorado Avalanche
+2006021133,Detroit Red Wings,1,Anaheim Ducks,0,Mike Leggo,Dan O'Halloran,Detroit Red Wings,Anaheim Ducks
+2006021134,Washington Capitals,3,Pittsburgh Penguins,4,Kerry Fraser,Tim Peel,Pittsburgh Penguins,Washington Capitals
+2006021135,Tampa Bay Lightning,2,Florida Panthers,5,Brad Watson,Tom Kowal,Florida Panthers,Tampa Bay Lightning
+2006021136,Toronto Maple Leafs,6,Carolina Hurricanes,1,Dan Marouelli,Ian Walsh,Toronto Maple Leafs,Carolina Hurricanes
+2006021137,Montréal Canadiens,6,New York Rangers,4,Paul Devorski,Stephane Auger,Montréal Canadiens,New York Rangers
+2006021138,Ottawa Senators,2,Boston Bruins,3,Chris Rooney,Bill McCreary,Boston Bruins,Ottawa Senators
+2006021139,New York Islanders,2,New Jersey Devils,3,Kevin Pollock,Gord Dwyer,New Jersey Devils,New York Islanders
+2006021140,St. Louis Blues,1,Columbus Blue Jackets,4,Craig Spada,Steve Kozari,Columbus Blue Jackets,St. Louis Blues
+2006021141,Nashville Predators,4,Edmonton Oilers,3,Mike Leggo,Don VanMassenhoven,Nashville Predators,Edmonton Oilers
+2006021142,Minnesota Wild,0,Calgary Flames,0,Marc Joannette,Justin StPierre,Minnesota Wild,Calgary Flames
+2006021143,Dallas Stars,6,Phoenix Coyotes,0,Kelly Sutherland,Rob Martell,Dallas Stars,Phoenix Coyotes
+2006021144,Colorado Avalanche,0,Vancouver Canucks,3,Dave Jackson,Mike Hasenfratz,Vancouver Canucks,Colorado Avalanche
+2006021145,San Jose Sharks,3,Los Angeles Kings,1,Rob Shick,Greg Kimmerly,San Jose Sharks,Los Angeles Kings
+2006021146,Buffalo Sabres,4,New Jersey Devils,3,Dan Marouelli,Ian Walsh,Buffalo Sabres,New Jersey Devils
+2006021147,Philadelphia Flyers,5,Carolina Hurricanes,1,Wes McCauley,Tim Peel,Philadelphia Flyers,Carolina Hurricanes
+2006021148,Florida Panthers,2,Atlanta Thrashers,2,Don Koharski,Tom Kowal,Florida Panthers,Atlanta Thrashers
+2006021149,Chicago Blackhawks,1,Anaheim Ducks,3,Marc Joannette,Chris Lee,Anaheim Ducks,Chicago Blackhawks
+2006021150,Boston Bruins,2,Pittsburgh Penguins,4,Kerry Fraser,Kevin Pollock,Pittsburgh Penguins,Boston Bruins
+2006021151,Atlanta Thrashers,3,Toronto Maple Leafs,2,Don Koharski,Rob Shick,Atlanta Thrashers,Toronto Maple Leafs
+2006021152,Columbus Blue Jackets,2,Anaheim Ducks,5,Chris Lee,Mike Hasenfratz,Anaheim Ducks,Columbus Blue Jackets
+2006021153,St. Louis Blues,5,Edmonton Oilers,2,Brad Meier,Brian Pochmara,St. Louis Blues,Edmonton Oilers
+2006021154,Nashville Predators,1,Detroit Red Wings,2,Mike Leggo,Dan O'Halloran,Detroit Red Wings,Nashville Predators
+2006021155,Minnesota Wild,2,Calgary Flames,4,Chris Rooney,Don VanMassenhoven,Calgary Flames,Minnesota Wild
+2006021156,Phoenix Coyotes,3,Colorado Avalanche,4,Michael McGeough,Craig Spada,Colorado Avalanche,Phoenix Coyotes
+2006021157,Los Angeles Kings,2,Vancouver Canucks,4,Dennis LaRue,Greg Kimmerly,Vancouver Canucks,Los Angeles Kings
+2006021158,Carolina Hurricanes,2,Tampa Bay Lightning,4,Mike Leggo,Don Koharski,Tampa Bay Lightning,Carolina Hurricanes
+2006021159,Ottawa Senators,5,Montréal Canadiens,2,Wes McCauley,Dan Marouelli,Ottawa Senators,Montréal Canadiens
+2006021160,New Jersey Devils,3,Philadelphia Flyers,1,Kerry Fraser,Ian Walsh,New Jersey Devils,Philadelphia Flyers
+2006021161,Florida Panthers,3,Washington Capitals,2,Rob Shick,Rob Martell,Florida Panthers,Washington Capitals
+2006021162,Detroit Red Wings,3,Dallas Stars,3,Chris Lee,Mike Hasenfratz,Detroit Red Wings,Dallas Stars
+2006021163,Buffalo Sabres,6,New York Islanders,4,Bill McCreary,Stephane Auger,Buffalo Sabres,New York Islanders
+2006021164,Chicago Blackhawks,3,Columbus Blue Jackets,1,Don VanMassenhoven,Brian Pochmara,Chicago Blackhawks,Columbus Blue Jackets
+2006021165,San Jose Sharks,4,Phoenix Coyotes,2,Dennis LaRue,Greg Kimmerly,San Jose Sharks,Phoenix Coyotes
+2006021166,Boston Bruins,2,Atlanta Thrashers,3,Dave Jackson,Gord Dwyer,Atlanta Thrashers,Boston Bruins
+2006021167,Colorado Avalanche,2,Minnesota Wild,1,Craig Spada,Dean Warren,Colorado Avalanche,Minnesota Wild
+2006021168,Toronto Maple Leafs,5,Pittsburgh Penguins,4,Dan Marouelli,Brad Meier,Toronto Maple Leafs,Pittsburgh Penguins
+2006021169,Montréal Canadiens,4,Buffalo Sabres,3,Wes McCauley,Kevin Pollock,Montréal Canadiens,Buffalo Sabres
+2006021170,New York Islanders,2,Ottawa Senators,5,Bill McCreary,Dan O'Rourke,Ottawa Senators,New York Islanders
+2006021171,Philadelphia Flyers,4,New York Rangers,6,Eric Furlatt,Ian Walsh,New York Rangers,Philadelphia Flyers
+2006021172,Tampa Bay Lightning,5,Washington Capitals,2,Paul Devorski,Rob Martell,Tampa Bay Lightning,Washington Capitals
+2006021173,St. Louis Blues,2,Anaheim Ducks,3,Chris Rooney,Tim Peel,Anaheim Ducks,St. Louis Blues
+2006021174,Nashville Predators,2,Dallas Stars,4,Dan O'Halloran,Don VanMassenhoven,Dallas Stars,Nashville Predators
+2006021175,Vancouver Canucks,2,Calgary Flames,3,Michael McGeough,Tom Kowal,Calgary Flames,Vancouver Canucks
+2006021176,New Jersey Devils,3,Boston Bruins,1,Don Koharski,Gord Dwyer,New Jersey Devils,Boston Bruins
+2006021177,Columbus Blue Jackets,1,Detroit Red Wings,4,Kerry Fraser,Justin StPierre,Detroit Red Wings,Columbus Blue Jackets
+2006021178,Chicago Blackhawks,2,Edmonton Oilers,1,Chris Lee,Dean Morton,Chicago Blackhawks,Edmonton Oilers
+2006021179,Florida Panthers,3,Carolina Hurricanes,4,Paul Devorski,Rob Martell,Carolina Hurricanes,Florida Panthers
+2006021180,San Jose Sharks,6,Los Angeles Kings,2,Dennis LaRue,Rob Shick,San Jose Sharks,Los Angeles Kings
+2006021181,New York Rangers,7,Toronto Maple Leafs,2,Kelly Sutherland,Brad Watson,New York Rangers,Toronto Maple Leafs
+2006021182,Dallas Stars,2,St. Louis Blues,4,Chris Rooney,Dave Jackson,St. Louis Blues,Dallas Stars
+2006021183,Pittsburgh Penguins,1,Buffalo Sabres,4,Dan O'Rourke,Paul Devorski,Buffalo Sabres,Pittsburgh Penguins
+2006021184,Washington Capitals,1,Florida Panthers,0,Mike Leggo,Gord Dwyer,Washington Capitals,Florida Panthers
+2006021185,Toronto Maple Leafs,3,Philadelphia Flyers,2,Bill McCreary,Greg Kimmerly,Toronto Maple Leafs,Philadelphia Flyers
+2006021186,Montréal Canadiens,2,Boston Bruins,0,Kelly Sutherland,Dan O'Halloran,Montréal Canadiens,Boston Bruins
+2006021187,New Jersey Devils,1,Ottawa Senators,1,Brad Meier,Justin StPierre,New Jersey Devils,Ottawa Senators
+2006021188,New York Islanders,2,New York Rangers,2,Brad Watson,Marc Joannette,New York Islanders,New York Rangers
+2006021189,Tampa Bay Lightning,3,Carolina Hurricanes,2,Tim Peel,Don VanMassenhoven,Tampa Bay Lightning,Carolina Hurricanes
+2006021190,Detroit Red Wings,3,Columbus Blue Jackets,0,Kerry Fraser,Stephane Auger,Detroit Red Wings,Columbus Blue Jackets
+2006021191,Nashville Predators,2,Chicago Blackhawks,2,Don Koharski,Rob Martell,Nashville Predators,Chicago Blackhawks
+2006021192,Minnesota Wild,3,Edmonton Oilers,0,Rob Shick,Chris Lee,Minnesota Wild,Edmonton Oilers
+2006021193,Calgary Flames,3,Colorado Avalanche,4,Michael McGeough,Tom Kowal,Colorado Avalanche,Calgary Flames
+2006021194,Vancouver Canucks,4,Los Angeles Kings,2,Craig Spada,Kevin Pollock,Vancouver Canucks,Los Angeles Kings
+2006021195,Phoenix Coyotes,2,St. Louis Blues,5,Dennis LaRue,Dean Warren,St. Louis Blues,Phoenix Coyotes
+2006021196,Atlanta Thrashers,2,Washington Capitals,3,Tim Peel,Ian Walsh,Washington Capitals,Atlanta Thrashers
+2006021197,Anaheim Ducks,2,San Jose Sharks,2,Wes McCauley,Eric Furlatt,Anaheim Ducks,San Jose Sharks
+2006021198,Buffalo Sabres,4,Boston Bruins,2,Bill McCreary,Rob Martell,Buffalo Sabres,Boston Bruins
+2006021199,New York Rangers,3,Montréal Canadiens,1,Dan O'Rourke,Paul Devorski,New York Rangers,Montréal Canadiens
+2006021200,Philadelphia Flyers,2,New Jersey Devils,3,Marc Joannette,Justin StPierre,New Jersey Devils,Philadelphia Flyers
+2006021201,Columbus Blue Jackets,2,Dallas Stars,1,Chris Rooney,Brad Meier,Columbus Blue Jackets,Dallas Stars
+2006021202,Ottawa Senators,2,Pittsburgh Penguins,3,Dave Jackson,Rob Shick,Pittsburgh Penguins,Ottawa Senators
+2006021203,New York Islanders,5,Toronto Maple Leafs,2,Dan O'Halloran,Dennis LaRue,New York Islanders,Toronto Maple Leafs
+2006021204,Nashville Predators,4,St. Louis Blues,1,Dan Marouelli,Mike Hasenfratz,Nashville Predators,St. Louis Blues
+2006021205,Minnesota Wild,3,Edmonton Oilers,0,Kelly Sutherland,Craig Spada,Minnesota Wild,Edmonton Oilers
+2006021206,Chicago Blackhawks,2,Detroit Red Wings,2,Mike Leggo,Michael McGeough,Chicago Blackhawks,Detroit Red Wings
+2006021207,Vancouver Canucks,1,Colorado Avalanche,3,Tom Kowal,Kevin Pollock,Colorado Avalanche,Vancouver Canucks
+2006021208,Phoenix Coyotes,3,Los Angeles Kings,2,Wes McCauley,Dean Warren,Phoenix Coyotes,Los Angeles Kings
+2006021209,San Jose Sharks,4,Calgary Flames,3,Eric Furlatt,Chris Lee,San Jose Sharks,Calgary Flames
+2006021210,Carolina Hurricanes,1,Atlanta Thrashers,4,Don VanMassenhoven,Mike Hasenfratz,Atlanta Thrashers,Carolina Hurricanes
+2006021211,Tampa Bay Lightning,2,Florida Panthers,7,Tim Peel,Gord Dwyer,Florida Panthers,Tampa Bay Lightning
+2006021212,Dallas Stars,1,Anaheim Ducks,1,Greg Kimmerly,Ian Walsh,Dallas Stars,Anaheim Ducks
+2006021213,Philadelphia Flyers,2,New York Islanders,4,Paul Devorski,Dan O'Halloran,New York Islanders,Philadelphia Flyers
+2006021214,Washington Capitals,0,Buffalo Sabres,2,Dan O'Rourke,Don Koharski,Buffalo Sabres,Washington Capitals
+2006021215,Detroit Red Wings,7,Chicago Blackhawks,2,Chris Rooney,Justin StPierre,Detroit Red Wings,Chicago Blackhawks
+2006021216,Los Angeles Kings,3,Phoenix Coyotes,2,Craig Spada,Chris Lee,Los Angeles Kings,Phoenix Coyotes
+2006021217,San Jose Sharks,3,Vancouver Canucks,4,Kerry Fraser,Kelly Sutherland,Vancouver Canucks,San Jose Sharks
+2006021218,Boston Bruins,3,Ottawa Senators,6,Dennis LaRue,Rob Martell,Ottawa Senators,Boston Bruins
+2006021219,Toronto Maple Leafs,6,Montréal Canadiens,5,Dave Jackson,Rob Shick,Toronto Maple Leafs,Montréal Canadiens
+2006021220,Carolina Hurricanes,5,Florida Panthers,4,Marc Joannette,Kevin Pollock,Carolina Hurricanes,Florida Panthers
+2006021221,Atlanta Thrashers,2,Tampa Bay Lightning,2,Don VanMassenhoven,Eric Furlatt,Atlanta Thrashers,Tampa Bay Lightning
+2006021222,Columbus Blue Jackets,3,Anaheim Ducks,4,Mike Leggo,Wes McCauley,Anaheim Ducks,Columbus Blue Jackets
+2006021223,Pittsburgh Penguins,2,New York Rangers,1,Dan Marouelli,Bill McCreary,Pittsburgh Penguins,New York Rangers
+2006021224,Minnesota Wild,5,St. Louis Blues,1,Stephane Auger,Tom Kowal,Minnesota Wild,St. Louis Blues
+2006021225,Colorado Avalanche,2,Nashville Predators,4,Greg Kimmerly,Michael McGeough,Nashville Predators,Colorado Avalanche
+2006021226,Calgary Flames,2,Edmonton Oilers,3,Brad Meier,Dean Warren,Edmonton Oilers,Calgary Flames
+2006021227,New Jersey Devils,2,New York Islanders,2,Dan O'Rourke,Paul Devorski,New Jersey Devils,New York Islanders
+2006021228,Philadelphia Flyers,4,Buffalo Sabres,3,Don Koharski,Gord Dwyer,Philadelphia Flyers,Buffalo Sabres
+2006021229,Dallas Stars,3,Chicago Blackhawks,2,Kelly Sutherland,Ian Walsh,Dallas Stars,Chicago Blackhawks
+2006021230,Phoenix Coyotes,3,Vancouver Canucks,1,Chris Lee,Mike Hasenfratz,Phoenix Coyotes,Vancouver Canucks

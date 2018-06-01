@@ -1,0 +1,1140 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+1999020001,Dallas Stars,6,Pittsburgh Penguins,4,Bill McCreary,Shane Heyer,Dallas Stars,Pittsburgh Penguins
+1999020002,Edmonton Oilers,1,New York Rangers,1,Kerry Fraser,Dan Marouelli,Edmonton Oilers,New York Rangers
+1999020003,Boston Bruins,1,Carolina Hurricanes,3,Brad Watson,Paul Devorski,Carolina Hurricanes,Boston Bruins
+1999020004,Montréal Canadiens,1,Toronto Maple Leafs,4,Dan O'Halloran,Stephen Walkom,Toronto Maple Leafs,Montréal Canadiens
+1999020005,Philadelphia Flyers,0,Ottawa Senators,3,Mark Faucette,Greg Kimmerly,Ottawa Senators,Philadelphia Flyers
+1999020006,Atlanta Thrashers,1,New Jersey Devils,4,Terry Gregson,Jean Morin,New Jersey Devils,Atlanta Thrashers
+1999020007,Tampa Bay Lightning,4,New York Islanders,2,Don Van Massenhoven,Tim Nowak,Tampa Bay Lightning,New York Islanders
+1999020008,Florida Panthers,4,Washington Capitals,3,Paul Stewart,Gordon Broseker,Florida Panthers,Washington Capitals
+1999020009,Detroit Red Wings,2,Buffalo Sabres,0,Robbie Shick,Scott Zelkin,Detroit Red Wings,Buffalo Sabres
+1999020010,St. Louis Blues,1,Phoenix Coyotes,2,Richard Trottier,Kevin Maguire,Phoenix Coyotes,St. Louis Blues
+1999020011,Nashville Predators,0,Los Angeles Kings,2,Bernard Degrace,Dave Jackson,Los Angeles Kings,Nashville Predators
+1999020012,Dallas Stars,2,Anaheim Ducks,0,Bill McCreary,Mark Wheler,Dallas Stars,Anaheim Ducks
+1999020013,Vancouver Canucks,2,New York Rangers,1,Kerry Fraser,Brad Lazarowich,Vancouver Canucks,New York Rangers
+1999020014,San Jose Sharks,5,Calgary Flames,3,Don Koharski,Mike Leggo,San Jose Sharks,Calgary Flames
+1999020015,Toronto Maple Leafs,4,Boston Bruins,0,Lance Roberts,Robbie Shick,Toronto Maple Leafs,Boston Bruins
+1999020016,St. Louis Blues,2,Los Angeles Kings,3,Dave Jackson,Thor Nelson,Los Angeles Kings,St. Louis Blues
+1999020017,San Jose Sharks,7,Chicago Blackhawks,1,Don Koharski,Don Henderson,San Jose Sharks,Chicago Blackhawks
+1999020018,New York Rangers,1,Ottawa Senators,2,Don Van Massenhoven,Dennis LaRue,Ottawa Senators,New York Rangers
+1999020019,Detroit Red Wings,2,Dallas Stars,3,Michael McGeough,Mark Faucette,Dallas Stars,Detroit Red Wings
+1999020020,Nashville Predators,2,Colorado Avalanche,3,Blaine Angus,Mark Pare,Colorado Avalanche,Nashville Predators
+1999020021,Phoenix Coyotes,4,Anaheim Ducks,0,Kerry Fraser,Don Henderson,Phoenix Coyotes,Anaheim Ducks
+1999020022,Toronto Maple Leafs,2,Colorado Avalanche,1,Bill McCreary,Ray Scapinello,Toronto Maple Leafs,Colorado Avalanche
+1999020023,Florida Panthers,4,Los Angeles Kings,2,Lance Roberts,Dave Jackson,Florida Panthers,Los Angeles Kings
+1999020024,Calgary Flames,1,St. Louis Blues,4,Dan Marouelli,Scott Zelkin,St. Louis Blues,Calgary Flames
+1999020025,Edmonton Oilers,2,Montréal Canadiens,1,Robbie Shick,Mark Wheler,Edmonton Oilers,Montréal Canadiens
+1999020026,Vancouver Canucks,5,Chicago Blackhawks,4,Don Koharski,Rob Martell,Vancouver Canucks,Chicago Blackhawks
+1999020027,Ottawa Senators,4,Boston Bruins,3,Mark Faucette,Greg Kimmerly,Ottawa Senators,Boston Bruins
+1999020028,New Jersey Devils,5,Pittsburgh Penguins,7,Brad Watson,Paul Stewart,Pittsburgh Penguins,New Jersey Devils
+1999020029,Philadelphia Flyers,0,Carolina Hurricanes,2,Don Van Massenhoven,Kevin Collins,Carolina Hurricanes,Philadelphia Flyers
+1999020030,Atlanta Thrashers,1,Detroit Red Wings,7,Blaine Angus,Mark Pare,Detroit Red Wings,Atlanta Thrashers
+1999020031,Tampa Bay Lightning,2,Los Angeles Kings,5,Lance Roberts,Pierre Racicot,Los Angeles Kings,Tampa Bay Lightning
+1999020032,San Jose Sharks,3,Edmonton Oilers,2,ZELKIM,Wayne Bonney,San Jose Sharks,Edmonton Oilers
+1999020033,Buffalo Sabres,2,Washington Capitals,3,Michael McGeough,Scott Driscoll,Washington Capitals,Buffalo Sabres
+1999020034,New York Rangers,3,Carolina Hurricanes,1,Stephen Walkom,Dean Warren,New York Rangers,Carolina Hurricanes
+1999020035,Pittsburgh Penguins,3,Colorado Avalanche,3,Dan O'Halloran,Pierre Champoux,Pittsburgh Penguins,Colorado Avalanche
+1999020036,Chicago Blackhawks,3,Phoenix Coyotes,3,Dennis LaRue,Paul Devorski,Chicago Blackhawks,Phoenix Coyotes
+1999020037,Calgary Flames,1,Montréal Canadiens,4,Dan Marouelli,Brad Lazarowich,Montréal Canadiens,Calgary Flames
+1999020038,Anaheim Ducks,3,Dallas Stars,0,Richard Trottier,Don Koharski,Anaheim Ducks,Dallas Stars
+1999020039,Boston Bruins,1,Philadelphia Flyers,1,Stephen Walkom,Gerry Gauthier,Boston Bruins,Philadelphia Flyers
+1999020040,Ottawa Senators,4,Toronto Maple Leafs,3,Michael McGeough,Ray Scapinello,Ottawa Senators,Toronto Maple Leafs
+1999020041,New Jersey Devils,1,Tampa Bay Lightning,0,Bernard Degrace,Lance Roberts,New Jersey Devils,Tampa Bay Lightning
+1999020043,Atlanta Thrashers,5,Buffalo Sabres,5,Blaine Angus,Dave Jackson,Atlanta Thrashers,Buffalo Sabres
+1999020044,Florida Panthers,2,Detroit Red Wings,2,Mark Faucette,Pierre Racicot,Florida Panthers,Detroit Red Wings
+1999020045,Edmonton Oilers,2,St. Louis Blues,4,Dan Marouelli,Rob Martell,St. Louis Blues,Edmonton Oilers
+1999020046,Vancouver Canucks,4,Montréal Canadiens,1,Terry Gregson,Jay Sharrers,Vancouver Canucks,Montréal Canadiens
+1999020047,San Jose Sharks,2,Dallas Stars,3,Mike Leggo,Swede Knox,Dallas Stars,San Jose Sharks
+1999020048,New York Islanders,4,Colorado Avalanche,2,Brad Watson,Jean Morin,New York Islanders,Colorado Avalanche
+1999020049,New York Rangers,4,Phoenix Coyotes,2,Kerry Fraser,Kevin Collins,New York Rangers,Phoenix Coyotes
+1999020050,Chicago Blackhawks,3,Nashville Predators,3,Paul Stewart,Randy Mitton,Chicago Blackhawks,Nashville Predators
+1999020051,Boston Bruins,3,Colorado Avalanche,3,Bernard Degrace,Pierre Champoux,Boston Bruins,Colorado Avalanche
+1999020052,Buffalo Sabres,2,Phoenix Coyotes,2,Paul Devorski,Ray Scapinello,Buffalo Sabres,Phoenix Coyotes
+1999020053,Toronto Maple Leafs,2,Nashville Predators,4,Michael McGeough,Mike Leggo,Nashville Predators,Toronto Maple Leafs
+1999020054,Ottawa Senators,2,New Jersey Devils,2,Stephen Walkom,Scott Driscoll,Ottawa Senators,New Jersey Devils
+1999020055,New York Islanders,2,New York Rangers,4,Bill McCreary,Pat Dapuzzo,New York Rangers,New York Islanders
+1999020056,Calgary Flames,3,Carolina Hurricanes,3,Richard Trottier,Dennis LaRue,Calgary Flames,Carolina Hurricanes
+1999020057,Anaheim Ducks,5,San Jose Sharks,3,Terry Gregson,Shane Heyer,Anaheim Ducks,San Jose Sharks
+1999020058,Montréal Canadiens,1,Florida Panthers,2,Kerry Fraser,Kevin Maguire,Florida Panthers,Montréal Canadiens
+1999020059,Washington Capitals,5,Philadelphia Flyers,4,Brad Watson,Bill McCreary,Washington Capitals,Philadelphia Flyers
+1999020060,Toronto Maple Leafs,3,Florida Panthers,2,Bernard Degrace,Paul Stewart,Toronto Maple Leafs,Florida Panthers
+1999020061,New Jersey Devils,3,Anaheim Ducks,2,Dave Jackson,Lyle Seitz,New Jersey Devils,Anaheim Ducks
+1999020062,Detroit Red Wings,4,St. Louis Blues,2,Mark Faucette,Greg Kimmerly,Detroit Red Wings,St. Louis Blues
+1999020063,Dallas Stars,0,San Jose Sharks,2,Don Koharski,Baron Parker,San Jose Sharks,Dallas Stars
+1999020064,Colorado Avalanche,2,Boston Bruins,1,Terry Gregson,Shane Heyer,Colorado Avalanche,Boston Bruins
+1999020065,Edmonton Oilers,3,Carolina Hurricanes,3,Dennis LaRue,Lonnie Cameron,Edmonton Oilers,Carolina Hurricanes
+1999020066,Vancouver Canucks,3,Calgary Flames,4,Robbie Shick,Don Henderson,Calgary Flames,Vancouver Canucks
+1999020067,New York Islanders,0,Atlanta Thrashers,2,Dave Jackson,Mike Leggo,Atlanta Thrashers,New York Islanders
+1999020068,New York Rangers,2,Pittsburgh Penguins,5,Paul Devorski,Jean Morin,Pittsburgh Penguins,New York Rangers
+1999020069,Philadelphia Flyers,4,Montréal Canadiens,5,Dan Marouelli,Dan Schachte,Montréal Canadiens,Philadelphia Flyers
+1999020070,Nashville Predators,1,San Jose Sharks,5,Mark Faucette,Greg Kimmerly,San Jose Sharks,Nashville Predators
+1999020071,Phoenix Coyotes,4,Ottawa Senators,3,Dan O'Halloran,Michael McGeough,Phoenix Coyotes,Ottawa Senators
+1999020072,Tampa Bay Lightning,2,Anaheim Ducks,3,Don Koharski,Scott Zelkin,Anaheim Ducks,Tampa Bay Lightning
+1999020073,Chicago Blackhawks,1,Toronto Maple Leafs,2,Terry Gregson,Danny McCourt,Toronto Maple Leafs,Chicago Blackhawks
+1999020074,Dallas Stars,2,Boston Bruins,2,Dan O'Halloran,Baron Parker,Dallas Stars,Boston Bruins
+1999020075,Calgary Flames,1,Los Angeles Kings,4,Robbie Shick,Dennis LaRue,Los Angeles Kings,Calgary Flames
+1999020076,Vancouver Canucks,1,Carolina Hurricanes,4,Bill McCreary,Don Van Massenhoven,Carolina Hurricanes,Vancouver Canucks
+1999020077,Montréal Canadiens,2,Buffalo Sabres,1,Dave Jackson,Pierre Champoux,Montréal Canadiens,Buffalo Sabres
+1999020078,New Jersey Devils,4,New York Islanders,1,Blaine Angus,Dan Marouelli,New Jersey Devils,New York Islanders
+1999020079,Pittsburgh Penguins,3,Chicago Blackhawks,3,Brad Watson,Paul Devorski,Pittsburgh Penguins,Chicago Blackhawks
+1999020080,Washington Capitals,2,San Jose Sharks,3,Richard Trottier,Pat Dapuzzo,San Jose Sharks,Washington Capitals
+1999020081,Tampa Bay Lightning,4,Atlanta Thrashers,4,Don Koharski,Scott Zelkin,Tampa Bay Lightning,Atlanta Thrashers
+1999020082,Florida Panthers,3,Anaheim Ducks,2,Kevin Maguire,Pierre Racicot,Florida Panthers,Anaheim Ducks
+1999020083,Detroit Red Wings,3,Philadelphia Flyers,2,Kerry Fraser,Ray Scapinello,Detroit Red Wings,Philadelphia Flyers
+1999020084,St. Louis Blues,4,Toronto Maple Leafs,2,Mark Faucette,Danny McCourt,St. Louis Blues,Toronto Maple Leafs
+1999020085,Nashville Predators,3,Dallas Stars,2,Paul Stewart,Mike Leggo,Nashville Predators,Dallas Stars
+1999020086,Colorado Avalanche,3,Ottawa Senators,1,Michael McGeough,Robbie Shick,Colorado Avalanche,Ottawa Senators
+1999020087,Calgary Flames,4,Vancouver Canucks,4,Bill McCreary,Don Henderson,Calgary Flames,Vancouver Canucks
+1999020088,Edmonton Oilers,5,Los Angeles Kings,4,Don Van Massenhoven,Swede Knox,Edmonton Oilers,Los Angeles Kings
+1999020089,Phoenix Coyotes,2,Boston Bruins,1,Stephen Walkom,Wayne Bonney,Phoenix Coyotes,Boston Bruins
+1999020090,New York Rangers,4,Atlanta Thrashers,1,Blaine Angus,Dan Marouelli,New York Rangers,Atlanta Thrashers
+1999020091,Philadelphia Flyers,5,Buffalo Sabres,2,Richard Trottier,Paul Devorski,Philadelphia Flyers,Buffalo Sabres
+1999020092,Montréal Canadiens,2,New York Islanders,4,Lance Roberts,Brian Murphy,New York Islanders,Montréal Canadiens
+1999020093,New York Rangers,1,San Jose Sharks,2,Bernard Degrace,Gordon Broseker,San Jose Sharks,New York Rangers
+1999020094,Washington Capitals,1,Anaheim Ducks,7,Terry Gregson,Conrad Hache,Anaheim Ducks,Washington Capitals
+1999020095,Tampa Bay Lightning,5,Vancouver Canucks,6,Kevin Maguire,Kevin Collins,Vancouver Canucks,Tampa Bay Lightning
+1999020096,St. Louis Blues,7,Calgary Flames,1,Stephen Walkom,Brad Lazarowich,St. Louis Blues,Calgary Flames
+1999020097,Buffalo Sabres,3,Nashville Predators,4,Brian Murphy,Bill McCreary,Nashville Predators,Buffalo Sabres
+1999020098,Toronto Maple Leafs,3,Carolina Hurricanes,3,Dennis LaRue,Pierre Champoux,Toronto Maple Leafs,Carolina Hurricanes
+1999020099,Montréal Canadiens,1,Colorado Avalanche,2,Brad Watson,Pat Dapuzzo,Colorado Avalanche,Montréal Canadiens
+1999020100,Philadelphia Flyers,5,New York Rangers,0,Lance Roberts,Dave Jackson,Philadelphia Flyers,New York Rangers
+1999020101,Florida Panthers,5,Vancouver Canucks,2,Richard Trottier,Kevin Collins,Florida Panthers,Vancouver Canucks
+1999020102,Detroit Red Wings,6,San Jose Sharks,3,Dan O'Halloran,Stephen Walkom,Detroit Red Wings,San Jose Sharks
+1999020103,Dallas Stars,2,Edmonton Oilers,1,Paul Stewart,Mark Wheler,Dallas Stars,Edmonton Oilers
+1999020104,Los Angeles Kings,2,Boston Bruins,2,Robbie Shick,Mike Leggo,Los Angeles Kings,Boston Bruins
+1999020105,Ottawa Senators,4,Colorado Avalanche,1,Tim Peel,Don Van Massenhoven,Ottawa Senators,Colorado Avalanche
+1999020106,Chicago Blackhawks,5,Anaheim Ducks,5,Dennis LaRue,Baron Parker,Chicago Blackhawks,Anaheim Ducks
+1999020107,St. Louis Blues,3,Edmonton Oilers,2,Kerry Fraser,Kevin Maguire,St. Louis Blues,Edmonton Oilers
+1999020108,Buffalo Sabres,7,Carolina Hurricanes,3,Terry Gregson,Pierre Champoux,Buffalo Sabres,Carolina Hurricanes
+1999020109,New York Rangers,0,Philadelphia Flyers,2,Brad Watson,Bill McCreary,Philadelphia Flyers,New York Rangers
+1999020110,Florida Panthers,2,Calgary Flames,3,Mark Faucette,Greg Kimmerly,Calgary Flames,Florida Panthers
+1999020111,Detroit Red Wings,6,Anaheim Ducks,3,Bernard Degrace,Stephen Walkom,Detroit Red Wings,Anaheim Ducks
+1999020112,Dallas Stars,2,New Jersey Devils,1,Paul Stewart,Scott Zelkin,Dallas Stars,New Jersey Devils
+1999020113,Los Angeles Kings,3,Phoenix Coyotes,6,Dan Marouelli,Swede Knox,Phoenix Coyotes,Los Angeles Kings
+1999020114,Toronto Maple Leafs,3,Montréal Canadiens,2,Dan O'Halloran,Stephen Walkom,Toronto Maple Leafs,Montréal Canadiens
+1999020115,Ottawa Senators,4,Buffalo Sabres,0,Lance Roberts,Dennis LaRue,Ottawa Senators,Buffalo Sabres
+1999020116,New York Islanders,2,Vancouver Canucks,2,Blaine Angus,Don Van Massenhoven,New York Islanders,Vancouver Canucks
+1999020117,Pittsburgh Penguins,2,Carolina Hurricanes,3,Bill McCreary,Brad Meier,Carolina Hurricanes,Pittsburgh Penguins
+1999020118,Atlanta Thrashers,2,Colorado Avalanche,3,Mike Leggo,Danny McCourt,Colorado Avalanche,Atlanta Thrashers
+1999020119,Tampa Bay Lightning,2,Calgary Flames,1,Greg Kimmerly,Kevin Collins,Tampa Bay Lightning,Calgary Flames
+1999020120,Chicago Blackhawks,0,Detroit Red Wings,1,Kerry Fraser,Brad Lazarowich,Detroit Red Wings,Chicago Blackhawks
+1999020121,St. Louis Blues,3,New Jersey Devils,1,Michael McGeough,Baron Parker,St. Louis Blues,New Jersey Devils
+1999020122,Nashville Predators,4,Edmonton Oilers,3,Don Koharski,Rob Martell,Nashville Predators,Edmonton Oilers
+1999020123,Phoenix Coyotes,2,Washington Capitals,2,Robbie Shick,Jay Sharrers,Phoenix Coyotes,Washington Capitals
+1999020124,San Jose Sharks,1,Boston Bruins,3,Dan Marouelli,Wayne Bonney,Boston Bruins,San Jose Sharks
+1999020125,New York Rangers,0,Vancouver Canucks,3,Dennis LaRue,Paul Devorski,Vancouver Canucks,New York Rangers
+1999020126,Philadelphia Flyers,2,Florida Panthers,0,Bernard Degrace,Don Van Massenhoven,Philadelphia Flyers,Florida Panthers
+1999020127,Anaheim Ducks,2,Boston Bruins,3,Dan Marouelli,Shane Heyer,Boston Bruins,Anaheim Ducks
+1999020128,Los Angeles Kings,4,San Jose Sharks,3,Paul Stewart,Wayne Bonney,Los Angeles Kings,San Jose Sharks
+1999020129,Toronto Maple Leafs,4,Dallas Stars,0,Kerry Fraser,Michael McGeough,Toronto Maple Leafs,Dallas Stars
+1999020130,Philadelphia Flyers,2,Vancouver Canucks,5,Don Koharski,Don Henderson,Vancouver Canucks,Philadelphia Flyers
+1999020131,Atlanta Thrashers,2,Calgary Flames,1,Greg Kimmerly,Gordon Broseker,Atlanta Thrashers,Calgary Flames
+1999020132,Edmonton Oilers,3,Phoenix Coyotes,1,Terry Gregson,Dave Jackson,Edmonton Oilers,Phoenix Coyotes
+1999020133,Los Angeles Kings,5,Washington Capitals,2,Bernard Degrace,Paul Stewart,Los Angeles Kings,Washington Capitals
+1999020134,Buffalo Sabres,4,Tampa Bay Lightning,3,Kerry Fraser,Marc Joannette,Buffalo Sabres,Tampa Bay Lightning
+1999020135,Toronto Maple Leafs,4,Atlanta Thrashers,0,Richard Trottier,Scott Zelkin,Toronto Maple Leafs,Atlanta Thrashers
+1999020136,Montréal Canadiens,0,Chicago Blackhawks,1,Don Koharski,Gerry Gauthier,Chicago Blackhawks,Montréal Canadiens
+1999020137,New Jersey Devils,2,St. Louis Blues,1,Michael McGeough,Dennis LaRue,New Jersey Devils,St. Louis Blues
+1999020138,Florida Panthers,6,New York Islanders,3,Robbie Shick,Mike Leggo,Florida Panthers,New York Islanders
+1999020139,Detroit Red Wings,5,Colorado Avalanche,3,Lance Roberts,Bill McCreary,Detroit Red Wings,Colorado Avalanche
+1999020140,Anaheim Ducks,2,Pittsburgh Penguins,1,Paul Stewart,Wayne Bonney,Anaheim Ducks,Pittsburgh Penguins
+1999020141,Boston Bruins,7,Tampa Bay Lightning,3,Don Van Massenhoven,Dennis LaRue,Boston Bruins,Tampa Bay Lightning
+1999020142,Ottawa Senators,3,Calgary Flames,4,Dan Marouelli,Pierre Champoux,Calgary Flames,Ottawa Senators
+1999020143,Philadelphia Flyers,5,Colorado Avalanche,4,Brad Watson,Mark Faucette,Philadelphia Flyers,Colorado Avalanche
+1999020144,Vancouver Canucks,1,Phoenix Coyotes,4,Dan O'Halloran,Stephen Walkom,Phoenix Coyotes,Vancouver Canucks
+1999020145,Los Angeles Kings,5,Pittsburgh Penguins,3,Dave Jackson,Wayne Bonney,Los Angeles Kings,Pittsburgh Penguins
+1999020146,San Jose Sharks,3,Nashville Predators,2,Terry Gregson,Bernard Degrace,San Jose Sharks,Nashville Predators
+1999020147,Buffalo Sabres,3,Florida Panthers,2,Richard Trottier,Michael McGeough,Buffalo Sabres,Florida Panthers
+1999020148,Carolina Hurricanes,2,New Jersey Devils,4,Paul Devorski,Tom Kowal,New Jersey Devils,Carolina Hurricanes
+1999020149,Detroit Red Wings,2,Chicago Blackhawks,4,Don Koharski,Robbie Shick,Chicago Blackhawks,Detroit Red Wings
+1999020150,Anaheim Ducks,5,Washington Capitals,2,Dave Jackson,Jay Sharrers,Anaheim Ducks,Washington Capitals
+1999020151,Boston Bruins,3,Buffalo Sabres,0,Brad Watson,Mark Faucette,Boston Bruins,Buffalo Sabres
+1999020152,Toronto Maple Leafs,2,Calgary Flames,1,Don Koharski,Scott Driscoll,Toronto Maple Leafs,Calgary Flames
+1999020153,Montréal Canadiens,2,New York Rangers,2,Kerry Fraser,Mike Leggo,Montréal Canadiens,New York Rangers
+1999020154,Ottawa Senators,5,Florida Panthers,0,Scott Zelkin,Gerry Gauthier,Ottawa Senators,Florida Panthers
+1999020155,New York Islanders,0,Carolina Hurricanes,4,Tim Peel,Don Van Massenhoven,Carolina Hurricanes,New York Islanders
+1999020156,Philadelphia Flyers,5,New Jersey Devils,3,Bill McCreary,Greg Kimmerly,Philadelphia Flyers,New Jersey Devils
+1999020157,Chicago Blackhawks,1,Los Angeles Kings,3,Richard Trottier,Blaine Angus,Los Angeles Kings,Chicago Blackhawks
+1999020158,St. Louis Blues,5,Detroit Red Wings,4,Paul Devorski,Danny McCourt,St. Louis Blues,Detroit Red Wings
+1999020159,Dallas Stars,1,Tampa Bay Lightning,2,Lance Roberts,Don Henderson,Tampa Bay Lightning,Dallas Stars
+1999020160,Colorado Avalanche,3,Phoenix Coyotes,5,Stephen Walkom,Kevin Maguire,Phoenix Coyotes,Colorado Avalanche
+1999020161,Vancouver Canucks,4,Nashville Predators,1,Terry Gregson,Bernard Degrace,Vancouver Canucks,Nashville Predators
+1999020162,San Jose Sharks,1,Pittsburgh Penguins,1,Dan O'Halloran,Jay Sharrers,San Jose Sharks,Pittsburgh Penguins
+1999020164,Edmonton Oilers,4,Nashville Predators,2,Stephen Walkom,Kevin Maguire,Edmonton Oilers,Nashville Predators
+1999020165,Anaheim Ducks,0,Phoenix Coyotes,3,Dan O'Halloran,Jay Sharrers,Phoenix Coyotes,Anaheim Ducks
+1999020166,San Jose Sharks,2,Washington Capitals,1,Dave Jackson,Mark Wheler,San Jose Sharks,Washington Capitals
+1999020167,Pittsburgh Penguins,4,Los Angeles Kings,5,Mark Faucette,Greg Kimmerly,Los Angeles Kings,Pittsburgh Penguins
+1999020168,New Jersey Devils,3,Montréal Canadiens,2,Conrad Hache,Paul Devorski,New Jersey Devils,Montréal Canadiens
+1999020169,New York Rangers,3,New York Islanders,3,Kerry Fraser,Dave Jackson,New York Rangers,New York Islanders
+1999020170,Washington Capitals,3,Ottawa Senators,1,Don Koharski,Rob Martell,Washington Capitals,Ottawa Senators
+1999020171,Carolina Hurricanes,0,Toronto Maple Leafs,6,Lance Roberts,Mark Pare,Toronto Maple Leafs,Carolina Hurricanes
+1999020172,Atlanta Thrashers,4,Tampa Bay Lightning,1,Paul Stewart,Pierre Racicot,Atlanta Thrashers,Tampa Bay Lightning
+1999020173,Detroit Red Wings,1,Los Angeles Kings,1,Mark Faucette,Greg Kimmerly,Detroit Red Wings,Los Angeles Kings
+1999020174,Dallas Stars,1,Buffalo Sabres,3,Robbie Shick,Shane Heyer,Buffalo Sabres,Dallas Stars
+1999020175,Colorado Avalanche,5,St. Louis Blues,0,Blaine Angus,Dan Marouelli,Colorado Avalanche,St. Louis Blues
+1999020176,Calgary Flames,5,Nashville Predators,4,Brian Murphy,Bill McCreary,Calgary Flames,Nashville Predators
+1999020177,Edmonton Oilers,2,Florida Panthers,2,Dan O'Halloran,Swede Knox,Edmonton Oilers,Florida Panthers
+1999020178,Anaheim Ducks,3,Philadelphia Flyers,3,Stephen Walkom,Kevin Maguire,Anaheim Ducks,Philadelphia Flyers
+1999020179,San Jose Sharks,6,Phoenix Coyotes,3,Dennis LaRue,Don Henderson,San Jose Sharks,Phoenix Coyotes
+1999020180,Boston Bruins,3,New Jersey Devils,1,Don Koharski,Scott Zelkin,Boston Bruins,New Jersey Devils
+1999020181,Ottawa Senators,2,Pittsburgh Penguins,1,Terry Gregson,Bernard Degrace,Ottawa Senators,Pittsburgh Penguins
+1999020182,New York Islanders,2,Montréal Canadiens,1,Brad Watson,Paul Devorski,New York Islanders,Montréal Canadiens
+1999020183,Chicago Blackhawks,4,Buffalo Sabres,5,Don Van Massenhoven,Dan Schachte,Buffalo Sabres,Chicago Blackhawks
+1999020184,Washington Capitals,5,Toronto Maple Leafs,3,Brad Watson,Dave Jackson,Washington Capitals,Toronto Maple Leafs
+1999020185,Detroit Red Wings,3,Carolina Hurricanes,2,Kerry Fraser,Jean Morin,Detroit Red Wings,Carolina Hurricanes
+1999020186,Nashville Predators,1,Chicago Blackhawks,3,Lance Roberts,Tom Kowal,Chicago Blackhawks,Nashville Predators
+1999020187,Colorado Avalanche,4,New York Rangers,1,Michael McGeough,Thor Nelson,Colorado Avalanche,New York Rangers
+1999020188,Edmonton Oilers,1,St. Louis Blues,2,Dan O'Halloran,Dennis LaRue,St. Louis Blues,Edmonton Oilers
+1999020189,Vancouver Canucks,3,Florida Panthers,2,Bill McCreary,Lonnie Cameron,Vancouver Canucks,Florida Panthers
+1999020190,Phoenix Coyotes,4,Dallas Stars,6,Blaine Angus,Dan Marouelli,Dallas Stars,Phoenix Coyotes
+1999020191,San Jose Sharks,1,Philadelphia Flyers,3,Stephen Walkom,Kevin Maguire,Philadelphia Flyers,San Jose Sharks
+1999020192,Boston Bruins,4,Atlanta Thrashers,2,Terry Gregson,Bernard Degrace,Boston Bruins,Atlanta Thrashers
+1999020193,Buffalo Sabres,2,New York Islanders,1,Don Van Massenhoven,Scott Driscoll,Buffalo Sabres,New York Islanders
+1999020194,Ottawa Senators,2,Montréal Canadiens,1,Richard Trottier,Paul Devorski,Ottawa Senators,Montréal Canadiens
+1999020195,New Jersey Devils,3,Toronto Maple Leafs,3,Paul Stewart,Gordon Broseker,New Jersey Devils,Toronto Maple Leafs
+1999020196,Pittsburgh Penguins,4,Tampa Bay Lightning,7,Don Koharski,Scott Zelkin,Tampa Bay Lightning,Pittsburgh Penguins
+1999020197,Calgary Flames,3,Florida Panthers,6,Bill McCreary,Mark Wheler,Florida Panthers,Calgary Flames
+1999020198,Los Angeles Kings,3,Philadelphia Flyers,5,Brian Murphy,Dan Marouelli,Philadelphia Flyers,Los Angeles Kings
+1999020199,San Jose Sharks,2,Dallas Stars,1,Robbie Shick,Mike Leggo,San Jose Sharks,Dallas Stars
+1999020200,Carolina Hurricanes,3,Washington Capitals,2,Greg Kimmerly,Dave Jackson,Carolina Hurricanes,Washington Capitals
+1999020201,Tampa Bay Lightning,3,Detroit Red Wings,2,Mark Faucette,Pierre Racicot,Tampa Bay Lightning,Detroit Red Wings
+1999020202,Chicago Blackhawks,1,New York Rangers,3,Michael McGeough,Lance Roberts,New York Rangers,Chicago Blackhawks
+1999020203,Vancouver Canucks,1,St. Louis Blues,6,Blaine Angus,Dennis LaRue,St. Louis Blues,Vancouver Canucks
+1999020204,Anaheim Ducks,3,Edmonton Oilers,1,Dan Marouelli,Baron Parker,Anaheim Ducks,Edmonton Oilers
+1999020205,Toronto Maple Leafs,0,Anaheim Ducks,2,Richard Trottier,Brad Kovachik,Anaheim Ducks,Toronto Maple Leafs
+1999020206,New Jersey Devils,2,Philadelphia Flyers,1,Don Koharski,Pat Dapuzzo,New Jersey Devils,Philadelphia Flyers
+1999020207,Washington Capitals,2,Tampa Bay Lightning,1,Dan O'Halloran,Stephen Walkom,Washington Capitals,Tampa Bay Lightning
+1999020208,St. Louis Blues,2,Dallas Stars,5,Lance Roberts,Dan Schachte,Dallas Stars,St. Louis Blues
+1999020209,Vancouver Canucks,4,San Jose Sharks,4,Don Van Massenhoven,Scott Zelkin,Vancouver Canucks,San Jose Sharks
+1999020210,Los Angeles Kings,1,Edmonton Oilers,1,Brian Murphy,Bill McCreary,Los Angeles Kings,Edmonton Oilers
+1999020211,Buffalo Sabres,6,Boston Bruins,2,Blaine Angus,Paul Devorski,Buffalo Sabres,Boston Bruins
+1999020212,New York Rangers,3,Ottawa Senators,4,Robbie Shick,Mike Leggo,Ottawa Senators,New York Rangers
+1999020213,Pittsburgh Penguins,5,Montréal Canadiens,4,Michael McGeough,Jean Morin,Pittsburgh Penguins,Montréal Canadiens
+1999020214,Carolina Hurricanes,0,New York Islanders,2,Mark Faucette,Danny McCourt,New York Islanders,Carolina Hurricanes
+1999020216,Chicago Blackhawks,2,Nashville Predators,4,Bernard Degrace,Paul Stewart,Nashville Predators,Chicago Blackhawks
+1999020217,Dallas Stars,2,Detroit Red Wings,4,Terry Gregson,Kevin Maguire,Detroit Red Wings,Dallas Stars
+1999020218,Calgary Flames,4,San Jose Sharks,3,Kerry Fraser,Brad Watson,Calgary Flames,San Jose Sharks
+1999020219,Phoenix Coyotes,5,Edmonton Oilers,4,Brian Murphy,Bill McCreary,Phoenix Coyotes,Edmonton Oilers
+1999020220,Boston Bruins,4,Toronto Maple Leafs,3,Stephen Walkom,Kevin Collins,Boston Bruins,Toronto Maple Leafs
+1999020221,Montréal Canadiens,2,Anaheim Ducks,1,Dan O'Halloran,Pierre Champoux,Montréal Canadiens,Anaheim Ducks
+1999020222,Ottawa Senators,1,Nashville Predators,2,Dennis LaRue,Dave Jackson,Nashville Predators,Ottawa Senators
+1999020223,Philadelphia Flyers,4,Carolina Hurricanes,1,Robbie Shick,Mike Leggo,Philadelphia Flyers,Carolina Hurricanes
+1999020224,Washington Capitals,4,New York Rangers,5,Michael McGeough,Gordon Broseker,New York Rangers,Washington Capitals
+1999020225,Los Angeles Kings,5,Colorado Avalanche,2,Don Van Massenhoven,Scott Zelkin,Los Angeles Kings,Colorado Avalanche
+1999020226,New Jersey Devils,5,Atlanta Thrashers,1,Dan Marouelli,Lyle Seitz,New Jersey Devils,Atlanta Thrashers
+1999020227,Tampa Bay Lightning,4,Buffalo Sabres,2,Richard Trottier,Shane Heyer,Tampa Bay Lightning,Buffalo Sabres
+1999020228,Detroit Red Wings,3,Pittsburgh Penguins,2,Paul Devorski,Mark Pare,Detroit Red Wings,Pittsburgh Penguins
+1999020229,Chicago Blackhawks,5,New York Islanders,0,Kevin Maguire,Swede Knox,Chicago Blackhawks,New York Islanders
+1999020230,St. Louis Blues,2,Edmonton Oilers,2,Mark Faucette,Rob Martell,St. Louis Blues,Edmonton Oilers
+1999020231,Phoenix Coyotes,2,Vancouver Canucks,3,Don Van Massenhoven,Scott Zelkin,Vancouver Canucks,Phoenix Coyotes
+1999020232,Toronto Maple Leafs,1,Detroit Red Wings,1,Paul Stewart,Mark Faucette,Toronto Maple Leafs,Detroit Red Wings
+1999020233,Montréal Canadiens,4,Atlanta Thrashers,2,Bernard Degrace,Stephen Walkom,Montréal Canadiens,Atlanta Thrashers
+1999020234,Ottawa Senators,4,Anaheim Ducks,2,Blaine Angus,Dan Marouelli,Ottawa Senators,Anaheim Ducks
+1999020235,New York Islanders,3,St. Louis Blues,5,Mike Leggo,Lyle Seitz,St. Louis Blues,New York Islanders
+1999020236,New York Rangers,2,Boston Bruins,5,Terry Gregson,Dennis LaRue,Boston Bruins,New York Rangers
+1999020237,Philadelphia Flyers,3,San Jose Sharks,2,Michael McGeough,Dave Jackson,Philadelphia Flyers,San Jose Sharks
+1999020238,Pittsburgh Penguins,6,Nashville Predators,2,Robbie Shick,Mark Pare,Pittsburgh Penguins,Nashville Predators
+1999020239,Washington Capitals,4,New Jersey Devils,2,Paul Devorski,Greg Kimmerly,Washington Capitals,New Jersey Devils
+1999020240,Carolina Hurricanes,4,Tampa Bay Lightning,2,Dan O'Halloran,Lance Roberts,Carolina Hurricanes,Tampa Bay Lightning
+1999020241,Florida Panthers,3,Buffalo Sabres,1,Richard Trottier,Shane Heyer,Florida Panthers,Buffalo Sabres
+1999020242,Calgary Flames,2,Colorado Avalanche,5,Kerry Fraser,Brad Watson,Colorado Avalanche,Calgary Flames
+1999020243,Chicago Blackhawks,3,Edmonton Oilers,6,Don Koharski,Dave Jackson,Edmonton Oilers,Chicago Blackhawks
+1999020244,Phoenix Coyotes,2,Los Angeles Kings,3,Don Van Massenhoven,Randy Mitton,Los Angeles Kings,Phoenix Coyotes
+1999020245,Toronto Maple Leafs,4,San Jose Sharks,2,Dennis LaRue,Mark Faucette,Toronto Maple Leafs,San Jose Sharks
+1999020246,Vancouver Canucks,2,Colorado Avalanche,2,Kerry Fraser,Brad Watson,Vancouver Canucks,Colorado Avalanche
+1999020247,Montréal Canadiens,1,San Jose Sharks,4,Mark Faucette,Greg Kimmerly,San Jose Sharks,Montréal Canadiens
+1999020248,Pittsburgh Penguins,3,Buffalo Sabres,2,Paul Stewart,Mike Leggo,Pittsburgh Penguins,Buffalo Sabres
+1999020249,Phoenix Coyotes,2,Calgary Flames,1,Michael McGeough,Wayne Bonney,Phoenix Coyotes,Calgary Flames
+1999020250,Los Angeles Kings,3,Chicago Blackhawks,2,Kerry Fraser,Brad Lazarowich,Los Angeles Kings,Chicago Blackhawks
+1999020251,Toronto Maple Leafs,2,St. Louis Blues,3,Bill McCreary,Gerry Gauthier,St. Louis Blues,Toronto Maple Leafs
+1999020252,New Jersey Devils,2,Boston Bruins,2,Lance Roberts,Dennis LaRue,New Jersey Devils,Boston Bruins
+1999020253,Washington Capitals,2,Dallas Stars,2,Terry Gregson,Bernard Degrace,Washington Capitals,Dallas Stars
+1999020254,Carolina Hurricanes,2,Ottawa Senators,1,Scott Zelkin,Dan Schachte,Carolina Hurricanes,Ottawa Senators
+1999020255,Atlanta Thrashers,5,Tampa Bay Lightning,4,Dan Marouelli,Dean Warren,Atlanta Thrashers,Tampa Bay Lightning
+1999020256,Colorado Avalanche,1,Florida Panthers,2,Brad Watson,Baron Parker,Florida Panthers,Colorado Avalanche
+1999020257,Vancouver Canucks,2,Detroit Red Wings,7,Richard Trottier,Paul Devorski,Detroit Red Wings,Vancouver Canucks
+1999020258,Anaheim Ducks,2,Calgary Flames,1,Robbie Shick,Shane Heyer,Anaheim Ducks,Calgary Flames
+1999020259,Boston Bruins,5,New York Rangers,3,Don Koharski,Kevin Collins,Boston Bruins,New York Rangers
+1999020260,Ottawa Senators,1,San Jose Sharks,4,Dan O'Halloran,Pierre Champoux,San Jose Sharks,Ottawa Senators
+1999020261,Philadelphia Flyers,1,Dallas Stars,1,None,Terry Gregson,Philadelphia Flyers,Dallas Stars
+1999020262,Tampa Bay Lightning,2,Pittsburgh Penguins,1,Blaine Angus,Dan Marouelli,Tampa Bay Lightning,Pittsburgh Penguins
+1999020263,St. Louis Blues,3,Florida Panthers,0,Don Van Massenhoven,Kevin Maguire,St. Louis Blues,Florida Panthers
+1999020264,Nashville Predators,6,Montréal Canadiens,1,Mike Leggo,Stephane Provost,Nashville Predators,Montréal Canadiens
+1999020266,Washington Capitals,3,Carolina Hurricanes,3,Brad Watson,Dennis LaRue,Washington Capitals,Carolina Hurricanes
+1999020267,Atlanta Thrashers,0,Buffalo Sabres,4,Brian Murphy,Bill McCreary,Buffalo Sabres,Atlanta Thrashers
+1999020268,Colorado Avalanche,2,New York Islanders,3,Michael McGeough,Dave Jackson,New York Islanders,Colorado Avalanche
+1999020269,Calgary Flames,3,Detroit Red Wings,1,Paul Devorski,Lyle Seitz,Calgary Flames,Detroit Red Wings
+1999020270,Anaheim Ducks,4,Chicago Blackhawks,2,Richard Trottier,Greg Kimmerly,Anaheim Ducks,Chicago Blackhawks
+1999020271,Boston Bruins,0,Washington Capitals,3,Kerry Fraser,Pat Dapuzzo,Washington Capitals,Boston Bruins
+1999020272,Buffalo Sabres,4,Atlanta Thrashers,3,Stephen Walkom,Scott Zelkin,Buffalo Sabres,Atlanta Thrashers
+1999020273,Toronto Maple Leafs,4,New York Rangers,3,Dan O'Halloran,Terry Gregson,Toronto Maple Leafs,New York Rangers
+1999020274,New Jersey Devils,3,Ottawa Senators,1,Bernard Degrace,Paul Stewart,New Jersey Devils,Ottawa Senators
+1999020275,Philadelphia Flyers,4,Tampa Bay Lightning,1,Don Koharski,Kevin Maguire,Philadelphia Flyers,Tampa Bay Lightning
+1999020276,Carolina Hurricanes,1,Dallas Stars,0,Don Van Massenhoven,Gordon Broseker,Carolina Hurricanes,Dallas Stars
+1999020277,Florida Panthers,2,Pittsburgh Penguins,1,Blaine Angus,Dan Marouelli,Florida Panthers,Pittsburgh Penguins
+1999020278,St. Louis Blues,1,San Jose Sharks,1,Brian Murphy,Bill McCreary,St. Louis Blues,San Jose Sharks
+1999020279,Nashville Predators,1,Vancouver Canucks,3,Lance Roberts,Stephane Provost,Vancouver Canucks,Nashville Predators
+1999020280,Edmonton Oilers,2,Detroit Red Wings,1,Paul Devorski,Swede Knox,Edmonton Oilers,Detroit Red Wings
+1999020281,Phoenix Coyotes,3,Chicago Blackhawks,1,Robbie Shick,Wayne Bonney,Phoenix Coyotes,Chicago Blackhawks
+1999020282,Los Angeles Kings,3,Montréal Canadiens,5,Mark Faucette,Brad Lazarowich,Montréal Canadiens,Los Angeles Kings
+1999020283,Edmonton Oilers,4,New York Islanders,4,Michael McGeough,Randy Mitton,Edmonton Oilers,New York Islanders
+1999020284,Carolina Hurricanes,1,Boston Bruins,2,Don Van Massenhoven,Rob Martell,Boston Bruins,Carolina Hurricanes
+1999020285,Atlanta Thrashers,6,Vancouver Canucks,3,Kevin Maguire,Brad Kovachik,Atlanta Thrashers,Vancouver Canucks
+1999020286,Tampa Bay Lightning,4,Philadelphia Flyers,1,Blaine Angus,Dan Marouelli,Tampa Bay Lightning,Philadelphia Flyers
+1999020287,St. Louis Blues,3,Nashville Predators,2,Stephen Walkom,Scott Zelkin,St. Louis Blues,Nashville Predators
+1999020288,Dallas Stars,2,Colorado Avalanche,3,Robbie Shick,Paul Devorski,Colorado Avalanche,Dallas Stars
+1999020289,Anaheim Ducks,1,Montréal Canadiens,2,Greg Kimmerly,Dave Jackson,Montréal Canadiens,Anaheim Ducks
+1999020290,Pittsburgh Penguins,3,Toronto Maple Leafs,1,Bernard Degrace,Kerry Fraser,Pittsburgh Penguins,Toronto Maple Leafs
+1999020291,Colorado Avalanche,2,Los Angeles Kings,6,Dave Jackson,Mark Wheler,Los Angeles Kings,Colorado Avalanche
+1999020292,Calgary Flames,3,New York Islanders,2,Don Koharski,Michael McGeough,Calgary Flames,New York Islanders
+1999020293,San Jose Sharks,2,Montréal Canadiens,3,Mark Faucette,Mike Leggo,Montréal Canadiens,San Jose Sharks
+1999020294,Buffalo Sabres,5,Washington Capitals,2,Brad Watson,Paul Devorski,Buffalo Sabres,Washington Capitals
+1999020295,Carolina Hurricanes,1,Vancouver Canucks,1,Richard Trottier,Pat Dapuzzo,Carolina Hurricanes,Vancouver Canucks
+1999020296,Tampa Bay Lightning,3,New York Rangers,6,Terry Gregson,Conrad Hache,New York Rangers,Tampa Bay Lightning
+1999020297,Florida Panthers,1,Philadelphia Flyers,6,Blaine Angus,Dan Marouelli,Philadelphia Flyers,Florida Panthers
+1999020298,Detroit Red Wings,4,St. Louis Blues,2,Robbie Shick,Pierre Champoux,Detroit Red Wings,St. Louis Blues
+1999020299,Nashville Predators,2,Boston Bruins,5,Kerry Fraser,Marc Joannette,Boston Bruins,Nashville Predators
+1999020300,Dallas Stars,3,Los Angeles Kings,2,Bill McCreary,Don Henderson,Dallas Stars,Los Angeles Kings
+1999020301,Edmonton Oilers,2,Chicago Blackhawks,3,Don Koharski,Greg Kimmerly,Chicago Blackhawks,Edmonton Oilers
+1999020302,Anaheim Ducks,1,New Jersey Devils,2,Mark Faucette,Wayne Bonney,New Jersey Devils,Anaheim Ducks
+1999020303,Atlanta Thrashers,3,Ottawa Senators,6,Lance Roberts,Pat Dapuzzo,Ottawa Senators,Atlanta Thrashers
+1999020304,Calgary Flames,2,Chicago Blackhawks,1,Don Koharski,Greg Kimmerly,Calgary Flames,Chicago Blackhawks
+1999020305,Phoenix Coyotes,4,New Jersey Devils,2,Dave Jackson,Jay Sharrers,Phoenix Coyotes,New Jersey Devils
+1999020306,Boston Bruins,2,Vancouver Canucks,2,Paul Stewart,Rob Martell,Boston Bruins,Vancouver Canucks
+1999020307,Buffalo Sabres,0,St. Louis Blues,2,Don Van Massenhoven,Scott Driscoll,St. Louis Blues,Buffalo Sabres
+1999020308,Philadelphia Flyers,3,Toronto Maple Leafs,2,Kerry Fraser,Brad Watson,Philadelphia Flyers,Toronto Maple Leafs
+1999020309,Pittsburgh Penguins,5,Ottawa Senators,0,Stephen Walkom,Kevin Maguire,Pittsburgh Penguins,Ottawa Senators
+1999020310,Washington Capitals,1,Nashville Predators,0,Bernard Degrace,Andy McElman,Washington Capitals,Nashville Predators
+1999020311,Tampa Bay Lightning,3,Carolina Hurricanes,3,Terry Gregson,Conrad Hache,Tampa Bay Lightning,Carolina Hurricanes
+1999020312,Florida Panthers,6,New York Rangers,2,Richard Trottier,Gordon Broseker,Florida Panthers,New York Rangers
+1999020313,Detroit Red Wings,4,Edmonton Oilers,2,Blaine Angus,Dan Marouelli,Detroit Red Wings,Edmonton Oilers
+1999020314,Dallas Stars,2,Anaheim Ducks,4,Dan O'Halloran,Bill McCreary,Anaheim Ducks,Dallas Stars
+1999020315,Phoenix Coyotes,7,Colorado Avalanche,0,Dennis LaRue,Dave Jackson,Phoenix Coyotes,Colorado Avalanche
+1999020316,Toronto Maple Leafs,5,Edmonton Oilers,2,Don Van Massenhoven,Scott Driscoll,Toronto Maple Leafs,Edmonton Oilers
+1999020317,Montréal Canadiens,2,Vancouver Canucks,1,Stephen Walkom,Kevin Maguire,Montréal Canadiens,Vancouver Canucks
+1999020318,New York Islanders,3,Washington Capitals,4,Brian Murphy,Paul Stewart,Washington Capitals,New York Islanders
+1999020319,Carolina Hurricanes,5,Pittsburgh Penguins,3,Richard Trottier,Shane Heyer,Carolina Hurricanes,Pittsburgh Penguins
+1999020320,Florida Panthers,3,Atlanta Thrashers,0,Terry Gregson,Gordon Broseker,Florida Panthers,Atlanta Thrashers
+1999020321,St. Louis Blues,8,Chicago Blackhawks,3,Michael McGeough,Lance Roberts,St. Louis Blues,Chicago Blackhawks
+1999020322,Nashville Predators,3,Anaheim Ducks,4,Scott Zelkin,Andy McElman,Anaheim Ducks,Nashville Predators
+1999020323,Colorado Avalanche,7,Calgary Flames,1,Bill McCreary,Jay Sharrers,Colorado Avalanche,Calgary Flames
+1999020324,Los Angeles Kings,4,San Jose Sharks,1,Robbie Shick,Mike Leggo,Los Angeles Kings,San Jose Sharks
+1999020325,Boston Bruins,1,New York Islanders,2,Stephen Walkom,Brad Meier,New York Islanders,Boston Bruins
+1999020326,Ottawa Senators,3,Philadelphia Flyers,3,Dan Marouelli,Pierre Champoux,Ottawa Senators,Philadelphia Flyers
+1999020327,Atlanta Thrashers,2,Dallas Stars,4,Dan O'Halloran,Michael McGeough,Dallas Stars,Atlanta Thrashers
+1999020328,Tampa Bay Lightning,2,Buffalo Sabres,3,Mark Faucette,Dan Schachte,Buffalo Sabres,Tampa Bay Lightning
+1999020329,Detroit Red Wings,3,Phoenix Coyotes,4,Paul Devorski,Dave Brisebois,Phoenix Coyotes,Detroit Red Wings
+1999020330,San Jose Sharks,4,New Jersey Devils,3,Robbie Shick,Dennis LaRue,San Jose Sharks,New Jersey Devils
+1999020331,Toronto Maple Leafs,3,Washington Capitals,1,Paul Devorski,Scott Driscoll,Toronto Maple Leafs,Washington Capitals
+1999020332,Buffalo Sabres,1,Pittsburgh Penguins,4,Dan Marouelli,Ray Scapinello,Pittsburgh Penguins,Buffalo Sabres
+1999020333,Ottawa Senators,2,Chicago Blackhawks,1,Don Van Massenhoven,Greg Kimmerly,Ottawa Senators,Chicago Blackhawks
+1999020334,New York Islanders,1,Dallas Stars,2,Kerry Fraser,Kevin Collins,Dallas Stars,New York Islanders
+1999020335,Carolina Hurricanes,4,Calgary Flames,3,Michael McGeough,Dan Schachte,Carolina Hurricanes,Calgary Flames
+1999020336,Nashville Predators,3,Phoenix Coyotes,6,Dan O'Halloran,Shane Heyer,Phoenix Coyotes,Nashville Predators
+1999020337,Vancouver Canucks,2,Colorado Avalanche,4,Lance Roberts,Don Henderson,Colorado Avalanche,Vancouver Canucks
+1999020338,Montréal Canadiens,2,Dallas Stars,3,Don Van Massenhoven,Jean Morin,Dallas Stars,Montréal Canadiens
+1999020339,New Jersey Devils,3,New York Rangers,2,Don Koharski,Pat Dapuzzo,New Jersey Devils,New York Rangers
+1999020340,Detroit Red Wings,4,San Jose Sharks,2,Brian Murphy,Mark Faucette,Detroit Red Wings,San Jose Sharks
+1999020341,Edmonton Oilers,3,Colorado Avalanche,1,Paul Stewart,Mark Wheler,Edmonton Oilers,Colorado Avalanche
+1999020342,Anaheim Ducks,2,Tampa Bay Lightning,4,Dennis LaRue,Baron Parker,Tampa Bay Lightning,Anaheim Ducks
+1999020343,Buffalo Sabres,2,Philadelphia Flyers,4,Richard Trottier,Dave Jackson,Philadelphia Flyers,Buffalo Sabres
+1999020344,New York Islanders,0,Calgary Flames,5,Don Koharski,Rob Martell,Calgary Flames,New York Islanders
+1999020345,Pittsburgh Penguins,2,San Jose Sharks,5,Scott Zelkin,Scott Driscoll,San Jose Sharks,Pittsburgh Penguins
+1999020346,Washington Capitals,2,Boston Bruins,2,Michael McGeough,Brad Watson,Washington Capitals,Boston Bruins
+1999020347,Carolina Hurricanes,2,Toronto Maple Leafs,2,Robbie Shick,Mike Leggo,Carolina Hurricanes,Toronto Maple Leafs
+1999020348,St. Louis Blues,3,Nashville Predators,1,Mark Faucette,Andy McElman,St. Louis Blues,Nashville Predators
+1999020349,Vancouver Canucks,3,Edmonton Oilers,2,Lance Roberts,Paul Stewart,Vancouver Canucks,Edmonton Oilers
+1999020350,Phoenix Coyotes,3,Tampa Bay Lightning,1,Kevin Maguire,Jay Sharrers,Phoenix Coyotes,Tampa Bay Lightning
+1999020351,New Jersey Devils,7,Ottawa Senators,4,Brad Watson,Paul Devorski,New Jersey Devils,Ottawa Senators
+1999020352,New York Rangers,3,Montréal Canadiens,2,Don Van Massenhoven,Pat Dapuzzo,New York Rangers,Montréal Canadiens
+1999020354,Chicago Blackhawks,4,Detroit Red Wings,7,Dan Marouelli,Stephen Walkom,Detroit Red Wings,Chicago Blackhawks
+1999020355,Anaheim Ducks,1,Los Angeles Kings,1,Terry Gregson,Lance Roberts,Anaheim Ducks,Los Angeles Kings
+1999020356,Boston Bruins,3,Chicago Blackhawks,9,Don Van Massenhoven,Lyle Seitz,Chicago Blackhawks,Boston Bruins
+1999020357,Buffalo Sabres,1,New York Rangers,1,Kerry Fraser,Tim Nowak,Buffalo Sabres,New York Rangers
+1999020358,Toronto Maple Leafs,3,Pittsburgh Penguins,2,Richard Trottier,Ray Scapinello,Toronto Maple Leafs,Pittsburgh Penguins
+1999020359,Montréal Canadiens,2,Philadelphia Flyers,3,Don Koharski,Scott Zelkin,Philadelphia Flyers,Montréal Canadiens
+1999020360,Ottawa Senators,1,Dallas Stars,3,Dave Jackson,Jean Morin,Dallas Stars,Ottawa Senators
+1999020361,New Jersey Devils,2,Calgary Flames,4,Blaine Angus,Scott Driscoll,Calgary Flames,New Jersey Devils
+1999020362,New York Islanders,3,Atlanta Thrashers,4,none,Paul Devorski,Atlanta Thrashers,New York Islanders
+1999020363,Florida Panthers,2,Washington Capitals,1,Mark Faucette,Greg Kimmerly,Florida Panthers,Washington Capitals
+1999020364,St. Louis Blues,4,San Jose Sharks,2,Stephen Walkom,Mark Pare,St. Louis Blues,San Jose Sharks
+1999020365,Nashville Predators,4,Detroit Red Wings,1,Dan Marouelli,Danny McCourt,Nashville Predators,Detroit Red Wings
+1999020366,Colorado Avalanche,3,Carolina Hurricanes,1,Kevin Maguire,Jay Sharrers,Colorado Avalanche,Carolina Hurricanes
+1999020367,Edmonton Oilers,3,Vancouver Canucks,2,Brian Murphy,Bill McCreary,Edmonton Oilers,Vancouver Canucks
+1999020368,Phoenix Coyotes,1,Anaheim Ducks,2,Terry Gregson,Bernard Degrace,Anaheim Ducks,Phoenix Coyotes
+1999020369,Los Angeles Kings,3,Tampa Bay Lightning,3,Lance Roberts,Swede Knox,Los Angeles Kings,Tampa Bay Lightning
+1999020370,Philadelphia Flyers,3,St. Louis Blues,2,Robbie Shick,Scott Driscoll,Philadelphia Flyers,St. Louis Blues
+1999020371,Toronto Maple Leafs,3,Buffalo Sabres,2,Don Koharski,Dave Jackson,Toronto Maple Leafs,Buffalo Sabres
+1999020372,New York Rangers,3,Calgary Flames,2,Blaine Angus,Scott Driscoll,New York Rangers,Calgary Flames
+1999020373,Atlanta Thrashers,3,Nashville Predators,4,Mike Leggo,Gordon Broseker,Nashville Predators,Atlanta Thrashers
+1999020374,Chicago Blackhawks,5,Edmonton Oilers,1,Dan O'Halloran,Kerry Fraser,Chicago Blackhawks,Edmonton Oilers
+1999020375,Dallas Stars,2,Phoenix Coyotes,3,Dan Marouelli,Stephen Walkom,Phoenix Coyotes,Dallas Stars
+1999020376,Colorado Avalanche,5,Vancouver Canucks,2,Brian Murphy,Bill McCreary,Colorado Avalanche,Vancouver Canucks
+1999020377,San Jose Sharks,3,Tampa Bay Lightning,3,Terry Gregson,Bernard Degrace,San Jose Sharks,Tampa Bay Lightning
+1999020378,Montréal Canadiens,3,Calgary Flames,3,Dennis LaRue,Dave Jackson,Montréal Canadiens,Calgary Flames
+1999020379,New Jersey Devils,2,Pittsburgh Penguins,1,Robbie Shick,Kevin Collins,New Jersey Devils,Pittsburgh Penguins
+1999020380,Washington Capitals,4,New York Islanders,2,Greg Kimmerly,Pat Dapuzzo,Washington Capitals,New York Islanders
+1999020381,St. Louis Blues,2,Carolina Hurricanes,4,Kerry Fraser,Danny McCourt,Carolina Hurricanes,St. Louis Blues
+1999020382,Buffalo Sabres,0,Ottawa Senators,0,Lance Roberts,Kevin Maguire,Buffalo Sabres,Ottawa Senators
+1999020383,New York Rangers,2,Edmonton Oilers,1,Robbie Shick,Mike Leggo,New York Rangers,Edmonton Oilers
+1999020384,Detroit Red Wings,6,Nashville Predators,3,Richard Trottier,Blaine Angus,Detroit Red Wings,Nashville Predators
+1999020385,Dallas Stars,2,Carolina Hurricanes,1,Paul Stewart,Mark Faucette,Dallas Stars,Carolina Hurricanes
+1999020386,Phoenix Coyotes,1,Florida Panthers,6,Bill McCreary,Jay Sharrers,Florida Panthers,Phoenix Coyotes
+1999020387,Anaheim Ducks,2,Vancouver Canucks,2,Michael McGeough,Dan Marouelli,Anaheim Ducks,Vancouver Canucks
+1999020388,Los Angeles Kings,4,Atlanta Thrashers,0,Terry Gregson,Bernard Degrace,Los Angeles Kings,Atlanta Thrashers
+1999020389,San Jose Sharks,4,Colorado Avalanche,2,Dan O'Halloran,Stephen Walkom,San Jose Sharks,Colorado Avalanche
+1999020390,Boston Bruins,2,Edmonton Oilers,2,Richard Trottier,Greg Kimmerly,Boston Bruins,Edmonton Oilers
+1999020391,New York Islanders,2,Montréal Canadiens,4,Tim Peel,Don Van Massenhoven,Montréal Canadiens,New York Islanders
+1999020392,Philadelphia Flyers,4,Toronto Maple Leafs,2,Brad Watson,Paul Devorski,Philadelphia Flyers,Toronto Maple Leafs
+1999020393,Pittsburgh Penguins,3,Washington Capitals,0,Kerry Fraser,Dennis LaRue,Pittsburgh Penguins,Washington Capitals
+1999020394,Chicago Blackhawks,0,New Jersey Devils,4,Paul Stewart,Scott Zelkin,New Jersey Devils,Chicago Blackhawks
+1999020395,Buffalo Sabres,2,Chicago Blackhawks,1,Bill McCreary,Jean Morin,Buffalo Sabres,Chicago Blackhawks
+1999020396,Tampa Bay Lightning,3,Carolina Hurricanes,2,Lance Roberts,Pierre Racicot,Tampa Bay Lightning,Carolina Hurricanes
+1999020397,Detroit Red Wings,3,Los Angeles Kings,1,Stephen Walkom,Greg Devorski,Detroit Red Wings,Los Angeles Kings
+1999020398,Nashville Predators,2,St. Louis Blues,4,Mike Leggo,Gordon Broseker,St. Louis Blues,Nashville Predators
+1999020399,Dallas Stars,4,Florida Panthers,3,Robbie Shick,Dan Schachte,Dallas Stars,Florida Panthers
+1999020400,Calgary Flames,3,Vancouver Canucks,2,Bernard Degrace,Dan Marouelli,Calgary Flames,Vancouver Canucks
+1999020401,Anaheim Ducks,1,Colorado Avalanche,2,Mark Faucette,Randy Mitton,Colorado Avalanche,Anaheim Ducks
+1999020402,San Jose Sharks,4,Atlanta Thrashers,1,Dan O'Halloran,Brad Lazarowich,San Jose Sharks,Atlanta Thrashers
+1999020403,Boston Bruins,4,Detroit Red Wings,5,Brad Watson,Paul Devorski,Detroit Red Wings,Boston Bruins
+1999020404,Toronto Maple Leafs,6,Philadelphia Flyers,4,Bill McCreary,Ray Scapinello,Toronto Maple Leafs,Philadelphia Flyers
+1999020405,Montréal Canadiens,2,Los Angeles Kings,4,Kevin Maguire,Greg Devorski,Los Angeles Kings,Montréal Canadiens
+1999020406,Ottawa Senators,1,New York Islanders,1,Blaine Angus,Scott Driscoll,Ottawa Senators,New York Islanders
+1999020407,New Jersey Devils,1,Edmonton Oilers,3,Richard Trottier,Scott Zelkin,Edmonton Oilers,New Jersey Devils
+1999020408,Pittsburgh Penguins,4,Phoenix Coyotes,2,Paul Stewart,Tim Nowak,Pittsburgh Penguins,Phoenix Coyotes
+1999020409,St. Louis Blues,4,Dallas Stars,2,Don Koharski,Shane Heyer,St. Louis Blues,Dallas Stars
+1999020410,Nashville Predators,2,Florida Panthers,4,Michael McGeough,Brad Meier,Florida Panthers,Nashville Predators
+1999020411,Chicago Blackhawks,1,Calgary Flames,2,Lance Roberts,Dennis LaRue,Calgary Flames,Chicago Blackhawks
+1999020412,Vancouver Canucks,2,Colorado Avalanche,3,Dan O'Halloran,Mark Faucette,Colorado Avalanche,Vancouver Canucks
+1999020413,Anaheim Ducks,4,Atlanta Thrashers,1,Dave Jackson,Randy Mitton,Anaheim Ducks,Atlanta Thrashers
+1999020414,Boston Bruins,2,Phoenix Coyotes,0,Terry Gregson,Pierre Champoux,Boston Bruins,Phoenix Coyotes
+1999020415,Toronto Maple Leafs,1,Ottawa Senators,3,Michael McGeough,Dan Marouelli,Ottawa Senators,Toronto Maple Leafs
+1999020416,Washington Capitals,0,Montréal Canadiens,1,Richard Trottier,Scott Zelkin,Montréal Canadiens,Washington Capitals
+1999020417,Buffalo Sabres,3,Philadelphia Flyers,1,Don Van Massenhoven,Ray Scapinello,Buffalo Sabres,Philadelphia Flyers
+1999020418,New Jersey Devils,7,Los Angeles Kings,1,Kerry Fraser,Kevin Collins,New Jersey Devils,Los Angeles Kings
+1999020419,New York Islanders,2,Edmonton Oilers,4,None,Bernard Degrace,Edmonton Oilers,New York Islanders
+1999020420,Pittsburgh Penguins,4,Boston Bruins,2,Don Koharski,Rob Martell,Pittsburgh Penguins,Boston Bruins
+1999020421,Tampa Bay Lightning,4,Nashville Predators,4,Dennis LaRue,Pierre Racicot,Tampa Bay Lightning,Nashville Predators
+1999020422,St. Louis Blues,1,Calgary Flames,1,Stephen Walkom,Dean Warren,St. Louis Blues,Calgary Flames
+1999020423,San Jose Sharks,2,Chicago Blackhawks,5,Mark Faucette,Dave Jackson,Chicago Blackhawks,San Jose Sharks
+1999020424,Toronto Maple Leafs,5,New York Islanders,1,Michael McGeough,Paul Stewart,Toronto Maple Leafs,New York Islanders
+1999020425,New York Rangers,8,Los Angeles Kings,3,Bill McCreary,Jean Morin,New York Rangers,Los Angeles Kings
+1999020426,Carolina Hurricanes,3,Pittsburgh Penguins,6,Don Koharski,Scott Zelkin,Pittsburgh Penguins,Carolina Hurricanes
+1999020427,Atlanta Thrashers,0,Washington Capitals,4,Terry Gregson,Conrad Hache,Washington Capitals,Atlanta Thrashers
+1999020428,Florida Panthers,3,Nashville Predators,2,Dennis LaRue,Pierre Racicot,Florida Panthers,Nashville Predators
+1999020429,Detroit Red Wings,5,Edmonton Oilers,1,Dan Marouelli,Danny McCourt,Detroit Red Wings,Edmonton Oilers
+1999020430,Dallas Stars,5,Calgary Flames,1,Blaine Angus,Mark Wheler,Dallas Stars,Calgary Flames
+1999020431,Colorado Avalanche,2,Anaheim Ducks,4,Mark Faucette,Greg Kimmerly,Anaheim Ducks,Colorado Avalanche
+1999020432,Montréal Canadiens,1,New Jersey Devils,2,Michael McGeough,Lance Roberts,New Jersey Devils,Montréal Canadiens
+1999020433,Philadelphia Flyers,5,Phoenix Coyotes,3,None,Bill McCreary,Philadelphia Flyers,Phoenix Coyotes
+1999020434,Vancouver Canucks,1,Ottawa Senators,2,Robbie Shick,Baron Parker,Ottawa Senators,Vancouver Canucks
+1999020435,Buffalo Sabres,2,Florida Panthers,4,Brad Watson,Paul Stewart,Florida Panthers,Buffalo Sabres
+1999020436,New York Rangers,2,Washington Capitals,3,Bill McCreary,Jean Morin,Washington Capitals,New York Rangers
+1999020437,Atlanta Thrashers,1,Boston Bruins,3,Paul Devorski,Lyle Seitz,Boston Bruins,Atlanta Thrashers
+1999020438,Detroit Red Wings,5,Colorado Avalanche,2,Dan O'Halloran,Terry Gregson,Detroit Red Wings,Colorado Avalanche
+1999020439,Edmonton Oilers,2,Dallas Stars,2,Robbie Shick,Greg Kimmerly,Edmonton Oilers,Dallas Stars
+1999020440,Anaheim Ducks,2,Chicago Blackhawks,0,Dave Jackson,Mike Leggo,Anaheim Ducks,Chicago Blackhawks
+1999020441,Toronto Maple Leafs,2,Montréal Canadiens,1,Don Koharski,Danny McCourt,Toronto Maple Leafs,Montréal Canadiens
+1999020442,New Jersey Devils,5,Washington Capitals,4,Brian Murphy,Don Van Massenhoven,New Jersey Devils,Washington Capitals
+1999020443,New York Islanders,2,Buffalo Sabres,2,Blaine Angus,Dan Marouelli,New York Islanders,Buffalo Sabres
+1999020444,Philadelphia Flyers,4,Tampa Bay Lightning,0,None,Lance Roberts,Philadelphia Flyers,Tampa Bay Lightning
+1999020445,Pittsburgh Penguins,2,Florida Panthers,5,Brad Watson,Scott Driscoll,Florida Panthers,Pittsburgh Penguins
+1999020446,Carolina Hurricanes,4,Atlanta Thrashers,2,Bernard Degrace,Dan Schachte,Carolina Hurricanes,Atlanta Thrashers
+1999020447,St. Louis Blues,4,Boston Bruins,0,Michael McGeough,Mark Pare,St. Louis Blues,Boston Bruins
+1999020448,Nashville Predators,2,Colorado Avalanche,2,Scott Zelkin,Paul Devorski,Nashville Predators,Colorado Avalanche
+1999020449,Calgary Flames,2,Ottawa Senators,1,Kerry Fraser,Mike Cvik,Calgary Flames,Ottawa Senators
+1999020450,Vancouver Canucks,2,Dallas Stars,4,Stephen Walkom,Kevin Maguire,Dallas Stars,Vancouver Canucks
+1999020451,Los Angeles Kings,4,Chicago Blackhawks,8,Richard Trottier,Mike Leggo,Chicago Blackhawks,Los Angeles Kings
+1999020452,New York Islanders,5,New Jersey Devils,3,Bill McCreary,Scott Driscoll,New York Islanders,New Jersey Devils
+1999020453,New York Rangers,5,Tampa Bay Lightning,4,Blaine Angus,Dan Marouelli,New York Rangers,Tampa Bay Lightning
+1999020454,Philadelphia Flyers,1,Nashville Predators,1,Don Van Massenhoven,Kevin Collins,Philadelphia Flyers,Nashville Predators
+1999020455,Edmonton Oilers,3,Ottawa Senators,3,Kerry Fraser,Swede Knox,Edmonton Oilers,Ottawa Senators
+1999020456,Phoenix Coyotes,4,San Jose Sharks,3,Greg Kimmerly,Dave Jackson,Phoenix Coyotes,San Jose Sharks
+1999020457,Anaheim Ducks,3,Detroit Red Wings,1,Robbie Shick,Stephen Walkom,Anaheim Ducks,Detroit Red Wings
+1999020458,Montréal Canadiens,5,Pittsburgh Penguins,1,Dan O'Halloran,Don Koharski,Montréal Canadiens,Pittsburgh Penguins
+1999020459,Carolina Hurricanes,2,Colorado Avalanche,4,Lance Roberts,Dan Schachte,Colorado Avalanche,Carolina Hurricanes
+1999020460,Florida Panthers,4,Toronto Maple Leafs,6,Bernard Degrace,Mark Faucette,Toronto Maple Leafs,Florida Panthers
+1999020461,San Jose Sharks,3,Detroit Red Wings,4,Richard Trottier,Kevin Maguire,Detroit Red Wings,San Jose Sharks
+1999020462,Boston Bruins,1,Nashville Predators,3,Dan O'Halloran,Andy McElman,Nashville Predators,Boston Bruins
+1999020463,New York Islanders,0,Pittsburgh Penguins,4,Dan Marouelli,Shane Heyer,Pittsburgh Penguins,New York Islanders
+1999020464,New York Rangers,1,Buffalo Sabres,3,Don Koharski,Scott Driscoll,Buffalo Sabres,New York Rangers
+1999020465,Tampa Bay Lightning,2,Toronto Maple Leafs,4,Bernard Degrace,Don Van Massenhoven,Toronto Maple Leafs,Tampa Bay Lightning
+1999020466,Calgary Flames,0,Dallas Stars,0,Kerry Fraser,Brad Watson,Calgary Flames,Dallas Stars
+1999020467,Edmonton Oilers,6,Washington Capitals,2,Dennis LaRue,Paul Devorski,Edmonton Oilers,Washington Capitals
+1999020468,Phoenix Coyotes,0,St. Louis Blues,6,Stephen Walkom,Greg Kimmerly,St. Louis Blues,Phoenix Coyotes
+1999020469,New Jersey Devils,3,Philadelphia Flyers,2,Paul Stewart,Dave Jackson,New Jersey Devils,Philadelphia Flyers
+1999020470,Carolina Hurricanes,1,Detroit Red Wings,4,Mark Faucette,Mike Leggo,Detroit Red Wings,Carolina Hurricanes
+1999020471,Florida Panthers,3,Atlanta Thrashers,3,Lance Roberts,Rob Martell,Florida Panthers,Atlanta Thrashers
+1999020472,Vancouver Canucks,6,Washington Capitals,3,Dennis LaRue,Brad Lazarowich,Vancouver Canucks,Washington Capitals
+1999020473,Anaheim Ducks,2,Phoenix Coyotes,8,Richard Trottier,Kevin Maguire,Phoenix Coyotes,Anaheim Ducks
+1999020474,San Jose Sharks,2,Los Angeles Kings,1,Brad Watson,Robbie Shick,San Jose Sharks,Los Angeles Kings
+1999020475,Boston Bruins,3,Montréal Canadiens,3,Paul Stewart,Dave Jackson,Boston Bruins,Montréal Canadiens
+1999020476,Buffalo Sabres,2,Colorado Avalanche,1,Bill McCreary,Scott Zelkin,Buffalo Sabres,Colorado Avalanche
+1999020477,Toronto Maple Leafs,4,New Jersey Devils,1,Blaine Angus,Dan Marouelli,Toronto Maple Leafs,New Jersey Devils
+1999020478,Ottawa Senators,4,Carolina Hurricanes,3,Terry Gregson,Bernard Degrace,Ottawa Senators,Carolina Hurricanes
+1999020479,New York Islanders,4,New York Rangers,2,Dan O'Halloran,Don Koharski,New York Islanders,New York Rangers
+1999020480,Philadelphia Flyers,4,Atlanta Thrashers,4,Kerry Fraser,Shane Heyer,Philadelphia Flyers,Atlanta Thrashers
+1999020481,Pittsburgh Penguins,4,Tampa Bay Lightning,3,Stephen Walkom,Mark Pare,Pittsburgh Penguins,Tampa Bay Lightning
+1999020482,Chicago Blackhawks,5,Dallas Stars,2,Paul Devorski,Danny McCourt,Chicago Blackhawks,Dallas Stars
+1999020483,Nashville Predators,2,St. Louis Blues,2,Don Van Massenhoven,Mike Leggo,Nashville Predators,St. Louis Blues
+1999020484,Calgary Flames,2,Edmonton Oilers,1,Michael McGeough,Mark Wheler,Calgary Flames,Edmonton Oilers
+1999020485,New York Rangers,3,New Jersey Devils,3,Richard Trottier,Dave Jackson,New York Rangers,New Jersey Devils
+1999020486,Carolina Hurricanes,4,Florida Panthers,3,Kevin Maguire,Tim Nowak,Carolina Hurricanes,Florida Panthers
+1999020487,Atlanta Thrashers,6,Tampa Bay Lightning,3,Mark Faucette,Greg Kimmerly,Atlanta Thrashers,Tampa Bay Lightning
+1999020488,Chicago Blackhawks,2,Pittsburgh Penguins,4,Bill McCreary,Andy McElman,Pittsburgh Penguins,Chicago Blackhawks
+1999020489,St. Louis Blues,2,Nashville Predators,3,Don Koharski,Scott Zelkin,Nashville Predators,St. Louis Blues
+1999020490,Vancouver Canucks,0,Calgary Flames,2,Blaine Angus,Michael McGeough,Calgary Flames,Vancouver Canucks
+1999020491,Los Angeles Kings,2,Phoenix Coyotes,3,Robbie Shick,Mike Leggo,Phoenix Coyotes,Los Angeles Kings
+1999020492,San Jose Sharks,0,Anaheim Ducks,1,Dennis LaRue,Brad Lazarowich,Anaheim Ducks,San Jose Sharks
+1999020493,Ottawa Senators,4,Montréal Canadiens,4,Kerry Fraser,Brad Watson,Ottawa Senators,Montréal Canadiens
+1999020494,New Jersey Devils,4,Buffalo Sabres,1,Mark Faucette,Kevin Collins,New Jersey Devils,Buffalo Sabres
+1999020495,New York Islanders,3,Boston Bruins,0,Richard Trottier,Bernard Degrace,New York Islanders,Boston Bruins
+1999020496,Washington Capitals,2,Chicago Blackhawks,2,Lance Roberts,Gerry Gauthier,Washington Capitals,Chicago Blackhawks
+1999020497,Tampa Bay Lightning,1,Florida Panthers,6,Dan O'Halloran,Pierre Racicot,Florida Panthers,Tampa Bay Lightning
+1999020498,Detroit Red Wings,3,Atlanta Thrashers,2,Dan Marouelli,Greg Devorski,Detroit Red Wings,Atlanta Thrashers
+1999020499,Dallas Stars,1,San Jose Sharks,3,Don Koharski,Paul Stewart,San Jose Sharks,Dallas Stars
+1999020500,Colorado Avalanche,5,St. Louis Blues,1,Don Van Massenhoven,Dennis LaRue,Colorado Avalanche,St. Louis Blues
+1999020501,Calgary Flames,1,Philadelphia Flyers,5,Terry Gregson,Swede Knox,Philadelphia Flyers,Calgary Flames
+1999020502,Edmonton Oilers,4,Anaheim Ducks,1,Michael McGeough,Don Henderson,Edmonton Oilers,Anaheim Ducks
+1999020503,Buffalo Sabres,2,Detroit Red Wings,7,Stephen Walkom,Scott Driscoll,Detroit Red Wings,Buffalo Sabres
+1999020504,Nashville Predators,3,Carolina Hurricanes,2,Dan O'Halloran,Mark Pare,Nashville Predators,Carolina Hurricanes
+1999020505,Phoenix Coyotes,2,New York Rangers,2,Don Van Massenhoven,Dennis LaRue,Phoenix Coyotes,New York Rangers
+1999020506,Montréal Canadiens,2,Ottawa Senators,3,Dan Marouelli,Ray Scapinello,Ottawa Senators,Montréal Canadiens
+1999020507,New Jersey Devils,5,Boston Bruins,4,Paul Devorski,Pierre Champoux,New Jersey Devils,Boston Bruins
+1999020508,New York Islanders,1,Toronto Maple Leafs,2,Dave Jackson,Kevin Collins,Toronto Maple Leafs,New York Islanders
+1999020509,Washington Capitals,3,Pittsburgh Penguins,2,Mark Faucette,Greg Kimmerly,Washington Capitals,Pittsburgh Penguins
+1999020510,Dallas Stars,4,New York Rangers,3,Paul Stewart,Brad Lazarowich,Dallas Stars,New York Rangers
+1999020511,Colorado Avalanche,4,Los Angeles Kings,2,Michael McGeough,Don Van Massenhoven,Colorado Avalanche,Los Angeles Kings
+1999020512,Calgary Flames,3,Anaheim Ducks,1,Terry Gregson,Blaine Angus,Calgary Flames,Anaheim Ducks
+1999020513,Vancouver Canucks,2,Philadelphia Flyers,3,Bill McCreary,Baron Parker,Philadelphia Flyers,Vancouver Canucks
+1999020514,Ottawa Senators,5,Boston Bruins,4,Kerry Fraser,Tim Peel,Ottawa Senators,Boston Bruins
+1999020515,Pittsburgh Penguins,9,New York Islanders,3,Dan O'Halloran,Kevin Maguire,Pittsburgh Penguins,New York Islanders
+1999020516,Chicago Blackhawks,2,Florida Panthers,1,Don Koharski,Mike Leggo,Chicago Blackhawks,Florida Panthers
+1999020517,St. Louis Blues,2,San Jose Sharks,1,Brad Watson,Paul Stewart,St. Louis Blues,San Jose Sharks
+1999020518,Nashville Predators,6,Atlanta Thrashers,0,Bernard Degrace,Mark Pare,Nashville Predators,Atlanta Thrashers
+1999020519,Los Angeles Kings,8,Edmonton Oilers,2,Bill McCreary,Shane Heyer,Los Angeles Kings,Edmonton Oilers
+1999020520,Detroit Red Wings,4,Chicago Blackhawks,4,Blaine Angus,Robbie Shick,Detroit Red Wings,Chicago Blackhawks
+1999020521,Dallas Stars,5,Anaheim Ducks,4,Bernard Degrace,Lance Roberts,Dallas Stars,Anaheim Ducks
+1999020522,Boston Bruins,2,New Jersey Devils,2,Kevin Maguire,Kevin Collins,Boston Bruins,New Jersey Devils
+1999020523,Buffalo Sabres,8,Toronto Maple Leafs,1,Dan O'Halloran,Dan Marouelli,Buffalo Sabres,Toronto Maple Leafs
+1999020524,Washington Capitals,1,St. Louis Blues,1,Mike Leggo,Francois Gagnon,Washington Capitals,St. Louis Blues
+1999020525,Atlanta Thrashers,2,Carolina Hurricanes,4,Robbie Shick,Scott Zelkin,Carolina Hurricanes,Atlanta Thrashers
+1999020526,Florida Panthers,7,Tampa Bay Lightning,5,Mark Faucette,Greg Kimmerly,Florida Panthers,Tampa Bay Lightning
+1999020527,Nashville Predators,3,San Jose Sharks,2,Brad Watson,Tim Nowak,Nashville Predators,San Jose Sharks
+1999020528,Phoenix Coyotes,4,Edmonton Oilers,5,Michael McGeough,Jay Sharrers,Edmonton Oilers,Phoenix Coyotes
+1999020529,Montréal Canadiens,2,New York Rangers,2,Kerry Fraser,Dave Jackson,Montréal Canadiens,New York Rangers
+1999020530,New York Islanders,1,Philadelphia Flyers,4,Richard Trottier,Paul Devorski,Philadelphia Flyers,New York Islanders
+1999020531,Pittsburgh Penguins,4,Detroit Red Wings,3,Stephen Walkom,Gordon Broseker,Pittsburgh Penguins,Detroit Red Wings
+1999020532,Chicago Blackhawks,1,San Jose Sharks,4,Don Van Massenhoven,Dan Schachte,San Jose Sharks,Chicago Blackhawks
+1999020533,Calgary Flames,4,Vancouver Canucks,2,Don Koharski,Lance Roberts,Calgary Flames,Vancouver Canucks
+1999020534,Toronto Maple Leafs,6,Buffalo Sabres,2,Terry Gregson,Brad Kovachik,Toronto Maple Leafs,Buffalo Sabres
+1999020535,Ottawa Senators,3,New Jersey Devils,4,Bernard Degrace,Dennis LaRue,New Jersey Devils,Ottawa Senators
+1999020536,New York Rangers,2,St. Louis Blues,5,Mike Leggo,Kevin Collins,St. Louis Blues,New York Rangers
+1999020537,Dallas Stars,4,Los Angeles Kings,1,Scott Zelkin,Mark Faucette,Dallas Stars,Los Angeles Kings
+1999020538,Colorado Avalanche,2,Edmonton Oilers,2,Don Koharski,Swede Knox,Colorado Avalanche,Edmonton Oilers
+1999020539,Buffalo Sabres,4,Atlanta Thrashers,5,Paul Devorski,Pierre Champoux,Atlanta Thrashers,Buffalo Sabres
+1999020540,New York Islanders,3,Boston Bruins,7,Conrad Hache,Stephen Walkom,Boston Bruins,New York Islanders
+1999020541,Washington Capitals,6,Montréal Canadiens,1,Robbie Shick,Brian Murphy,Washington Capitals,Montréal Canadiens
+1999020542,Carolina Hurricanes,1,Ottawa Senators,2,Dan Marouelli,Shane Heyer,Ottawa Senators,Carolina Hurricanes
+1999020543,Detroit Red Wings,2,Phoenix Coyotes,5,Bill McCreary,Kevin Maguire,Phoenix Coyotes,Detroit Red Wings
+1999020544,St. Louis Blues,2,Los Angeles Kings,2,Richard Trottier,Don Van Massenhoven,St. Louis Blues,Los Angeles Kings
+1999020545,New York Rangers,3,Toronto Maple Leafs,2,Blaine Angus,Stephen Walkom,New York Rangers,Toronto Maple Leafs
+1999020546,Pittsburgh Penguins,1,New Jersey Devils,3,Mike Leggo,Robbie Shick,New Jersey Devils,Pittsburgh Penguins
+1999020547,Dallas Stars,3,Nashville Predators,1,Michael McGeough,Don Henderson,Dallas Stars,Nashville Predators
+1999020548,Colorado Avalanche,4,Calgary Flames,0,Mark Faucette,Richard Trottier,Colorado Avalanche,Calgary Flames
+1999020549,Edmonton Oilers,1,San Jose Sharks,1,Dave Jackson,Darren Gibbs,Edmonton Oilers,San Jose Sharks
+1999020550,Vancouver Canucks,3,Tampa Bay Lightning,3,Lance Roberts,Paul Stewart,Vancouver Canucks,Tampa Bay Lightning
+1999020551,Anaheim Ducks,1,Florida Panthers,5,Don Koharski,Scott Zelkin,Florida Panthers,Anaheim Ducks
+1999020552,Boston Bruins,3,Carolina Hurricanes,7,Kerry Fraser,Kevin Collins,Carolina Hurricanes,Boston Bruins
+1999020553,Buffalo Sabres,3,New Jersey Devils,6,Dennis LaRue,Robbie Shick,New Jersey Devils,Buffalo Sabres
+1999020554,Ottawa Senators,5,Phoenix Coyotes,2,Greg Kimmerly,Bill McCreary,Ottawa Senators,Phoenix Coyotes
+1999020555,Philadelphia Flyers,3,New York Islanders,2,Blaine Angus,Dan Marouelli,Philadelphia Flyers,New York Islanders
+1999020556,Atlanta Thrashers,3,Washington Capitals,1,Kevin Maguire,Don Van Massenhoven,Atlanta Thrashers,Washington Capitals
+1999020557,Detroit Red Wings,5,Nashville Predators,2,Bernard Degrace,Terry Gregson,Detroit Red Wings,Nashville Predators
+1999020558,Chicago Blackhawks,5,Calgary Flames,2,Paul Devorski,Brad Watson,Chicago Blackhawks,Calgary Flames
+1999020559,St. Louis Blues,4,Montréal Canadiens,3,Michael McGeough,Mike Cvik,St. Louis Blues,Montréal Canadiens
+1999020560,Los Angeles Kings,4,Florida Panthers,2,Dan O'Halloran,Wayne Bonney,Los Angeles Kings,Florida Panthers
+1999020561,Pittsburgh Penguins,5,Toronto Maple Leafs,2,Dennis LaRue,Dan Marouelli,Pittsburgh Penguins,Toronto Maple Leafs
+1999020562,Carolina Hurricanes,4,Anaheim Ducks,4,Brad Watson,Stephane Provost,Carolina Hurricanes,Anaheim Ducks
+1999020563,Dallas Stars,1,Vancouver Canucks,3,Mark Faucette,Scott Zelkin,Vancouver Canucks,Dallas Stars
+1999020564,Colorado Avalanche,4,Montréal Canadiens,1,Don Koharski,Swede Knox,Colorado Avalanche,Montréal Canadiens
+1999020565,Edmonton Oilers,5,Tampa Bay Lightning,1,Dave Jackson,Paul Stewart,Edmonton Oilers,Tampa Bay Lightning
+1999020566,Boston Bruins,2,New York Islanders,5,Greg Kimmerly,Pierre Champoux,New York Islanders,Boston Bruins
+1999020567,Toronto Maple Leafs,3,New York Rangers,5,Mike Leggo,Robbie Shick,New York Rangers,Toronto Maple Leafs
+1999020568,Ottawa Senators,4,Buffalo Sabres,7,Bill McCreary,Lance Roberts,Buffalo Sabres,Ottawa Senators
+1999020569,New Jersey Devils,4,Phoenix Coyotes,3,Bernard Degrace,Kerry Fraser,New Jersey Devils,Phoenix Coyotes
+1999020570,Philadelphia Flyers,6,Pittsburgh Penguins,2,Terry Gregson,None,Philadelphia Flyers,Pittsburgh Penguins
+1999020571,Washington Capitals,3,Atlanta Thrashers,0,Michael McGeough,Dan Schachte,Washington Capitals,Atlanta Thrashers
+1999020572,Detroit Red Wings,5,Anaheim Ducks,3,Richard Trottier,Stephen Walkom,Detroit Red Wings,Anaheim Ducks
+1999020573,St. Louis Blues,4,Vancouver Canucks,2,Paul Devorski,Kevin Maguire,St. Louis Blues,Vancouver Canucks
+1999020574,Nashville Predators,6,Chicago Blackhawks,3,Blaine Angus,Mark Faucette,Nashville Predators,Chicago Blackhawks
+1999020575,Calgary Flames,3,Tampa Bay Lightning,2,Dan O'Halloran,Troy Sartison,Calgary Flames,Tampa Bay Lightning
+1999020576,San Jose Sharks,2,Florida Panthers,4,Don Koharski,Wayne Bonney,Florida Panthers,San Jose Sharks
+1999020577,Carolina Hurricanes,1,New York Rangers,0,Dennis LaRue,Brad Watson,Carolina Hurricanes,New York Rangers
+1999020578,Chicago Blackhawks,5,Colorado Avalanche,3,Dan Marouelli,Gerry Gauthier,Chicago Blackhawks,Colorado Avalanche
+1999020579,New York Islanders,2,Phoenix Coyotes,2,Paul Stewart,Mark Pare,New York Islanders,Phoenix Coyotes
+1999020580,Boston Bruins,2,Toronto Maple Leafs,3,Tim Peel,Don Van Massenhoven,Toronto Maple Leafs,Boston Bruins
+1999020581,Montréal Canadiens,3,Detroit Red Wings,0,Dave Jackson,Scott Zelkin,Montréal Canadiens,Detroit Red Wings
+1999020582,Carolina Hurricanes,3,Philadelphia Flyers,4,Richard Trottier,Gordon Broseker,Philadelphia Flyers,Carolina Hurricanes
+1999020583,Tampa Bay Lightning,5,New Jersey Devils,6,Michael McGeough,Kevin Collins,New Jersey Devils,Tampa Bay Lightning
+1999020584,Colorado Avalanche,4,Nashville Predators,2,Kevin Maguire,Lance Roberts,Colorado Avalanche,Nashville Predators
+1999020586,Los Angeles Kings,3,Ottawa Senators,4,Kerry Fraser,Troy Sartison,Ottawa Senators,Los Angeles Kings
+1999020587,San Jose Sharks,2,St. Louis Blues,5,Bernard Degrace,Terry Gregson,St. Louis Blues,San Jose Sharks
+1999020588,Atlanta Thrashers,2,Washington Capitals,5,Paul Stewart,Gordon Broseker,Washington Capitals,Atlanta Thrashers
+1999020589,Florida Panthers,4,New York Islanders,3,Michael McGeough,Kevin Collins,Florida Panthers,New York Islanders
+1999020590,Chicago Blackhawks,3,Vancouver Canucks,2,Paul Devorski,Dennis LaRue,Chicago Blackhawks,Vancouver Canucks
+1999020591,Calgary Flames,2,Dallas Stars,1,Stephen Walkom,Don Henderson,Calgary Flames,Dallas Stars
+1999020592,Phoenix Coyotes,3,Pittsburgh Penguins,1,Kevin Maguire,Lance Roberts,Phoenix Coyotes,Pittsburgh Penguins
+1999020593,Anaheim Ducks,0,Ottawa Senators,2,Kerry Fraser,Mike Leggo,Ottawa Senators,Anaheim Ducks
+1999020594,Boston Bruins,0,Buffalo Sabres,0,Bill McCreary,Dan Schachte,Boston Bruins,Buffalo Sabres
+1999020595,Tampa Bay Lightning,4,New York Islanders,2,Mark Faucette,Greg Kimmerly,Tampa Bay Lightning,New York Islanders
+1999020596,Detroit Red Wings,3,Chicago Blackhawks,5,Dave Jackson,Scott Driscoll,Chicago Blackhawks,Detroit Red Wings
+1999020597,Nashville Predators,3,Vancouver Canucks,4,Richard Trottier,Brad Watson,Vancouver Canucks,Nashville Predators
+1999020598,Colorado Avalanche,4,Pittsburgh Penguins,3,Dennis LaRue,Dan O'Halloran,Colorado Avalanche,Pittsburgh Penguins
+1999020599,Los Angeles Kings,2,St. Louis Blues,3,Bernard Degrace,Terry Gregson,St. Louis Blues,Los Angeles Kings
+1999020600,Buffalo Sabres,1,Montréal Canadiens,2,Blaine Angus,Don Koharski,Montréal Canadiens,Buffalo Sabres
+1999020601,New Jersey Devils,2,Washington Capitals,3,Bill McCreary,Derek Amell,Washington Capitals,New Jersey Devils
+1999020602,Atlanta Thrashers,1,Philadelphia Flyers,0,Paul Devorski,Gordon Broseker,Atlanta Thrashers,Philadelphia Flyers
+1999020603,Florida Panthers,5,Carolina Hurricanes,1,Mark Faucette,Scott Zelkin,Florida Panthers,Carolina Hurricanes
+1999020604,Edmonton Oilers,2,Toronto Maple Leafs,3,Stephen Walkom,Swede Knox,Toronto Maple Leafs,Edmonton Oilers
+1999020605,Anaheim Ducks,3,St. Louis Blues,1,Kerry Fraser,Lance Roberts,Anaheim Ducks,St. Louis Blues
+1999020606,Montréal Canadiens,2,Boston Bruins,2,Dan Marouelli,Pierre Champoux,Montréal Canadiens,Boston Bruins
+1999020607,New York Islanders,2,New York Rangers,5,Dave Jackson,Don Van Massenhoven,New York Rangers,New York Islanders
+1999020608,Philadelphia Flyers,1,New Jersey Devils,4,Don Koharski,Brian Murphy,New Jersey Devils,Philadelphia Flyers
+1999020609,Tampa Bay Lightning,2,Florida Panthers,5,Paul Stewart,Richard Trottier,Florida Panthers,Tampa Bay Lightning
+1999020610,Nashville Predators,4,Pittsburgh Penguins,2,Greg Kimmerly,Tim Nowak,Nashville Predators,Pittsburgh Penguins
+1999020611,Colorado Avalanche,3,Chicago Blackhawks,1,Stephen Walkom,Brad Watson,Colorado Avalanche,Chicago Blackhawks
+1999020612,Calgary Flames,4,Toronto Maple Leafs,0,Robbie Shick,Randy Mitton,Calgary Flames,Toronto Maple Leafs
+1999020613,Vancouver Canucks,1,Dallas Stars,2,Bernard Degrace,Don Henderson,Dallas Stars,Vancouver Canucks
+1999020614,Phoenix Coyotes,4,Anaheim Ducks,2,Terry Gregson,Dan O'Halloran,Phoenix Coyotes,Anaheim Ducks
+1999020615,San Jose Sharks,3,Los Angeles Kings,2,Kerry Fraser,Kevin Maguire,San Jose Sharks,Los Angeles Kings
+1999020616,New York Rangers,6,Atlanta Thrashers,3,Paul Devorski,Scott Zelkin,New York Rangers,Atlanta Thrashers
+1999020617,Washington Capitals,2,Ottawa Senators,1,Don Van Massenhoven,Brad Kovachik,Washington Capitals,Ottawa Senators
+1999020618,Edmonton Oilers,3,Detroit Red Wings,3,Bernard Degrace,Robbie Shick,Edmonton Oilers,Detroit Red Wings
+1999020619,Boston Bruins,3,Atlanta Thrashers,3,Blaine Angus,Mark Faucette,Boston Bruins,Atlanta Thrashers
+1999020620,New Jersey Devils,5,Carolina Hurricanes,2,Don Koharski,Scott Zelkin,New Jersey Devils,Carolina Hurricanes
+1999020621,New York Islanders,3,Ottawa Senators,4,Paul Devorski,Brian Murphy,Ottawa Senators,New York Islanders
+1999020622,Tampa Bay Lightning,3,Washington Capitals,6,Shane Heyer,Richard Trottier,Washington Capitals,Tampa Bay Lightning
+1999020623,Florida Panthers,3,Philadelphia Flyers,1,Dan Marouelli,Kevin Collins,Florida Panthers,Philadelphia Flyers
+1999020624,Chicago Blackhawks,5,San Jose Sharks,4,Dan O'Halloran,Stephen Walkom,Chicago Blackhawks,San Jose Sharks
+1999020625,Colorado Avalanche,2,Phoenix Coyotes,0,Kerry Fraser,Brad Watson,Colorado Avalanche,Phoenix Coyotes
+1999020626,Vancouver Canucks,4,Toronto Maple Leafs,5,Mike Leggo,Mike Cvik,Toronto Maple Leafs,Vancouver Canucks
+1999020627,Anaheim Ducks,0,Buffalo Sabres,5,Terry Gregson,David Brisebois,Buffalo Sabres,Anaheim Ducks
+1999020628,New York Rangers,3,Carolina Hurricanes,2,Greg Kimmerly,Don Koharski,New York Rangers,Carolina Hurricanes
+1999020629,Nashville Predators,4,Phoenix Coyotes,4,Blaine Angus,Scott Driscoll,Nashville Predators,Phoenix Coyotes
+1999020630,Calgary Flames,6,Detroit Red Wings,1,Mike Leggo,Robbie Shick,Calgary Flames,Detroit Red Wings
+1999020631,Los Angeles Kings,5,Buffalo Sabres,3,Michael McGeough,David Brisebois,Los Angeles Kings,Buffalo Sabres
+1999020632,Montréal Canadiens,3,New York Islanders,0,Dave Jackson,Tom Kowal,Montréal Canadiens,New York Islanders
+1999020633,New Jersey Devils,4,Chicago Blackhawks,1,Kevin Maguire,Pat Dapuzzo,New Jersey Devils,Chicago Blackhawks
+1999020634,Pittsburgh Penguins,3,St. Louis Blues,1,Brad Meier,Paul Stewart,Pittsburgh Penguins,St. Louis Blues
+1999020635,Atlanta Thrashers,3,Boston Bruins,4,Shane Heyer,Lance Roberts,Boston Bruins,Atlanta Thrashers
+1999020636,Florida Panthers,1,Washington Capitals,3,Dan Marouelli,Rob Martell,Washington Capitals,Florida Panthers
+1999020637,Colorado Avalanche,0,San Jose Sharks,0,Dennis LaRue,Michael McGeough,Colorado Avalanche,San Jose Sharks
+1999020638,Edmonton Oilers,7,Calgary Flames,0,Mark Faucette,Don Henderson,Edmonton Oilers,Calgary Flames
+1999020639,Vancouver Canucks,3,Detroit Red Wings,3,Bill McCreary,Lonnie Cameron,Vancouver Canucks,Detroit Red Wings
+1999020640,Anaheim Ducks,3,Dallas Stars,1,Don Van Massenhoven,Wayne Bonney,Anaheim Ducks,Dallas Stars
+1999020641,Philadelphia Flyers,1,Ottawa Senators,1,Kerry Fraser,Greg Kimmerly,Philadelphia Flyers,Ottawa Senators
+1999020642,Carolina Hurricanes,1,New York Rangers,4,Dan Marouelli,Pierre Champoux,New York Rangers,Carolina Hurricanes
+1999020643,Tampa Bay Lightning,2,Boston Bruins,4,Blaine Angus,Stephane Provost,Boston Bruins,Tampa Bay Lightning
+1999020644,Phoenix Coyotes,2,Buffalo Sabres,1,Robbie Shick,Jay Sharrers,Phoenix Coyotes,Buffalo Sabres
+1999020645,Los Angeles Kings,2,Dallas Stars,5,Don Van Massenhoven,Wayne Bonney,Dallas Stars,Los Angeles Kings
+1999020646,New Jersey Devils,4,New York Islanders,0,Dave Jackson,Kevin Maguire,New Jersey Devils,New York Islanders
+1999020647,Atlanta Thrashers,3,Florida Panthers,3,Dan O'Halloran,Lance Roberts,Atlanta Thrashers,Florida Panthers
+1999020648,Chicago Blackhawks,0,St. Louis Blues,3,Michael McGeough,Mark Pare,St. Louis Blues,Chicago Blackhawks
+1999020649,Calgary Flames,5,Nashville Predators,4,Bill McCreary,Mike Cvik,Calgary Flames,Nashville Predators
+1999020650,Anaheim Ducks,3,Colorado Avalanche,3,Mark Faucette,Don Van Massenhoven,Anaheim Ducks,Colorado Avalanche
+1999020651,Toronto Maple Leafs,5,Washington Capitals,5,Terry Gregson,Greg Kimmerly,Toronto Maple Leafs,Washington Capitals
+1999020652,Montréal Canadiens,4,Pittsburgh Penguins,2,Richard Trottier,Jean Morin,Montréal Canadiens,Pittsburgh Penguins
+1999020653,Ottawa Senators,2,Detroit Red Wings,3,Stephen Walkom,Greg Devorski,Detroit Red Wings,Ottawa Senators
+1999020654,New York Islanders,2,Tampa Bay Lightning,0,Bernard DeGrace,Gerry Gauthier,New York Islanders,Tampa Bay Lightning
+1999020655,Carolina Hurricanes,4,Buffalo Sabres,1,Dan Marouelli,Brad Watson,Carolina Hurricanes,Buffalo Sabres
+1999020656,Florida Panthers,4,Boston Bruins,3,Blaine Angus,Paul Stewart,Florida Panthers,Boston Bruins
+1999020657,St. Louis Blues,1,New York Rangers,4,Dennis LaRue,Andy McElman,New York Rangers,St. Louis Blues
+1999020658,Edmonton Oilers,3,Vancouver Canucks,3,Bill McCreary,Darren Gibbs,Edmonton Oilers,Vancouver Canucks
+1999020659,San Jose Sharks,4,Anaheim Ducks,3,Mark Faucette,Mike Leggo,San Jose Sharks,Anaheim Ducks
+1999020660,Pittsburgh Penguins,4,Philadelphia Flyers,4,Michael McGeough,Dan O'Halloran,Pittsburgh Penguins,Philadelphia Flyers
+1999020661,Chicago Blackhawks,2,Dallas Stars,3,Dave Jackson,Dennis LaRue,Dallas Stars,Chicago Blackhawks
+1999020662,Vancouver Canucks,1,Nashville Predators,2,Paul Devorski,Shane Heyer,Nashville Predators,Vancouver Canucks
+1999020663,Phoenix Coyotes,3,San Jose Sharks,2,Don Koharski,Randy Mitton,Phoenix Coyotes,San Jose Sharks
+1999020664,Los Angeles Kings,3,Colorado Avalanche,2,Don Van Massenhoven,Scott Zelkin,Los Angeles Kings,Colorado Avalanche
+1999020665,Boston Bruins,3,Calgary Flames,4,Stephen Walkom,Pat Dapuzzo,Calgary Flames,Boston Bruins
+1999020666,Toronto Maple Leafs,3,Ottawa Senators,3,Bill McCreary,Brian Murphy,Toronto Maple Leafs,Ottawa Senators
+1999020667,Washington Capitals,8,Tampa Bay Lightning,2,Bernard Degrace,Richard Trottier,Washington Capitals,Tampa Bay Lightning
+1999020668,Carolina Hurricanes,3,Montréal Canadiens,2,Lance Roberts,Paul Stewart,Carolina Hurricanes,Montréal Canadiens
+1999020669,Atlanta Thrashers,3,New York Rangers,6,Brad Watson,Pierre Champoux,New York Rangers,Atlanta Thrashers
+1999020670,Edmonton Oilers,2,Nashville Predators,3,Paul Devorski,Shane Heyer,Nashville Predators,Edmonton Oilers
+1999020671,Buffalo Sabres,2,Tampa Bay Lightning,1,Marc Joannette,Greg Kimmerly,Buffalo Sabres,Tampa Bay Lightning
+1999020672,Pittsburgh Penguins,3,New York Rangers,4,Mike Leggo,Stephen Walkom,New York Rangers,Pittsburgh Penguins
+1999020673,Carolina Hurricanes,2,Phoenix Coyotes,4,Lance Roberts,Dean Warren,Phoenix Coyotes,Carolina Hurricanes
+1999020674,Vancouver Canucks,4,Edmonton Oilers,5,Don Koharski,Brad Lazarowich,Edmonton Oilers,Vancouver Canucks
+1999020675,San Jose Sharks,3,Colorado Avalanche,4,Robbie Shick,Lonnie Cameron,Colorado Avalanche,San Jose Sharks
+1999020676,Ottawa Senators,1,St. Louis Blues,4,Michael McGeough,Jean Morin,St. Louis Blues,Ottawa Senators
+1999020677,Washington Capitals,2,Calgary Flames,1,Terry Gregson,Conrad Hache,Washington Capitals,Calgary Flames
+1999020678,Atlanta Thrashers,2,Phoenix Coyotes,3,Paul Stewart,Scott Zelkin,Phoenix Coyotes,Atlanta Thrashers
+1999020679,Florida Panthers,2,New Jersey Devils,3,Dennis LaRue,Pat Dapuzzo,New Jersey Devils,Florida Panthers
+1999020680,Detroit Red Wings,4,Toronto Maple Leafs,2,Dan Marouelli,Danny McCourt,Detroit Red Wings,Toronto Maple Leafs
+1999020681,Dallas Stars,3,Los Angeles Kings,1,Dave Jackson,Scott Zelkin,Dallas Stars,Los Angeles Kings
+1999020682,Anaheim Ducks,2,New York Islanders,4,Paul Devorski,Lonnie Cameron,New York Islanders,Anaheim Ducks
+1999020683,Boston Bruins,2,Montréal Canadiens,5,Bill McCreary,Gerry Gauthier,Montréal Canadiens,Boston Bruins
+1999020684,New York Rangers,3,Toronto Maple Leafs,4,Mike Leggo,Robbie Shick,Toronto Maple Leafs,New York Rangers
+1999020685,Philadelphia Flyers,4,Florida Panthers,2,Terry Gregson,None,Philadelphia Flyers,Florida Panthers
+1999020686,Pittsburgh Penguins,4,Atlanta Thrashers,1,Blaine Angus,Tim Nowak,Pittsburgh Penguins,Atlanta Thrashers
+1999020687,Chicago Blackhawks,6,Colorado Avalanche,4,Kerry Fraser,Kevin Maguire,Chicago Blackhawks,Colorado Avalanche
+1999020688,Nashville Predators,2,Los Angeles Kings,6,Dan O'Halloran,Stephen Walkom,Los Angeles Kings,Nashville Predators
+1999020689,Buffalo Sabres,1,Ottawa Senators,0,Dan Marouelli,David Brisebois,Buffalo Sabres,Ottawa Senators
+1999020690,Washington Capitals,3,Phoenix Coyotes,2,Greg Kimmerly,Greg Devorski,Washington Capitals,Phoenix Coyotes
+1999020691,Carolina Hurricanes,4,New Jersey Devils,3,Richard Trottier,Andy McElman,Carolina Hurricanes,New Jersey Devils
+1999020692,Tampa Bay Lightning,3,Edmonton Oilers,7,Bernard Degrace,Dennis LaRue,Edmonton Oilers,Tampa Bay Lightning
+1999020693,Detroit Red Wings,4,Calgary Flames,1,Don Van Massenhoven,Mike Cvik,Detroit Red Wings,Calgary Flames
+1999020694,Dallas Stars,1,St. Louis Blues,3,Kerry Fraser,Dave Jackson,St. Louis Blues,Dallas Stars
+1999020695,Vancouver Canucks,4,San Jose Sharks,1,Don Koharski,Scott Zelkin,Vancouver Canucks,San Jose Sharks
+1999020696,Boston Bruins,1,Buffalo Sabres,0,Mike Leggo,Robbie Shick,Boston Bruins,Buffalo Sabres
+1999020697,Toronto Maple Leafs,3,Los Angeles Kings,2,Don Van Massenhoven,Mike Cvik,Toronto Maple Leafs,Los Angeles Kings
+1999020698,Montréal Canadiens,2,Philadelphia Flyers,2,Bill McCreary,Brad Watson,Montréal Canadiens,Philadelphia Flyers
+1999020699,Ottawa Senators,3,New York Rangers,2,Blaine Angus,Terry Gregson,Ottawa Senators,New York Rangers
+1999020700,Pittsburgh Penguins,1,Anaheim Ducks,7,Paul Devorski,Tim Nowak,Anaheim Ducks,Pittsburgh Penguins
+1999020701,Tampa Bay Lightning,2,Atlanta Thrashers,1,Mark Faucette,Dennis LaRue,Tampa Bay Lightning,Atlanta Thrashers
+1999020702,Florida Panthers,2,Edmonton Oilers,1,Bernard Degrace,Gordon Broseker,Florida Panthers,Edmonton Oilers
+1999020703,Detroit Red Wings,3,New Jersey Devils,1,Stephen Walkom,Mark Pare,Detroit Red Wings,New Jersey Devils
+1999020704,St. Louis Blues,4,Colorado Avalanche,0,Dave Jackson,Dan O'Halloran,St. Louis Blues,Colorado Avalanche
+1999020705,Nashville Predators,3,Calgary Flames,1,Kevin Maguire,Richard Trottier,Nashville Predators,Calgary Flames
+1999020706,San Jose Sharks,2,New York Islanders,3,Don Koharski,Scott Zelkin,New York Islanders,San Jose Sharks
+1999020707,Montréal Canadiens,3,Carolina Hurricanes,0,Bill McCreary,David Brisebois,Montréal Canadiens,Carolina Hurricanes
+1999020708,Washington Capitals,2,Philadelphia Flyers,0,Dan Marouelli,Greg Devorski,Washington Capitals,Philadelphia Flyers
+1999020709,Vancouver Canucks,1,Chicago Blackhawks,3,Paul Stewart,Jay Sharrers,Chicago Blackhawks,Vancouver Canucks
+1999020710,Boston Bruins,2,Anaheim Ducks,4,Lance Roberts,Derek Amell,Anaheim Ducks,Boston Bruins
+1999020711,New York Rangers,5,Nashville Predators,1,Dan Marouelli,Mike Cvik,New York Rangers,Nashville Predators
+1999020712,Atlanta Thrashers,1,Pittsburgh Penguins,2,Kevin Maguire,Gordon Broseker,Pittsburgh Penguins,Atlanta Thrashers
+1999020713,Dallas Stars,2,Edmonton Oilers,1,Mike Leggo,Robbie Shick,Dallas Stars,Edmonton Oilers
+1999020714,Phoenix Coyotes,5,Detroit Red Wings,3,Michael McGeough,Scott Zelkin,Phoenix Coyotes,Detroit Red Wings
+1999020715,Los Angeles Kings,5,New York Islanders,2,Dan O'Halloran,Don Henderson,Los Angeles Kings,New York Islanders
+1999020716,Buffalo Sabres,2,Anaheim Ducks,2,Tim Peel,Don Van Massenhoven,Buffalo Sabres,Anaheim Ducks
+1999020717,Ottawa Senators,4,Boston Bruins,4,Greg Kimmerly,David Brisebois,Ottawa Senators,Boston Bruins
+1999020718,Pittsburgh Penguins,3,Washington Capitals,2,Lance Roberts,Stephen Walkom,Pittsburgh Penguins,Washington Capitals
+1999020719,Carolina Hurricanes,4,Florida Panthers,2,Paul Devorski,Kevin Maguire,Carolina Hurricanes,Florida Panthers
+1999020720,Tampa Bay Lightning,3,Toronto Maple Leafs,5,Terry Gregson,Pat Dapuzzo,Toronto Maple Leafs,Tampa Bay Lightning
+1999020721,Colorado Avalanche,2,Vancouver Canucks,1,Mark Faucette,Wayne Bonney,Colorado Avalanche,Vancouver Canucks
+1999020722,Calgary Flames,4,St. Louis Blues,5,Paul Stewart,Brad Watson,St. Louis Blues,Calgary Flames
+1999020723,San Jose Sharks,0,Phoenix Coyotes,1,Dave Jackson,Dan O'Halloran,Phoenix Coyotes,San Jose Sharks
+1999020724,New York Islanders,4,Nashville Predators,6,Shane Heyer,Richard Trottier,Nashville Predators,New York Islanders
+1999020725,New York Rangers,1,New Jersey Devils,3,Bill McCreary,Brian Murphy,New Jersey Devils,New York Rangers
+1999020726,Florida Panthers,3,Montréal Canadiens,1,Kerry Fraser,Stephane Provost,Florida Panthers,Montréal Canadiens
+1999020727,Dallas Stars,2,Atlanta Thrashers,1,Blaine Angus,Swede Knox,Dallas Stars,Atlanta Thrashers
+1999020728,Edmonton Oilers,4,Chicago Blackhawks,1,Paul Stewart,Brad Watson,Edmonton Oilers,Chicago Blackhawks
+1999020729,Boston Bruins,4,Toronto Maple Leafs,2,Dan Marouelli,Richard Trottier,Boston Bruins,Toronto Maple Leafs
+1999020730,Buffalo Sabres,4,Ottawa Senators,2,Lance Roberts,Stephen Walkom,Buffalo Sabres,Ottawa Senators
+1999020731,New Jersey Devils,4,Nashville Predators,1,Bernard Degrace,Kevin Collins,New Jersey Devils,Nashville Predators
+1999020732,Philadelphia Flyers,3,Anaheim Ducks,3,Paul Devorski,Don Van Massenhoven,Philadelphia Flyers,Anaheim Ducks
+1999020733,Pittsburgh Penguins,4,New York Islanders,2,Kevin Maguire,Bill McCreary,Pittsburgh Penguins,New York Islanders
+1999020734,Washington Capitals,2,Carolina Hurricanes,1,Kerry Fraser,Greg Kimmerly,Washington Capitals,Carolina Hurricanes
+1999020735,Atlanta Thrashers,3,New York Rangers,6,Blaine Angus,Mark Faucette,New York Rangers,Atlanta Thrashers
+1999020736,Tampa Bay Lightning,1,Montréal Canadiens,2,Terry Gregson,Stephane Provost,Montréal Canadiens,Tampa Bay Lightning
+1999020737,Colorado Avalanche,3,San Jose Sharks,3,Michael McGeough,Swede Knox,Colorado Avalanche,San Jose Sharks
+1999020738,Calgary Flames,5,Chicago Blackhawks,5,Dave Jackson,Dan O'Halloran,Calgary Flames,Chicago Blackhawks
+1999020739,Vancouver Canucks,2,St. Louis Blues,5,Dennis LaRue,Lonnie Cameron,St. Louis Blues,Vancouver Canucks
+1999020740,Phoenix Coyotes,0,Dallas Stars,2,Don Koharski,Wayne Bonney,Dallas Stars,Phoenix Coyotes
+1999020741,Los Angeles Kings,6,Detroit Red Wings,3,Mike Leggo,Robbie Shick,Los Angeles Kings,Detroit Red Wings
+1999020742,Boston Bruins,2,Washington Capitals,2,Bill McCreary,Brad Meier,Boston Bruins,Washington Capitals
+1999020743,Montréal Canadiens,4,Edmonton Oilers,5,Terry Gregson,Pierre Champoux,Edmonton Oilers,Montréal Canadiens
+1999020744,New York Islanders,3,Carolina Hurricanes,4,Michael McGeough,Jean Morin,Carolina Hurricanes,New York Islanders
+1999020745,New York Rangers,2,New Jersey Devils,2,Don Van Massenhoven,Pat Dapuzzo,New York Rangers,New Jersey Devils
+1999020746,Tampa Bay Lightning,0,San Jose Sharks,8,Scott Zelkin,Stephane Provost,San Jose Sharks,Tampa Bay Lightning
+1999020747,Detroit Red Wings,1,St. Louis Blues,4,Paul Devorski,Brad Watson,St. Louis Blues,Detroit Red Wings
+1999020748,Colorado Avalanche,0,Buffalo Sabres,2,Dan O'Halloran,Troy Sartison,Buffalo Sabres,Colorado Avalanche
+1999020749,Los Angeles Kings,3,Anaheim Ducks,5,Dan Marouelli,Wayne Bonney,Anaheim Ducks,Los Angeles Kings
+1999020750,Toronto Maple Leafs,2,Philadelphia Flyers,4,Mark Faucette,Lance Roberts,Philadelphia Flyers,Toronto Maple Leafs
+1999020751,New Jersey Devils,4,New York Rangers,1,Dave Jackson,Bill McCreary,New Jersey Devils,New York Rangers
+1999020752,Pittsburgh Penguins,5,Atlanta Thrashers,2,Shane Heyer,Dennis LaRue,Pittsburgh Penguins,Atlanta Thrashers
+1999020753,Florida Panthers,4,San Jose Sharks,1,Don Koharski,Pierre Racicot,Florida Panthers,San Jose Sharks
+1999020754,Vancouver Canucks,4,Calgary Flames,3,Mike Leggo,Stephen Walkom,Vancouver Canucks,Calgary Flames
+1999020755,Phoenix Coyotes,2,Los Angeles Kings,5,Dan O'Halloran,Richard Trottier,Los Angeles Kings,Phoenix Coyotes
+1999020756,Anaheim Ducks,3,Dallas Stars,5,Blaine Angus,Dan Marouelli,Dallas Stars,Anaheim Ducks
+1999020757,Montréal Canadiens,0,Washington Capitals,1,Kevin Maguire,Michael McGeough,Washington Capitals,Montréal Canadiens
+1999020758,New York Islanders,5,Tampa Bay Lightning,4,Don Van Massenhoven,Dean Warren,New York Islanders,Tampa Bay Lightning
+1999020759,Philadelphia Flyers,2,Edmonton Oilers,3,Dave Jackson,Pat Dapuzzo,Edmonton Oilers,Philadelphia Flyers
+1999020760,St. Louis Blues,0,Detroit Red Wings,2,Bernard Degrace,Kerry Fraser,Detroit Red Wings,St. Louis Blues
+1999020761,Nashville Predators,1,Buffalo Sabres,2,Scott Zelkin,Mike Cvik,Buffalo Sabres,Nashville Predators
+1999020762,Colorado Avalanche,3,Calgary Flames,2,Greg Kimmerly,Robbie Shick,Colorado Avalanche,Calgary Flames
+1999020763,Ottawa Senators,5,Florida Panthers,3,Dennis LaRue,Paul Stewart,Ottawa Senators,Florida Panthers
+1999020764,New York Rangers,5,Boston Bruins,2,Paul Devorski,Gordon Broseker,New York Rangers,Boston Bruins
+1999020765,Pittsburgh Penguins,2,Edmonton Oilers,2,Bernard Degrace,Mark Faucette,Pittsburgh Penguins,Edmonton Oilers
+1999020766,Atlanta Thrashers,0,San Jose Sharks,3,Don Koharski,Scott Zelkin,San Jose Sharks,Atlanta Thrashers
+1999020767,Los Angeles Kings,3,Dallas Stars,2,Dan Marouelli,Stephen Walkom,Los Angeles Kings,Dallas Stars
+1999020768,Boston Bruins,1,Florida Panthers,5,Dave Jackson,Mike Leggo,Florida Panthers,Boston Bruins
+1999020769,Toronto Maple Leafs,1,Vancouver Canucks,4,Kerry Fraser,Greg Devorski,Vancouver Canucks,Toronto Maple Leafs
+1999020770,Montréal Canadiens,5,Ottawa Senators,4,Bill McCreary,Brian Murphy,Montréal Canadiens,Ottawa Senators
+1999020771,New York Islanders,5,Pittsburgh Penguins,1,Lance Roberts,Pat Dapuzzo,New York Islanders,Pittsburgh Penguins
+1999020772,Philadelphia Flyers,3,Buffalo Sabres,2,Don Van Massenhoven,None,Philadelphia Flyers,Buffalo Sabres
+1999020773,Atlanta Thrashers,3,Chicago Blackhawks,4,Michael McGeough,Mark Pare,Chicago Blackhawks,Atlanta Thrashers
+1999020774,Tampa Bay Lightning,2,Carolina Hurricanes,5,Don Koharski,Brad Watson,Carolina Hurricanes,Tampa Bay Lightning
+1999020775,St. Louis Blues,6,Anaheim Ducks,3,Greg Kimmerly,Richard Trottier,St. Louis Blues,Anaheim Ducks
+1999020776,Nashville Predators,2,Washington Capitals,4,Robbie Shick,Mike Cvik,Washington Capitals,Nashville Predators
+1999020777,Phoenix Coyotes,4,Calgary Flames,3,Blaine Angus,Dan Marouelli,Phoenix Coyotes,Calgary Flames
+1999020778,Buffalo Sabres,2,Edmonton Oilers,2,Paul Stewart,Derek Amell,Buffalo Sabres,Edmonton Oilers
+1999020779,New Jersey Devils,3,San Jose Sharks,1,Terry Gregson,Kevin Maguire,New Jersey Devils,San Jose Sharks
+1999020780,New York Rangers,2,New York Islanders,4,Mark Faucette,Dennis LaRue,New York Islanders,New York Rangers
+1999020781,Dallas Stars,2,Washington Capitals,1,Greg Kimmerly,Don Henderson,Dallas Stars,Washington Capitals
+1999020782,Colorado Avalanche,3,Detroit Red Wings,4,Stephen Walkom,Brad Lazarowich,Detroit Red Wings,Colorado Avalanche
+1999020783,Toronto Maple Leafs,2,Carolina Hurricanes,5,Paul Stewart,Richard Trottier,Carolina Hurricanes,Toronto Maple Leafs
+1999020784,Montréal Canadiens,4,Florida Panthers,1,Mike Leggo,Gerry Gauthier,Montréal Canadiens,Florida Panthers
+1999020785,Pittsburgh Penguins,3,Vancouver Canucks,0,Lance Roberts,Danny McCourt,Pittsburgh Penguins,Vancouver Canucks
+1999020786,Chicago Blackhawks,3,Anaheim Ducks,4,Don Koharski,Dan O'Halloran,Anaheim Ducks,Chicago Blackhawks
+1999020787,Phoenix Coyotes,1,Detroit Red Wings,3,Bill McCreary,Brian Murphy,Detroit Red Wings,Phoenix Coyotes
+1999020788,Los Angeles Kings,4,Calgary Flames,3,Bernard Degrace,Stephen Walkom,Los Angeles Kings,Calgary Flames
+1999020789,Ottawa Senators,5,Carolina Hurricanes,1,Mike Leggo,Pierre Champoux,Ottawa Senators,Carolina Hurricanes
+1999020790,New Jersey Devils,4,Philadelphia Flyers,2,Dennis LaRue,Lance Roberts,New Jersey Devils,Philadelphia Flyers
+1999020791,New York Islanders,1,San Jose Sharks,4,Terry Gregson,Jean Morin,San Jose Sharks,New York Islanders
+1999020792,Washington Capitals,2,Colorado Avalanche,1,Mark Faucette,Scott Zelkin,Washington Capitals,Colorado Avalanche
+1999020793,Tampa Bay Lightning,2,New York Rangers,2,Dave Jackson,Brad Watson,Tampa Bay Lightning,New York Rangers
+1999020794,St. Louis Blues,4,Atlanta Thrashers,1,Robbie Shick,Don Henderson,St. Louis Blues,Atlanta Thrashers
+1999020795,Nashville Predators,1,Edmonton Oilers,2,Michael McGeough,Mike Cvik,Edmonton Oilers,Nashville Predators
+1999020796,Toronto Maple Leafs,3,Boston Bruins,3,Blaine Angus,Derek Amell,Toronto Maple Leafs,Boston Bruins
+1999020797,Pittsburgh Penguins,1,Buffalo Sabres,1,Kerry Fraser,Mike Cvik,Pittsburgh Penguins,Buffalo Sabres
+1999020798,Atlanta Thrashers,1,Montréal Canadiens,5,Paul Devorski,Tom Kowal,Montréal Canadiens,Atlanta Thrashers
+1999020799,Florida Panthers,3,New York Rangers,0,Dave Jackson,Brad Watson,Florida Panthers,New York Rangers
+1999020800,Detroit Red Wings,5,Vancouver Canucks,2,Dennis LaRue,Don Henderson,Detroit Red Wings,Vancouver Canucks
+1999020801,Chicago Blackhawks,1,Los Angeles Kings,4,Michael McGeough,Randy Mitton,Los Angeles Kings,Chicago Blackhawks
+1999020802,Dallas Stars,3,Nashville Predators,0,Bernard Degrace,Brian Murphy,Dallas Stars,Nashville Predators
+1999020803,Anaheim Ducks,6,Calgary Flames,5,Bill McCreary,Wayne Bonney,Anaheim Ducks,Calgary Flames
+1999020804,Buffalo Sabres,1,Vancouver Canucks,2,Mike Leggo,Robbie Shick,Vancouver Canucks,Buffalo Sabres
+1999020805,Ottawa Senators,6,Tampa Bay Lightning,2,Kevin Maguire,Pierre Champoux,Ottawa Senators,Tampa Bay Lightning
+1999020806,New Jersey Devils,5,Colorado Avalanche,5,Terry Gregson,Pat Dapuzzo,New Jersey Devils,Colorado Avalanche
+1999020807,Philadelphia Flyers,2,New York Islanders,2,Paul Devorski,David Brisebois,Philadelphia Flyers,New York Islanders
+1999020808,Carolina Hurricanes,0,Montréal Canadiens,3,Kerry Fraser,Mark Pare,Montréal Canadiens,Carolina Hurricanes
+1999020809,New York Rangers,2,Colorado Avalanche,4,Paul Stewart,Scott Zelkin,Colorado Avalanche,New York Rangers
+1999020810,Detroit Red Wings,2,Los Angeles Kings,3,Blaine Angus,Richard Trottier,Los Angeles Kings,Detroit Red Wings
+1999020811,Chicago Blackhawks,4,Washington Capitals,5,Dennis LaRue,Andy McElman,Washington Capitals,Chicago Blackhawks
+1999020812,Nashville Predators,1,St. Louis Blues,2,Bernard Degrace,Lance Roberts,St. Louis Blues,Nashville Predators
+1999020813,Dallas Stars,3,Phoenix Coyotes,4,Dave Jackson,Brad Lazarowich,Phoenix Coyotes,Dallas Stars
+1999020814,Calgary Flames,4,Edmonton Oilers,2,Dan O'Halloran,Don Van Massenhoven,Calgary Flames,Edmonton Oilers
+1999020815,Anaheim Ducks,4,San Jose Sharks,4,Greg Kimmerly,Bill McCreary,Anaheim Ducks,San Jose Sharks
+1999020816,Buffalo Sabres,4,Los Angeles Kings,1,Dan Marouelli,David Brisebois,Buffalo Sabres,Los Angeles Kings
+1999020817,Montréal Canadiens,2,Toronto Maple Leafs,1,Kerry Fraser,Pierre Champoux,Montréal Canadiens,Toronto Maple Leafs
+1999020818,Ottawa Senators,1,Vancouver Canucks,3,Terry Gregson,Francois Gagnon,Vancouver Canucks,Ottawa Senators
+1999020819,New Jersey Devils,2,New York Islanders,4,Brad Watson,Derek Amell,New York Islanders,New Jersey Devils
+1999020820,Philadelphia Flyers,4,Washington Capitals,2,Paul Stewart,Scott Zelkin,Philadelphia Flyers,Washington Capitals
+1999020821,Carolina Hurricanes,4,Tampa Bay Lightning,2,Paul Devorski,Shane Heyer,Carolina Hurricanes,Tampa Bay Lightning
+1999020822,Florida Panthers,1,Pittsburgh Penguins,2,Kevin Maguire,Lance Roberts,Pittsburgh Penguins,Florida Panthers
+1999020823,Edmonton Oilers,2,Calgary Flames,3,Don Koharski,Robbie Shick,Calgary Flames,Edmonton Oilers
+1999020824,New York Rangers,2,Philadelphia Flyers,3,Stephen Walkom,Greg Devorski,Philadelphia Flyers,New York Rangers
+1999020825,Chicago Blackhawks,6,Detroit Red Wings,4,Bernard Degrace,Dave Jackson,Chicago Blackhawks,Detroit Red Wings
+1999020826,Colorado Avalanche,1,Dallas Stars,2,Richard Trottier,Brad Lazarowich,Dallas Stars,Colorado Avalanche
+1999020827,Phoenix Coyotes,4,Atlanta Thrashers,2,Dan O'Halloran,Don Van Massenhoven,Phoenix Coyotes,Atlanta Thrashers
+1999020828,Buffalo Sabres,3,New Jersey Devils,2,Blaine Angus,Bill McCreary,Buffalo Sabres,New Jersey Devils
+1999020829,New York Islanders,0,Detroit Red Wings,2,Kerry Fraser,None,Detroit Red Wings,New York Islanders
+1999020830,Carolina Hurricanes,1,Washington Capitals,1,Dan Marouelli,Brian Murphy,Carolina Hurricanes,Washington Capitals
+1999020831,Tampa Bay Lightning,2,Pittsburgh Penguins,1,Mark Faucette,Kevin Maguire,Tampa Bay Lightning,Pittsburgh Penguins
+1999020832,Florida Panthers,2,Ottawa Senators,4,Lance Roberts,Kevin Collins,Ottawa Senators,Florida Panthers
+1999020833,Nashville Predators,5,Dallas Stars,2,Shane Heyer,Paul Stewart,Nashville Predators,Dallas Stars
+1999020834,Edmonton Oilers,6,Los Angeles Kings,3,Don Koharski,Michael McGeough,Edmonton Oilers,Los Angeles Kings
+1999020835,Vancouver Canucks,5,Boston Bruins,2,Brad Watson,Mike Cvik,Vancouver Canucks,Boston Bruins
+1999020836,Anaheim Ducks,2,St. Louis Blues,4,Greg Kimmerly,Robbie Shick,St. Louis Blues,Anaheim Ducks
+1999020837,Montréal Canadiens,1,Phoenix Coyotes,0,Bernard Degrace,Dave Jackson,Montréal Canadiens,Phoenix Coyotes
+1999020838,New York Rangers,4,Pittsburgh Penguins,3,Brian Murphy,Lance Roberts,New York Rangers,Pittsburgh Penguins
+1999020839,Philadelphia Flyers,3,Chicago Blackhawks,1,Dan Marouelli,Gerry Gauthier,Philadelphia Flyers,Chicago Blackhawks
+1999020840,Colorado Avalanche,3,Atlanta Thrashers,4,Michael McGeough,Dan O'Halloran,Atlanta Thrashers,Colorado Avalanche
+1999020841,Toronto Maple Leafs,5,Phoenix Coyotes,3,Stephen Walkom,Pierre Racicot,Toronto Maple Leafs,Phoenix Coyotes
+1999020842,Washington Capitals,3,Florida Panthers,2,Mike Leggo,Paul Stewart,Washington Capitals,Florida Panthers
+1999020843,Detroit Red Wings,2,Dallas Stars,5,Dennis LaRue,Bill McCreary,Dallas Stars,Detroit Red Wings
+1999020844,Chicago Blackhawks,2,Nashville Predators,4,Paul Devorski,Scott Zelkin,Nashville Predators,Chicago Blackhawks
+1999020845,Calgary Flames,2,Los Angeles Kings,7,Don Koharski,Brad Watson,Los Angeles Kings,Calgary Flames
+1999020846,Edmonton Oilers,4,Boston Bruins,2,Greg Kimmerly,Randy Mitton,Edmonton Oilers,Boston Bruins
+1999020847,Anaheim Ducks,4,Vancouver Canucks,4,Richard Trottier,Lonnie Cameron,Anaheim Ducks,Vancouver Canucks
+1999020848,San Jose Sharks,1,St. Louis Blues,4,Terry Gregson,Wayne Bonney,St. Louis Blues,San Jose Sharks
+1999020849,Montréal Canadiens,3,New Jersey Devils,2,Rob Martell,Stephen Walkom,Montréal Canadiens,New Jersey Devils
+1999020850,Philadelphia Flyers,4,Pittsburgh Penguins,3,Mark Faucette,Mike Leggo,Philadelphia Flyers,Pittsburgh Penguins
+1999020851,Carolina Hurricanes,2,Florida Panthers,4,Conrad Hache,Dan Marouelli,Florida Panthers,Carolina Hurricanes
+1999020852,Tampa Bay Lightning,5,Ottawa Senators,4,Blaine Angus,Stephane Provost,Tampa Bay Lightning,Ottawa Senators
+1999020853,Buffalo Sabres,3,New York Rangers,6,Dennis LaRue,Don Van Massenhoven,New York Rangers,Buffalo Sabres
+1999020854,New Jersey Devils,1,Toronto Maple Leafs,3,Mark Faucette,Shane Heyer,Toronto Maple Leafs,New Jersey Devils
+1999020855,Washington Capitals,0,Boston Bruins,3,Lance Roberts,Scott Zelkin,Boston Bruins,Washington Capitals
+1999020856,Detroit Red Wings,5,New York Islanders,2,Bernard Degrace,Danny McCourt,Detroit Red Wings,New York Islanders
+1999020857,St. Louis Blues,4,Colorado Avalanche,2,Paul Devorski,Richard Trottier,St. Louis Blues,Colorado Avalanche
+1999020858,Dallas Stars,3,Chicago Blackhawks,4,Michael McGeough,Dan O'Halloran,Chicago Blackhawks,Dallas Stars
+1999020859,Calgary Flames,3,Phoenix Coyotes,3,Don Koharski,Randy Mitton,Calgary Flames,Phoenix Coyotes
+1999020860,Edmonton Oilers,5,Atlanta Thrashers,4,Terry Gregson,Greg Kimmerly,Edmonton Oilers,Atlanta Thrashers
+1999020861,Vancouver Canucks,2,Los Angeles Kings,5,Kerry Fraser,Brad Watson,Los Angeles Kings,Vancouver Canucks
+1999020862,Toronto Maple Leafs,5,Buffalo Sabres,2,Bill McCreary,Robbie Shick,Toronto Maple Leafs,Buffalo Sabres
+1999020863,Montréal Canadiens,0,Washington Capitals,3,Dan Marouelli,Gerry Gauthier,Washington Capitals,Montréal Canadiens
+1999020864,Ottawa Senators,4,New York Rangers,2,Stephen Walkom,Pierre Champoux,Ottawa Senators,New York Rangers
+1999020865,New York Islanders,1,Philadelphia Flyers,5,Mike Leggo,Lance Roberts,Philadelphia Flyers,New York Islanders
+1999020866,Pittsburgh Penguins,2,Boston Bruins,2,Dave Jackson,Greg Devorski,Pittsburgh Penguins,Boston Bruins
+1999020867,Florida Panthers,1,Carolina Hurricanes,2,Blaine Angus,Paul Devorski,Carolina Hurricanes,Florida Panthers
+1999020868,Nashville Predators,2,Tampa Bay Lightning,3,Richard Trottier,Pat Dapuzzo,Tampa Bay Lightning,Nashville Predators
+1999020869,Calgary Flames,5,Atlanta Thrashers,2,Kerry Fraser,Randy Mitton,Calgary Flames,Atlanta Thrashers
+1999020870,San Jose Sharks,6,Los Angeles Kings,3,Don Koharski,Mike Cvik,San Jose Sharks,Los Angeles Kings
+1999020871,New Jersey Devils,3,Montréal Canadiens,0,Dennis LaRue,Paul Stewart,New Jersey Devils,Montréal Canadiens
+1999020872,Detroit Red Wings,3,Tampa Bay Lightning,1,Tim Peel,Don Van Massenhoven,Detroit Red Wings,Tampa Bay Lightning
+1999020873,St. Louis Blues,1,Chicago Blackhawks,4,Michael McGeough,Andy McElman,Chicago Blackhawks,St. Louis Blues
+1999020874,Dallas Stars,1,Colorado Avalanche,1,Mark Faucette,Darren Gibbs,Dallas Stars,Colorado Avalanche
+1999020875,Vancouver Canucks,2,Phoenix Coyotes,1,Terry Gregson,Kevin Maguire,Vancouver Canucks,Phoenix Coyotes
+1999020876,Anaheim Ducks,3,Edmonton Oilers,2,Kerry Fraser,Brad Watson,Anaheim Ducks,Edmonton Oilers
+1999020877,New York Islanders,2,Washington Capitals,3,Blaine Angus,Dennis LaRue,Washington Capitals,New York Islanders
+1999020878,Pittsburgh Penguins,1,Ottawa Senators,1,Robbie Shick,Tony Sericolo,Pittsburgh Penguins,Ottawa Senators
+1999020879,Florida Panthers,2,Buffalo Sabres,5,Bernard Degrace,Bill McCreary,Buffalo Sabres,Florida Panthers
+1999020880,Boston Bruins,3,Ottawa Senators,5,Dave Jackson,Dan O'Halloran,Ottawa Senators,Boston Bruins
+1999020881,Atlanta Thrashers,0,Toronto Maple Leafs,4,Michael McGeough,Lance Roberts,Toronto Maple Leafs,Atlanta Thrashers
+1999020882,St. Louis Blues,3,Philadelphia Flyers,2,Paul Devorski,Dan Marouelli,St. Louis Blues,Philadelphia Flyers
+1999020883,Nashville Predators,1,New Jersey Devils,2,Mike Leggo,Paul Stewart,New Jersey Devils,Nashville Predators
+1999020884,Colorado Avalanche,1,Edmonton Oilers,3,Tim Peel,Don Van Massenhoven,Edmonton Oilers,Colorado Avalanche
+1999020885,Los Angeles Kings,1,Vancouver Canucks,1,Mark Faucette,Kevin Maguire,Los Angeles Kings,Vancouver Canucks
+1999020886,San Jose Sharks,2,Anaheim Ducks,4,Kerry Fraser,Terry Gregson,Anaheim Ducks,San Jose Sharks
+1999020887,New York Rangers,3,Buffalo Sabres,3,Dave Jackson,Dan O'Halloran,New York Rangers,Buffalo Sabres
+1999020888,Tampa Bay Lightning,2,Washington Capitals,4,Bernard Degrace,Bill McCreary,Washington Capitals,Tampa Bay Lightning
+1999020889,Florida Panthers,3,Toronto Maple Leafs,1,Richard Trottier,Scott Driscoll,Florida Panthers,Toronto Maple Leafs
+1999020890,Chicago Blackhawks,1,Montréal Canadiens,4,Mike Leggo,Robbie Shick,Montréal Canadiens,Chicago Blackhawks
+1999020891,Dallas Stars,2,Philadelphia Flyers,0,Stephen Walkom,Tim Nowak,Dallas Stars,Philadelphia Flyers
+1999020892,Calgary Flames,8,Pittsburgh Penguins,2,Don Koharski,Scott Zelkin,Calgary Flames,Pittsburgh Penguins
+1999020893,Phoenix Coyotes,7,Carolina Hurricanes,5,Kevin Maguire,Don Van Massenhoven,Phoenix Coyotes,Carolina Hurricanes
+1999020894,New York Islanders,5,Ottawa Senators,5,Greg Kimmerly,Kevin Collins,New York Islanders,Ottawa Senators
+1999020895,Atlanta Thrashers,2,St. Louis Blues,5,Lance Roberts,Dan O'Rourke,St. Louis Blues,Atlanta Thrashers
+1999020896,Colorado Avalanche,5,New Jersey Devils,0,Paul Devorski,Wayne Bonney,Colorado Avalanche,New Jersey Devils
+1999020897,Vancouver Canucks,3,Anaheim Ducks,1,Blaine Angus,Dan Marouelli,Vancouver Canucks,Anaheim Ducks
+1999020898,Los Angeles Kings,2,Carolina Hurricanes,5,Kerry Fraser,Darren Gibbs,Carolina Hurricanes,Los Angeles Kings
+1999020899,San Jose Sharks,4,Nashville Predators,3,Mark Faucette,Lonnie Cameron,San Jose Sharks,Nashville Predators
+1999020900,New York Rangers,4,Florida Panthers,2,Robbie Shick,Brad Watson,New York Rangers,Florida Panthers
+1999020901,Washington Capitals,2,Detroit Red Wings,2,Dave Jackson,Gordon Broseker,Washington Capitals,Detroit Red Wings
+1999020902,Chicago Blackhawks,5,Tampa Bay Lightning,1,Stephen Walkom,Andy McElman,Chicago Blackhawks,Tampa Bay Lightning
+1999020904,Phoenix Coyotes,1,Dallas Stars,4,Mark Faucette,Kevin Maguire,Dallas Stars,Phoenix Coyotes
+1999020905,Boston Bruins,0,Philadelphia Flyers,3,Terry Gregson,Richard Trottier,Philadelphia Flyers,Boston Bruins
+1999020906,Toronto Maple Leafs,4,Montréal Canadiens,3,Lance Roberts,Stephen Walkom,Toronto Maple Leafs,Montréal Canadiens
+1999020907,Ottawa Senators,3,Atlanta Thrashers,2,Bernard Degrace,Greg Kimmerly,Ottawa Senators,Atlanta Thrashers
+1999020908,New York Islanders,4,Buffalo Sabres,2,Brian Murphy,Paul Stewart,New York Islanders,Buffalo Sabres
+1999020909,Florida Panthers,1,St. Louis Blues,1,Dan O'Halloran,Derek Amell,Florida Panthers,St. Louis Blues
+1999020910,Colorado Avalanche,4,Tampa Bay Lightning,1,Scott Zelkin,Wayne Bonney,Colorado Avalanche,Tampa Bay Lightning
+1999020911,Edmonton Oilers,2,Pittsburgh Penguins,3,Blaine Angus,Dan Marouelli,Pittsburgh Penguins,Edmonton Oilers
+1999020912,Vancouver Canucks,4,New Jersey Devils,2,Paul Devorski,Dennis LaRue,Vancouver Canucks,New Jersey Devils
+1999020913,Los Angeles Kings,3,Nashville Predators,2,Michael McGeough,Darren Gibbs,Los Angeles Kings,Nashville Predators
+1999020914,San Jose Sharks,2,Carolina Hurricanes,5,Mike Leggo,Lonnie Cameron,Carolina Hurricanes,San Jose Sharks
+1999020915,Philadelphia Flyers,3,New York Islanders,4,Kerry Fraser,Brad Watson,New York Islanders,Philadelphia Flyers
+1999020916,Washington Capitals,2,Buffalo Sabres,1,Terry Gregson,Greg Devorski,Washington Capitals,Buffalo Sabres
+1999020917,Chicago Blackhawks,7,Phoenix Coyotes,3,Don Van Massenhoven,Tim Nowak,Chicago Blackhawks,Phoenix Coyotes
+1999020918,Dallas Stars,3,Detroit Red Wings,5,Don Koharski,Bill McCreary,Detroit Red Wings,Dallas Stars
+1999020919,Calgary Flames,2,New Jersey Devils,2,Dan Marouelli,Mike Cvik,Calgary Flames,New Jersey Devils
+1999020920,Anaheim Ducks,1,Nashville Predators,0,Mike Leggo,Michael McGeough,Anaheim Ducks,Nashville Predators
+1999020921,Boston Bruins,1,Ottawa Senators,5,Dan O'Halloran,Don Van Massenhoven,Ottawa Senators,Boston Bruins
+1999020922,Montréal Canadiens,3,Atlanta Thrashers,2,Richard Trottier,David Brisebois,Montréal Canadiens,Atlanta Thrashers
+1999020923,Vancouver Canucks,5,Toronto Maple Leafs,6,Paul Devorski,Scott Zelkin,Toronto Maple Leafs,Vancouver Canucks
+1999020924,San Jose Sharks,2,New York Rangers,1,Bill McCreary,Lonnie Cameron,San Jose Sharks,New York Rangers
+1999020925,Washington Capitals,4,Florida Panthers,2,Kerry Fraser,Brad Watson,Washington Capitals,Florida Panthers
+1999020926,St. Louis Blues,4,Phoenix Coyotes,0,Don Koharski,Paul Stewart,St. Louis Blues,Phoenix Coyotes
+1999020927,Nashville Predators,3,Chicago Blackhawks,1,Greg Kimmerly,Stephane Provost,Nashville Predators,Chicago Blackhawks
+1999020928,Calgary Flames,3,Colorado Avalanche,8,Blaine Angus,Don Henderson,Colorado Avalanche,Calgary Flames
+1999020929,Edmonton Oilers,0,Toronto Maple Leafs,2,Dave Jackson,Thor Nelson,Toronto Maple Leafs,Edmonton Oilers
+1999020930,Los Angeles Kings,1,Detroit Red Wings,3,Robbie Shick,Darren Gibbs,Detroit Red Wings,Los Angeles Kings
+1999020931,Buffalo Sabres,2,Boston Bruins,1,Dan Marouelli,Scott Driscoll,Buffalo Sabres,Boston Bruins
+1999020932,Pittsburgh Penguins,0,Montréal Canadiens,3,Rob Martell,Don Van Massenhoven,Montréal Canadiens,Pittsburgh Penguins
+1999020933,Carolina Hurricanes,4,Chicago Blackhawks,1,Dennis LaRue,Gordon Broseker,Carolina Hurricanes,Chicago Blackhawks
+1999020934,Tampa Bay Lightning,2,Philadelphia Flyers,3,Mark Faucette,Kevin Maguire,Philadelphia Flyers,Tampa Bay Lightning
+1999020935,Dallas Stars,3,Vancouver Canucks,3,Lance Roberts,Andy McElman,Dallas Stars,Vancouver Canucks
+1999020936,Anaheim Ducks,3,New York Rangers,4,Paul Devorski,Mike Cvik,New York Rangers,Anaheim Ducks
+1999020937,San Jose Sharks,1,Detroit Red Wings,1,Bill McCreary,Robbie Shick,San Jose Sharks,Detroit Red Wings
+1999020938,Ottawa Senators,7,Pittsburgh Penguins,0,Terry Gregson,Derek Amell,Ottawa Senators,Pittsburgh Penguins
+1999020939,Philadelphia Flyers,3,Washington Capitals,1,Stephen Walkom,Tim Nowak,Philadelphia Flyers,Washington Capitals
+1999020940,St. Louis Blues,2,Vancouver Canucks,2,Michael McGeough,Pat Dapuzzo,St. Louis Blues,Vancouver Canucks
+1999020941,Calgary Flames,2,Toronto Maple Leafs,6,Dave Jackson,Paul Stewart,Toronto Maple Leafs,Calgary Flames
+1999020942,Phoenix Coyotes,5,New York Islanders,0,Lance Roberts,Wayne Bonney,Phoenix Coyotes,New York Islanders
+1999020943,Los Angeles Kings,3,New York Rangers,1,Bill McCreary,Scott Zelkin,Los Angeles Kings,New York Rangers
+1999020944,Buffalo Sabres,2,Montréal Canadiens,3,Don Koharski,David Brisebois,Montréal Canadiens,Buffalo Sabres
+1999020945,Carolina Hurricanes,3,Boston Bruins,5,Greg Kimmerly,Stephen Walkom,Boston Bruins,Carolina Hurricanes
+1999020946,Atlanta Thrashers,0,New Jersey Devils,9,Bernard Degrace,Dennis LaRue,New Jersey Devils,Atlanta Thrashers
+1999020947,Tampa Bay Lightning,3,Florida Panthers,4,Kerry Fraser,Brad Watson,Florida Panthers,Tampa Bay Lightning
+1999020948,Nashville Predators,1,Detroit Red Wings,3,Mark Faucette,Kevin Maguire,Detroit Red Wings,Nashville Predators
+1999020949,Dallas Stars,3,New York Islanders,4,Michael McGeough,Richard Trottier,New York Islanders,Dallas Stars
+1999020950,Edmonton Oilers,2,Colorado Avalanche,4,Dave Jackson,Paul Stewart,Colorado Avalanche,Edmonton Oilers
+1999020951,Montréal Canadiens,3,Boston Bruins,5,Terry Gregson,Shane Heyer,Boston Bruins,Montréal Canadiens
+1999020952,Ottawa Senators,2,Toronto Maple Leafs,4,Blaine Angus,Dan Marouelli,Toronto Maple Leafs,Ottawa Senators
+1999020953,Pittsburgh Penguins,3,New York Rangers,1,Don Koharski,Pierre Champoux,Pittsburgh Penguins,New York Rangers
+1999020954,Washington Capitals,4,New Jersey Devils,2,Mark Faucette,Brad Kovachik,Washington Capitals,New Jersey Devils
+1999020955,Florida Panthers,2,Chicago Blackhawks,5,Kerry Fraser,Brad Watson,Chicago Blackhawks,Florida Panthers
+1999020956,St. Louis Blues,1,Anaheim Ducks,1,Dan O'Halloran,Pat Dapuzzo,St. Louis Blues,Anaheim Ducks
+1999020957,Phoenix Coyotes,5,Vancouver Canucks,0,Mike Leggo,Richard Trottier,Phoenix Coyotes,Vancouver Canucks
+1999020958,Los Angeles Kings,3,Calgary Flames,1,Lance Roberts,Robbie Shick,Los Angeles Kings,Calgary Flames
+1999020959,Buffalo Sabres,4,New York Islanders,2,Dennis LaRue,Paul Stewart,Buffalo Sabres,New York Islanders
+1999020960,Carolina Hurricanes,5,Atlanta Thrashers,1,Bernard Degrace,Kevin Maguire,Carolina Hurricanes,Atlanta Thrashers
+1999020961,Tampa Bay Lightning,1,Chicago Blackhawks,4,Greg Kimmerly,Stephane Provost,Chicago Blackhawks,Tampa Bay Lightning
+1999020962,Nashville Predators,4,Edmonton Oilers,3,Dan O'Halloran,Don Van Massenhoven,Nashville Predators,Edmonton Oilers
+1999020963,Dallas Stars,4,St. Louis Blues,2,Michael McGeough,Stephen Walkom,Dallas Stars,St. Louis Blues
+1999020964,Colorado Avalanche,3,Philadelphia Flyers,1,Dave Jackson,Mike Cvik,Colorado Avalanche,Philadelphia Flyers
+1999020965,New York Rangers,3,Dallas Stars,4,Mark Faucette,Brad Kovachik,Dallas Stars,New York Rangers
+1999020966,Pittsburgh Penguins,2,New Jersey Devils,3,Paul Devorski,Pierre Champoux,New Jersey Devils,Pittsburgh Penguins
+1999020967,Atlanta Thrashers,0,Edmonton Oilers,3,Kerry Fraser,Kevin Collins,Edmonton Oilers,Atlanta Thrashers
+1999020968,Phoenix Coyotes,1,Philadelphia Flyers,4,Michael McGeough,Troy Sartison,Philadelphia Flyers,Phoenix Coyotes
+1999020969,Los Angeles Kings,3,Vancouver Canucks,2,JACKSON,LEGGO,Los Angeles Kings,Vancouver Canucks
+1999020970,San Jose Sharks,5,Calgary Flames,3,Lance Roberts,Richard Trottier,San Jose Sharks,Calgary Flames
+1999020971,Montréal Canadiens,3,Tampa Bay Lightning,4,Dennis LaRue,Francois Gagnon,Tampa Bay Lightning,Montréal Canadiens
+1999020972,Detroit Red Wings,3,Nashville Predators,2,Bill McCreary,Derek Amell,Detroit Red Wings,Nashville Predators
+1999020973,Colorado Avalanche,4,Anaheim Ducks,2,Stephen Walkom,Mike Cvik,Colorado Avalanche,Anaheim Ducks
+1999020974,Toronto Maple Leafs,2,Chicago Blackhawks,5,Don Koharski,Dennis LaRue,Chicago Blackhawks,Toronto Maple Leafs
+1999020975,New Jersey Devils,2,Dallas Stars,3,Bill McCreary,Gordon Broseker,Dallas Stars,New Jersey Devils
+1999020976,New York Rangers,4,Tampa Bay Lightning,4,Mike Leggo,Scott Driscoll,New York Rangers,Tampa Bay Lightning
+1999020977,Washington Capitals,4,New York Islanders,3,Blaine Angus,Dan Marouelli,Washington Capitals,New York Islanders
+1999020978,Carolina Hurricanes,2,Edmonton Oilers,2,Mark Faucette,Kevin Collins,Carolina Hurricanes,Edmonton Oilers
+1999020979,Calgary Flames,1,Ottawa Senators,3,Richard Trottier,Darren Gibbs,Ottawa Senators,Calgary Flames
+1999020980,Phoenix Coyotes,3,St. Louis Blues,5,Lance Roberts,Lonnie Cameron,St. Louis Blues,Phoenix Coyotes
+1999020981,Anaheim Ducks,2,Los Angeles Kings,2,Terry Gregson,Wayne Bonney,Anaheim Ducks,Los Angeles Kings
+1999020982,San Jose Sharks,6,Buffalo Sabres,5,Paul Devorski,Don Henderson,San Jose Sharks,Buffalo Sabres
+1999020983,Philadelphia Flyers,1,Montréal Canadiens,1,Mark Faucette,Kevin Maguire,Philadelphia Flyers,Montréal Canadiens
+1999020984,Pittsburgh Penguins,4,Florida Panthers,2,Don Koharski,Scott Zelkin,Pittsburgh Penguins,Florida Panthers
+1999020986,Detroit Red Wings,3,Toronto Maple Leafs,4,Kerry Fraser,Danny McCourt,Toronto Maple Leafs,Detroit Red Wings
+1999020987,Chicago Blackhawks,5,Boston Bruins,4,Stephen Walkom,Andy McElman,Chicago Blackhawks,Boston Bruins
+1999020988,Colorado Avalanche,2,Nashville Predators,2,Bernard Degrace,Michael McGeough,Colorado Avalanche,Nashville Predators
+1999020989,Vancouver Canucks,6,Buffalo Sabres,3,Don Van Massenhoven,Brad Watson,Vancouver Canucks,Buffalo Sabres
+1999020990,New Jersey Devils,1,Tampa Bay Lightning,3,Blaine Angus,Dan O'Halloran,Tampa Bay Lightning,New Jersey Devils
+1999020991,Washington Capitals,4,Carolina Hurricanes,2,Paul Stewart,Gerry Gauthier,Washington Capitals,Carolina Hurricanes
+1999020992,Edmonton Oilers,4,Ottawa Senators,2,Richard Trottier,Mike Cvik,Edmonton Oilers,Ottawa Senators
+1999020993,Phoenix Coyotes,3,Nashville Predators,4,Bernard Degrace,Terry Gregson,Nashville Predators,Phoenix Coyotes
+1999020994,Anaheim Ducks,4,San Jose Sharks,2,Don Van Massenhoven,Wayne Bonney,Anaheim Ducks,San Jose Sharks
+1999020995,Los Angeles Kings,0,St. Louis Blues,4,Paul Devorski,Lonnie Cameron,St. Louis Blues,Los Angeles Kings
+1999020996,Boston Bruins,3,Pittsburgh Penguins,2,Mark Faucette,Kevin Collins,Boston Bruins,Pittsburgh Penguins
+1999020997,Toronto Maple Leafs,1,Atlanta Thrashers,4,Bill McCreary,Greg Devorski,Atlanta Thrashers,Toronto Maple Leafs
+1999020998,Montréal Canadiens,3,Carolina Hurricanes,2,Paul Stewart,Kerry Fraser,Montréal Canadiens,Carolina Hurricanes
+1999020999,New York Islanders,2,Florida Panthers,4,Dan O'Halloran,Jean Morin,Florida Panthers,New York Islanders
+1999021000,Philadelphia Flyers,2,New York Rangers,3,Mike Leggo,Dan Marouelli,New York Rangers,Philadelphia Flyers
+1999021001,Chicago Blackhawks,2,Dallas Stars,2,Brian Murphy,Lance Roberts,Chicago Blackhawks,Dallas Stars
+1999021002,Colorado Avalanche,3,Detroit Red Wings,4,Dave Jackson,Robbie Shick,Detroit Red Wings,Colorado Avalanche
+1999021003,Calgary Flames,1,Buffalo Sabres,5,Richard Trottier,Brad Watson,Buffalo Sabres,Calgary Flames
+1999021004,Vancouver Canucks,6,Ottawa Senators,1,Michael McGeough,Brad Lazarowich,Vancouver Canucks,Ottawa Senators
+1999021005,New Jersey Devils,5,Florida Panthers,2,Dan Marouelli,Scott Zelkin,New Jersey Devils,Florida Panthers
+1999021006,Philadelphia Flyers,6,Boston Bruins,2,Stephen Walkom,Pat Dapuzzo,Philadelphia Flyers,Boston Bruins
+1999021007,Pittsburgh Penguins,5,New York Rangers,4,Dan O'Halloran,Lance Roberts,Pittsburgh Penguins,New York Rangers
+1999021008,Washington Capitals,5,Tampa Bay Lightning,2,Mike Leggo,Gerry Gauthier,Washington Capitals,Tampa Bay Lightning
+1999021009,Dallas Stars,5,San Jose Sharks,3,Dave Jackson,Robbie Shick,Dallas Stars,San Jose Sharks
+1999021010,Edmonton Oilers,2,Calgary Flames,3,Terry Gregson,Michael McGeough,Calgary Flames,Edmonton Oilers
+1999021011,Anaheim Ducks,3,Detroit Red Wings,1,Dennis LaRue,Don Van Massenhoven,Anaheim Ducks,Detroit Red Wings
+1999021012,Los Angeles Kings,1,Nashville Predators,2,Paul Devorski,Greg Kimmerly,Nashville Predators,Los Angeles Kings
+1999021013,Buffalo Sabres,4,Montréal Canadiens,1,Don Koharski,Robbie Shick,Buffalo Sabres,Montréal Canadiens
+1999021014,St. Louis Blues,2,Washington Capitals,1,Kerry Fraser,Scott Zelkin,St. Louis Blues,Washington Capitals
+1999021015,Colorado Avalanche,2,Vancouver Canucks,3,Paul Devorski,Brad Watson,Vancouver Canucks,Colorado Avalanche
+1999021016,Boston Bruins,4,Tampa Bay Lightning,0,Blaine Angus,Dave Jackson,Boston Bruins,Tampa Bay Lightning
+1999021017,Ottawa Senators,7,Atlanta Thrashers,1,Bernard Degrace,Dan O'Halloran,Ottawa Senators,Atlanta Thrashers
+1999021018,New Jersey Devils,0,Carolina Hurricanes,5,Mike Leggo,Stephen Walkom,Carolina Hurricanes,New Jersey Devils
+1999021019,New York Islanders,2,Pittsburgh Penguins,8,Don Koharski,Kevin Maguire,Pittsburgh Penguins,New York Islanders
+1999021020,New York Rangers,3,Florida Panthers,4,Bill McCreary,Kevin Collins,Florida Panthers,New York Rangers
+1999021021,Nashville Predators,0,Philadelphia Flyers,2,Kerry Fraser,Gerry Gauthier,Philadelphia Flyers,Nashville Predators
+1999021022,Phoenix Coyotes,0,Chicago Blackhawks,3,Greg Kimmerly,Michael McGeough,Chicago Blackhawks,Phoenix Coyotes
+1999021023,Los Angeles Kings,2,Anaheim Ducks,5,Dennis LaRue,Paul Stewart,Anaheim Ducks,Los Angeles Kings
+1999021024,Toronto Maple Leafs,2,New York Islanders,5,Dan O'Halloran,Richard Trottier,New York Islanders,Toronto Maple Leafs
+1999021025,Carolina Hurricanes,1,St. Louis Blues,2,Blaine Angus,Robbie Shick,St. Louis Blues,Carolina Hurricanes
+1999021026,Atlanta Thrashers,1,Montréal Canadiens,1,Bill McCreary,Brian Murphy,Atlanta Thrashers,Montréal Canadiens
+1999021027,Detroit Red Wings,2,Calgary Flames,2,Lance Roberts,Scott Zelkin,Detroit Red Wings,Calgary Flames
+1999021028,Edmonton Oilers,2,Anaheim Ducks,1,Don Van Massenhoven,Brad Watson,Edmonton Oilers,Anaheim Ducks
+1999021029,San Jose Sharks,4,Vancouver Canucks,3,Mark Faucette,Dennis LaRue,San Jose Sharks,Vancouver Canucks
+1999021030,Boston Bruins,1,Florida Panthers,3,Kevin Maguire,Stephen Walkom,Florida Panthers,Boston Bruins
+1999021031,Buffalo Sabres,4,Calgary Flames,2,Bill McCreary,Richard Trottier,Buffalo Sabres,Calgary Flames
+1999021032,Ottawa Senators,3,Toronto Maple Leafs,2,Robbie Shick,Scott Zelkin,Ottawa Senators,Toronto Maple Leafs
+1999021033,New York Rangers,1,Washington Capitals,4,Bernard Degrace,Don Koharski,Washington Capitals,New York Rangers
+1999021034,Philadelphia Flyers,2,Los Angeles Kings,3,Terry Gregson,Shane Heyer,Los Angeles Kings,Philadelphia Flyers
+1999021035,Nashville Predators,3,Detroit Red Wings,6,Dave Jackson,Mike Leggo,Detroit Red Wings,Nashville Predators
+1999021036,Phoenix Coyotes,2,Colorado Avalanche,4,Greg Kimmerly,Paul Stewart,Colorado Avalanche,Phoenix Coyotes
+1999021037,New York Islanders,2,New Jersey Devils,8,Bernard Degrace,Terry Gregson,New Jersey Devils,New York Islanders
+1999021038,Atlanta Thrashers,3,Pittsburgh Penguins,5,Paul Devorski,Lance Roberts,Pittsburgh Penguins,Atlanta Thrashers
+1999021039,Tampa Bay Lightning,1,St. Louis Blues,5,Kerry Fraser,Brad Meier,St. Louis Blues,Tampa Bay Lightning
+1999021040,Dallas Stars,5,Chicago Blackhawks,1,Greg Kimmerly,Paul Stewart,Dallas Stars,Chicago Blackhawks
+1999021041,Vancouver Canucks,8,Anaheim Ducks,1,Dennis LaRue,Dan Marouelli,Vancouver Canucks,Anaheim Ducks
+1999021042,San Jose Sharks,5,Phoenix Coyotes,1,Mark Faucette,Michael McGeough,San Jose Sharks,Phoenix Coyotes
+1999021043,Boston Bruins,4,Los Angeles Kings,4,Dave Jackson,Scott Zelkin,Boston Bruins,Los Angeles Kings
+1999021044,Toronto Maple Leafs,5,New Jersey Devils,3,Brian Murphy,Don Van Massenhoven,Toronto Maple Leafs,New Jersey Devils
+1999021045,Ottawa Senators,3,Washington Capitals,4,Blaine Angus,Brad Watson,Washington Capitals,Ottawa Senators
+1999021046,Florida Panthers,4,Montréal Canadiens,2,Paul Devorski,Kerry Fraser,Florida Panthers,Montréal Canadiens
+1999021047,Nashville Predators,1,Calgary Flames,2,Greg Kimmerly,Richard Trottier,Calgary Flames,Nashville Predators
+1999021048,Edmonton Oilers,2,Vancouver Canucks,3,Dan Marouelli,Robbie Shick,Vancouver Canucks,Edmonton Oilers
+1999021049,Philadelphia Flyers,3,Pittsburgh Penguins,1,Dave Jackson,Bill McCreary,Philadelphia Flyers,Pittsburgh Penguins
+1999021050,Carolina Hurricanes,4,New York Islanders,1,Lance Roberts,Dave Jackson,Carolina Hurricanes,New York Islanders
+1999021051,Atlanta Thrashers,1,Los Angeles Kings,4,Kerry Fraser,Rob Martell,Los Angeles Kings,Atlanta Thrashers
+1999021052,Tampa Bay Lightning,1,Montréal Canadiens,3,Bernard Degrace,Paul Devorski,Montréal Canadiens,Tampa Bay Lightning
+1999021053,Detroit Red Wings,8,New York Rangers,2,Terry Gregson,Paul Stewart,Detroit Red Wings,New York Rangers
+1999021054,Chicago Blackhawks,1,St. Louis Blues,1,Stephen Walkom,Kevin Maguire,Chicago Blackhawks,St. Louis Blues
+1999021055,Dallas Stars,1,Colorado Avalanche,2,Don Koharski,Michael McGeough,Colorado Avalanche,Dallas Stars
+1999021056,Anaheim Ducks,4,Phoenix Coyotes,3,Mark Faucette,Mike Leggo,Anaheim Ducks,Phoenix Coyotes
+1999021057,New York Rangers,0,Detroit Red Wings,6,Bill McCreary,Brad Watson,Detroit Red Wings,New York Rangers
+1999021058,Carolina Hurricanes,1,Buffalo Sabres,5,Don Van Massenhoven,Stephen Walkom,Buffalo Sabres,Carolina Hurricanes
+1999021059,Colorado Avalanche,3,Chicago Blackhawks,1,Mark Faucette,Mike Leggo,Colorado Avalanche,Chicago Blackhawks
+1999021060,San Jose Sharks,1,Edmonton Oilers,2,Don Koharski,Dan Marouelli,Edmonton Oilers,San Jose Sharks
+1999021061,Ottawa Senators,5,Philadelphia Flyers,2,Terry Gregson,Dennis LaRue,Ottawa Senators,Philadelphia Flyers
+1999021062,Pittsburgh Penguins,3,New Jersey Devils,2,Kerry Fraser,Brad Watson,Pittsburgh Penguins,New Jersey Devils
+1999021063,Washington Capitals,5,Atlanta Thrashers,2,Michael McGeough,Scott Zelkin,Washington Capitals,Atlanta Thrashers
+1999021064,Tampa Bay Lightning,2,Dallas Stars,4,Tim Peel,Richard Trottier,Dallas Stars,Tampa Bay Lightning
+1999021065,Nashville Predators,3,New York Islanders,2,Dan O'Halloran,Kevin Pollock,Nashville Predators,New York Islanders
+1999021067,Carolina Hurricanes,3,Nashville Predators,1,Paul Devorski,Richard Trottier,Carolina Hurricanes,Nashville Predators
+1999021068,Florida Panthers,1,Dallas Stars,4,Greg Kimmerly,Michael McGeough,Dallas Stars,Florida Panthers
+1999021069,Detroit Red Wings,6,Vancouver Canucks,3,Bill McCreary,Dan O'Halloran,Detroit Red Wings,Vancouver Canucks
+1999021070,St. Louis Blues,2,Toronto Maple Leafs,3,Mark Faucette,Brad Watson,Toronto Maple Leafs,St. Louis Blues
+1999021071,Colorado Avalanche,3,Edmonton Oilers,2,Lance Roberts,Stephen Walkom,Colorado Avalanche,Edmonton Oilers
+1999021072,Los Angeles Kings,1,San Jose Sharks,1,Don Koharski,Dan Marouelli,Los Angeles Kings,San Jose Sharks
+1999021073,Boston Bruins,2,St. Louis Blues,3,Blaine Angus,Dennis LaRue,St. Louis Blues,Boston Bruins
+1999021074,Washington Capitals,3,Pittsburgh Penguins,4,Kerry Fraser,Don Van Massenhoven,Pittsburgh Penguins,Washington Capitals
+1999021075,Tampa Bay Lightning,6,Ottawa Senators,3,Mark Faucette,Greg Kimmerly,Tampa Bay Lightning,Ottawa Senators
+1999021076,Chicago Blackhawks,4,Toronto Maple Leafs,0,Paul Devorski,Robbie Shick,Chicago Blackhawks,Toronto Maple Leafs
+1999021077,Buffalo Sabres,1,Carolina Hurricanes,3,Dennis LaRue,Bill McCreary,Carolina Hurricanes,Buffalo Sabres
+1999021078,New Jersey Devils,6,Atlanta Thrashers,0,Mike Leggo,Michael McGeough,New Jersey Devils,Atlanta Thrashers
+1999021079,Florida Panthers,3,Ottawa Senators,1,Paul Stewart,Scott Zelkin,Florida Panthers,Ottawa Senators
+1999021080,Nashville Predators,2,Vancouver Canucks,1,Robbie Shick,Brad Watson,Nashville Predators,Vancouver Canucks
+1999021081,Calgary Flames,1,Phoenix Coyotes,3,Don Koharski,Lance Roberts,Phoenix Coyotes,Calgary Flames
+1999021082,Boston Bruins,2,New York Rangers,2,Bernard Degrace,Richard Trottier,Boston Bruins,New York Rangers
+1999021083,Montréal Canadiens,0,Buffalo Sabres,2,Dan Marouelli,Michael McGeough,Buffalo Sabres,Montréal Canadiens
+1999021084,New York Islanders,2,Chicago Blackhawks,2,Blaine Angus,Stephane Auger,New York Islanders,Chicago Blackhawks
+1999021085,Pittsburgh Penguins,2,Philadelphia Flyers,3,Paul Devorski,Dave Jackson,Philadelphia Flyers,Pittsburgh Penguins
+1999021086,Washington Capitals,3,Toronto Maple Leafs,4,Dennis LaRue,Mike Leggo,Toronto Maple Leafs,Washington Capitals
+1999021087,Florida Panthers,3,Tampa Bay Lightning,3,Mark Faucette,Scott Zelkin,Florida Panthers,Tampa Bay Lightning
+1999021088,St. Louis Blues,0,Detroit Red Wings,0,Kerry Fraser,Don Van Massenhoven,St. Louis Blues,Detroit Red Wings
+1999021089,Calgary Flames,3,San Jose Sharks,0,Terry Gregson,Kevin Maguire,Calgary Flames,San Jose Sharks
+1999021090,Edmonton Oilers,4,Phoenix Coyotes,3,Don Koharski,Lance Roberts,Edmonton Oilers,Phoenix Coyotes
+1999021091,Los Angeles Kings,2,Anaheim Ducks,1,Dan O'Halloran,Stephen Walkom,Los Angeles Kings,Anaheim Ducks
+1999021092,Carolina Hurricanes,1,Philadelphia Flyers,0,Kerry Fraser,Paul Stewart,Carolina Hurricanes,Philadelphia Flyers
+1999021093,Atlanta Thrashers,5,New York Islanders,4,Chris Lee,Brad Watson,Atlanta Thrashers,New York Islanders
+1999021094,Tampa Bay Lightning,1,New Jersey Devils,4,Greg Kimmerly,Michael McGeough,New Jersey Devils,Tampa Bay Lightning
+1999021095,Detroit Red Wings,6,Montréal Canadiens,5,Paul Devorski,Dan Marouelli,Detroit Red Wings,Montréal Canadiens
+1999021096,Chicago Blackhawks,2,Vancouver Canucks,3,Dave Jackson,Don Van Massenhoven,Vancouver Canucks,Chicago Blackhawks
+1999021097,St. Louis Blues,4,Ottawa Senators,1,Robbie Shick,Richard Trottier,St. Louis Blues,Ottawa Senators
+1999021098,Colorado Avalanche,3,Dallas Stars,2,Bill McCreary,Dan O'Halloran,Colorado Avalanche,Dallas Stars
+1999021099,Buffalo Sabres,3,Toronto Maple Leafs,2,Paul Devorski,Dave Jackson,Buffalo Sabres,Toronto Maple Leafs
+1999021100,Pittsburgh Penguins,3,Carolina Hurricanes,2,Dan Marouelli,Don Van Massenhoven,Pittsburgh Penguins,Carolina Hurricanes
+1999021101,Washington Capitals,4,New York Rangers,1,Blaine Angus,Mark Faucette,Washington Capitals,New York Rangers
+1999021102,Florida Panthers,5,New Jersey Devils,2,Kerry Fraser,Mike Leggo,Florida Panthers,New Jersey Devils
+1999021103,Dallas Stars,2,Calgary Flames,2,Lance Roberts,Robbie Shick,Dallas Stars,Calgary Flames
+1999021104,Edmonton Oilers,0,San Jose Sharks,1,Dennis LaRue,Bill McCreary,San Jose Sharks,Edmonton Oilers
+1999021105,Phoenix Coyotes,2,Los Angeles Kings,1,Dan O'Halloran,Stephen Walkom,Phoenix Coyotes,Los Angeles Kings
+1999021106,Anaheim Ducks,3,Nashville Predators,1,Terry Gregson,Kevin Maguire,Anaheim Ducks,Nashville Predators
+1999021107,Ottawa Senators,4,Washington Capitals,0,Bernard Degrace,Richard Trottier,Ottawa Senators,Washington Capitals
+1999021108,Atlanta Thrashers,3,Philadelphia Flyers,5,Greg Kimmerly,Michael McGeough,Philadelphia Flyers,Atlanta Thrashers
+1999021109,Tampa Bay Lightning,5,Boston Bruins,4,Brad Meier,Scott Zelkin,Tampa Bay Lightning,Boston Bruins
+1999021110,Toronto Maple Leafs,2,Pittsburgh Penguins,4,Mark Faucette,Brad Watson,Pittsburgh Penguins,Toronto Maple Leafs
+1999021111,New York Rangers,0,Montréal Canadiens,3,Kerry Fraser,Paul Stewart,Montréal Canadiens,New York Rangers
+1999021112,Florida Panthers,6,Boston Bruins,3,Blaine Angus,Michael McGeough,Florida Panthers,Boston Bruins
+1999021113,Chicago Blackhawks,5,Anaheim Ducks,2,Don Koharski,Don Van Massenhoven,Chicago Blackhawks,Anaheim Ducks
+1999021114,St. Louis Blues,6,Calgary Flames,5,Kevin Maguire,Dan Marouelli,St. Louis Blues,Calgary Flames
+1999021115,Edmonton Oilers,2,Colorado Avalanche,3,Paul Devorski,Dave Jackson,Colorado Avalanche,Edmonton Oilers
+1999021116,Vancouver Canucks,1,Los Angeles Kings,1,Bill McCreary,Stephen Walkom,Vancouver Canucks,Los Angeles Kings
+1999021117,Phoenix Coyotes,3,Nashville Predators,2,Lance Roberts,Robbie Shick,Phoenix Coyotes,Nashville Predators
+1999021118,San Jose Sharks,5,Dallas Stars,2,Terry Gregson,Dan O'Halloran,San Jose Sharks,Dallas Stars
+1999021119,Montréal Canadiens,5,Tampa Bay Lightning,1,Don Koharski,Don Van Massenhoven,Montréal Canadiens,Tampa Bay Lightning
+1999021120,Ottawa Senators,1,New York Islanders,2,Bernard Degrace,Paul Stewart,New York Islanders,Ottawa Senators
+1999021121,New Jersey Devils,0,Buffalo Sabres,5,Kerry Fraser,Dan Marouelli,Buffalo Sabres,New Jersey Devils
+1999021122,Philadelphia Flyers,3,Atlanta Thrashers,1,Richard Trottier,Brad Watson,Philadelphia Flyers,Atlanta Thrashers
+1999021123,Buffalo Sabres,1,Pittsburgh Penguins,2,Mark Faucette,Stephen Walkom,Pittsburgh Penguins,Buffalo Sabres
+1999021124,New York Islanders,1,Toronto Maple Leafs,2,Paul Devorski,Scott Zelkin,Toronto Maple Leafs,New York Islanders
+1999021125,Detroit Red Wings,2,Washington Capitals,4,Bernard Degrace,Lance Roberts,Washington Capitals,Detroit Red Wings
+1999021126,St. Louis Blues,3,Chicago Blackhawks,4,Greg Kimmerly,Dennis LaRue,Chicago Blackhawks,St. Louis Blues
+1999021127,Nashville Predators,1,Anaheim Ducks,5,Blaine Angus,Kevin Maguire,Anaheim Ducks,Nashville Predators
+1999021128,Calgary Flames,1,Colorado Avalanche,3,Dave Jackson,Brad Meier,Colorado Avalanche,Calgary Flames
+1999021129,Vancouver Canucks,4,Edmonton Oilers,5,Terry Gregson,Dan O'Halloran,Edmonton Oilers,Vancouver Canucks
+1999021130,Phoenix Coyotes,1,San Jose Sharks,3,Bill McCreary,Michael McGeough,San Jose Sharks,Phoenix Coyotes
+1999021131,Los Angeles Kings,3,Dallas Stars,2,Mike Leggo,Robbie Shick,Los Angeles Kings,Dallas Stars
+1999021132,Toronto Maple Leafs,4,Tampa Bay Lightning,2,Bernard Degrace,Brian Murphy,Toronto Maple Leafs,Tampa Bay Lightning
+1999021133,Montréal Canadiens,1,Ottawa Senators,3,Mark Faucette,Stephen Walkom,Ottawa Senators,Montréal Canadiens
+1999021134,New Jersey Devils,2,Florida Panthers,1,Shane Heyer,Don Koharski,New Jersey Devils,Florida Panthers
+1999021135,Philadelphia Flyers,3,Boston Bruins,0,Dan Marouelli,Paul Stewart,Philadelphia Flyers,Boston Bruins
+1999021136,Atlanta Thrashers,3,Carolina Hurricanes,4,Kerry Fraser,Brad Watson,Carolina Hurricanes,Atlanta Thrashers
+1999021137,Calgary Flames,3,Edmonton Oilers,6,Terry Gregson,Dave Jackson,Edmonton Oilers,Calgary Flames
+1999021138,Boston Bruins,3,Pittsburgh Penguins,1,Brad Watson,Scott Zelkin,Boston Bruins,Pittsburgh Penguins
+1999021139,Ottawa Senators,5,Tampa Bay Lightning,2,Tim Peel,Dean Warren,Ottawa Senators,Tampa Bay Lightning
+1999021140,New York Islanders,3,Florida Panthers,2,Blaine Angus,Paul Stewart,New York Islanders,Florida Panthers
+1999021141,New York Rangers,1,Philadelphia Flyers,4,Paul Devorski,Lance Roberts,Philadelphia Flyers,New York Rangers
+1999021142,Washington Capitals,1,Buffalo Sabres,1,Kerry Fraser,Don Koharski,Washington Capitals,Buffalo Sabres
+1999021143,Carolina Hurricanes,2,Atlanta Thrashers,1,Dan Marouelli,Dan O'Halloran,Carolina Hurricanes,Atlanta Thrashers
+1999021144,Chicago Blackhawks,3,St. Louis Blues,1,Kevin Maguire,Brad Meier,Chicago Blackhawks,St. Louis Blues
+1999021145,Dallas Stars,2,Phoenix Coyotes,2,Mike Leggo,Mick McGeough,Dallas Stars,Phoenix Coyotes
+1999021146,Colorado Avalanche,3,Detroit Red Wings,2,Greg Kimmerly,Dennis LaRue,Colorado Avalanche,Detroit Red Wings
+1999021147,Anaheim Ducks,3,Los Angeles Kings,4,Robbie Shick,Shane Heyer,Los Angeles Kings,Anaheim Ducks
+1999021148,San Jose Sharks,2,Vancouver Canucks,5,Bill McCreary,Don Van Massenhoven,Vancouver Canucks,San Jose Sharks
