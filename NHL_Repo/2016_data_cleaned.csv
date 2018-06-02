@@ -1,0 +1,4921 @@
+,Ref,Score,Team
+0,Francis Charron,5,Ottawa Senators
+1,Francis Charron,4,Toronto Maple Leafs
+2,Wes McCauley,5,Ottawa Senators
+3,Wes McCauley,4,Toronto Maple Leafs
+4,Ian Walsh,2,Chicago Blackhawks
+5,Ian Walsh,5,St. Louis Blues
+6,Jon McIsaac,2,Chicago Blackhawks
+7,Jon McIsaac,5,St. Louis Blues
+8,Brian Pochmara,4,Calgary Flames
+9,Brian Pochmara,7,Edmonton Oilers
+10,Kyle Rehman,4,Calgary Flames
+11,Kyle Rehman,7,Edmonton Oilers
+12,Graham Skilliter,1,Los Angeles Kings
+13,Graham Skilliter,2,San Jose Sharks
+14,Justin St. Pierre ,1,Los Angeles Kings
+15,Justin St. Pierre ,2,San Jose Sharks
+16,Dan O'Rourke,1,Buffalo Sabres
+17,Dan O'Rourke,4,Montréal Canadiens
+18,Jean Hebert,1,Buffalo Sabres
+19,Jean Hebert,4,Montréal Canadiens
+20,Kendrick Nicholson,3,New York Islanders
+21,Kendrick Nicholson,5,New York Rangers
+22,Marc Joannette,3,New York Islanders
+23,Marc Joannette,5,New York Rangers
+24,Dean Morton,2,Pittsburgh Penguins
+25,Dean Morton,2,Washington Capitals
+26,Francois St-Laurent,2,Pittsburgh Penguins
+27,Francois St-Laurent,2,Washington Capitals
+28,Garrett Rank,6,Boston Bruins
+29,Garrett Rank,3,Columbus Blue Jackets
+30,Gord Dwyer,6,Boston Bruins
+31,Gord Dwyer,3,Columbus Blue Jackets
+32,Dave Jackson,4,Detroit Red Wings
+33,Dave Jackson,6,Tampa Bay Lightning
+34,Kelly Sutherland,4,Detroit Red Wings
+35,Kelly Sutherland,6,Tampa Bay Lightning
+36,Ghislain Hebert,2,Florida Panthers
+37,Ghislain Hebert,1,New Jersey Devils
+38,Kevin Pollock,2,Florida Panthers
+39,Kevin Pollock,1,New Jersey Devils
+40,Eric Furlatt,2,Minnesota Wild
+41,Eric Furlatt,3,St. Louis Blues
+42,Tom Kowal,2,Minnesota Wild
+43,Tom Kowal,3,St. Louis Blues
+44,Ian Walsh,4,Carolina Hurricanes
+45,Ian Walsh,5,Winnipeg Jets
+46,Jon McIsaac,4,Carolina Hurricanes
+47,Jon McIsaac,5,Winnipeg Jets
+48,Steve Kozari,2,Anaheim Ducks
+49,Steve Kozari,4,Dallas Stars
+50,Thomas John Luxmore,2,Anaheim Ducks
+51,Thomas John Luxmore,4,Dallas Stars
+52,Evgeny Romasko,2,Chicago Blackhawks
+53,Evgeny Romasko,3,Nashville Predators
+54,Mike Leggo,2,Chicago Blackhawks
+55,Mike Leggo,3,Nashville Predators
+56,Brad Watson,3,Calgary Flames
+57,Brad Watson,5,Edmonton Oilers
+58,Brian Pochmara,3,Calgary Flames
+59,Brian Pochmara,5,Edmonton Oilers
+60,Graham Skilliter,2,Los Angeles Kings
+61,Graham Skilliter,4,Philadelphia Flyers
+62,Justin St. Pierre ,2,Los Angeles Kings
+63,Justin St. Pierre ,4,Philadelphia Flyers
+64,Jean Hebert,1,Boston Bruins
+65,Jean Hebert,4,Toronto Maple Leafs
+66,Trevor Hanson,1,Boston Bruins
+67,Trevor Hanson,4,Toronto Maple Leafs
+68,Dan O'Halloran,3,Montréal Canadiens
+69,Dan O'Halloran,3,Ottawa Senators
+70,Furman Furman,3,Montréal Canadiens
+71,Furman Furman,3,Ottawa Senators
+72,Ghislain Hebert,2,New Jersey Devils
+73,Ghislain Hebert,3,Tampa Bay Lightning
+74,Kevin Pollock,2,New Jersey Devils
+75,Kevin Pollock,3,Tampa Bay Lightning
+76,Dave Jackson,1,Detroit Red Wings
+77,Dave Jackson,4,Florida Panthers
+78,Kelly Sutherland,1,Detroit Red Wings
+79,Kelly Sutherland,4,Florida Panthers
+80,Kendrick Nicholson,2,Anaheim Ducks
+81,Kendrick Nicholson,3,Pittsburgh Penguins
+82,Marc Joannette,2,Anaheim Ducks
+83,Marc Joannette,3,Pittsburgh Penguins
+84,Dan O'Rourke,1,New York Islanders
+85,Dan O'Rourke,2,Washington Capitals
+86,Francis Charron,1,New York Islanders
+87,Francis Charron,2,Washington Capitals
+88,Eric Furlatt,2,Columbus Blue Jackets
+89,Eric Furlatt,3,San Jose Sharks
+90,Francois St-Laurent,2,Columbus Blue Jackets
+91,Francois St-Laurent,3,San Jose Sharks
+92,Dean Morton,4,Minnesota Wild
+93,Dean Morton,3,Winnipeg Jets
+94,Gord Dwyer,4,Minnesota Wild
+95,Gord Dwyer,3,Winnipeg Jets
+96,Evgeny Romasko,2,New York Rangers
+97,Evgeny Romasko,3,St. Louis Blues
+98,Mike Leggo,2,New York Rangers
+99,Mike Leggo,3,St. Louis Blues
+100,Frederick L'Ecuyer,5,Chicago Blackhawks
+101,Frederick L'Ecuyer,3,Nashville Predators
+102,Tom Kowal,5,Chicago Blackhawks
+103,Tom Kowal,3,Nashville Predators
+104,Ian Walsh,6,Colorado Avalanche
+105,Ian Walsh,5,Dallas Stars
+106,Kyle Rehman,6,Colorado Avalanche
+107,Kyle Rehman,5,Dallas Stars
+108,Steve Kozari,4,Arizona Coyotes
+109,Steve Kozari,3,Philadelphia Flyers
+110,Thomas John Luxmore,4,Arizona Coyotes
+111,Thomas John Luxmore,3,Philadelphia Flyers
+112,Chris Lee,1,Calgary Flames
+113,Chris Lee,1,Vancouver Canucks
+114,Jon McIsaac,1,Calgary Flames
+115,Jon McIsaac,1,Vancouver Canucks
+116,Francois St-Laurent,2,Anaheim Ducks
+117,Francois St-Laurent,3,New York Islanders
+118,Furman Furman,2,Anaheim Ducks
+119,Furman Furman,3,New York Islanders
+120,Brad Watson,6,Buffalo Sabres
+121,Brad Watson,2,Edmonton Oilers
+122,Tim Peel,6,Buffalo Sabres
+123,Tim Peel,2,Edmonton Oilers
+124,Brad Meier,3,Carolina Hurricanes
+125,Brad Meier,4,Vancouver Canucks
+126,Chris Lee,3,Carolina Hurricanes
+127,Chris Lee,4,Vancouver Canucks
+128,Tom Kowal,7,New York Rangers
+129,Tom Kowal,4,San Jose Sharks
+130,Wes McCauley,7,New York Rangers
+131,Wes McCauley,4,San Jose Sharks
+132,Evgeny Romasko,4,Colorado Avalanche
+133,Evgeny Romasko,3,Pittsburgh Penguins
+134,Kelly Sutherland,4,Colorado Avalanche
+135,Kelly Sutherland,3,Pittsburgh Penguins
+136,Jean Hebert,5,Detroit Red Wings
+137,Jean Hebert,1,Ottawa Senators
+138,Trevor Hanson,5,Detroit Red Wings
+139,Trevor Hanson,1,Ottawa Senators
+140,Brad Watson,4,Boston Bruins
+141,Brad Watson,1,Winnipeg Jets
+142,Thomas John Luxmore,4,Boston Bruins
+143,Thomas John Luxmore,1,Winnipeg Jets
+144,Eric Furlatt,1,Anaheim Ducks
+145,Eric Furlatt,2,New Jersey Devils
+146,Frederick L'Ecuyer,1,Anaheim Ducks
+147,Frederick L'Ecuyer,2,New Jersey Devils
+148,Marc Joannette,2,New York Islanders
+149,Marc Joannette,3,San Jose Sharks
+150,Tom Kowal,2,New York Islanders
+151,Tom Kowal,3,San Jose Sharks
+152,Evgeny Romasko,0,Colorado Avalanche
+153,Evgeny Romasko,3,Washington Capitals
+154,Steve Kozari,0,Colorado Avalanche
+155,Steve Kozari,3,Washington Capitals
+156,Dan O'Halloran,4,Montréal Canadiens
+157,Dan O'Halloran,0,Pittsburgh Penguins
+158,Kendrick Nicholson,4,Montréal Canadiens
+159,Kendrick Nicholson,0,Pittsburgh Penguins
+160,Dean Morton,4,Arizona Coyotes
+161,Dean Morton,7,Ottawa Senators
+162,Ghislain Hebert,4,Arizona Coyotes
+163,Ghislain Hebert,7,Ottawa Senators
+164,Garrett Rank,3,Florida Panthers
+165,Garrett Rank,3,Tampa Bay Lightning
+166,Gord Dwyer,3,Florida Panthers
+167,Gord Dwyer,3,Tampa Bay Lightning
+168,Francois St-Laurent,2,Dallas Stars
+169,Francois St-Laurent,1,Nashville Predators
+170,Kyle Rehman,2,Dallas Stars
+171,Kyle Rehman,1,Nashville Predators
+172,Thomas John Luxmore,3,Los Angeles Kings
+173,Thomas John Luxmore,6,Minnesota Wild
+174,Tim Peel,3,Los Angeles Kings
+175,Tim Peel,6,Minnesota Wild
+176,Dan O'Rourke,7,Chicago Blackhawks
+177,Dan O'Rourke,4,Philadelphia Flyers
+178,Trevor Hanson,7,Chicago Blackhawks
+179,Trevor Hanson,4,Philadelphia Flyers
+180,Brad Meier,3,Buffalo Sabres
+181,Brad Meier,4,Calgary Flames
+182,Graham Skilliter,3,Buffalo Sabres
+183,Graham Skilliter,4,Calgary Flames
+184,Chris Lee,2,Carolina Hurricanes
+185,Chris Lee,3,Edmonton Oilers
+186,Ian Walsh,2,Carolina Hurricanes
+187,Ian Walsh,3,Edmonton Oilers
+188,Justin St. Pierre ,1,St. Louis Blues
+189,Justin St. Pierre ,2,Vancouver Canucks
+190,Mike Leggo,1,St. Louis Blues
+191,Mike Leggo,2,Vancouver Canucks
+192,Eric Furlatt,2,Detroit Red Wings
+193,Eric Furlatt,1,New York Rangers
+194,Frederick L'Ecuyer,2,Detroit Red Wings
+195,Frederick L'Ecuyer,1,New York Rangers
+196,Dan O'Rourke,4,Toronto Maple Leafs
+197,Dan O'Rourke,5,Winnipeg Jets
+198,Tom Chmielewski,4,Toronto Maple Leafs
+199,Tom Chmielewski,5,Winnipeg Jets
+200,Dean Morton,2,Boston Bruins
+201,Dean Morton,1,New Jersey Devils
+202,Kendrick Nicholson,2,Boston Bruins
+203,Kendrick Nicholson,1,New Jersey Devils
+204,Jon McIsaac,3,Anaheim Ducks
+205,Jon McIsaac,2,Philadelphia Flyers
+206,Tim Peel,3,Anaheim Ducks
+207,Tim Peel,2,Philadelphia Flyers
+208,Jake Brenk,3,Pittsburgh Penguins
+209,Jake Brenk,2,San Jose Sharks
+210,Kevin Pollock,3,Pittsburgh Penguins
+211,Kevin Pollock,2,San Jose Sharks
+212,Marc Joannette,2,Arizona Coyotes
+213,Marc Joannette,5,Montréal Canadiens
+214,Tom Kowal,2,Arizona Coyotes
+215,Tom Kowal,5,Montréal Canadiens
+216,Jean Hebert,4,Colorado Avalanche
+217,Jean Hebert,0,Tampa Bay Lightning
+218,Thomas John Luxmore,4,Colorado Avalanche
+219,Thomas John Luxmore,0,Tampa Bay Lightning
+220,Garrett Rank,2,Florida Panthers
+221,Garrett Rank,4,Washington Capitals
+222,Gord Dwyer,2,Florida Panthers
+223,Gord Dwyer,4,Washington Capitals
+224,Brad Meier,3,Minnesota Wild
+225,Brad Meier,2,Toronto Maple Leafs
+226,Kyle Rehman,3,Minnesota Wild
+227,Kyle Rehman,2,Toronto Maple Leafs
+228,Evgeny Romasko,3,Dallas Stars
+229,Evgeny Romasko,4,Los Angeles Kings
+230,Wes McCauley,3,Dallas Stars
+231,Wes McCauley,4,Los Angeles Kings
+232,Brad Watson,2,Calgary Flames
+233,Brad Watson,4,Carolina Hurricanes
+234,Tom Chmielewski,2,Calgary Flames
+235,Tom Chmielewski,4,Carolina Hurricanes
+236,Graham Skilliter,3,Edmonton Oilers
+237,Graham Skilliter,1,St. Louis Blues
+238,Justin St. Pierre ,3,Edmonton Oilers
+239,Justin St. Pierre ,1,St. Louis Blues
+240,Ian Walsh,1,Buffalo Sabres
+241,Ian Walsh,2,Vancouver Canucks
+242,Trevor Hanson,1,Buffalo Sabres
+243,Trevor Hanson,2,Vancouver Canucks
+244,Eric Furlatt,2,Arizona Coyotes
+245,Eric Furlatt,3,New York Islanders
+246,Steve Kozari,2,Arizona Coyotes
+247,Steve Kozari,3,New York Islanders
+248,Jake Brenk,2,Chicago Blackhawks
+249,Jake Brenk,3,Columbus Blue Jackets
+250,Kevin Pollock,2,Chicago Blackhawks
+251,Kevin Pollock,3,Columbus Blue Jackets
+252,Brian Pochmara,5,Detroit Red Wings
+253,Brian Pochmara,3,Nashville Predators
+254,Dan O'Halloran,5,Detroit Red Wings
+255,Dan O'Halloran,3,Nashville Predators
+256,Mike Leggo,2,Boston Bruins
+257,Mike Leggo,4,Montréal Canadiens
+258,Thomas John Luxmore,2,Boston Bruins
+259,Thomas John Luxmore,4,Montréal Canadiens
+260,Justin St. Pierre ,1,Ottawa Senators
+261,Justin St. Pierre ,4,Tampa Bay Lightning
+262,Marc Joannette,1,Ottawa Senators
+263,Marc Joannette,4,Tampa Bay Lightning
+264,Graham Skilliter,3,Detroit Red Wings
+265,Graham Skilliter,0,San Jose Sharks
+266,Jon McIsaac,3,Detroit Red Wings
+267,Jon McIsaac,0,San Jose Sharks
+268,Frederick L'Ecuyer,2,Colorado Avalanche
+269,Frederick L'Ecuyer,5,Florida Panthers
+270,Jean Hebert,2,Colorado Avalanche
+271,Jean Hebert,5,Florida Panthers
+272,Kendrick Nicholson,1,Minnesota Wild
+273,Kendrick Nicholson,2,New Jersey Devils
+274,Steve Kozari,1,Minnesota Wild
+275,Steve Kozari,2,New Jersey Devils
+276,Brian Pochmara,3,Carolina Hurricanes
+277,Brian Pochmara,6,Philadelphia Flyers
+278,Dean Morton,3,Carolina Hurricanes
+279,Dean Morton,6,Philadelphia Flyers
+280,Kelly Sutherland,4,New York Rangers
+281,Kelly Sutherland,2,Washington Capitals
+282,Tim Peel,4,New York Rangers
+283,Tim Peel,2,Washington Capitals
+284,Brad Meier,4,Chicago Blackhawks
+285,Brad Meier,4,Toronto Maple Leafs
+286,Kyle Rehman,4,Chicago Blackhawks
+287,Kyle Rehman,4,Toronto Maple Leafs
+288,Chris Lee,5,Nashville Predators
+289,Chris Lee,1,Pittsburgh Penguins
+290,Wes McCauley,5,Nashville Predators
+291,Wes McCauley,1,Pittsburgh Penguins
+292,Dan O'Rourke,3,Columbus Blue Jackets
+293,Dan O'Rourke,0,Dallas Stars
+294,Tom Kowal,3,Columbus Blue Jackets
+295,Tom Kowal,0,Dallas Stars
+296,Ian Walsh,4,Calgary Flames
+297,Ian Walsh,6,St. Louis Blues
+298,Trevor Hanson,4,Calgary Flames
+299,Trevor Hanson,6,St. Louis Blues
+300,Brad Watson,3,Los Angeles Kings
+301,Brad Watson,3,Vancouver Canucks
+302,Ghislain Hebert,3,Los Angeles Kings
+303,Ghislain Hebert,3,Vancouver Canucks
+304,Francois St-Laurent,3,Edmonton Oilers
+305,Francois St-Laurent,0,Winnipeg Jets
+306,Gord Dwyer,3,Edmonton Oilers
+307,Gord Dwyer,0,Winnipeg Jets
+308,Garrett Rank,3,Minnesota Wild
+309,Garrett Rank,6,New York Islanders
+310,Kevin Pollock,3,Minnesota Wild
+311,Kevin Pollock,6,New York Islanders
+312,Dan O'Halloran,2,Arizona Coyotes
+313,Dan O'Halloran,3,New York Rangers
+314,Thomas John Luxmore,2,Arizona Coyotes
+315,Thomas John Luxmore,3,New York Rangers
+316,Brad Watson,4,Anaheim Ducks
+317,Brad Watson,2,Vancouver Canucks
+318,Ghislain Hebert,4,Anaheim Ducks
+319,Ghislain Hebert,2,Vancouver Canucks
+320,Brad Meier,3,Montréal Canadiens
+321,Brad Meier,1,Philadelphia Flyers
+322,Chris Schlenker ,3,Montréal Canadiens
+323,Chris Schlenker ,1,Philadelphia Flyers
+324,Marc Joannette,2,Calgary Flames
+325,Marc Joannette,2,Chicago Blackhawks
+326,Wes McCauley,2,Calgary Flames
+327,Wes McCauley,2,Chicago Blackhawks
+328,Chris Schlenker ,0,Boston Bruins
+329,Chris Schlenker ,5,Minnesota Wild
+330,Dan O'Halloran,0,Boston Bruins
+331,Dan O'Halloran,5,Minnesota Wild
+332,Furman Furman,3,Arizona Coyotes
+333,Furman Furman,5,New Jersey Devils
+334,Mike Leggo,3,Arizona Coyotes
+335,Mike Leggo,5,New Jersey Devils
+336,Chris Lee,3,Buffalo Sabres
+337,Chris Lee,3,Philadelphia Flyers
+338,Garrett Rank,3,Buffalo Sabres
+339,Garrett Rank,3,Philadelphia Flyers
+340,Justin St. Pierre ,2,Florida Panthers
+341,Justin St. Pierre ,3,Pittsburgh Penguins
+342,Thomas John Luxmore,2,Florida Panthers
+343,Thomas John Luxmore,3,Pittsburgh Penguins
+344,Dan O'Rourke,7,Tampa Bay Lightning
+345,Dan O'Rourke,3,Toronto Maple Leafs
+346,Kendrick Nicholson,7,Tampa Bay Lightning
+347,Kendrick Nicholson,3,Toronto Maple Leafs
+348,Dean Morton,2,Carolina Hurricanes
+349,Dean Morton,4,Detroit Red Wings
+350,Kevin Pollock,2,Carolina Hurricanes
+351,Kevin Pollock,4,Detroit Red Wings
+352,Ghislain Hebert,4,Calgary Flames
+353,Ghislain Hebert,1,St. Louis Blues
+354,Tim Peel,4,Calgary Flames
+355,Tim Peel,1,St. Louis Blues
+356,Brian Pochmara,3,Dallas Stars
+357,Brian Pochmara,2,Winnipeg Jets
+358,Jean Hebert,3,Dallas Stars
+359,Jean Hebert,2,Winnipeg Jets
+360,Graham Skilliter,3,Ottawa Senators
+361,Graham Skilliter,0,Vancouver Canucks
+362,Tom Kowal,3,Ottawa Senators
+363,Tom Kowal,0,Vancouver Canucks
+364,Brad Watson,2,Columbus Blue Jackets
+365,Brad Watson,3,Los Angeles Kings
+366,Ian Walsh,2,Columbus Blue Jackets
+367,Ian Walsh,3,Los Angeles Kings
+368,Kyle Rehman,1,Anaheim Ducks
+369,Kyle Rehman,2,San Jose Sharks
+370,Trevor Hanson,1,Anaheim Ducks
+371,Trevor Hanson,2,San Jose Sharks
+372,Chris Lee,3,Montréal Canadiens
+373,Chris Lee,2,New York Islanders
+374,Frederick L'Ecuyer,3,Montréal Canadiens
+375,Frederick L'Ecuyer,2,New York Islanders
+376,Jon McIsaac,2,Boston Bruins
+377,Jon McIsaac,5,New York Rangers
+378,Justin St. Pierre ,2,Boston Bruins
+379,Justin St. Pierre ,5,New York Rangers
+380,Brad Meier,4,Edmonton Oilers
+381,Brad Meier,1,Washington Capitals
+382,Tom Kowal,4,Edmonton Oilers
+383,Tom Kowal,1,Washington Capitals
+384,Ian Walsh,6,Anaheim Ducks
+385,Ian Walsh,1,Nashville Predators
+386,Kelly Sutherland,6,Anaheim Ducks
+387,Kelly Sutherland,1,Nashville Predators
+388,Furman Furman,0,Buffalo Sabres
+389,Furman Furman,4,Minnesota Wild
+390,Mike Leggo,0,Buffalo Sabres
+391,Mike Leggo,4,Minnesota Wild
+392,Dan O'Halloran,5,Arizona Coyotes
+393,Dan O'Halloran,4,Philadelphia Flyers
+394,Frederick L'Ecuyer,5,Arizona Coyotes
+395,Frederick L'Ecuyer,4,Philadelphia Flyers
+396,Jean Hebert,2,New York Islanders
+397,Jean Hebert,4,Pittsburgh Penguins
+398,Jon McIsaac,2,New York Islanders
+399,Jon McIsaac,4,Pittsburgh Penguins
+400,Marc Joannette,2,Florida Panthers
+401,Marc Joannette,3,Toronto Maple Leafs
+402,Steve Kozari,2,Florida Panthers
+403,Steve Kozari,3,Toronto Maple Leafs
+404,Chris Lee,3,Montréal Canadiens
+405,Chris Lee,1,Tampa Bay Lightning
+406,Ghislain Hebert,3,Montréal Canadiens
+407,Ghislain Hebert,1,Tampa Bay Lightning
+408,Francois St-Laurent,1,Detroit Red Wings
+409,Francois St-Laurent,1,St. Louis Blues
+410,Wes McCauley,1,Detroit Red Wings
+411,Wes McCauley,1,St. Louis Blues
+412,Dan O'Rourke,1,Dallas Stars
+413,Dan O'Rourke,4,Winnipeg Jets
+414,Kendrick Nicholson,1,Dallas Stars
+415,Kendrick Nicholson,4,Winnipeg Jets
+416,Kelly Sutherland,3,Los Angeles Kings
+417,Kelly Sutherland,2,Nashville Predators
+418,Trevor Hanson,3,Los Angeles Kings
+419,Trevor Hanson,2,Nashville Predators
+420,Brian Pochmara,1,Columbus Blue Jackets
+421,Brian Pochmara,3,San Jose Sharks
+422,Dean Morton,1,Columbus Blue Jackets
+423,Dean Morton,3,San Jose Sharks
+424,Frederick L'Ecuyer,3,Chicago Blackhawks
+425,Frederick L'Ecuyer,2,New Jersey Devils
+426,Jean Hebert,3,Chicago Blackhawks
+427,Jean Hebert,2,New Jersey Devils
+428,Thomas John Luxmore,3,Carolina Hurricanes
+429,Thomas John Luxmore,2,New York Rangers
+430,Wes McCauley,3,Carolina Hurricanes
+431,Wes McCauley,2,New York Rangers
+432,Garrett Rank,0,Colorado Avalanche
+433,Garrett Rank,1,Winnipeg Jets
+434,Kelly Sutherland,0,Colorado Avalanche
+435,Kelly Sutherland,1,Winnipeg Jets
+436,Dan O'Rourke,5,Calgary Flames
+437,Dan O'Rourke,2,Ottawa Senators
+438,Kevin Pollock,5,Calgary Flames
+439,Kevin Pollock,2,Ottawa Senators
+440,Tim Peel,2,Edmonton Oilers
+441,Tim Peel,0,Vancouver Canucks
+442,Tom Chmielewski,2,Edmonton Oilers
+443,Tom Chmielewski,0,Vancouver Canucks
+444,Gord Dwyer,0,Anaheim Ducks
+445,Gord Dwyer,4,Columbus Blue Jackets
+446,Trevor Hanson,0,Anaheim Ducks
+447,Trevor Hanson,4,Columbus Blue Jackets
+448,Mike Leggo,3,Buffalo Sabres
+449,Mike Leggo,0,Florida Panthers
+450,Tom Kowal,3,Buffalo Sabres
+451,Tom Kowal,0,Florida Panthers
+452,Graham Skilliter,2,Montréal Canadiens
+453,Graham Skilliter,1,Toronto Maple Leafs
+454,Justin St. Pierre ,2,Montréal Canadiens
+455,Justin St. Pierre ,1,Toronto Maple Leafs
+456,Kendrick Nicholson,1,Boston Bruins
+457,Kendrick Nicholson,0,Detroit Red Wings
+458,Steve Kozari,1,Boston Bruins
+459,Steve Kozari,0,Detroit Red Wings
+460,Chris Lee,3,New Jersey Devils
+461,Chris Lee,1,Tampa Bay Lightning
+462,Jon McIsaac,3,New Jersey Devils
+463,Jon McIsaac,1,Tampa Bay Lightning
+464,Francois St-Laurent,4,Philadelphia Flyers
+465,Francois St-Laurent,5,Pittsburgh Penguins
+466,Kyle Rehman,4,Philadelphia Flyers
+467,Kyle Rehman,5,Pittsburgh Penguins
+468,Dan O'Halloran,0,Los Angeles Kings
+469,Dan O'Halloran,1,St. Louis Blues
+470,Jake Brenk,0,Los Angeles Kings
+471,Jake Brenk,1,St. Louis Blues
+472,Brad Watson,0,Dallas Stars
+473,Brad Watson,4,Minnesota Wild
+474,Ghislain Hebert,0,Dallas Stars
+475,Ghislain Hebert,4,Minnesota Wild
+476,Dean Morton,2,Arizona Coyotes
+477,Dean Morton,3,Colorado Avalanche
+478,Gord Dwyer,2,Arizona Coyotes
+479,Gord Dwyer,3,Colorado Avalanche
+480,Brian Pochmara,2,Vancouver Canucks
+481,Brian Pochmara,5,Washington Capitals
+482,Eric Furlatt,2,Vancouver Canucks
+483,Eric Furlatt,5,Washington Capitals
+484,Brad Meier,1,Nashville Predators
+485,Brad Meier,4,San Jose Sharks
+486,Trevor Hanson,1,Nashville Predators
+487,Trevor Hanson,4,San Jose Sharks
+488,Garrett Rank,3,Buffalo Sabres
+489,Garrett Rank,1,Winnipeg Jets
+490,Tim Peel,3,Buffalo Sabres
+491,Tim Peel,1,Winnipeg Jets
+492,Jake Brenk,2,Detroit Red Wings
+493,Jake Brenk,5,Florida Panthers
+494,Jean Hebert,2,Detroit Red Wings
+495,Jean Hebert,5,Florida Panthers
+496,Francois St-Laurent,3,Carolina Hurricanes
+497,Francois St-Laurent,4,Philadelphia Flyers
+498,Frederick L'Ecuyer,3,Carolina Hurricanes
+499,Frederick L'Ecuyer,4,Philadelphia Flyers
+500,Thomas John Luxmore,5,New York Islanders
+501,Thomas John Luxmore,1,Toronto Maple Leafs
+502,Wes McCauley,5,New York Islanders
+503,Wes McCauley,1,Toronto Maple Leafs
+504,Graham Skilliter,6,New York Rangers
+505,Graham Skilliter,1,Tampa Bay Lightning
+506,Jon McIsaac,6,New York Rangers
+507,Jon McIsaac,1,Tampa Bay Lightning
+508,Dan O'Halloran,3,Chicago Blackhawks
+509,Dan O'Halloran,0,Los Angeles Kings
+510,Steve Kozari,3,Chicago Blackhawks
+511,Steve Kozari,0,Los Angeles Kings
+512,Dan O'Rourke,0,Edmonton Oilers
+513,Dan O'Rourke,2,Ottawa Senators
+514,Kevin Pollock,0,Edmonton Oilers
+515,Kevin Pollock,2,Ottawa Senators
+516,Eric Furlatt,1,Calgary Flames
+517,Eric Furlatt,3,Washington Capitals
+518,Marc Joannette,1,Calgary Flames
+519,Marc Joannette,3,Washington Capitals
+520,Brian Pochmara,1,New York Islanders
+521,Brian Pochmara,6,Tampa Bay Lightning
+522,Steve Kozari,1,New York Islanders
+523,Steve Kozari,6,Tampa Bay Lightning
+524,Ghislain Hebert,5,New York Rangers
+525,Ghislain Hebert,0,St. Louis Blues
+526,Jean Hebert,5,New York Rangers
+527,Jean Hebert,0,St. Louis Blues
+528,Dan O'Halloran,3,Columbus Blue Jackets
+529,Dan O'Halloran,2,Dallas Stars
+530,Frederick L'Ecuyer,3,Columbus Blue Jackets
+531,Frederick L'Ecuyer,2,Dallas Stars
+532,Francois St-Laurent,2,Edmonton Oilers
+533,Francois St-Laurent,3,Toronto Maple Leafs
+534,Garrett Rank,2,Edmonton Oilers
+535,Garrett Rank,3,Toronto Maple Leafs
+536,Kelly Sutherland,1,Carolina Hurricanes
+537,Kelly Sutherland,2,Ottawa Senators
+538,Thomas John Luxmore,1,Carolina Hurricanes
+539,Thomas John Luxmore,2,Ottawa Senators
+540,Graham Skilliter,2,Boston Bruins
+541,Graham Skilliter,1,Florida Panthers
+542,Jon McIsaac,2,Boston Bruins
+543,Jon McIsaac,1,Florida Panthers
+544,Dan O'Rourke,2,Buffalo Sabres
+545,Dan O'Rourke,1,Minnesota Wild
+546,Marc Joannette,2,Buffalo Sabres
+547,Marc Joannette,1,Minnesota Wild
+548,Justin St. Pierre ,3,Washington Capitals
+549,Justin St. Pierre ,2,Winnipeg Jets
+550,Kevin Pollock,3,Washington Capitals
+551,Kevin Pollock,2,Winnipeg Jets
+552,Eric Furlatt,1,Calgary Flames
+553,Eric Furlatt,5,Chicago Blackhawks
+554,Kendrick Nicholson,1,Calgary Flames
+555,Kendrick Nicholson,5,Chicago Blackhawks
+556,Brad Watson,1,Colorado Avalanche
+557,Brad Watson,5,Nashville Predators
+558,Jake Brenk,1,Colorado Avalanche
+559,Jake Brenk,5,Nashville Predators
+560,Mike Leggo,3,Arizona Coyotes
+561,Mike Leggo,2,San Jose Sharks
+562,Tom Chmielewski,3,Arizona Coyotes
+563,Tom Chmielewski,2,San Jose Sharks
+564,Chris Lee,4,Anaheim Ducks
+565,Chris Lee,0,Los Angeles Kings
+566,Kyle Rehman,4,Anaheim Ducks
+567,Kyle Rehman,0,Los Angeles Kings
+568,Dean Morton,3,Montréal Canadiens
+569,Dean Morton,0,Vancouver Canucks
+570,Francois St-Laurent,3,Montréal Canadiens
+571,Francois St-Laurent,0,Vancouver Canucks
+572,Gord Dwyer,3,Detroit Red Wings
+573,Gord Dwyer,4,Philadelphia Flyers
+574,Ian Walsh,3,Detroit Red Wings
+575,Ian Walsh,4,Philadelphia Flyers
+576,Mike Leggo,1,Anaheim Ducks
+577,Mike Leggo,5,Pittsburgh Penguins
+578,Tom Chmielewski,1,Anaheim Ducks
+579,Tom Chmielewski,5,Pittsburgh Penguins
+580,Frederick L'Ecuyer,1,Buffalo Sabres
+581,Frederick L'Ecuyer,2,Toronto Maple Leafs
+582,Kevin Pollock,1,Buffalo Sabres
+583,Kevin Pollock,2,Toronto Maple Leafs
+584,Evgeny Romasko,2,New York Islanders
+585,Evgeny Romasko,2,Philadelphia Flyers
+586,Gord Dwyer,2,New York Islanders
+587,Gord Dwyer,2,Philadelphia Flyers
+588,Garrett Rank,3,Edmonton Oilers
+589,Garrett Rank,5,New York Rangers
+590,Steve Kozari,3,Edmonton Oilers
+591,Steve Kozari,5,New York Rangers
+592,Justin St. Pierre ,4,Washington Capitals
+593,Justin St. Pierre ,3,Winnipeg Jets
+594,Wes McCauley,4,Washington Capitals
+595,Wes McCauley,3,Winnipeg Jets
+596,Dean Morton,1,Ottawa Senators
+597,Dean Morton,0,Vancouver Canucks
+598,Furman Furman,1,Ottawa Senators
+599,Furman Furman,0,Vancouver Canucks
+600,Dan O'Halloran,3,Boston Bruins
+601,Dan O'Halloran,3,Tampa Bay Lightning
+602,Jake Brenk,3,Boston Bruins
+603,Jake Brenk,3,Tampa Bay Lightning
+604,Brad Watson,4,Florida Panthers
+605,Brad Watson,3,New Jersey Devils
+606,Graham Skilliter,4,Florida Panthers
+607,Graham Skilliter,3,New Jersey Devils
+608,Kelly Sutherland,4,Chicago Blackhawks
+609,Kelly Sutherland,0,Colorado Avalanche
+610,Trevor Hanson,4,Chicago Blackhawks
+611,Trevor Hanson,0,Colorado Avalanche
+612,Eric Furlatt,6,Dallas Stars
+613,Eric Furlatt,2,St. Louis Blues
+614,Marc Joannette,6,Dallas Stars
+615,Marc Joannette,2,St. Louis Blues
+616,Kendrick Nicholson,2,Arizona Coyotes
+617,Kendrick Nicholson,2,Nashville Predators
+618,Mike Leggo,2,Arizona Coyotes
+619,Mike Leggo,2,Nashville Predators
+620,Brad Meier,3,Los Angeles Kings
+621,Brad Meier,2,Pittsburgh Penguins
+622,Tom Kowal,3,Los Angeles Kings
+623,Tom Kowal,2,Pittsburgh Penguins
+624,Kyle Rehman,3,Calgary Flames
+625,Kyle Rehman,2,San Jose Sharks
+626,Tom Chmielewski,3,Calgary Flames
+627,Tom Chmielewski,2,San Jose Sharks
+628,Ian Walsh,10,Columbus Blue Jackets
+629,Ian Walsh,0,Montréal Canadiens
+630,Tim Peel,10,Columbus Blue Jackets
+631,Tim Peel,0,Montréal Canadiens
+632,Chris Lee,3,Detroit Red Wings
+633,Chris Lee,5,Winnipeg Jets
+634,Ghislain Hebert,3,Detroit Red Wings
+635,Ghislain Hebert,5,Winnipeg Jets
+636,Brad Meier,5,Anaheim Ducks
+637,Brad Meier,1,Arizona Coyotes
+638,Tom Kowal,5,Anaheim Ducks
+639,Tom Kowal,1,Arizona Coyotes
+640,Graham Skilliter,1,Colorado Avalanche
+641,Graham Skilliter,0,Minnesota Wild
+642,Trevor Hanson,1,Colorado Avalanche
+643,Trevor Hanson,0,Minnesota Wild
+644,Dean Morton,2,Boston Bruins
+645,Dean Morton,5,New York Rangers
+646,Frederick L'Ecuyer,2,Boston Bruins
+647,Frederick L'Ecuyer,5,New York Rangers
+648,Chris Lee,6,Toronto Maple Leafs
+649,Chris Lee,3,Vancouver Canucks
+650,Kelly Sutherland,6,Toronto Maple Leafs
+651,Kelly Sutherland,3,Vancouver Canucks
+652,Eric Furlatt,5,Montréal Canadiens
+653,Eric Furlatt,4,Philadelphia Flyers
+654,Steve Kozari,5,Montréal Canadiens
+655,Steve Kozari,4,Philadelphia Flyers
+656,Brian Pochmara,2,Buffalo Sabres
+657,Brian Pochmara,1,Ottawa Senators
+658,Wes McCauley,2,Buffalo Sabres
+659,Wes McCauley,1,Ottawa Senators
+660,Brad Watson,1,New Jersey Devils
+661,Brad Watson,4,Tampa Bay Lightning
+662,Jean Hebert,1,New Jersey Devils
+663,Jean Hebert,4,Tampa Bay Lightning
+664,Jon McIsaac,3,Edmonton Oilers
+665,Jon McIsaac,3,New York Islanders
+666,Kevin Pollock,3,Edmonton Oilers
+667,Kevin Pollock,3,New York Islanders
+668,Francois St-Laurent,2,Florida Panthers
+669,Francois St-Laurent,4,Washington Capitals
+670,Tim Peel,2,Florida Panthers
+671,Tim Peel,4,Washington Capitals
+672,Gord Dwyer,1,Columbus Blue Jackets
+673,Gord Dwyer,2,St. Louis Blues
+674,Thomas John Luxmore,1,Columbus Blue Jackets
+675,Thomas John Luxmore,2,St. Louis Blues
+676,Garrett Rank,2,Carolina Hurricanes
+677,Garrett Rank,2,Nashville Predators
+678,Marc Joannette,2,Carolina Hurricanes
+679,Marc Joannette,2,Nashville Predators
+680,Justin St. Pierre ,3,Chicago Blackhawks
+681,Justin St. Pierre ,2,Dallas Stars
+682,Kendrick Nicholson,3,Chicago Blackhawks
+683,Kendrick Nicholson,2,Dallas Stars
+684,Mike Leggo,0,Calgary Flames
+685,Mike Leggo,5,Los Angeles Kings
+686,Tom Chmielewski,0,Calgary Flames
+687,Tom Chmielewski,5,Los Angeles Kings
+688,Dan O'Rourke,5,Pittsburgh Penguins
+689,Dan O'Rourke,0,San Jose Sharks
+690,Jake Brenk,5,Pittsburgh Penguins
+691,Jake Brenk,0,San Jose Sharks
+692,Dan O'Halloran,1,Detroit Red Wings
+693,Dan O'Halloran,2,Edmonton Oilers
+694,Furman Furman,1,Detroit Red Wings
+695,Furman Furman,2,Edmonton Oilers
+696,Brad Meier,1,Colorado Avalanche
+697,Brad Meier,5,St. Louis Blues
+698,Kyle Rehman,1,Colorado Avalanche
+699,Kyle Rehman,5,St. Louis Blues
+700,Jon McIsaac,1,Carolina Hurricanes
+701,Jon McIsaac,4,New Jersey Devils
+702,Tim Peel,1,Carolina Hurricanes
+703,Tim Peel,4,New Jersey Devils
+704,Brian Pochmara,5,New York Rangers
+705,Brian Pochmara,2,Winnipeg Jets
+706,Francois St-Laurent,5,New York Rangers
+707,Francois St-Laurent,2,Winnipeg Jets
+708,Ghislain Hebert,4,Chicago Blackhawks
+709,Ghislain Hebert,3,Dallas Stars
+710,Ian Walsh,4,Chicago Blackhawks
+711,Ian Walsh,3,Dallas Stars
+712,Dan O'Rourke,4,Anaheim Ducks
+713,Dan O'Rourke,1,Calgary Flames
+714,Tom Kowal,4,Anaheim Ducks
+715,Tom Kowal,1,Calgary Flames
+716,Gord Dwyer,4,Boston Bruins
+717,Gord Dwyer,0,Buffalo Sabres
+718,Wes McCauley,4,Boston Bruins
+719,Wes McCauley,0,Buffalo Sabres
+720,Jean Hebert,4,New York Islanders
+721,Jean Hebert,2,Vancouver Canucks
+722,Thomas John Luxmore,4,New York Islanders
+723,Thomas John Luxmore,2,Vancouver Canucks
+724,Brad Watson,3,Florida Panthers
+725,Brad Watson,1,Tampa Bay Lightning
+726,Justin St. Pierre ,3,Florida Panthers
+727,Justin St. Pierre ,1,Tampa Bay Lightning
+728,Dan O'Halloran,2,Carolina Hurricanes
+729,Dan O'Halloran,2,New Jersey Devils
+730,Evgeny Romasko,2,Carolina Hurricanes
+731,Evgeny Romasko,2,New Jersey Devils
+732,Gord Dwyer,3,New York Rangers
+733,Gord Dwyer,5,Vancouver Canucks
+734,Kevin Pollock,3,New York Rangers
+735,Kevin Pollock,5,Vancouver Canucks
+736,Kendrick Nicholson,2,Detroit Red Wings
+737,Kendrick Nicholson,2,Philadelphia Flyers
+738,Tim Peel,2,Detroit Red Wings
+739,Tim Peel,2,Philadelphia Flyers
+740,Ghislain Hebert,3,Edmonton Oilers
+741,Ghislain Hebert,4,Pittsburgh Penguins
+742,Kelly Sutherland,3,Edmonton Oilers
+743,Kelly Sutherland,4,Pittsburgh Penguins
+744,Jean Hebert,3,San Jose Sharks
+745,Jean Hebert,0,Washington Capitals
+746,Thomas John Luxmore,3,San Jose Sharks
+747,Thomas John Luxmore,0,Washington Capitals
+748,Eric Furlatt,7,Los Angeles Kings
+749,Eric Furlatt,0,Toronto Maple Leafs
+750,Jon McIsaac,7,Los Angeles Kings
+751,Jon McIsaac,0,Toronto Maple Leafs
+752,Brian Pochmara,2,Boston Bruins
+753,Brian Pochmara,3,Montréal Canadiens
+754,Marc Joannette,2,Boston Bruins
+755,Marc Joannette,3,Montréal Canadiens
+756,Brad Meier,3,Nashville Predators
+757,Brad Meier,1,Ottawa Senators
+758,Kyle Rehman,3,Nashville Predators
+759,Kyle Rehman,1,Ottawa Senators
+760,Chris Lee,2,Dallas Stars
+761,Chris Lee,8,Winnipeg Jets
+762,Mike Leggo,2,Dallas Stars
+763,Mike Leggo,8,Winnipeg Jets
+764,Dan O'Rourke,4,Arizona Coyotes
+765,Dan O'Rourke,2,Colorado Avalanche
+766,Ian Walsh,4,Arizona Coyotes
+767,Ian Walsh,2,Colorado Avalanche
+768,Frederick L'Ecuyer,2,Anaheim Ducks
+769,Frederick L'Ecuyer,3,Columbus Blue Jackets
+770,Justin St. Pierre ,2,Anaheim Ducks
+771,Justin St. Pierre ,3,Columbus Blue Jackets
+772,Eric Furlatt,1,Buffalo Sabres
+773,Eric Furlatt,1,Ottawa Senators
+774,Kendrick Nicholson,1,Buffalo Sabres
+775,Kendrick Nicholson,1,Ottawa Senators
+776,Brad Meier,2,Chicago Blackhawks
+777,Brad Meier,1,St. Louis Blues
+778,Garrett Rank,2,Chicago Blackhawks
+779,Garrett Rank,1,St. Louis Blues
+780,Ghislain Hebert,5,Boston Bruins
+781,Ghislain Hebert,2,Columbus Blue Jackets
+782,Kelly Sutherland,5,Boston Bruins
+783,Kelly Sutherland,2,Columbus Blue Jackets
+784,Brian Pochmara,4,Minnesota Wild
+785,Brian Pochmara,2,Pittsburgh Penguins
+786,Frederick L'Ecuyer,4,Minnesota Wild
+787,Frederick L'Ecuyer,2,Pittsburgh Penguins
+788,Garrett Rank,4,Anaheim Ducks
+789,Garrett Rank,2,Carolina Hurricanes
+790,Jean Hebert,4,Anaheim Ducks
+791,Jean Hebert,2,Carolina Hurricanes
+792,Kevin Pollock,1,Los Angeles Kings
+793,Kevin Pollock,4,Montréal Canadiens
+794,Wes McCauley,1,Los Angeles Kings
+795,Wes McCauley,4,Montréal Canadiens
+796,Jake Brenk,3,Detroit Red Wings
+797,Jake Brenk,1,Vancouver Canucks
+798,Mike Leggo,3,Detroit Red Wings
+799,Mike Leggo,1,Vancouver Canucks
+800,Brad Meier,1,New York Islanders
+801,Brad Meier,4,Tampa Bay Lightning
+802,Jon McIsaac,1,New York Islanders
+803,Jon McIsaac,4,Tampa Bay Lightning
+804,Dan O'Halloran,2,Florida Panthers
+805,Dan O'Halloran,4,San Jose Sharks
+806,Francois St-Laurent,2,Florida Panthers
+807,Francois St-Laurent,4,San Jose Sharks
+808,Steve Kozari,3,Nashville Predators
+809,Steve Kozari,1,St. Louis Blues
+810,Thomas John Luxmore,3,Nashville Predators
+811,Thomas John Luxmore,1,St. Louis Blues
+812,Tom Kowal,2,Calgary Flames
+813,Tom Kowal,4,Dallas Stars
+814,Trevor Hanson,2,Calgary Flames
+815,Trevor Hanson,4,Dallas Stars
+816,Brad Watson,2,Arizona Coyotes
+817,Brad Watson,3,Winnipeg Jets
+818,Kyle Rehman,2,Arizona Coyotes
+819,Kyle Rehman,3,Winnipeg Jets
+820,Kelly Sutherland,1,Buffalo Sabres
+821,Kelly Sutherland,2,New Jersey Devils
+822,Marc Joannette,1,Buffalo Sabres
+823,Marc Joannette,2,New Jersey Devils
+824,Jake Brenk,3,Philadelphia Flyers
+825,Jake Brenk,6,Toronto Maple Leafs
+826,Mike Leggo,3,Philadelphia Flyers
+827,Mike Leggo,6,Toronto Maple Leafs
+828,Eric Furlatt,1,Los Angeles Kings
+829,Eric Furlatt,2,Ottawa Senators
+830,Kendrick Nicholson,1,Los Angeles Kings
+831,Kendrick Nicholson,2,Ottawa Senators
+832,Chris Lee,2,Chicago Blackhawks
+833,Chris Lee,3,Washington Capitals
+834,Thomas John Luxmore,2,Chicago Blackhawks
+835,Thomas John Luxmore,3,Washington Capitals
+836,Gord Dwyer,3,Colorado Avalanche
+837,Gord Dwyer,2,Winnipeg Jets
+838,Tim Peel,3,Colorado Avalanche
+839,Tim Peel,2,Winnipeg Jets
+840,Graham Skilliter,3,Dallas Stars
+841,Graham Skilliter,2,Edmonton Oilers
+842,Trevor Hanson,3,Dallas Stars
+843,Trevor Hanson,2,Edmonton Oilers
+844,Eric Furlatt,0,Detroit Red Wings
+845,Eric Furlatt,5,Montréal Canadiens
+846,Ghislain Hebert,0,Detroit Red Wings
+847,Ghislain Hebert,5,Montréal Canadiens
+848,Dan O'Halloran,3,San Jose Sharks
+849,Dan O'Halloran,1,Tampa Bay Lightning
+850,Frederick L'Ecuyer,3,San Jose Sharks
+851,Frederick L'Ecuyer,1,Tampa Bay Lightning
+852,Dan O'Rourke,3,Florida Panthers
+853,Dan O'Rourke,2,New York Islanders
+854,Evgeny Romasko,3,Florida Panthers
+855,Evgeny Romasko,2,New York Islanders
+856,Chris Schlenker ,2,Buffalo Sabres
+857,Chris Schlenker ,4,New Jersey Devils
+858,Kyle Rehman,2,Buffalo Sabres
+859,Kyle Rehman,4,New Jersey Devils
+860,Garrett Rank,2,Minnesota Wild
+861,Garrett Rank,3,Philadelphia Flyers
+862,Kevin Pollock,2,Minnesota Wild
+863,Kevin Pollock,3,Philadelphia Flyers
+864,Chris Lee,4,Pittsburgh Penguins
+865,Chris Lee,1,Toronto Maple Leafs
+866,Marc Joannette,4,Pittsburgh Penguins
+867,Marc Joannette,1,Toronto Maple Leafs
+868,Brian Pochmara,5,Carolina Hurricanes
+869,Brian Pochmara,1,Washington Capitals
+870,Steve Kozari,5,Carolina Hurricanes
+871,Steve Kozari,1,Washington Capitals
+872,Jon McIsaac,8,Columbus Blue Jackets
+873,Jon McIsaac,4,St. Louis Blues
+874,Tom Kowal,8,Columbus Blue Jackets
+875,Tom Kowal,4,St. Louis Blues
+876,Jean Hebert,0,Anaheim Ducks
+877,Jean Hebert,5,Nashville Predators
+878,Wes McCauley,0,Anaheim Ducks
+879,Wes McCauley,5,Nashville Predators
+880,Ian Walsh,1,Arizona Coyotes
+881,Ian Walsh,2,Boston Bruins
+882,Tim Peel,1,Arizona Coyotes
+883,Tim Peel,2,Boston Bruins
+884,Brad Meier,1,Calgary Flames
+885,Brad Meier,4,New York Rangers
+886,Graham Skilliter,1,Calgary Flames
+887,Graham Skilliter,4,New York Rangers
+888,Jake Brenk,2,Los Angeles Kings
+889,Jake Brenk,2,Winnipeg Jets
+890,Mike Leggo,2,Los Angeles Kings
+891,Mike Leggo,2,Winnipeg Jets
+892,Brad Watson,4,Dallas Stars
+893,Brad Watson,5,Vancouver Canucks
+894,Kendrick Nicholson,4,Dallas Stars
+895,Kendrick Nicholson,5,Vancouver Canucks
+896,Ghislain Hebert,2,Minnesota Wild
+897,Ghislain Hebert,1,Ottawa Senators
+898,Kevin Pollock,2,Minnesota Wild
+899,Kevin Pollock,1,Ottawa Senators
+900,Kelly Sutherland,3,Chicago Blackhawks
+901,Kelly Sutherland,2,Montréal Canadiens
+902,Kyle Rehman,3,Chicago Blackhawks
+903,Kyle Rehman,2,Montréal Canadiens
+904,Francois St-Laurent,2,Boston Bruins
+905,Francois St-Laurent,0,Colorado Avalanche
+906,Ian Walsh,2,Boston Bruins
+907,Ian Walsh,0,Colorado Avalanche
+908,Gord Dwyer,1,Edmonton Oilers
+909,Gord Dwyer,3,New York Rangers
+910,Trevor Hanson,1,Edmonton Oilers
+911,Trevor Hanson,3,New York Rangers
+912,Chris Lee,0,New York Islanders
+913,Chris Lee,4,Tampa Bay Lightning
+914,Kyle Rehman,0,New York Islanders
+915,Kyle Rehman,4,Tampa Bay Lightning
+916,Kelly Sutherland,2,Ottawa Senators
+917,Kelly Sutherland,2,Philadelphia Flyers
+918,Thomas John Luxmore,2,Ottawa Senators
+919,Thomas John Luxmore,2,Philadelphia Flyers
+920,Eric Furlatt,1,Carolina Hurricanes
+921,Eric Furlatt,0,San Jose Sharks
+922,Frederick L'Ecuyer,1,Carolina Hurricanes
+923,Frederick L'Ecuyer,0,San Jose Sharks
+924,Chris Lee,2,Columbus Blue Jackets
+925,Chris Lee,1,Washington Capitals
+926,Tom Chmielewski,2,Columbus Blue Jackets
+927,Tom Chmielewski,1,Washington Capitals
+928,Graham Skilliter,2,Nashville Predators
+929,Graham Skilliter,6,Toronto Maple Leafs
+930,Kevin Pollock,2,Nashville Predators
+931,Kevin Pollock,6,Toronto Maple Leafs
+932,Brad Meier,4,Florida Panthers
+933,Brad Meier,3,Montréal Canadiens
+934,Furman Furman,4,Florida Panthers
+935,Furman Furman,3,Montréal Canadiens
+936,Dan O'Rourke,3,Detroit Red Wings
+937,Dan O'Rourke,4,Tampa Bay Lightning
+938,Garrett Rank,3,Detroit Red Wings
+939,Garrett Rank,4,Tampa Bay Lightning
+940,Jean Hebert,1,Buffalo Sabres
+941,Jean Hebert,4,St. Louis Blues
+942,Steve Kozari,1,Buffalo Sabres
+943,Steve Kozari,4,St. Louis Blues
+944,Evgeny Romasko,1,Calgary Flames
+945,Evgeny Romasko,0,Minnesota Wild
+946,Gord Dwyer,1,Calgary Flames
+947,Gord Dwyer,0,Minnesota Wild
+948,Kendrick Nicholson,0,Chicago Blackhawks
+949,Kendrick Nicholson,4,Winnipeg Jets
+950,Tom Kowal,0,Chicago Blackhawks
+951,Tom Kowal,4,Winnipeg Jets
+952,Mike Leggo,1,Dallas Stars
+953,Mike Leggo,2,New Jersey Devils
+954,Tim Peel,1,Dallas Stars
+955,Tim Peel,2,New Jersey Devils
+956,Francois St-Laurent,4,Colorado Avalanche
+957,Francois St-Laurent,1,Los Angeles Kings
+958,Marc Joannette,4,Colorado Avalanche
+959,Marc Joannette,1,Los Angeles Kings
+960,Ian Walsh,7,New York Rangers
+961,Ian Walsh,2,Vancouver Canucks
+962,Trevor Hanson,7,New York Rangers
+963,Trevor Hanson,2,Vancouver Canucks
+964,Brad Watson,4,Anaheim Ducks
+965,Brad Watson,1,Edmonton Oilers
+966,Justin St. Pierre ,4,Anaheim Ducks
+967,Justin St. Pierre ,1,Edmonton Oilers
+968,Graham Skilliter,1,Pittsburgh Penguins
+969,Graham Skilliter,7,Washington Capitals
+970,Kyle Rehman,1,Pittsburgh Penguins
+971,Kyle Rehman,7,Washington Capitals
+972,Dan O'Halloran,1,Arizona Coyotes
+973,Dan O'Halloran,2,Calgary Flames
+974,Ghislain Hebert,1,Arizona Coyotes
+975,Ghislain Hebert,2,Calgary Flames
+976,Kevin Pollock,1,Buffalo Sabres
+977,Kevin Pollock,4,Tampa Bay Lightning
+978,Pierre Lambert,1,Buffalo Sabres
+979,Pierre Lambert,4,Tampa Bay Lightning
+980,Eric Furlatt,5,Philadelphia Flyers
+981,Eric Furlatt,2,Winnipeg Jets
+982,Frederick L'Ecuyer,5,Philadelphia Flyers
+983,Frederick L'Ecuyer,2,Winnipeg Jets
+984,Brian Pochmara,1,Florida Panthers
+985,Brian Pochmara,6,Toronto Maple Leafs
+986,Kendrick Nicholson,1,Florida Panthers
+987,Kendrick Nicholson,6,Toronto Maple Leafs
+988,Ian Walsh,5,Nashville Predators
+989,Ian Walsh,1,Ottawa Senators
+990,Jon McIsaac,5,Nashville Predators
+991,Jon McIsaac,1,Ottawa Senators
+992,Dan O'Rourke,2,San Jose Sharks
+993,Dan O'Rourke,3,St. Louis Blues
+994,Evgeny Romasko,2,San Jose Sharks
+995,Evgeny Romasko,3,St. Louis Blues
+996,Brad Meier,0,Boston Bruins
+997,Brad Meier,1,Minnesota Wild
+998,Steve Kozari,0,Boston Bruins
+999,Steve Kozari,1,Minnesota Wild
+1000,Gord Dwyer,2,Colorado Avalanche
+1001,Gord Dwyer,3,Dallas Stars
+1002,Wes McCauley,2,Colorado Avalanche
+1003,Wes McCauley,3,Dallas Stars
+1004,Dan O'Halloran,2,Arizona Coyotes
+1005,Dan O'Halloran,3,Vancouver Canucks
+1006,Ghislain Hebert,2,Arizona Coyotes
+1007,Ghislain Hebert,3,Vancouver Canucks
+1008,Francois St-Laurent,3,Anaheim Ducks
+1009,Francois St-Laurent,2,New Jersey Devils
+1010,Garrett Rank,3,Anaheim Ducks
+1011,Garrett Rank,2,New Jersey Devils
+1012,Jean Hebert,2,Edmonton Oilers
+1013,Jean Hebert,4,Los Angeles Kings
+1014,Marc Joannette,2,Edmonton Oilers
+1015,Marc Joannette,4,Los Angeles Kings
+1016,Chris Schlenker ,2,New York Islanders
+1017,Chris Schlenker ,3,Pittsburgh Penguins
+1018,Eric Furlatt,2,New York Islanders
+1019,Eric Furlatt,3,Pittsburgh Penguins
+1020,Thomas John Luxmore,0,Detroit Red Wings
+1021,Thomas John Luxmore,1,Washington Capitals
+1022,Trevor Hanson,0,Detroit Red Wings
+1023,Trevor Hanson,1,Washington Capitals
+1024,Brian Pochmara,4,Columbus Blue Jackets
+1025,Brian Pochmara,2,New York Rangers
+1026,Kyle Rehman,4,Columbus Blue Jackets
+1027,Kyle Rehman,2,New York Rangers
+1028,Graham Skilliter,3,Carolina Hurricanes
+1029,Graham Skilliter,2,Montréal Canadiens
+1030,Kelly Sutherland,3,Carolina Hurricanes
+1031,Kelly Sutherland,2,Montréal Canadiens
+1032,Ghislain Hebert,2,Calgary Flames
+1033,Ghislain Hebert,3,Chicago Blackhawks
+1034,Justin St. Pierre ,2,Calgary Flames
+1035,Justin St. Pierre ,3,Chicago Blackhawks
+1036,Brad Meier,0,Philadelphia Flyers
+1037,Brad Meier,3,Tampa Bay Lightning
+1038,Tom Chmielewski,0,Philadelphia Flyers
+1039,Tom Chmielewski,3,Tampa Bay Lightning
+1040,Jake Brenk,4,Los Angeles Kings
+1041,Jake Brenk,2,New Jersey Devils
+1042,Jean Hebert,4,Los Angeles Kings
+1043,Jean Hebert,2,New Jersey Devils
+1044,Chris Schlenker ,4,Boston Bruins
+1045,Chris Schlenker ,1,Winnipeg Jets
+1046,Trevor Hanson,4,Boston Bruins
+1047,Trevor Hanson,1,Winnipeg Jets
+1048,Brad Watson,1,Buffalo Sabres
+1049,Brad Watson,1,Pittsburgh Penguins
+1050,Dan O'Rourke,1,Buffalo Sabres
+1051,Dan O'Rourke,1,Pittsburgh Penguins
+1052,Jon McIsaac,2,Montréal Canadiens
+1053,Jon McIsaac,1,Toronto Maple Leafs
+1054,Tim Peel,2,Montréal Canadiens
+1055,Tim Peel,1,Toronto Maple Leafs
+1056,Ian Walsh,4,Florida Panthers
+1057,Ian Walsh,1,Ottawa Senators
+1058,Tom Kowal,4,Florida Panthers
+1059,Tom Kowal,1,Ottawa Senators
+1060,Evgeny Romasko,2,Dallas Stars
+1061,Evgeny Romasko,5,Edmonton Oilers
+1062,Marc Joannette,2,Dallas Stars
+1063,Marc Joannette,5,Edmonton Oilers
+1064,Frederick L'Ecuyer,1,Nashville Predators
+1065,Frederick L'Ecuyer,3,St. Louis Blues
+1066,Wes McCauley,1,Nashville Predators
+1067,Wes McCauley,3,St. Louis Blues
+1068,Dan O'Halloran,3,Colorado Avalanche
+1069,Dan O'Halloran,2,Minnesota Wild
+1070,Kyle Rehman,3,Colorado Avalanche
+1071,Kyle Rehman,2,Minnesota Wild
+1072,Francois St-Laurent,3,Arizona Coyotes
+1073,Francois St-Laurent,2,San Jose Sharks
+1074,Garrett Rank,3,Arizona Coyotes
+1075,Garrett Rank,2,San Jose Sharks
+1076,Justin St. Pierre ,4,Chicago Blackhawks
+1077,Justin St. Pierre ,3,Vancouver Canucks
+1078,Mike Leggo,4,Chicago Blackhawks
+1079,Mike Leggo,3,Vancouver Canucks
+1080,Brian Pochmara,3,Columbus Blue Jackets
+1081,Brian Pochmara,2,Washington Capitals
+1082,Graham Skilliter,3,Columbus Blue Jackets
+1083,Graham Skilliter,2,Washington Capitals
+1084,Brad Meier,2,Florida Panthers
+1085,Brad Meier,2,New York Rangers
+1086,Kendrick Nicholson,2,Florida Panthers
+1087,Kendrick Nicholson,2,New York Rangers
+1088,Tom Chmielewski,3,Carolina Hurricanes
+1089,Tom Chmielewski,1,Winnipeg Jets
+1090,Wes McCauley,3,Carolina Hurricanes
+1091,Wes McCauley,1,Winnipeg Jets
+1092,Chris Lee,3,Calgary Flames
+1093,Chris Lee,2,Detroit Red Wings
+1094,Kevin Pollock,3,Calgary Flames
+1095,Kevin Pollock,2,Detroit Red Wings
+1096,Jake Brenk,2,Anaheim Ducks
+1097,Jake Brenk,3,Los Angeles Kings
+1098,Steve Kozari,2,Anaheim Ducks
+1099,Steve Kozari,3,Los Angeles Kings
+1100,Tim Peel,4,Buffalo Sabres
+1101,Tim Peel,2,Calgary Flames
+1102,Trevor Hanson,4,Buffalo Sabres
+1103,Trevor Hanson,2,Calgary Flames
+1104,Brad Watson,5,New York Rangers
+1105,Brad Watson,2,Pittsburgh Penguins
+1106,Tom Kowal,5,New York Rangers
+1107,Tom Kowal,2,Pittsburgh Penguins
+1108,Dan O'Rourke,3,Colorado Avalanche
+1109,Dan O'Rourke,2,Columbus Blue Jackets
+1110,Thomas John Luxmore,3,Colorado Avalanche
+1111,Thomas John Luxmore,2,Columbus Blue Jackets
+1112,Chris Lee,3,Nashville Predators
+1113,Chris Lee,1,Tampa Bay Lightning
+1114,Graham Skilliter,3,Nashville Predators
+1115,Graham Skilliter,1,Tampa Bay Lightning
+1116,Garrett Rank,3,Dallas Stars
+1117,Garrett Rank,2,Minnesota Wild
+1118,Jean Hebert,3,Dallas Stars
+1119,Jean Hebert,2,Minnesota Wild
+1120,Jon McIsaac,0,Chicago Blackhawks
+1121,Jon McIsaac,5,Edmonton Oilers
+1122,Mike Leggo,0,Chicago Blackhawks
+1123,Mike Leggo,5,Edmonton Oilers
+1124,Gord Dwyer,0,New Jersey Devils
+1125,Gord Dwyer,4,San Jose Sharks
+1126,Steve Kozari,0,New Jersey Devils
+1127,Steve Kozari,4,San Jose Sharks
+1128,Brad Meier,2,Boston Bruins
+1129,Brad Meier,4,St. Louis Blues
+1130,Brad Watson,2,Boston Bruins
+1131,Brad Watson,4,St. Louis Blues
+1132,Dan O'Halloran,2,Carolina Hurricanes
+1133,Dan O'Halloran,1,Toronto Maple Leafs
+1134,Tim Peel,2,Carolina Hurricanes
+1135,Tim Peel,1,Toronto Maple Leafs
+1136,Kendrick Nicholson,3,Montréal Canadiens
+1137,Kendrick Nicholson,4,Ottawa Senators
+1138,Trevor Hanson,3,Montréal Canadiens
+1139,Trevor Hanson,4,Ottawa Senators
+1140,Kelly Sutherland,1,Florida Panthers
+1141,Kelly Sutherland,3,Philadelphia Flyers
+1142,Wes McCauley,1,Florida Panthers
+1143,Wes McCauley,3,Philadelphia Flyers
+1144,Dean Morton,2,Anaheim Ducks
+1145,Dean Morton,2,New York Islanders
+1146,Gord Dwyer,2,Anaheim Ducks
+1147,Gord Dwyer,2,New York Islanders
+1148,Dan O'Halloran,1,Buffalo Sabres
+1149,Dan O'Halloran,1,Detroit Red Wings
+1150,Kendrick Nicholson,1,Buffalo Sabres
+1151,Kendrick Nicholson,1,Detroit Red Wings
+1152,Frederick L'Ecuyer,4,New Jersey Devils
+1153,Frederick L'Ecuyer,4,Toronto Maple Leafs
+1154,Tom Kowal,4,New Jersey Devils
+1155,Tom Kowal,4,Toronto Maple Leafs
+1156,Ghislain Hebert,1,New York Rangers
+1157,Ghislain Hebert,6,Pittsburgh Penguins
+1158,Marc Joannette,1,New York Rangers
+1159,Marc Joannette,6,Pittsburgh Penguins
+1160,Ian Walsh,3,St. Louis Blues
+1161,Ian Walsh,4,Washington Capitals
+1162,Tim Peel,3,St. Louis Blues
+1163,Tim Peel,4,Washington Capitals
+1164,Pierre Lambert,2,Calgary Flames
+1165,Pierre Lambert,0,Columbus Blue Jackets
+1166,Steve Kozari,2,Calgary Flames
+1167,Steve Kozari,0,Columbus Blue Jackets
+1168,Chris Lee,3,Minnesota Wild
+1169,Chris Lee,1,Winnipeg Jets
+1170,Graham Skilliter,3,Minnesota Wild
+1171,Graham Skilliter,1,Winnipeg Jets
+1172,Jean Hebert,2,Philadelphia Flyers
+1173,Jean Hebert,4,Tampa Bay Lightning
+1174,Thomas John Luxmore,2,Philadelphia Flyers
+1175,Thomas John Luxmore,4,Tampa Bay Lightning
+1176,Brian Pochmara,2,Dallas Stars
+1177,Brian Pochmara,5,Nashville Predators
+1178,Kelly Sutherland,2,Dallas Stars
+1179,Kelly Sutherland,5,Nashville Predators
+1180,Eric Furlatt,3,Colorado Avalanche
+1181,Eric Furlatt,6,Edmonton Oilers
+1182,Tom Chmielewski,3,Colorado Avalanche
+1183,Tom Chmielewski,6,Edmonton Oilers
+1184,Justin St. Pierre ,1,Arizona Coyotes
+1185,Justin St. Pierre ,4,Vancouver Canucks
+1186,Kevin Pollock,1,Arizona Coyotes
+1187,Kevin Pollock,4,Vancouver Canucks
+1188,Kyle Rehman,4,Los Angeles Kings
+1189,Kyle Rehman,2,New York Islanders
+1190,Mike Leggo,4,Los Angeles Kings
+1191,Mike Leggo,2,New York Islanders
+1192,Dean Morton,1,Chicago Blackhawks
+1193,Dean Morton,2,San Jose Sharks
+1194,Garrett Rank,1,Chicago Blackhawks
+1195,Garrett Rank,2,San Jose Sharks
+1196,Ghislain Hebert,1,Carolina Hurricanes
+1197,Ghislain Hebert,2,Montréal Canadiens
+1198,Tom Kowal,1,Carolina Hurricanes
+1199,Tom Kowal,2,Montréal Canadiens
+1200,Marc Joannette,1,Boston Bruins
+1201,Marc Joannette,3,Ottawa Senators
+1202,Trevor Hanson,1,Boston Bruins
+1203,Trevor Hanson,3,Ottawa Senators
+1204,Garrett Rank,3,New York Rangers
+1205,Garrett Rank,2,Philadelphia Flyers
+1206,Ian Walsh,3,New York Rangers
+1207,Ian Walsh,2,Philadelphia Flyers
+1208,Chris Lee,6,Minnesota Wild
+1209,Chris Lee,2,Pittsburgh Penguins
+1210,Jake Brenk,6,Minnesota Wild
+1211,Jake Brenk,2,Pittsburgh Penguins
+1212,Kevin Pollock,2,Anaheim Ducks
+1213,Kevin Pollock,3,Chicago Blackhawks
+1214,Tom Chmielewski,2,Anaheim Ducks
+1215,Tom Chmielewski,3,Chicago Blackhawks
+1216,Justin St. Pierre ,2,New York Islanders
+1217,Justin St. Pierre ,3,San Jose Sharks
+1218,Mike Leggo,2,New York Islanders
+1219,Mike Leggo,3,San Jose Sharks
+1220,Jon McIsaac,1,Buffalo Sabres
+1221,Jon McIsaac,3,Washington Capitals
+1222,Kelly Sutherland,1,Buffalo Sabres
+1223,Kelly Sutherland,3,Washington Capitals
+1224,Dan O'Rourke,5,Nashville Predators
+1225,Dan O'Rourke,1,Winnipeg Jets
+1226,Eric Furlatt,5,Nashville Predators
+1227,Eric Furlatt,1,Winnipeg Jets
+1228,Evgeny Romasko,1,Boston Bruins
+1229,Evgeny Romasko,2,Calgary Flames
+1230,Wes McCauley,1,Boston Bruins
+1231,Wes McCauley,2,Calgary Flames
+1232,Francois St-Laurent,5,Columbus Blue Jackets
+1233,Francois St-Laurent,3,Tampa Bay Lightning
+1234,Kendrick Nicholson,5,Columbus Blue Jackets
+1235,Kendrick Nicholson,3,Tampa Bay Lightning
+1236,Brad Watson,5,Detroit Red Wings
+1237,Brad Watson,4,New Jersey Devils
+1238,Furman Furman,5,Detroit Red Wings
+1239,Furman Furman,4,New Jersey Devils
+1240,Chris Schlenker ,2,Dallas Stars
+1241,Chris Schlenker ,1,Vancouver Canucks
+1242,Gord Dwyer,2,Dallas Stars
+1243,Gord Dwyer,1,Vancouver Canucks
+1244,Dean Morton,2,Arizona Coyotes
+1245,Dean Morton,2,Edmonton Oilers
+1246,Kyle Rehman,2,Arizona Coyotes
+1247,Kyle Rehman,2,Edmonton Oilers
+1248,Brad Watson,4,Toronto Maple Leafs
+1249,Brad Watson,2,Washington Capitals
+1250,Ghislain Hebert,4,Toronto Maple Leafs
+1251,Ghislain Hebert,2,Washington Capitals
+1252,Dan O'Halloran,1,Carolina Hurricanes
+1253,Dan O'Halloran,2,Ottawa Senators
+1254,Furman Furman,1,Carolina Hurricanes
+1255,Furman Furman,2,Ottawa Senators
+1256,Brian Pochmara,1,Detroit Red Wings
+1257,Brian Pochmara,2,Montréal Canadiens
+1258,Tom Kowal,1,Detroit Red Wings
+1259,Tom Kowal,2,Montréal Canadiens
+1260,Eric Furlatt,1,Columbus Blue Jackets
+1261,Eric Furlatt,1,Florida Panthers
+1262,Jean Hebert,1,Columbus Blue Jackets
+1263,Jean Hebert,1,Florida Panthers
+1264,Ian Walsh,3,New Jersey Devils
+1265,Ian Walsh,3,Pittsburgh Penguins
+1266,Thomas John Luxmore,3,New Jersey Devils
+1267,Thomas John Luxmore,3,Pittsburgh Penguins
+1268,Jon McIsaac,3,Minnesota Wild
+1269,Jon McIsaac,3,St. Louis Blues
+1270,Tim Peel,3,Minnesota Wild
+1271,Tim Peel,3,St. Louis Blues
+1272,Brad Meier,2,Colorado Avalanche
+1273,Brad Meier,2,Vancouver Canucks
+1274,Jake Brenk,2,Colorado Avalanche
+1275,Jake Brenk,2,Vancouver Canucks
+1276,Dean Morton,1,Chicago Blackhawks
+1277,Dean Morton,2,Los Angeles Kings
+1278,Graham Skilliter,1,Chicago Blackhawks
+1279,Graham Skilliter,2,Los Angeles Kings
+1280,Kevin Pollock,3,Anaheim Ducks
+1281,Kevin Pollock,2,San Jose Sharks
+1282,Kyle Rehman,3,Anaheim Ducks
+1283,Kyle Rehman,2,San Jose Sharks
+1284,Garrett Rank,4,Boston Bruins
+1285,Garrett Rank,1,Tampa Bay Lightning
+1286,Kelly Sutherland,4,Boston Bruins
+1287,Kelly Sutherland,1,Tampa Bay Lightning
+1288,Tom Chmielewski,2,Arizona Coyotes
+1289,Tom Chmielewski,1,Edmonton Oilers
+1290,Wes McCauley,2,Arizona Coyotes
+1291,Wes McCauley,1,Edmonton Oilers
+1292,Brian Pochmara,3,Carolina Hurricanes
+1293,Brian Pochmara,2,Florida Panthers
+1294,Thomas John Luxmore,3,Carolina Hurricanes
+1295,Thomas John Luxmore,2,Florida Panthers
+1296,Evgeny Romasko,0,Nashville Predators
+1297,Evgeny Romasko,3,Winnipeg Jets
+1298,Marc Joannette,0,Nashville Predators
+1299,Marc Joannette,3,Winnipeg Jets
+1300,Chris Lee,0,New York Rangers
+1301,Chris Lee,2,Ottawa Senators
+1302,Frederick L'Ecuyer,0,New York Rangers
+1303,Frederick L'Ecuyer,2,Ottawa Senators
+1304,Dan O'Rourke,3,Calgary Flames
+1305,Dan O'Rourke,5,Philadelphia Flyers
+1306,Kendrick Nicholson,3,Calgary Flames
+1307,Kendrick Nicholson,5,Philadelphia Flyers
+1308,Garrett Rank,1,Calgary Flames
+1309,Garrett Rank,2,New York Islanders
+1310,Kelly Sutherland,1,Calgary Flames
+1311,Kelly Sutherland,2,New York Islanders
+1312,Dean Morton,3,Dallas Stars
+1313,Dean Morton,4,St. Louis Blues
+1314,Kevin Pollock,3,Dallas Stars
+1315,Kevin Pollock,4,St. Louis Blues
+1316,Dan O'Rourke,2,Carolina Hurricanes
+1317,Dan O'Rourke,3,New York Rangers
+1318,Kendrick Nicholson,2,Carolina Hurricanes
+1319,Kendrick Nicholson,3,New York Rangers
+1320,Chris Lee,2,Boston Bruins
+1321,Chris Lee,2,Philadelphia Flyers
+1322,Jake Brenk,2,Boston Bruins
+1323,Jake Brenk,2,Philadelphia Flyers
+1324,Mike Leggo,5,Columbus Blue Jackets
+1325,Mike Leggo,1,Tampa Bay Lightning
+1326,Tim Peel,5,Columbus Blue Jackets
+1327,Tim Peel,1,Tampa Bay Lightning
+1328,Eric Furlatt,5,Buffalo Sabres
+1329,Eric Furlatt,4,Ottawa Senators
+1330,Jon McIsaac,5,Buffalo Sabres
+1331,Jon McIsaac,4,Ottawa Senators
+1332,Marc Joannette,1,Dallas Stars
+1333,Marc Joannette,3,Detroit Red Wings
+1334,Thomas John Luxmore,1,Dallas Stars
+1335,Thomas John Luxmore,3,Detroit Red Wings
+1336,Dan O'Halloran,2,New Jersey Devils
+1337,Dan O'Halloran,3,Winnipeg Jets
+1338,Trevor Hanson,2,New Jersey Devils
+1339,Trevor Hanson,3,Winnipeg Jets
+1340,Francois St-Laurent,1,Chicago Blackhawks
+1341,Francois St-Laurent,1,Florida Panthers
+1342,Frederick L'Ecuyer,1,Chicago Blackhawks
+1343,Frederick L'Ecuyer,1,Florida Panthers
+1344,Brian Pochmara,3,Colorado Avalanche
+1345,Brian Pochmara,5,Nashville Predators
+1346,Justin St. Pierre ,3,Colorado Avalanche
+1347,Justin St. Pierre ,5,Nashville Predators
+1348,Brad Meier,2,Edmonton Oilers
+1349,Brad Meier,4,Toronto Maple Leafs
+1350,Tom Kowal,2,Edmonton Oilers
+1351,Tom Kowal,4,Toronto Maple Leafs
+1352,Graham Skilliter,4,Minnesota Wild
+1353,Graham Skilliter,5,Vancouver Canucks
+1354,Wes McCauley,4,Minnesota Wild
+1355,Wes McCauley,5,Vancouver Canucks
+1356,Brad Watson,2,Anaheim Ducks
+1357,Brad Watson,1,Montréal Canadiens
+1358,Gord Dwyer,2,Anaheim Ducks
+1359,Gord Dwyer,1,Montréal Canadiens
+1360,Chris Schlenker ,1,Arizona Coyotes
+1361,Chris Schlenker ,2,San Jose Sharks
+1362,Jean Hebert,1,Arizona Coyotes
+1363,Jean Hebert,2,San Jose Sharks
+1364,Kyle Rehman,5,New York Islanders
+1365,Kyle Rehman,3,Pittsburgh Penguins
+1366,Tim Peel,5,New York Islanders
+1367,Tim Peel,3,Pittsburgh Penguins
+1368,Ian Walsh,3,Calgary Flames
+1369,Ian Walsh,0,Toronto Maple Leafs
+1370,Wes McCauley,3,Calgary Flames
+1371,Wes McCauley,0,Toronto Maple Leafs
+1372,Brad Watson,1,Los Angeles Kings
+1373,Brad Watson,4,San Jose Sharks
+1374,Chris Schlenker ,1,Los Angeles Kings
+1375,Chris Schlenker ,4,San Jose Sharks
+1376,Eric Furlatt,1,Boston Bruins
+1377,Eric Furlatt,1,Carolina Hurricanes
+1378,Justin St. Pierre ,1,Boston Bruins
+1379,Justin St. Pierre ,1,Carolina Hurricanes
+1380,Chris Lee,4,Buffalo Sabres
+1381,Chris Lee,3,New York Rangers
+1382,Jake Brenk,4,Buffalo Sabres
+1383,Jake Brenk,3,New York Rangers
+1384,Brad Meier,2,Dallas Stars
+1385,Brad Meier,6,Pittsburgh Penguins
+1386,Francois St-Laurent,2,Dallas Stars
+1387,Francois St-Laurent,6,Pittsburgh Penguins
+1388,Dan O'Halloran,3,New York Islanders
+1389,Dan O'Halloran,0,Washington Capitals
+1390,Kendrick Nicholson,3,New York Islanders
+1391,Kendrick Nicholson,0,Washington Capitals
+1392,Dean Morton,2,Ottawa Senators
+1393,Dean Morton,3,Philadelphia Flyers
+1394,Graham Skilliter,2,Ottawa Senators
+1395,Graham Skilliter,3,Philadelphia Flyers
+1396,Kyle Rehman,1,Detroit Red Wings
+1397,Kyle Rehman,2,Florida Panthers
+1398,Mike Leggo,1,Detroit Red Wings
+1399,Mike Leggo,2,Florida Panthers
+1400,Marc Joannette,5,St. Louis Blues
+1401,Marc Joannette,4,Tampa Bay Lightning
+1402,Tom Chmielewski,5,St. Louis Blues
+1403,Tom Chmielewski,4,Tampa Bay Lightning
+1404,Garrett Rank,6,Edmonton Oilers
+1405,Garrett Rank,3,Winnipeg Jets
+1406,Kelly Sutherland,6,Edmonton Oilers
+1407,Kelly Sutherland,3,Winnipeg Jets
+1408,Brian Pochmara,4,Chicago Blackhawks
+1409,Brian Pochmara,3,New Jersey Devils
+1410,Thomas John Luxmore,4,Chicago Blackhawks
+1411,Thomas John Luxmore,3,New Jersey Devils
+1412,Ghislain Hebert,2,Colorado Avalanche
+1413,Ghislain Hebert,3,Columbus Blue Jackets
+1414,Jean Hebert,2,Colorado Avalanche
+1415,Jean Hebert,3,Columbus Blue Jackets
+1416,Gord Dwyer,3,Arizona Coyotes
+1417,Gord Dwyer,4,Los Angeles Kings
+1418,Jon McIsaac,3,Arizona Coyotes
+1419,Jon McIsaac,4,Los Angeles Kings
+1420,Tom Kowal,3,Anaheim Ducks
+1421,Tom Kowal,1,Vancouver Canucks
+1422,Trevor Hanson,3,Anaheim Ducks
+1423,Trevor Hanson,1,Vancouver Canucks
+1424,Ian Walsh,2,Calgary Flames
+1425,Ian Walsh,2,Minnesota Wild
+1426,Trevor Hanson,2,Calgary Flames
+1427,Trevor Hanson,2,Minnesota Wild
+1428,Gord Dwyer,1,Montréal Canadiens
+1429,Gord Dwyer,2,San Jose Sharks
+1430,Jon McIsaac,1,Montréal Canadiens
+1431,Jon McIsaac,2,San Jose Sharks
+1432,Dean Morton,2,Boston Bruins
+1433,Dean Morton,1,Buffalo Sabres
+1434,Kendrick Nicholson,2,Boston Bruins
+1435,Kendrick Nicholson,1,Buffalo Sabres
+1436,Kevin Pollock,2,Carolina Hurricanes
+1437,Kevin Pollock,4,New York Rangers
+1438,Kyle Rehman,2,Carolina Hurricanes
+1439,Kyle Rehman,4,New York Rangers
+1440,Graham Skilliter,1,Chicago Blackhawks
+1441,Graham Skilliter,3,Philadelphia Flyers
+1442,Marc Joannette,1,Chicago Blackhawks
+1443,Marc Joannette,3,Philadelphia Flyers
+1444,Dan O'Rourke,4,Nashville Predators
+1445,Dan O'Rourke,5,New Jersey Devils
+1446,Tom Chmielewski,4,Nashville Predators
+1447,Tom Chmielewski,5,New Jersey Devils
+1448,Chris Lee,0,Florida Panthers
+1449,Chris Lee,2,Ottawa Senators
+1450,Garrett Rank,0,Florida Panthers
+1451,Garrett Rank,2,Ottawa Senators
+1452,Eric Furlatt,1,Tampa Bay Lightning
+1453,Eric Furlatt,1,Washington Capitals
+1454,Furman Furman,1,Tampa Bay Lightning
+1455,Furman Furman,1,Washington Capitals
+1456,Ghislain Hebert,3,Detroit Red Wings
+1457,Ghislain Hebert,5,Pittsburgh Penguins
+1458,Justin St. Pierre ,3,Detroit Red Wings
+1459,Justin St. Pierre ,5,Pittsburgh Penguins
+1460,Brad Meier,2,St. Louis Blues
+1461,Brad Meier,3,Winnipeg Jets
+1462,Frederick L'Ecuyer,2,St. Louis Blues
+1463,Frederick L'Ecuyer,3,Winnipeg Jets
+1464,Brad Watson,2,Toronto Maple Leafs
+1465,Brad Watson,2,Vancouver Canucks
+1466,Jean Hebert,2,Toronto Maple Leafs
+1467,Jean Hebert,2,Vancouver Canucks
+1468,Kelly Sutherland,2,Arizona Coyotes
+1469,Kelly Sutherland,2,Columbus Blue Jackets
+1470,Pierre Lambert,2,Arizona Coyotes
+1471,Pierre Lambert,2,Columbus Blue Jackets
+1472,Mike Leggo,0,Colorado Avalanche
+1473,Mike Leggo,3,Dallas Stars
+1474,Tom Kowal,0,Colorado Avalanche
+1475,Tom Kowal,3,Dallas Stars
+1476,Brian Pochmara,2,Anaheim Ducks
+1477,Brian Pochmara,3,Edmonton Oilers
+1478,Ian Walsh,2,Anaheim Ducks
+1479,Ian Walsh,3,Edmonton Oilers
+1480,Francois St-Laurent,1,Carolina Hurricanes
+1481,Francois St-Laurent,0,Tampa Bay Lightning
+1482,Wes McCauley,1,Carolina Hurricanes
+1483,Wes McCauley,0,Tampa Bay Lightning
+1484,Graham Skilliter,4,Detroit Red Wings
+1485,Graham Skilliter,3,New York Islanders
+1486,Justin St. Pierre ,4,Detroit Red Wings
+1487,Justin St. Pierre ,3,New York Islanders
+1488,Jon McIsaac,2,Nashville Predators
+1489,Jon McIsaac,4,Philadelphia Flyers
+1490,Tim Peel,2,Nashville Predators
+1491,Tim Peel,4,Philadelphia Flyers
+1492,Dan O'Halloran,1,Chicago Blackhawks
+1493,Dan O'Halloran,2,Winnipeg Jets
+1494,Kendrick Nicholson,1,Chicago Blackhawks
+1495,Kendrick Nicholson,2,Winnipeg Jets
+1496,Brad Watson,3,Anaheim Ducks
+1497,Brad Watson,8,Calgary Flames
+1498,Brian Pochmara,3,Anaheim Ducks
+1499,Brian Pochmara,8,Calgary Flames
+1500,Jean Hebert,1,Edmonton Oilers
+1501,Jean Hebert,2,Minnesota Wild
+1502,Thomas John Luxmore,1,Edmonton Oilers
+1503,Thomas John Luxmore,2,Minnesota Wild
+1504,Gord Dwyer,4,Los Angeles Kings
+1505,Gord Dwyer,4,Montréal Canadiens
+1506,Jake Brenk,4,Los Angeles Kings
+1507,Jake Brenk,4,Montréal Canadiens
+1508,Furman Furman,4,Boston Bruins
+1509,Furman Furman,3,Florida Panthers
+1510,Kevin Pollock,4,Boston Bruins
+1511,Kevin Pollock,3,Florida Panthers
+1512,Eric Furlatt,5,Ottawa Senators
+1513,Eric Furlatt,8,Pittsburgh Penguins
+1514,Kyle Rehman,5,Ottawa Senators
+1515,Kyle Rehman,8,Pittsburgh Penguins
+1516,Frederick L'Ecuyer,2,Buffalo Sabres
+1517,Frederick L'Ecuyer,3,Washington Capitals
+1518,Tom Kowal,2,Buffalo Sabres
+1519,Tom Kowal,3,Washington Capitals
+1520,Brad Meier,1,Arizona Coyotes
+1521,Brad Meier,4,Columbus Blue Jackets
+1522,Wes McCauley,1,Arizona Coyotes
+1523,Wes McCauley,4,Columbus Blue Jackets
+1524,Eric Furlatt,4,Buffalo Sabres
+1525,Eric Furlatt,3,Edmonton Oilers
+1526,Frederick L'Ecuyer,4,Buffalo Sabres
+1527,Frederick L'Ecuyer,3,Edmonton Oilers
+1528,Brad Meier,3,New Jersey Devils
+1529,Brad Meier,2,Vancouver Canucks
+1530,Dan O'Rourke,3,New Jersey Devils
+1531,Dan O'Rourke,2,Vancouver Canucks
+1532,Furman Furman,4,New York Islanders
+1533,Furman Furman,2,New York Rangers
+1534,Jean Hebert,4,New York Islanders
+1535,Jean Hebert,2,New York Rangers
+1536,Evgeny Romasko,2,Florida Panthers
+1537,Evgeny Romasko,3,Philadelphia Flyers
+1538,Tom Kowal,2,Florida Panthers
+1539,Tom Kowal,3,Philadelphia Flyers
+1540,Justin St. Pierre ,2,Montréal Canadiens
+1541,Justin St. Pierre ,3,St. Louis Blues
+1542,Kendrick Nicholson,2,Montréal Canadiens
+1543,Kendrick Nicholson,3,St. Louis Blues
+1544,Francois St-Laurent,3,Colorado Avalanche
+1545,Francois St-Laurent,4,Nashville Predators
+1546,Garrett Rank,3,Colorado Avalanche
+1547,Garrett Rank,4,Nashville Predators
+1548,Brad Watson,3,Detroit Red Wings
+1549,Brad Watson,3,Winnipeg Jets
+1550,Graham Skilliter,3,Detroit Red Wings
+1551,Graham Skilliter,3,Winnipeg Jets
+1552,Gord Dwyer,0,Arizona Coyotes
+1553,Gord Dwyer,4,Chicago Blackhawks
+1554,Tim Peel,0,Arizona Coyotes
+1555,Tim Peel,4,Chicago Blackhawks
+1556,Dean Morton,2,Calgary Flames
+1557,Dean Morton,1,Dallas Stars
+1558,Thomas John Luxmore,2,Calgary Flames
+1559,Thomas John Luxmore,1,Dallas Stars
+1560,Kelly Sutherland,3,Minnesota Wild
+1561,Kelly Sutherland,2,Toronto Maple Leafs
+1562,Kevin Pollock,3,Minnesota Wild
+1563,Kevin Pollock,2,Toronto Maple Leafs
+1564,Justin St. Pierre ,3,Boston Bruins
+1565,Justin St. Pierre ,4,Washington Capitals
+1566,Wes McCauley,3,Boston Bruins
+1567,Wes McCauley,4,Washington Capitals
+1568,Chris Lee,5,Anaheim Ducks
+1569,Chris Lee,5,Carolina Hurricanes
+1570,Trevor Hanson,5,Anaheim Ducks
+1571,Trevor Hanson,5,Carolina Hurricanes
+1572,Ghislain Hebert,4,Ottawa Senators
+1573,Ghislain Hebert,2,San Jose Sharks
+1574,Ian Walsh,4,Ottawa Senators
+1575,Ian Walsh,2,San Jose Sharks
+1576,Dan O'Rourke,2,Boston Bruins
+1577,Dan O'Rourke,4,Colorado Avalanche
+1578,Jon McIsaac,2,Boston Bruins
+1579,Jon McIsaac,4,Colorado Avalanche
+1580,Brian Pochmara,3,New York Islanders
+1581,Brian Pochmara,2,St. Louis Blues
+1582,Marc Joannette,3,New York Islanders
+1583,Marc Joannette,2,St. Louis Blues
+1584,Jean Hebert,5,Edmonton Oilers
+1585,Jean Hebert,6,Philadelphia Flyers
+1586,Kendrick Nicholson,5,Edmonton Oilers
+1587,Kendrick Nicholson,6,Philadelphia Flyers
+1588,Garrett Rank,5,Montréal Canadiens
+1589,Garrett Rank,2,New Jersey Devils
+1590,Kelly Sutherland,5,Montréal Canadiens
+1591,Kelly Sutherland,2,New Jersey Devils
+1592,Frederick L'Ecuyer,1,Tampa Bay Lightning
+1593,Frederick L'Ecuyer,5,Vancouver Canucks
+1594,Tom Kowal,1,Tampa Bay Lightning
+1595,Tom Kowal,5,Vancouver Canucks
+1596,Dean Morton,1,Florida Panthers
+1597,Dean Morton,5,Pittsburgh Penguins
+1598,Thomas John Luxmore,1,Florida Panthers
+1599,Thomas John Luxmore,5,Pittsburgh Penguins
+1600,Brad Meier,2,New York Rangers
+1601,Brad Meier,1,Winnipeg Jets
+1602,Tim Peel,2,New York Rangers
+1603,Tim Peel,1,Winnipeg Jets
+1604,Dan O'Halloran,5,Dallas Stars
+1605,Dan O'Halloran,2,Nashville Predators
+1606,Furman Furman,5,Dallas Stars
+1607,Furman Furman,2,Nashville Predators
+1608,Francois St-Laurent,1,Arizona Coyotes
+1609,Francois St-Laurent,2,Calgary Flames
+1610,Graham Skilliter,1,Arizona Coyotes
+1611,Graham Skilliter,2,Calgary Flames
+1612,Ghislain Hebert,3,Carolina Hurricanes
+1613,Ghislain Hebert,1,Los Angeles Kings
+1614,Ian Walsh,3,Carolina Hurricanes
+1615,Ian Walsh,1,Los Angeles Kings
+1616,Dan O'Rourke,1,Buffalo Sabres
+1617,Dan O'Rourke,4,Washington Capitals
+1618,Gord Dwyer,1,Buffalo Sabres
+1619,Gord Dwyer,4,Washington Capitals
+1620,Marc Joannette,4,Columbus Blue Jackets
+1621,Marc Joannette,1,Detroit Red Wings
+1622,Tom Chmielewski,4,Columbus Blue Jackets
+1623,Tom Chmielewski,1,Detroit Red Wings
+1624,Kendrick Nicholson,1,New Jersey Devils
+1625,Kendrick Nicholson,4,St. Louis Blues
+1626,Wes McCauley,1,New Jersey Devils
+1627,Wes McCauley,4,St. Louis Blues
+1628,Tim Peel,2,Edmonton Oilers
+1629,Tim Peel,2,Minnesota Wild
+1630,Trevor Hanson,2,Edmonton Oilers
+1631,Trevor Hanson,2,Minnesota Wild
+1632,Kelly Sutherland,0,Chicago Blackhawks
+1633,Kelly Sutherland,1,New York Rangers
+1634,Kyle Rehman,0,Chicago Blackhawks
+1635,Kyle Rehman,1,New York Rangers
+1636,Chris Lee,3,Anaheim Ducks
+1637,Chris Lee,2,San Jose Sharks
+1638,Jake Brenk,3,Anaheim Ducks
+1639,Jake Brenk,2,San Jose Sharks
+1640,Garrett Rank,2,Dallas Stars
+1641,Garrett Rank,4,Philadelphia Flyers
+1642,Kevin Pollock,2,Dallas Stars
+1643,Kevin Pollock,4,Philadelphia Flyers
+1644,Francois St-Laurent,4,Los Angeles Kings
+1645,Francois St-Laurent,1,Ottawa Senators
+1646,Justin St. Pierre ,4,Los Angeles Kings
+1647,Justin St. Pierre ,1,Ottawa Senators
+1648,Brian Pochmara,1,Boston Bruins
+1649,Brian Pochmara,4,Toronto Maple Leafs
+1650,Marc Joannette,1,Boston Bruins
+1651,Marc Joannette,4,Toronto Maple Leafs
+1652,Jon McIsaac,1,Colorado Avalanche
+1653,Jon McIsaac,10,Montréal Canadiens
+1654,Wes McCauley,1,Colorado Avalanche
+1655,Wes McCauley,10,Montréal Canadiens
+1656,Dean Morton,4,Pittsburgh Penguins
+1657,Dean Morton,3,Tampa Bay Lightning
+1658,Jean Hebert,4,Pittsburgh Penguins
+1659,Jean Hebert,3,Tampa Bay Lightning
+1660,Dan O'Halloran,4,Florida Panthers
+1661,Dan O'Halloran,2,Vancouver Canucks
+1662,Frederick L'Ecuyer,4,Florida Panthers
+1663,Frederick L'Ecuyer,2,Vancouver Canucks
+1664,Eric Furlatt,6,Columbus Blue Jackets
+1665,Eric Furlatt,2,New York Islanders
+1666,Trevor Hanson,6,Columbus Blue Jackets
+1667,Trevor Hanson,2,New York Islanders
+1668,Brad Watson,4,Arizona Coyotes
+1669,Brad Watson,1,Nashville Predators
+1670,Ian Walsh,4,Arizona Coyotes
+1671,Ian Walsh,1,Nashville Predators
+1672,Chris Schlenker ,6,Calgary Flames
+1673,Chris Schlenker ,2,Winnipeg Jets
+1674,Mike Leggo,6,Calgary Flames
+1675,Mike Leggo,2,Winnipeg Jets
+1676,Ghislain Hebert,3,Carolina Hurricanes
+1677,Ghislain Hebert,4,San Jose Sharks
+1678,Graham Skilliter,3,Carolina Hurricanes
+1679,Graham Skilliter,4,San Jose Sharks
+1680,Justin St. Pierre ,5,Anaheim Ducks
+1681,Justin St. Pierre ,1,Ottawa Senators
+1682,Thomas John Luxmore,5,Anaheim Ducks
+1683,Thomas John Luxmore,1,Ottawa Senators
+1684,Gord Dwyer,0,Detroit Red Wings
+1685,Gord Dwyer,1,Philadelphia Flyers
+1686,Jon McIsaac,0,Detroit Red Wings
+1687,Jon McIsaac,1,Philadelphia Flyers
+1688,Dan O'Rourke,0,Vancouver Canucks
+1689,Dan O'Rourke,3,Washington Capitals
+1690,Kyle Rehman,0,Vancouver Canucks
+1691,Kyle Rehman,3,Washington Capitals
+1692,Chris Lee,3,Minnesota Wild
+1693,Chris Lee,1,St. Louis Blues
+1694,Jake Brenk,3,Minnesota Wild
+1695,Jake Brenk,1,St. Louis Blues
+1696,Kendrick Nicholson,3,Colorado Avalanche
+1697,Kendrick Nicholson,1,Toronto Maple Leafs
+1698,Kevin Pollock,3,Colorado Avalanche
+1699,Kevin Pollock,1,Toronto Maple Leafs
+1700,Brian Pochmara,0,New Jersey Devils
+1701,Brian Pochmara,5,New York Rangers
+1702,Garrett Rank,0,New Jersey Devils
+1703,Garrett Rank,5,New York Rangers
+1704,Tim Peel,3,Chicago Blackhawks
+1705,Tim Peel,1,Dallas Stars
+1706,Tom Chmielewski,3,Chicago Blackhawks
+1707,Tom Chmielewski,1,Dallas Stars
+1708,Chris Schlenker ,3,Edmonton Oilers
+1709,Chris Schlenker ,2,Winnipeg Jets
+1710,Mike Leggo,3,Edmonton Oilers
+1711,Mike Leggo,2,Winnipeg Jets
+1712,Brian Pochmara,0,Arizona Coyotes
+1713,Brian Pochmara,7,Pittsburgh Penguins
+1714,Kelly Sutherland,0,Arizona Coyotes
+1715,Kelly Sutherland,7,Pittsburgh Penguins
+1716,Brad Meier,2,Boston Bruins
+1717,Brad Meier,1,Montréal Canadiens
+1718,Kyle Rehman,2,Boston Bruins
+1719,Kyle Rehman,1,Montréal Canadiens
+1720,Garrett Rank,6,Buffalo Sabres
+1721,Garrett Rank,3,Los Angeles Kings
+1722,Kevin Pollock,6,Buffalo Sabres
+1723,Kevin Pollock,3,Los Angeles Kings
+1724,Brad Watson,2,New York Islanders
+1725,Brad Watson,4,Washington Capitals
+1726,Ghislain Hebert,2,New York Islanders
+1727,Ghislain Hebert,4,Washington Capitals
+1728,Dan O'Rourke,2,Chicago Blackhawks
+1729,Dan O'Rourke,1,New York Rangers
+1730,Francois St-Laurent,2,Chicago Blackhawks
+1731,Francois St-Laurent,1,New York Rangers
+1732,Furman Furman,8,Carolina Hurricanes
+1733,Furman Furman,6,Vancouver Canucks
+1734,Marc Joannette,8,Carolina Hurricanes
+1735,Marc Joannette,6,Vancouver Canucks
+1736,Dean Morton,2,San Jose Sharks
+1737,Dean Morton,2,Toronto Maple Leafs
+1738,Eric Furlatt,2,San Jose Sharks
+1739,Eric Furlatt,2,Toronto Maple Leafs
+1740,Chris Lee,4,Arizona Coyotes
+1741,Chris Lee,1,Detroit Red Wings
+1742,Tom Chmielewski,4,Arizona Coyotes
+1743,Tom Chmielewski,1,Detroit Red Wings
+1744,Chris Schlenker ,6,Nashville Predators
+1745,Chris Schlenker ,3,St. Louis Blues
+1746,Gord Dwyer,6,Nashville Predators
+1747,Gord Dwyer,3,St. Louis Blues
+1748,Dan O'Halloran,1,Florida Panthers
+1749,Dan O'Halloran,5,Minnesota Wild
+1750,Justin St. Pierre ,1,Florida Panthers
+1751,Justin St. Pierre ,5,Minnesota Wild
+1752,Jean Hebert,2,Anaheim Ducks
+1753,Jean Hebert,6,Dallas Stars
+1754,Jon McIsaac,2,Anaheim Ducks
+1755,Jon McIsaac,6,Dallas Stars
+1756,Ian Walsh,3,Columbus Blue Jackets
+1757,Ian Walsh,1,Edmonton Oilers
+1758,Thomas John Luxmore,3,Columbus Blue Jackets
+1759,Thomas John Luxmore,1,Edmonton Oilers
+1760,Brad Meier,3,Ottawa Senators
+1761,Brad Meier,3,San Jose Sharks
+1762,Kendrick Nicholson,3,Ottawa Senators
+1763,Kendrick Nicholson,3,San Jose Sharks
+1764,Brad Watson,3,Boston Bruins
+1765,Brad Watson,4,Pittsburgh Penguins
+1766,Chris Schlenker ,3,Boston Bruins
+1767,Chris Schlenker ,4,Pittsburgh Penguins
+1768,Graham Skilliter,3,Calgary Flames
+1769,Graham Skilliter,6,Tampa Bay Lightning
+1770,Thomas John Luxmore,3,Calgary Flames
+1771,Thomas John Luxmore,6,Tampa Bay Lightning
+1772,Jean Hebert,3,Colorado Avalanche
+1773,Jean Hebert,4,Philadelphia Flyers
+1774,Trevor Hanson,3,Colorado Avalanche
+1775,Trevor Hanson,4,Philadelphia Flyers
+1776,Dan O'Halloran,4,Anaheim Ducks
+1777,Dan O'Halloran,3,Boston Bruins
+1778,Ghislain Hebert,4,Anaheim Ducks
+1779,Ghislain Hebert,3,Boston Bruins
+1780,Chris Lee,5,Chicago Blackhawks
+1781,Chris Lee,4,New York Islanders
+1782,Garrett Rank,5,Chicago Blackhawks
+1783,Garrett Rank,4,New York Islanders
+1784,Justin St. Pierre ,2,Arizona Coyotes
+1785,Justin St. Pierre ,2,Toronto Maple Leafs
+1786,Tim Peel,2,Arizona Coyotes
+1787,Tim Peel,2,Toronto Maple Leafs
+1788,Frederick L'Ecuyer,1,Detroit Red Wings
+1789,Frederick L'Ecuyer,4,Los Angeles Kings
+1790,Kevin Pollock,1,Detroit Red Wings
+1791,Kevin Pollock,4,Los Angeles Kings
+1792,Kelly Sutherland,2,New Jersey Devils
+1793,Kelly Sutherland,5,St. Louis Blues
+1794,Kyle Rehman,2,New Jersey Devils
+1795,Kyle Rehman,5,St. Louis Blues
+1796,Francois St-Laurent,5,Minnesota Wild
+1797,Francois St-Laurent,2,Nashville Predators
+1798,Trevor Hanson,5,Minnesota Wild
+1799,Trevor Hanson,2,Nashville Predators
+1800,Graham Skilliter,3,Florida Panthers
+1801,Graham Skilliter,3,Winnipeg Jets
+1802,Ian Walsh,3,Florida Panthers
+1803,Ian Walsh,3,Winnipeg Jets
+1804,Eric Furlatt,0,Dallas Stars
+1805,Eric Furlatt,2,New York Rangers
+1806,Tom Chmielewski,0,Dallas Stars
+1807,Tom Chmielewski,2,New York Rangers
+1808,Dan O'Halloran,3,Buffalo Sabres
+1809,Dan O'Halloran,2,New York Islanders
+1810,Justin St. Pierre ,3,Buffalo Sabres
+1811,Justin St. Pierre ,2,New York Islanders
+1812,Brian Pochmara,1,Los Angeles Kings
+1813,Brian Pochmara,0,Pittsburgh Penguins
+1814,Garrett Rank,1,Los Angeles Kings
+1815,Garrett Rank,0,Pittsburgh Penguins
+1816,Thomas John Luxmore,2,Montréal Canadiens
+1817,Thomas John Luxmore,4,San Jose Sharks
+1818,Tim Peel,2,Montréal Canadiens
+1819,Tim Peel,4,San Jose Sharks
+1820,Evgeny Romasko,3,Carolina Hurricanes
+1821,Evgeny Romasko,3,Washington Capitals
+1822,Tom Kowal,3,Carolina Hurricanes
+1823,Tom Kowal,3,Washington Capitals
+1824,Brad Watson,1,Colorado Avalanche
+1825,Brad Watson,3,Florida Panthers
+1826,Jake Brenk,1,Colorado Avalanche
+1827,Jake Brenk,3,Florida Panthers
+1828,Dean Morton,1,Calgary Flames
+1829,Dean Morton,4,Columbus Blue Jackets
+1830,Jean Hebert,1,Calgary Flames
+1831,Jean Hebert,4,Columbus Blue Jackets
+1832,Kendrick Nicholson,2,Tampa Bay Lightning
+1833,Kendrick Nicholson,4,Vancouver Canucks
+1834,Wes McCauley,2,Tampa Bay Lightning
+1835,Wes McCauley,4,Vancouver Canucks
+1836,Dan O'Rourke,3,Dallas Stars
+1837,Dan O'Rourke,1,Philadelphia Flyers
+1838,Francois St-Laurent,3,Dallas Stars
+1839,Francois St-Laurent,1,Philadelphia Flyers
+1840,Frederick L'Ecuyer,1,Arizona Coyotes
+1841,Frederick L'Ecuyer,4,Minnesota Wild
+1842,Marc Joannette,1,Arizona Coyotes
+1843,Marc Joannette,4,Minnesota Wild
+1844,Gord Dwyer,1,Pittsburgh Penguins
+1845,Gord Dwyer,2,Toronto Maple Leafs
+1846,Trevor Hanson,1,Pittsburgh Penguins
+1847,Trevor Hanson,2,Toronto Maple Leafs
+1848,Chris Lee,1,New Jersey Devils
+1849,Chris Lee,3,Ottawa Senators
+1850,Tim Peel,1,New Jersey Devils
+1851,Tim Peel,3,Ottawa Senators
+1852,Graham Skilliter,4,Anaheim Ducks
+1853,Graham Skilliter,6,Detroit Red Wings
+1854,Kelly Sutherland,4,Anaheim Ducks
+1855,Kelly Sutherland,6,Detroit Red Wings
+1856,Ian Walsh,2,Montréal Canadiens
+1857,Ian Walsh,1,Washington Capitals
+1858,Pierre Lambert,2,Montréal Canadiens
+1859,Pierre Lambert,1,Washington Capitals
+1860,Kyle Rehman,1,Buffalo Sabres
+1861,Kyle Rehman,1,Carolina Hurricanes
+1862,Mike Leggo,1,Buffalo Sabres
+1863,Mike Leggo,1,Carolina Hurricanes
+1864,Brian Pochmara,6,Chicago Blackhawks
+1865,Brian Pochmara,4,St. Louis Blues
+1866,Eric Furlatt,6,Chicago Blackhawks
+1867,Eric Furlatt,4,St. Louis Blues
+1868,Jon McIsaac,1,Nashville Predators
+1869,Jon McIsaac,1,New York Rangers
+1870,Kevin Pollock,1,Nashville Predators
+1871,Kevin Pollock,1,New York Rangers
+1872,Kendrick Nicholson,2,Edmonton Oilers
+1873,Kendrick Nicholson,2,Tampa Bay Lightning
+1874,Wes McCauley,2,Edmonton Oilers
+1875,Wes McCauley,2,Tampa Bay Lightning
+1876,Evgeny Romasko,1,Boston Bruins
+1877,Evgeny Romasko,0,Los Angeles Kings
+1878,Tom Kowal,1,Boston Bruins
+1879,Tom Kowal,0,Los Angeles Kings
+1880,Brad Meier,1,Colorado Avalanche
+1881,Brad Meier,4,Winnipeg Jets
+1882,Dean Morton,1,Colorado Avalanche
+1883,Dean Morton,4,Winnipeg Jets
+1884,Jake Brenk,4,Columbus Blue Jackets
+1885,Jake Brenk,3,Vancouver Canucks
+1886,Jean Hebert,4,Columbus Blue Jackets
+1887,Jean Hebert,3,Vancouver Canucks
+1888,Graham Skilliter,2,New York Islanders
+1889,Graham Skilliter,6,Ottawa Senators
+1890,Mike Leggo,2,New York Islanders
+1891,Mike Leggo,6,Ottawa Senators
+1892,Kelly Sutherland,4,Chicago Blackhawks
+1893,Kelly Sutherland,1,San Jose Sharks
+1894,Marc Joannette,4,Chicago Blackhawks
+1895,Marc Joannette,1,San Jose Sharks
+1896,Ian Walsh,2,New Jersey Devils
+1897,Ian Walsh,2,New York Rangers
+1898,Justin St. Pierre ,2,New Jersey Devils
+1899,Justin St. Pierre ,2,New York Rangers
+1900,Brad Watson,1,Nashville Predators
+1901,Brad Watson,1,Philadelphia Flyers
+1902,Ghislain Hebert,1,Nashville Predators
+1903,Ghislain Hebert,1,Philadelphia Flyers
+1904,Dan O'Rourke,3,Carolina Hurricanes
+1905,Dan O'Rourke,4,Detroit Red Wings
+1906,Frederick L'Ecuyer,3,Carolina Hurricanes
+1907,Frederick L'Ecuyer,4,Detroit Red Wings
+1908,Dan O'Halloran,3,Anaheim Ducks
+1909,Dan O'Halloran,2,Toronto Maple Leafs
+1910,Garrett Rank,3,Anaheim Ducks
+1911,Garrett Rank,2,Toronto Maple Leafs
+1912,Chris Lee,3,Edmonton Oilers
+1913,Chris Lee,2,St. Louis Blues
+1914,Jon McIsaac,3,Edmonton Oilers
+1915,Jon McIsaac,2,St. Louis Blues
+1916,Eric Furlatt,2,Arizona Coyotes
+1917,Eric Furlatt,4,Calgary Flames
+1918,Frederick L'Ecuyer,2,Arizona Coyotes
+1919,Frederick L'Ecuyer,4,Calgary Flames
+1920,Ian Walsh,2,Boston Bruins
+1921,Ian Walsh,4,New York Islanders
+1922,Wes McCauley,2,Boston Bruins
+1923,Wes McCauley,4,New York Islanders
+1924,Ghislain Hebert,5,Nashville Predators
+1925,Ghislain Hebert,1,New Jersey Devils
+1926,Marc Joannette,5,Nashville Predators
+1927,Marc Joannette,1,New Jersey Devils
+1928,Garrett Rank,2,New York Rangers
+1929,Garrett Rank,7,Pittsburgh Penguins
+1930,Mike Leggo,2,New York Rangers
+1931,Mike Leggo,7,Pittsburgh Penguins
+1932,Brad Meier,2,Columbus Blue Jackets
+1933,Brad Meier,2,Los Angeles Kings
+1934,Dan O'Rourke,2,Columbus Blue Jackets
+1935,Dan O'Rourke,2,Los Angeles Kings
+1936,Kendrick Nicholson,1,Anaheim Ducks
+1937,Kendrick Nicholson,5,Montréal Canadiens
+1938,Kevin Pollock,1,Anaheim Ducks
+1939,Kevin Pollock,5,Montréal Canadiens
+1940,Francois St-Laurent,1,Detroit Red Wings
+1941,Francois St-Laurent,4,Tampa Bay Lightning
+1942,Justin St. Pierre ,1,Detroit Red Wings
+1943,Justin St. Pierre ,4,Tampa Bay Lightning
+1944,Thomas John Luxmore,3,Buffalo Sabres
+1945,Thomas John Luxmore,3,Florida Panthers
+1946,Trevor Hanson,3,Buffalo Sabres
+1947,Trevor Hanson,3,Florida Panthers
+1948,Dean Morton,0,Colorado Avalanche
+1949,Dean Morton,2,Minnesota Wild
+1950,Tom Kowal,0,Colorado Avalanche
+1951,Tom Kowal,2,Minnesota Wild
+1952,Brad Watson,3,Chicago Blackhawks
+1953,Brad Watson,4,Ottawa Senators
+1954,Chris Schlenker ,3,Chicago Blackhawks
+1955,Chris Schlenker ,4,Ottawa Senators
+1956,Kelly Sutherland,2,Dallas Stars
+1957,Kelly Sutherland,3,St. Louis Blues
+1958,Kyle Rehman,2,Dallas Stars
+1959,Kyle Rehman,3,St. Louis Blues
+1960,Graham Skilliter,4,Vancouver Canucks
+1961,Graham Skilliter,1,Winnipeg Jets
+1962,Jean Hebert,4,Vancouver Canucks
+1963,Jean Hebert,1,Winnipeg Jets
+1964,Eric Furlatt,1,Calgary Flames
+1965,Eric Furlatt,4,San Jose Sharks
+1966,Frederick L'Ecuyer,1,Calgary Flames
+1967,Frederick L'Ecuyer,4,San Jose Sharks
+1968,Brad Meier,2,Philadelphia Flyers
+1969,Brad Meier,2,Washington Capitals
+1970,Mike Leggo,2,Philadelphia Flyers
+1971,Mike Leggo,2,Washington Capitals
+1972,Chris Lee,2,Arizona Coyotes
+1973,Chris Lee,3,Edmonton Oilers
+1974,Jon McIsaac,2,Arizona Coyotes
+1975,Jon McIsaac,3,Edmonton Oilers
+1976,Dean Morton,1,Buffalo Sabres
+1977,Dean Morton,3,Carolina Hurricanes
+1978,Kevin Pollock,1,Buffalo Sabres
+1979,Kevin Pollock,3,Carolina Hurricanes
+1980,Brian Pochmara,4,New Jersey Devils
+1981,Brian Pochmara,0,Philadelphia Flyers
+1982,Wes McCauley,4,New Jersey Devils
+1983,Wes McCauley,0,Philadelphia Flyers
+1984,Dan O'Halloran,7,Columbus Blue Jackets
+1985,Dan O'Halloran,1,Pittsburgh Penguins
+1986,Kendrick Nicholson,7,Columbus Blue Jackets
+1987,Kendrick Nicholson,1,Pittsburgh Penguins
+1988,Dan O'Rourke,4,Minnesota Wild
+1989,Dan O'Rourke,2,Montréal Canadiens
+1990,Eric Furlatt,4,Minnesota Wild
+1991,Eric Furlatt,2,Montréal Canadiens
+1992,Ghislain Hebert,1,Anaheim Ducks
+1993,Ghislain Hebert,2,Ottawa Senators
+1994,Marc Joannette,1,Anaheim Ducks
+1995,Marc Joannette,2,Ottawa Senators
+1996,Francois St-Laurent,2,St. Louis Blues
+1997,Francois St-Laurent,5,Tampa Bay Lightning
+1998,Thomas John Luxmore,2,St. Louis Blues
+1999,Thomas John Luxmore,5,Tampa Bay Lightning
+2000,Frederick L'Ecuyer,3,Boston Bruins
+2001,Frederick L'Ecuyer,1,Florida Panthers
+2002,Tim Peel,3,Boston Bruins
+2003,Tim Peel,1,Florida Panthers
+2004,Jean Hebert,4,Los Angeles Kings
+2005,Jean Hebert,0,Nashville Predators
+2006,Tom Chmielewski,4,Los Angeles Kings
+2007,Tom Chmielewski,0,Nashville Predators
+2008,Brad Watson,0,Colorado Avalanche
+2009,Brad Watson,6,Toronto Maple Leafs
+2010,Chris Schlenker ,0,Colorado Avalanche
+2011,Chris Schlenker ,6,Toronto Maple Leafs
+2012,Ian Walsh,1,Vancouver Canucks
+2013,Ian Walsh,4,Winnipeg Jets
+2014,Trevor Hanson,1,Vancouver Canucks
+2015,Trevor Hanson,4,Winnipeg Jets
+2016,Brian Pochmara,1,Buffalo Sabres
+2017,Brian Pochmara,5,New York Islanders
+2018,Tom Chmielewski,1,Buffalo Sabres
+2019,Tom Chmielewski,5,New York Islanders
+2020,Dan O'Rourke,7,Minnesota Wild
+2021,Dan O'Rourke,4,New York Rangers
+2022,Kendrick Nicholson,7,Minnesota Wild
+2023,Kendrick Nicholson,4,New York Rangers
+2024,Furman Furman,1,New Jersey Devils
+2025,Furman Furman,4,Pittsburgh Penguins
+2026,Kevin Pollock,1,New Jersey Devils
+2027,Kevin Pollock,4,Pittsburgh Penguins
+2028,Ghislain Hebert,0,Tampa Bay Lightning
+2029,Ghislain Hebert,4,Washington Capitals
+2030,Kelly Sutherland,0,Tampa Bay Lightning
+2031,Kelly Sutherland,4,Washington Capitals
+2032,Dan O'Halloran,2,Columbus Blue Jackets
+2033,Dan O'Halloran,1,Montréal Canadiens
+2034,Evgeny Romasko,2,Columbus Blue Jackets
+2035,Evgeny Romasko,1,Montréal Canadiens
+2036,Jean Hebert,3,Detroit Red Wings
+2037,Jean Hebert,3,Florida Panthers
+2038,Tim Peel,3,Detroit Red Wings
+2039,Tim Peel,3,Florida Panthers
+2040,Francois St-Laurent,2,Boston Bruins
+2041,Francois St-Laurent,3,Carolina Hurricanes
+2042,Frederick L'Ecuyer,2,Boston Bruins
+2043,Frederick L'Ecuyer,3,Carolina Hurricanes
+2044,Chris Lee,1,Chicago Blackhawks
+2045,Chris Lee,2,Colorado Avalanche
+2046,Jon McIsaac,1,Chicago Blackhawks
+2047,Jon McIsaac,2,Colorado Avalanche
+2048,Gord Dwyer,3,Dallas Stars
+2049,Gord Dwyer,2,Los Angeles Kings
+2050,Graham Skilliter,3,Dallas Stars
+2051,Graham Skilliter,2,Los Angeles Kings
+2052,Brad Meier,4,Calgary Flames
+2053,Brad Meier,1,Vancouver Canucks
+2054,Garrett Rank,4,Calgary Flames
+2055,Garrett Rank,1,Vancouver Canucks
+2056,Jake Brenk,1,Arizona Coyotes
+2057,Jake Brenk,4,Toronto Maple Leafs
+2058,Kyle Rehman,1,Arizona Coyotes
+2059,Kyle Rehman,4,Toronto Maple Leafs
+2060,Chris Schlenker ,2,Edmonton Oilers
+2061,Chris Schlenker ,3,San Jose Sharks
+2062,Justin St. Pierre ,2,Edmonton Oilers
+2063,Justin St. Pierre ,3,San Jose Sharks
+2064,Eric Furlatt,2,New Jersey Devils
+2065,Eric Furlatt,5,Pittsburgh Penguins
+2066,Trevor Hanson,2,New Jersey Devils
+2067,Trevor Hanson,5,Pittsburgh Penguins
+2068,Ian Walsh,4,New York Islanders
+2069,Ian Walsh,3,Washington Capitals
+2070,Marc Joannette,4,New York Islanders
+2071,Marc Joannette,3,Washington Capitals
+2072,Pierre Lambert,4,New York Rangers
+2073,Pierre Lambert,3,Ottawa Senators
+2074,Wes McCauley,4,New York Rangers
+2075,Wes McCauley,3,Ottawa Senators
+2076,Jean Hebert,3,Boston Bruins
+2077,Jean Hebert,4,Columbus Blue Jackets
+2078,Kelly Sutherland,3,Boston Bruins
+2079,Kelly Sutherland,4,Columbus Blue Jackets
+2080,Dan O'Halloran,4,Buffalo Sabres
+2081,Dan O'Halloran,3,Detroit Red Wings
+2082,Furman Furman,4,Buffalo Sabres
+2083,Furman Furman,3,Detroit Red Wings
+2084,Gord Dwyer,3,Minnesota Wild
+2085,Gord Dwyer,2,Nashville Predators
+2086,Thomas John Luxmore,3,Minnesota Wild
+2087,Thomas John Luxmore,2,Nashville Predators
+2088,Brad Meier,1,Chicago Blackhawks
+2089,Brad Meier,3,Winnipeg Jets
+2090,Dean Morton,1,Chicago Blackhawks
+2091,Dean Morton,3,Winnipeg Jets
+2092,Chris Schlenker ,6,Calgary Flames
+2093,Chris Schlenker ,3,Colorado Avalanche
+2094,Kyle Rehman,6,Calgary Flames
+2095,Kyle Rehman,3,Colorado Avalanche
+2096,Brad Watson,2,Arizona Coyotes
+2097,Brad Watson,3,Dallas Stars
+2098,Jake Brenk,2,Arizona Coyotes
+2099,Jake Brenk,3,Dallas Stars
+2100,Justin St. Pierre ,2,Anaheim Ducks
+2101,Justin St. Pierre ,3,San Jose Sharks
+2102,Tom Chmielewski,2,Anaheim Ducks
+2103,Tom Chmielewski,3,San Jose Sharks
+2104,Evgeny Romasko,2,Florida Panthers
+2105,Evgeny Romasko,2,Toronto Maple Leafs
+2106,Gord Dwyer,2,Florida Panthers
+2107,Gord Dwyer,2,Toronto Maple Leafs
+2108,Graham Skilliter,2,Carolina Hurricanes
+2109,Graham Skilliter,3,Pittsburgh Penguins
+2110,Tom Kowal,2,Carolina Hurricanes
+2111,Tom Kowal,3,Pittsburgh Penguins
+2112,Dan O'Rourke,3,Montréal Canadiens
+2113,Dan O'Rourke,4,Tampa Bay Lightning
+2114,Frederick L'Ecuyer,3,Montréal Canadiens
+2115,Frederick L'Ecuyer,4,Tampa Bay Lightning
+2116,Jon McIsaac,3,Philadelphia Flyers
+2117,Jon McIsaac,6,St. Louis Blues
+2118,Kevin Pollock,3,Philadelphia Flyers
+2119,Kevin Pollock,6,St. Louis Blues
+2120,Francois St-Laurent,1,Los Angeles Kings
+2121,Francois St-Laurent,2,Vancouver Canucks
+2122,Kendrick Nicholson,1,Los Angeles Kings
+2123,Kendrick Nicholson,2,Vancouver Canucks
+2124,Ghislain Hebert,4,Boston Bruins
+2125,Ghislain Hebert,2,Buffalo Sabres
+2126,Thomas John Luxmore,4,Boston Bruins
+2127,Thomas John Luxmore,2,Buffalo Sabres
+2128,Furman Furman,1,New Jersey Devils
+2129,Furman Furman,1,Washington Capitals
+2130,Trevor Hanson,1,New Jersey Devils
+2131,Trevor Hanson,1,Washington Capitals
+2132,Justin St. Pierre ,3,Detroit Red Wings
+2133,Justin St. Pierre ,2,Ottawa Senators
+2134,Tom Kowal,3,Detroit Red Wings
+2135,Tom Kowal,2,Ottawa Senators
+2136,Dan O'Rourke,2,Tampa Bay Lightning
+2137,Dan O'Rourke,3,Toronto Maple Leafs
+2138,Ian Walsh,2,Tampa Bay Lightning
+2139,Ian Walsh,3,Toronto Maple Leafs
+2140,Eric Furlatt,2,Florida Panthers
+2141,Eric Furlatt,3,Montréal Canadiens
+2142,Marc Joannette,2,Florida Panthers
+2143,Marc Joannette,3,Montréal Canadiens
+2144,Jake Brenk,3,Chicago Blackhawks
+2145,Jake Brenk,2,Nashville Predators
+2146,Jean Hebert,3,Chicago Blackhawks
+2147,Jean Hebert,2,Nashville Predators
+2148,Kelly Sutherland,6,Minnesota Wild
+2149,Kelly Sutherland,4,New York Islanders
+2150,Pierre Lambert,6,Minnesota Wild
+2151,Pierre Lambert,4,New York Islanders
+2152,Brad Meier,5,Columbus Blue Jackets
+2153,Brad Meier,3,Winnipeg Jets
+2154,Kyle Rehman,5,Columbus Blue Jackets
+2155,Kyle Rehman,3,Winnipeg Jets
+2156,Jon McIsaac,2,Colorado Avalanche
+2157,Jon McIsaac,4,Dallas Stars
+2158,Tim Peel,2,Colorado Avalanche
+2159,Tim Peel,4,Dallas Stars
+2160,Dan O'Halloran,3,Anaheim Ducks
+2161,Dan O'Halloran,1,Calgary Flames
+2162,Dean Morton,3,Anaheim Ducks
+2163,Dean Morton,1,Calgary Flames
+2164,Francois St-Laurent,3,Edmonton Oilers
+2165,Francois St-Laurent,1,Los Angeles Kings
+2166,Kendrick Nicholson,3,Edmonton Oilers
+2167,Kendrick Nicholson,1,Los Angeles Kings
+2168,Chris Lee,3,Arizona Coyotes
+2169,Chris Lee,6,New York Rangers
+2170,Garrett Rank,3,Arizona Coyotes
+2171,Garrett Rank,6,New York Rangers
+2172,Graham Skilliter,3,Carolina Hurricanes
+2173,Graham Skilliter,2,Chicago Blackhawks
+2174,Kevin Pollock,3,Carolina Hurricanes
+2175,Kevin Pollock,2,Chicago Blackhawks
+2176,Frederick L'Ecuyer,4,Nashville Predators
+2177,Frederick L'Ecuyer,0,St. Louis Blues
+2178,Wes McCauley,4,Nashville Predators
+2179,Wes McCauley,0,St. Louis Blues
+2180,Chris Schlenker ,2,Anaheim Ducks
+2181,Chris Schlenker ,3,Vancouver Canucks
+2182,Dan O'Halloran,2,Anaheim Ducks
+2183,Dan O'Halloran,3,Vancouver Canucks
+2184,Chris Lee,0,Philadelphia Flyers
+2185,Chris Lee,2,San Jose Sharks
+2186,Garrett Rank,0,Philadelphia Flyers
+2187,Garrett Rank,2,San Jose Sharks
+2188,Gord Dwyer,3,Boston Bruins
+2189,Gord Dwyer,1,Buffalo Sabres
+2190,Tom Kowal,3,Boston Bruins
+2191,Tom Kowal,1,Buffalo Sabres
+2192,Justin St. Pierre ,2,New Jersey Devils
+2193,Justin St. Pierre ,6,Washington Capitals
+2194,Marc Joannette,2,New Jersey Devils
+2195,Marc Joannette,6,Washington Capitals
+2196,Brad Watson,4,Columbus Blue Jackets
+2197,Brad Watson,2,Minnesota Wild
+2198,Kyle Rehman,4,Columbus Blue Jackets
+2199,Kyle Rehman,2,Minnesota Wild
+2200,Eric Furlatt,1,Carolina Hurricanes
+2201,Eric Furlatt,3,Tampa Bay Lightning
+2202,Jake Brenk,1,Carolina Hurricanes
+2203,Jake Brenk,3,Tampa Bay Lightning
+2204,Furman Furman,3,Montréal Canadiens
+2205,Furman Furman,4,Pittsburgh Penguins
+2206,Ian Walsh,3,Montréal Canadiens
+2207,Ian Walsh,4,Pittsburgh Penguins
+2208,Ghislain Hebert,6,New York Islanders
+2209,Ghislain Hebert,2,Winnipeg Jets
+2210,Jean Hebert,6,New York Islanders
+2211,Jean Hebert,2,Winnipeg Jets
+2212,Trevor Hanson,1,Dallas Stars
+2213,Trevor Hanson,3,Florida Panthers
+2214,Wes McCauley,1,Dallas Stars
+2215,Wes McCauley,3,Florida Panthers
+2216,Dean Morton,2,Colorado Avalanche
+2217,Dean Morton,6,New York Rangers
+2218,Frederick L'Ecuyer,2,Colorado Avalanche
+2219,Frederick L'Ecuyer,6,New York Rangers
+2220,Francois St-Laurent,2,Arizona Coyotes
+2221,Francois St-Laurent,4,Calgary Flames
+2222,Kendrick Nicholson,2,Arizona Coyotes
+2223,Kendrick Nicholson,4,Calgary Flames
+2224,Kelly Sutherland,2,Edmonton Oilers
+2225,Kelly Sutherland,2,Vancouver Canucks
+2226,Thomas John Luxmore,2,Edmonton Oilers
+2227,Thomas John Luxmore,2,Vancouver Canucks
+2228,Brian Pochmara,3,Los Angeles Kings
+2229,Brian Pochmara,2,San Jose Sharks
+2230,Jon McIsaac,3,Los Angeles Kings
+2231,Jon McIsaac,2,San Jose Sharks
+2232,Brad Meier,4,Detroit Red Wings
+2233,Brad Meier,5,Toronto Maple Leafs
+2234,Dan O'Rourke,4,Detroit Red Wings
+2235,Dan O'Rourke,5,Toronto Maple Leafs
+2236,Gord Dwyer,1,Ottawa Senators
+2237,Gord Dwyer,2,Washington Capitals
+2238,Graham Skilliter,1,Ottawa Senators
+2239,Graham Skilliter,2,Washington Capitals
+2240,Brian Pochmara,3,Anaheim Ducks
+2241,Brian Pochmara,3,Philadelphia Flyers
+2242,Jon McIsaac,3,Anaheim Ducks
+2243,Jon McIsaac,3,Philadelphia Flyers
+2244,Brad Watson,1,Chicago Blackhawks
+2245,Brad Watson,4,St. Louis Blues
+2246,Tim Peel,1,Chicago Blackhawks
+2247,Tim Peel,4,St. Louis Blues
+2248,Graham Skilliter,0,Boston Bruins
+2249,Graham Skilliter,3,New Jersey Devils
+2250,Kyle Rehman,0,Boston Bruins
+2251,Kyle Rehman,3,New Jersey Devils
+2252,Kelly Sutherland,2,Colorado Avalanche
+2253,Kelly Sutherland,3,Vancouver Canucks
+2254,Thomas John Luxmore,2,Colorado Avalanche
+2255,Thomas John Luxmore,3,Vancouver Canucks
+2256,Eric Furlatt,4,Buffalo Sabres
+2257,Eric Furlatt,1,New York Rangers
+2258,Marc Joannette,4,Buffalo Sabres
+2259,Marc Joannette,1,New York Rangers
+2260,Chris Lee,5,Toronto Maple Leafs
+2261,Chris Lee,6,Washington Capitals
+2262,Chris Schlenker ,5,Toronto Maple Leafs
+2263,Chris Schlenker ,6,Washington Capitals
+2264,Francois St-Laurent,1,Carolina Hurricanes
+2265,Francois St-Laurent,3,New Jersey Devils
+2266,Jon McIsaac,1,Carolina Hurricanes
+2267,Jon McIsaac,3,New Jersey Devils
+2268,Graham Skilliter,3,Columbus Blue Jackets
+2269,Graham Skilliter,1,Edmonton Oilers
+2270,Kevin Pollock,3,Columbus Blue Jackets
+2271,Kevin Pollock,1,Edmonton Oilers
+2272,Dan O'Halloran,4,Tampa Bay Lightning
+2273,Dan O'Halloran,6,Winnipeg Jets
+2274,Frederick L'Ecuyer,4,Tampa Bay Lightning
+2275,Frederick L'Ecuyer,6,Winnipeg Jets
+2276,Dean Morton,2,Montréal Canadiens
+2277,Dean Morton,1,Nashville Predators
+2278,Kyle Rehman,2,Montréal Canadiens
+2279,Kyle Rehman,1,Nashville Predators
+2280,Brian Pochmara,2,Los Angeles Kings
+2281,Brian Pochmara,1,San Jose Sharks
+2282,Thomas John Luxmore,2,Los Angeles Kings
+2283,Thomas John Luxmore,1,San Jose Sharks
+2284,Dan O'Halloran,1,Florida Panthers
+2285,Dan O'Halloran,4,Winnipeg Jets
+2286,Garrett Rank,1,Florida Panthers
+2287,Garrett Rank,4,Winnipeg Jets
+2288,Ghislain Hebert,5,New York Rangers
+2289,Ghislain Hebert,2,Philadelphia Flyers
+2290,Marc Joannette,5,New York Rangers
+2291,Marc Joannette,2,Philadelphia Flyers
+2292,Gord Dwyer,3,Dallas Stars
+2293,Gord Dwyer,4,Montréal Canadiens
+2294,Tom Chmielewski,3,Dallas Stars
+2295,Tom Chmielewski,4,Montréal Canadiens
+2296,Justin St. Pierre ,4,Calgary Flames
+2297,Justin St. Pierre ,1,Colorado Avalanche
+2298,Mike Leggo,4,Calgary Flames
+2299,Mike Leggo,1,Colorado Avalanche
+2300,Ian Walsh,0,Arizona Coyotes
+2301,Ian Walsh,3,Vancouver Canucks
+2302,Trevor Hanson,0,Arizona Coyotes
+2303,Trevor Hanson,3,Vancouver Canucks
+2304,Kelly Sutherland,2,Anaheim Ducks
+2305,Kelly Sutherland,0,Detroit Red Wings
+2306,Wes McCauley,2,Anaheim Ducks
+2307,Wes McCauley,0,Detroit Red Wings
+2308,Dan O'Rourke,3,Boston Bruins
+2309,Dan O'Rourke,4,Edmonton Oilers
+2310,Eric Furlatt,3,Boston Bruins
+2311,Eric Furlatt,4,Edmonton Oilers
+2312,Chris Lee,0,Columbus Blue Jackets
+2313,Chris Lee,5,Washington Capitals
+2314,Kendrick Nicholson,0,Columbus Blue Jackets
+2315,Kendrick Nicholson,5,Washington Capitals
+2316,Garrett Rank,6,Nashville Predators
+2317,Garrett Rank,1,Tampa Bay Lightning
+2318,Kevin Pollock,6,Nashville Predators
+2319,Kevin Pollock,1,Tampa Bay Lightning
+2320,Dean Morton,4,Carolina Hurricanes
+2321,Dean Morton,2,St. Louis Blues
+2322,Jean Hebert,4,Carolina Hurricanes
+2323,Jean Hebert,2,St. Louis Blues
+2324,Brad Meier,3,Buffalo Sabres
+2325,Brad Meier,4,Chicago Blackhawks
+2326,Brian Pochmara,3,Buffalo Sabres
+2327,Brian Pochmara,4,Chicago Blackhawks
+2328,Tim Peel,4,Detroit Red Wings
+2329,Tim Peel,0,Los Angeles Kings
+2330,Wes McCauley,4,Detroit Red Wings
+2331,Wes McCauley,0,Los Angeles Kings
+2332,Thomas John Luxmore,5,Minnesota Wild
+2333,Thomas John Luxmore,4,San Jose Sharks
+2334,Trevor Hanson,5,Minnesota Wild
+2335,Trevor Hanson,4,San Jose Sharks
+2336,Ghislain Hebert,2,Florida Panthers
+2337,Ghislain Hebert,1,Nashville Predators
+2338,Kevin Pollock,2,Florida Panthers
+2339,Kevin Pollock,1,Nashville Predators
+2340,Furman Furman,2,New Jersey Devils
+2341,Furman Furman,4,Toronto Maple Leafs
+2342,Steve Kozari,2,New Jersey Devils
+2343,Steve Kozari,4,Toronto Maple Leafs
+2344,Mike Leggo,1,Carolina Hurricanes
+2345,Mike Leggo,2,Chicago Blackhawks
+2346,Tom Chmielewski,1,Carolina Hurricanes
+2347,Tom Chmielewski,2,Chicago Blackhawks
+2348,Brad Watson,2,Colorado Avalanche
+2349,Brad Watson,1,New York Islanders
+2350,Jake Brenk,2,Colorado Avalanche
+2351,Jake Brenk,1,New York Islanders
+2352,Ian Walsh,2,Calgary Flames
+2353,Ian Walsh,4,Vancouver Canucks
+2354,Justin St. Pierre ,2,Calgary Flames
+2355,Justin St. Pierre ,4,Vancouver Canucks
+2356,Frederick L'Ecuyer,3,Anaheim Ducks
+2357,Frederick L'Ecuyer,2,Arizona Coyotes
+2358,Tim Peel,3,Anaheim Ducks
+2359,Tim Peel,2,Arizona Coyotes
+2360,Gord Dwyer,4,Buffalo Sabres
+2361,Gord Dwyer,3,Winnipeg Jets
+2362,Thomas John Luxmore,4,Buffalo Sabres
+2363,Thomas John Luxmore,3,Winnipeg Jets
+2364,Kelly Sutherland,4,Philadelphia Flyers
+2365,Kelly Sutherland,2,Tampa Bay Lightning
+2366,Tom Kowal,4,Philadelphia Flyers
+2367,Tom Kowal,2,Tampa Bay Lightning
+2368,Dan O'Halloran,4,Los Angeles Kings
+2369,Dan O'Halloran,3,Minnesota Wild
+2370,Frederick L'Ecuyer,4,Los Angeles Kings
+2371,Frederick L'Ecuyer,3,Minnesota Wild
+2372,Brian Pochmara,5,Montréal Canadiens
+2373,Brian Pochmara,3,Toronto Maple Leafs
+2374,Jean Hebert,5,Montréal Canadiens
+2375,Jean Hebert,3,Toronto Maple Leafs
+2376,Eric Furlatt,0,Ottawa Senators
+2377,Eric Furlatt,1,Washington Capitals
+2378,Jon McIsaac,0,Ottawa Senators
+2379,Jon McIsaac,1,Washington Capitals
+2380,Dean Morton,4,Boston Bruins
+2381,Dean Morton,0,Florida Panthers
+2382,Kevin Pollock,4,Boston Bruins
+2383,Kevin Pollock,0,Florida Panthers
+2384,Brad Meier,2,Edmonton Oilers
+2385,Brad Meier,1,New Jersey Devils
+2386,Dan O'Rourke,2,Edmonton Oilers
+2387,Dan O'Rourke,1,New Jersey Devils
+2388,Francois St-Laurent,4,Columbus Blue Jackets
+2389,Francois St-Laurent,5,New York Rangers
+2390,Mike Leggo,4,Columbus Blue Jackets
+2391,Mike Leggo,5,New York Rangers
+2392,Chris Lee,3,Dallas Stars
+2393,Chris Lee,4,St. Louis Blues
+2394,Garrett Rank,3,Dallas Stars
+2395,Garrett Rank,4,St. Louis Blues
+2396,Trevor Hanson,1,Arizona Coyotes
+2397,Trevor Hanson,1,New York Islanders
+2398,Wes McCauley,1,Arizona Coyotes
+2399,Wes McCauley,1,New York Islanders
+2400,Graham Skilliter,3,Calgary Flames
+2401,Graham Skilliter,1,Vancouver Canucks
+2402,Kyle Rehman,3,Calgary Flames
+2403,Kyle Rehman,1,Vancouver Canucks
+2404,Kendrick Nicholson,3,Detroit Red Wings
+2405,Kendrick Nicholson,6,San Jose Sharks
+2406,Tim Peel,3,Detroit Red Wings
+2407,Tim Peel,6,San Jose Sharks
+2408,Francis Charron,6,Pittsburgh Penguins
+2409,Francis Charron,2,Tampa Bay Lightning
+2410,Ghislain Hebert,6,Pittsburgh Penguins
+2411,Ghislain Hebert,2,Tampa Bay Lightning
+2412,Kelly Sutherland,3,Boston Bruins
+2413,Kelly Sutherland,4,Carolina Hurricanes
+2414,Tom Kowal,3,Boston Bruins
+2415,Tom Kowal,4,Carolina Hurricanes
+2416,Chris Schlenker ,2,Columbus Blue Jackets
+2417,Chris Schlenker ,1,Philadelphia Flyers
+2418,Dan O'Rourke,2,Columbus Blue Jackets
+2419,Dan O'Rourke,1,Philadelphia Flyers
+2420,Brian Pochmara,3,Edmonton Oilers
+2421,Brian Pochmara,5,Ottawa Senators
+2422,Marc Joannette,3,Edmonton Oilers
+2423,Marc Joannette,5,Ottawa Senators
+2424,Brad Meier,5,Chicago Blackhawks
+2425,Brad Meier,2,Nashville Predators
+2426,Justin St. Pierre ,5,Chicago Blackhawks
+2427,Justin St. Pierre ,2,Nashville Predators
+2428,Ian Walsh,1,Anaheim Ducks
+2429,Ian Walsh,2,Minnesota Wild
+2430,Kendrick Nicholson,1,Anaheim Ducks
+2431,Kendrick Nicholson,2,Minnesota Wild
+2432,Ghislain Hebert,3,Florida Panthers
+2433,Ghislain Hebert,0,New Jersey Devils
+2434,Mike Leggo,3,Florida Panthers
+2435,Mike Leggo,0,New Jersey Devils
+2436,Francois St-Laurent,1,Montréal Canadiens
+2437,Francois St-Laurent,4,Washington Capitals
+2438,Jean Hebert,1,Montréal Canadiens
+2439,Jean Hebert,4,Washington Capitals
+2440,Brad Watson,0,Calgary Flames
+2441,Brad Watson,2,Winnipeg Jets
+2442,Jon McIsaac,0,Calgary Flames
+2443,Jon McIsaac,2,Winnipeg Jets
+2444,Frederick L'Ecuyer,6,Dallas Stars
+2445,Frederick L'Ecuyer,4,Los Angeles Kings
+2446,Tim Peel,6,Dallas Stars
+2447,Tim Peel,4,Los Angeles Kings
+2448,Justin St. Pierre ,4,Buffalo Sabres
+2449,Justin St. Pierre ,1,Philadelphia Flyers
+2450,Wes McCauley,4,Buffalo Sabres
+2451,Wes McCauley,1,Philadelphia Flyers
+2452,Chris Rooney,5,Carolina Hurricanes
+2453,Chris Rooney,3,Columbus Blue Jackets
+2454,Kendrick Nicholson,5,Carolina Hurricanes
+2455,Kendrick Nicholson,3,Columbus Blue Jackets
+2456,Francis Charron,5,Boston Bruins
+2457,Francis Charron,3,St. Louis Blues
+2458,Gord Dwyer,5,Boston Bruins
+2459,Gord Dwyer,3,St. Louis Blues
+2460,Dan O'Rourke,2,Nashville Predators
+2461,Dan O'Rourke,1,Vancouver Canucks
+2462,Evgeny Romasko,2,Nashville Predators
+2463,Evgeny Romasko,1,Vancouver Canucks
+2464,Brad Watson,4,Chicago Blackhawks
+2465,Brad Watson,3,Detroit Red Wings
+2466,Thomas John Luxmore,4,Chicago Blackhawks
+2467,Thomas John Luxmore,3,Detroit Red Wings
+2468,Dan O'Halloran,3,Edmonton Oilers
+2469,Dan O'Halloran,5,San Jose Sharks
+2470,Kyle Rehman,3,Edmonton Oilers
+2471,Kyle Rehman,5,San Jose Sharks
+2472,Eric Furlatt,2,Anaheim Ducks
+2473,Eric Furlatt,0,Dallas Stars
+2474,Graham Skilliter,2,Anaheim Ducks
+2475,Graham Skilliter,0,Dallas Stars
+2476,Francois St-Laurent,2,Florida Panthers
+2477,Francois St-Laurent,1,New York Islanders
+2478,Kendrick Nicholson,2,Florida Panthers
+2479,Kendrick Nicholson,1,New York Islanders
+2480,Steve Kozari,7,Montréal Canadiens
+2481,Steve Kozari,4,Winnipeg Jets
+2482,Tom Kowal,7,Montréal Canadiens
+2483,Tom Kowal,4,Winnipeg Jets
+2484,Dean Morton,2,Pittsburgh Penguins
+2485,Dean Morton,5,Washington Capitals
+2486,Jean Hebert,2,Pittsburgh Penguins
+2487,Jean Hebert,5,Washington Capitals
+2488,Dan O'Halloran,3,Calgary Flames
+2489,Dan O'Halloran,2,San Jose Sharks
+2490,Jon McIsaac,3,Calgary Flames
+2491,Jon McIsaac,2,San Jose Sharks
+2492,Chris Rooney,4,Philadelphia Flyers
+2493,Chris Rooney,4,Vancouver Canucks
+2494,Kyle Rehman,4,Philadelphia Flyers
+2495,Kyle Rehman,4,Vancouver Canucks
+2496,Garrett Rank,4,Ottawa Senators
+2497,Garrett Rank,1,Pittsburgh Penguins
+2498,Wes McCauley,4,Ottawa Senators
+2499,Wes McCauley,1,Pittsburgh Penguins
+2500,Evgeny Romasko,2,Buffalo Sabres
+2501,Evgeny Romasko,4,Tampa Bay Lightning
+2502,Trevor Hanson,2,Buffalo Sabres
+2503,Trevor Hanson,4,Tampa Bay Lightning
+2504,Brian Pochmara,1,Boston Bruins
+2505,Brian Pochmara,2,Nashville Predators
+2506,Graham Skilliter,1,Boston Bruins
+2507,Graham Skilliter,2,Nashville Predators
+2508,Chris Lee,7,Minnesota Wild
+2509,Chris Lee,1,Montréal Canadiens
+2510,Justin St. Pierre ,7,Minnesota Wild
+2511,Justin St. Pierre ,1,Montréal Canadiens
+2512,Brad Watson,5,Dallas Stars
+2513,Brad Watson,2,Detroit Red Wings
+2514,Thomas John Luxmore,5,Dallas Stars
+2515,Thomas John Luxmore,2,Detroit Red Wings
+2516,Kevin Pollock,4,Anaheim Ducks
+2517,Kevin Pollock,1,Colorado Avalanche
+2518,Marc Joannette,4,Anaheim Ducks
+2519,Marc Joannette,1,Colorado Avalanche
+2520,Brad Meier,3,Edmonton Oilers
+2521,Brad Meier,2,New Jersey Devils
+2522,Jon McIsaac,3,Edmonton Oilers
+2523,Jon McIsaac,2,New Jersey Devils
+2524,Eric Furlatt,5,Los Angeles Kings
+2525,Eric Furlatt,1,St. Louis Blues
+2526,Mike Leggo,5,Los Angeles Kings
+2527,Mike Leggo,1,St. Louis Blues
+2528,Dean Morton,2,New York Rangers
+2529,Dean Morton,4,Toronto Maple Leafs
+2530,Francis Charron,2,New York Rangers
+2531,Francis Charron,4,Toronto Maple Leafs
+2532,Kelly Sutherland,0,Chicago Blackhawks
+2533,Kelly Sutherland,6,Washington Capitals
+2534,Kendrick Nicholson,0,Chicago Blackhawks
+2535,Kendrick Nicholson,6,Washington Capitals
+2536,Tim Peel,3,Columbus Blue Jackets
+2537,Tim Peel,1,Tampa Bay Lightning
+2538,Trevor Hanson,3,Columbus Blue Jackets
+2539,Trevor Hanson,1,Tampa Bay Lightning
+2540,Dan O'Rourke,2,Florida Panthers
+2541,Dan O'Rourke,5,New York Islanders
+2542,Tom Chmielewski,2,Florida Panthers
+2543,Tom Chmielewski,5,New York Islanders
+2544,Brian Pochmara,2,Buffalo Sabres
+2545,Brian Pochmara,5,Carolina Hurricanes
+2546,Frederick L'Ecuyer,2,Buffalo Sabres
+2547,Frederick L'Ecuyer,5,Carolina Hurricanes
+2548,Gord Dwyer,1,Calgary Flames
+2549,Gord Dwyer,2,New Jersey Devils
+2550,Tom Kowal,1,Calgary Flames
+2551,Tom Kowal,2,New Jersey Devils
+2552,Kevin Pollock,4,Arizona Coyotes
+2553,Kevin Pollock,3,Winnipeg Jets
+2554,Marc Joannette,4,Arizona Coyotes
+2555,Marc Joannette,3,Winnipeg Jets
+2556,Kyle Rehman,6,Boston Bruins
+2557,Kyle Rehman,3,Philadelphia Flyers
+2558,Steve Kozari,6,Boston Bruins
+2559,Steve Kozari,3,Philadelphia Flyers
+2560,Chris Lee,2,Colorado Avalanche
+2561,Chris Lee,3,Nashville Predators
+2562,Eric Furlatt,2,Colorado Avalanche
+2563,Eric Furlatt,3,Nashville Predators
+2564,Chris Rooney,5,Montréal Canadiens
+2565,Chris Rooney,4,New York Rangers
+2566,Dan O'Halloran,5,Montréal Canadiens
+2567,Dan O'Halloran,4,New York Rangers
+2568,Justin St. Pierre ,2,Ottawa Senators
+2569,Justin St. Pierre ,4,Toronto Maple Leafs
+2570,Kelly Sutherland,2,Ottawa Senators
+2571,Kelly Sutherland,4,Toronto Maple Leafs
+2572,Brad Meier,6,Detroit Red Wings
+2573,Brad Meier,3,Pittsburgh Penguins
+2574,Frederick L'Ecuyer,6,Detroit Red Wings
+2575,Frederick L'Ecuyer,3,Pittsburgh Penguins
+2576,Dan O'Rourke,3,Columbus Blue Jackets
+2577,Dan O'Rourke,4,Florida Panthers
+2578,Evgeny Romasko,3,Columbus Blue Jackets
+2579,Evgeny Romasko,4,Florida Panthers
+2580,Tim Peel,7,Carolina Hurricanes
+2581,Tim Peel,4,New York Islanders
+2582,Trevor Hanson,7,Carolina Hurricanes
+2583,Trevor Hanson,4,New York Islanders
+2584,Brad Watson,3,Anaheim Ducks
+2585,Brad Watson,0,Arizona Coyotes
+2586,Chris Schlenker ,3,Anaheim Ducks
+2587,Chris Schlenker ,0,Arizona Coyotes
+2588,Francois St-Laurent,4,Dallas Stars
+2589,Francois St-Laurent,5,Minnesota Wild
+2590,Jean Hebert,4,Dallas Stars
+2591,Jean Hebert,5,Minnesota Wild
+2592,Ghislain Hebert,1,Calgary Flames
+2593,Ghislain Hebert,1,Edmonton Oilers
+2594,Gord Dwyer,1,Calgary Flames
+2595,Gord Dwyer,1,Edmonton Oilers
+2596,Ian Walsh,3,Los Angeles Kings
+2597,Ian Walsh,2,Winnipeg Jets
+2598,Thomas John Luxmore,3,Los Angeles Kings
+2599,Thomas John Luxmore,2,Winnipeg Jets
+2600,Graham Skilliter,0,San Jose Sharks
+2601,Graham Skilliter,4,St. Louis Blues
+2602,Mike Leggo,0,San Jose Sharks
+2603,Mike Leggo,4,St. Louis Blues
+2604,Francis Charron,0,Philadelphia Flyers
+2605,Francis Charron,5,Washington Capitals
+2606,Steve Kozari,0,Philadelphia Flyers
+2607,Steve Kozari,5,Washington Capitals
+2608,Kevin Pollock,2,Chicago Blackhawks
+2609,Kevin Pollock,3,Minnesota Wild
+2610,Wes McCauley,2,Chicago Blackhawks
+2611,Wes McCauley,3,Minnesota Wild
+2612,Garrett Rank,2,New Jersey Devils
+2613,Garrett Rank,1,Vancouver Canucks
+2614,Tom Kowal,2,New Jersey Devils
+2615,Tom Kowal,1,Vancouver Canucks
+2616,Marc Joannette,1,Anaheim Ducks
+2617,Marc Joannette,2,St. Louis Blues
+2618,Thomas John Luxmore,1,Anaheim Ducks
+2619,Thomas John Luxmore,2,St. Louis Blues
+2620,Francois St-Laurent,0,Boston Bruins
+2621,Francois St-Laurent,4,New York Islanders
+2622,Furman Furman,0,Boston Bruins
+2623,Furman Furman,4,New York Islanders
+2624,Brad Meier,4,Buffalo Sabres
+2625,Brad Meier,1,Dallas Stars
+2626,Pierre Lambert,4,Buffalo Sabres
+2627,Pierre Lambert,1,Dallas Stars
+2628,Dean Morton,1,Detroit Red Wings
+2629,Dean Morton,0,Montréal Canadiens
+2630,Mike Leggo,1,Detroit Red Wings
+2631,Mike Leggo,0,Montréal Canadiens
+2632,Brad Watson,1,Los Angeles Kings
+2633,Brad Watson,2,Tampa Bay Lightning
+2634,Chris Schlenker ,1,Los Angeles Kings
+2635,Chris Schlenker ,2,Tampa Bay Lightning
+2636,Chris Lee,5,San Jose Sharks
+2637,Chris Lee,2,Winnipeg Jets
+2638,Jean Hebert,5,San Jose Sharks
+2639,Jean Hebert,2,Winnipeg Jets
+2640,Dan O'Halloran,8,Pittsburgh Penguins
+2641,Dan O'Halloran,7,Washington Capitals
+2642,Frederick L'Ecuyer,8,Pittsburgh Penguins
+2643,Frederick L'Ecuyer,7,Washington Capitals
+2644,Ghislain Hebert,1,Arizona Coyotes
+2645,Ghislain Hebert,3,Edmonton Oilers
+2646,Tom Kowal,1,Arizona Coyotes
+2647,Tom Kowal,3,Edmonton Oilers
+2648,Dean Morton,7,Dallas Stars
+2649,Dean Morton,6,New York Rangers
+2650,Mike Leggo,7,Dallas Stars
+2651,Mike Leggo,6,New York Rangers
+2652,Steve Kozari,1,Carolina Hurricanes
+2653,Steve Kozari,4,Columbus Blue Jackets
+2654,Wes McCauley,1,Carolina Hurricanes
+2655,Wes McCauley,4,Columbus Blue Jackets
+2656,Chris Rooney,3,Buffalo Sabres
+2657,Chris Rooney,4,Toronto Maple Leafs
+2658,Jon McIsaac,3,Buffalo Sabres
+2659,Jon McIsaac,4,Toronto Maple Leafs
+2660,Dan O'Halloran,6,Ottawa Senators
+2661,Dan O'Halloran,4,St. Louis Blues
+2662,Jake Brenk,6,Ottawa Senators
+2663,Jake Brenk,4,St. Louis Blues
+2664,Ian Walsh,3,Minnesota Wild
+2665,Ian Walsh,4,New Jersey Devils
+2666,Kevin Pollock,3,Minnesota Wild
+2667,Kevin Pollock,4,New Jersey Devils
+2668,Brad Watson,6,Chicago Blackhawks
+2669,Brad Watson,4,Colorado Avalanche
+2670,Thomas John Luxmore,6,Chicago Blackhawks
+2671,Thomas John Luxmore,4,Colorado Avalanche
+2672,Francis Charron,5,Calgary Flames
+2673,Francis Charron,2,Florida Panthers
+2674,Trevor Hanson,5,Calgary Flames
+2675,Trevor Hanson,2,Florida Panthers
+2676,Ghislain Hebert,0,Nashville Predators
+2677,Ghislain Hebert,1,Vancouver Canucks
+2678,Marc Joannette,0,Nashville Predators
+2679,Marc Joannette,1,Vancouver Canucks
+2680,Brian Pochmara,2,Anaheim Ducks
+2681,Brian Pochmara,1,Tampa Bay Lightning
+2682,Tim Peel,2,Anaheim Ducks
+2683,Tim Peel,1,Tampa Bay Lightning
+2684,Dan O'Rourke,1,Montréal Canadiens
+2685,Dan O'Rourke,4,Pittsburgh Penguins
+2686,Furman Furman,1,Montréal Canadiens
+2687,Furman Furman,4,Pittsburgh Penguins
+2688,Evgeny Romasko,3,Arizona Coyotes
+2689,Evgeny Romasko,6,Winnipeg Jets
+2690,Kelly Sutherland,3,Arizona Coyotes
+2691,Kelly Sutherland,6,Winnipeg Jets
+2692,Garrett Rank,5,Boston Bruins
+2693,Garrett Rank,5,Detroit Red Wings
+2694,Steve Kozari,5,Boston Bruins
+2695,Steve Kozari,5,Detroit Red Wings
+2696,Francis Charron,4,Edmonton Oilers
+2697,Francis Charron,3,Florida Panthers
+2698,Trevor Hanson,4,Edmonton Oilers
+2699,Trevor Hanson,3,Florida Panthers
+2700,Gord Dwyer,2,Los Angeles Kings
+2701,Gord Dwyer,3,San Jose Sharks
+2702,Jean Hebert,2,Los Angeles Kings
+2703,Jean Hebert,3,San Jose Sharks
+2704,Chris Rooney,0,Dallas Stars
+2705,Chris Rooney,3,New York Islanders
+2706,Kendrick Nicholson,0,Dallas Stars
+2707,Kendrick Nicholson,3,New York Islanders
+2708,Ian Walsh,0,Columbus Blue Jackets
+2709,Ian Walsh,2,Ottawa Senators
+2710,Tom Chmielewski,0,Columbus Blue Jackets
+2711,Tom Chmielewski,2,Ottawa Senators
+2712,Francois St-Laurent,5,New York Rangers
+2713,Francois St-Laurent,2,Toronto Maple Leafs
+2714,Graham Skilliter,5,New York Rangers
+2715,Graham Skilliter,2,Toronto Maple Leafs
+2716,Justin St. Pierre ,3,St. Louis Blues
+2717,Justin St. Pierre ,7,Washington Capitals
+2718,Wes McCauley,3,St. Louis Blues
+2719,Wes McCauley,7,Washington Capitals
+2720,Eric Furlatt,3,Arizona Coyotes
+2721,Eric Furlatt,4,Minnesota Wild
+2722,Jon McIsaac,3,Arizona Coyotes
+2723,Jon McIsaac,4,Minnesota Wild
+2724,Brad Meier,3,Calgary Flames
+2725,Brad Meier,4,Nashville Predators
+2726,Tom Kowal,3,Calgary Flames
+2727,Tom Kowal,4,Nashville Predators
+2728,Gord Dwyer,2,Anaheim Ducks
+2729,Gord Dwyer,1,Colorado Avalanche
+2730,Kyle Rehman,2,Anaheim Ducks
+2731,Kyle Rehman,1,Colorado Avalanche
+2732,Brad Watson,2,San Jose Sharks
+2733,Brad Watson,1,Tampa Bay Lightning
+2734,Brian Pochmara,2,San Jose Sharks
+2735,Brian Pochmara,1,Tampa Bay Lightning
+2736,Chris Rooney,0,Boston Bruins
+2737,Chris Rooney,1,Chicago Blackhawks
+2738,Graham Skilliter,0,Boston Bruins
+2739,Graham Skilliter,1,Chicago Blackhawks
+2740,Dan O'Rourke,3,Buffalo Sabres
+2741,Dan O'Rourke,2,Detroit Red Wings
+2742,Kendrick Nicholson,3,Buffalo Sabres
+2743,Kendrick Nicholson,2,Detroit Red Wings
+2744,Garrett Rank,1,Carolina Hurricanes
+2745,Garrett Rank,7,Pittsburgh Penguins
+2746,Tim Peel,1,Carolina Hurricanes
+2747,Tim Peel,7,Pittsburgh Penguins
+2748,Dean Morton,3,Montréal Canadiens
+2749,Dean Morton,1,New Jersey Devils
+2750,Frederick L'Ecuyer,3,Montréal Canadiens
+2751,Frederick L'Ecuyer,1,New Jersey Devils
+2752,Francis Charron,2,Edmonton Oilers
+2753,Francis Charron,2,Nashville Predators
+2754,Kelly Sutherland,2,Edmonton Oilers
+2755,Kelly Sutherland,2,Nashville Predators
+2756,Brian Pochmara,1,Florida Panthers
+2757,Brian Pochmara,2,Vancouver Canucks
+2758,Chris Lee,1,Florida Panthers
+2759,Chris Lee,2,Vancouver Canucks
+2760,Chris Schlenker ,3,St. Louis Blues
+2761,Chris Schlenker ,5,Winnipeg Jets
+2762,Gord Dwyer,3,St. Louis Blues
+2763,Gord Dwyer,5,Winnipeg Jets
+2764,Justin St. Pierre ,2,Carolina Hurricanes
+2765,Justin St. Pierre ,3,Columbus Blue Jackets
+2766,Tim Peel,2,Carolina Hurricanes
+2767,Tim Peel,3,Columbus Blue Jackets
+2768,Kendrick Nicholson,2,Ottawa Senators
+2769,Kendrick Nicholson,2,Toronto Maple Leafs
+2770,Kevin Pollock,2,Ottawa Senators
+2771,Kevin Pollock,2,Toronto Maple Leafs
+2772,Ghislain Hebert,3,Buffalo Sabres
+2773,Ghislain Hebert,2,Montréal Canadiens
+2774,Marc Joannette,3,Buffalo Sabres
+2775,Marc Joannette,2,Montréal Canadiens
+2776,Dean Morton,2,Los Angeles Kings
+2777,Dean Morton,4,New York Islanders
+2778,Tom Kowal,2,Los Angeles Kings
+2779,Tom Kowal,4,New York Islanders
+2780,Dan O'Halloran,4,New Jersey Devils
+2781,Dan O'Halloran,1,Philadelphia Flyers
+2782,Francois St-Laurent,4,New Jersey Devils
+2783,Francois St-Laurent,1,Philadelphia Flyers
+2784,Jon McIsaac,3,Dallas Stars
+2785,Jon McIsaac,4,Washington Capitals
+2786,Steve Kozari,3,Dallas Stars
+2787,Steve Kozari,4,Washington Capitals
+2788,Kyle Rehman,5,Arizona Coyotes
+2789,Kyle Rehman,3,Tampa Bay Lightning
+2790,Wes McCauley,5,Arizona Coyotes
+2791,Wes McCauley,3,Tampa Bay Lightning
+2792,Brad Meier,3,Anaheim Ducks
+2793,Brad Meier,5,Minnesota Wild
+2794,Eric Furlatt,3,Anaheim Ducks
+2795,Eric Furlatt,5,Minnesota Wild
+2796,Chris Lee,3,Calgary Flames
+2797,Chris Lee,7,Edmonton Oilers
+2798,Furman Furman,3,Calgary Flames
+2799,Furman Furman,7,Edmonton Oilers
+2800,Ian Walsh,2,Colorado Avalanche
+2801,Ian Walsh,3,San Jose Sharks
+2802,Mike Leggo,2,Colorado Avalanche
+2803,Mike Leggo,3,San Jose Sharks
+2804,Dan O'Rourke,1,Boston Bruins
+2805,Dan O'Rourke,5,Pittsburgh Penguins
+2806,Thomas John Luxmore,1,Boston Bruins
+2807,Thomas John Luxmore,5,Pittsburgh Penguins
+2808,Brian Pochmara,0,Detroit Red Wings
+2809,Brian Pochmara,1,New York Rangers
+2810,Jake Brenk,0,Detroit Red Wings
+2811,Jake Brenk,1,New York Rangers
+2812,Chris Rooney,7,Columbus Blue Jackets
+2813,Chris Rooney,6,Ottawa Senators
+2814,Garrett Rank,7,Columbus Blue Jackets
+2815,Garrett Rank,6,Ottawa Senators
+2816,Frederick L'Ecuyer,2,New York Islanders
+2817,Frederick L'Ecuyer,3,Philadelphia Flyers
+2818,Trevor Hanson,2,New York Islanders
+2819,Trevor Hanson,3,Philadelphia Flyers
+2820,Francois St-Laurent,4,Chicago Blackhawks
+2821,Francois St-Laurent,2,Vancouver Canucks
+2822,Jean Hebert,4,Chicago Blackhawks
+2823,Jean Hebert,2,Vancouver Canucks
+2824,Brad Watson,2,Minnesota Wild
+2825,Brad Watson,4,Nashville Predators
+2826,Chris Schlenker ,2,Minnesota Wild
+2827,Chris Schlenker ,4,Nashville Predators
+2828,Tom Kowal,2,Los Angeles Kings
+2829,Tom Kowal,3,New York Rangers
+2830,Trevor Hanson,2,Los Angeles Kings
+2831,Trevor Hanson,3,New York Rangers
+2832,Brad Meier,1,Carolina Hurricanes
+2833,Brad Meier,6,Washington Capitals
+2834,Jake Brenk,1,Carolina Hurricanes
+2835,Jake Brenk,6,Washington Capitals
+2836,Dean Morton,0,Calgary Flames
+2837,Dean Morton,4,Toronto Maple Leafs
+2838,Ghislain Hebert,0,Calgary Flames
+2839,Ghislain Hebert,4,Toronto Maple Leafs
+2840,Eric Furlatt,3,Anaheim Ducks
+2841,Eric Furlatt,2,Winnipeg Jets
+2842,Jon McIsaac,3,Anaheim Ducks
+2843,Jon McIsaac,2,Winnipeg Jets
+2844,Steve Kozari,2,Colorado Avalanche
+2845,Steve Kozari,5,San Jose Sharks
+2846,Tim Peel,2,Colorado Avalanche
+2847,Tim Peel,5,San Jose Sharks
+2848,Ian Walsh,3,Arizona Coyotes
+2849,Ian Walsh,2,Florida Panthers
+2850,Justin St. Pierre ,3,Arizona Coyotes
+2851,Justin St. Pierre ,2,Florida Panthers
+2852,Jean Hebert,4,Boston Bruins
+2853,Jean Hebert,3,Detroit Red Wings
+2854,Kyle Rehman,4,Boston Bruins
+2855,Kyle Rehman,3,Detroit Red Wings
+2856,Kelly Sutherland,3,Los Angeles Kings
+2857,Kelly Sutherland,1,New Jersey Devils
+2858,Wes McCauley,3,Los Angeles Kings
+2859,Wes McCauley,1,New Jersey Devils
+2860,Brad Meier,2,Columbus Blue Jackets
+2861,Brad Meier,4,New York Islanders
+2862,Marc Joannette,2,Columbus Blue Jackets
+2863,Marc Joannette,4,New York Islanders
+2864,Tom Kowal,0,Pittsburgh Penguins
+2865,Tom Kowal,3,St. Louis Blues
+2866,Trevor Hanson,0,Pittsburgh Penguins
+2867,Trevor Hanson,3,St. Louis Blues
+2868,Francis Charron,1,Calgary Flames
+2869,Francis Charron,5,Montréal Canadiens
+2870,Garrett Rank,1,Calgary Flames
+2871,Garrett Rank,5,Montréal Canadiens
+2872,Brad Watson,3,Ottawa Senators
+2873,Brad Watson,0,Washington Capitals
+2874,Dan O'Rourke,3,Ottawa Senators
+2875,Dan O'Rourke,0,Washington Capitals
+2876,Dan O'Halloran,5,Buffalo Sabres
+2877,Dan O'Halloran,4,Nashville Predators
+2878,Francois St-Laurent,5,Buffalo Sabres
+2879,Francois St-Laurent,4,Nashville Predators
+2880,Chris Lee,4,San Jose Sharks
+2881,Chris Lee,3,Winnipeg Jets
+2882,Kevin Pollock,4,San Jose Sharks
+2883,Kevin Pollock,3,Winnipeg Jets
+2884,Furman Furman,2,Chicago Blackhawks
+2885,Furman Furman,5,Tampa Bay Lightning
+2886,Gord Dwyer,2,Chicago Blackhawks
+2887,Gord Dwyer,5,Tampa Bay Lightning
+2888,Brian Pochmara,2,Dallas Stars
+2889,Brian Pochmara,2,Minnesota Wild
+2890,Frederick L'Ecuyer,2,Dallas Stars
+2891,Frederick L'Ecuyer,2,Minnesota Wild
+2892,Gord Dwyer,0,Detroit Red Wings
+2893,Gord Dwyer,4,Toronto Maple Leafs
+2894,Pierre Lambert,0,Detroit Red Wings
+2895,Pierre Lambert,4,Toronto Maple Leafs
+2896,Furman Furman,0,New York Rangers
+2897,Furman Furman,2,Philadelphia Flyers
+2898,Wes McCauley,0,New York Rangers
+2899,Wes McCauley,2,Philadelphia Flyers
+2900,Jon McIsaac,2,Colorado Avalanche
+2901,Jon McIsaac,3,Vancouver Canucks
+2902,Thomas John Luxmore,2,Colorado Avalanche
+2903,Thomas John Luxmore,3,Vancouver Canucks
+2904,Ian Walsh,0,Anaheim Ducks
+2905,Ian Walsh,4,Edmonton Oilers
+2906,Mike Leggo,0,Anaheim Ducks
+2907,Mike Leggo,4,Edmonton Oilers
+2908,Chris Rooney,4,Boston Bruins
+2909,Chris Rooney,3,Pittsburgh Penguins
+2910,Dean Morton,4,Boston Bruins
+2911,Dean Morton,3,Pittsburgh Penguins
+2912,Dan O'Rourke,2,New Jersey Devils
+2913,Dan O'Rourke,5,Washington Capitals
+2914,Ghislain Hebert,2,New Jersey Devils
+2915,Ghislain Hebert,5,Washington Capitals
+2916,Brad Watson,1,Montréal Canadiens
+2917,Brad Watson,3,New York Islanders
+2918,Garrett Rank,1,Montréal Canadiens
+2919,Garrett Rank,3,New York Islanders
+2920,Francis Charron,2,Philadelphia Flyers
+2921,Francis Charron,1,Toronto Maple Leafs
+2922,Francois St-Laurent,2,Philadelphia Flyers
+2923,Francois St-Laurent,1,Toronto Maple Leafs
+2924,Gord Dwyer,0,Carolina Hurricanes
+2925,Gord Dwyer,3,Los Angeles Kings
+2926,Kendrick Nicholson,0,Carolina Hurricanes
+2927,Kendrick Nicholson,3,Los Angeles Kings
+2928,Jean Hebert,3,Calgary Flames
+2929,Jean Hebert,2,Ottawa Senators
+2930,Marc Joannette,3,Calgary Flames
+2931,Marc Joannette,2,Ottawa Senators
+2932,Dan O'Halloran,2,Florida Panthers
+2933,Dan O'Halloran,1,Tampa Bay Lightning
+2934,Kyle Rehman,2,Florida Panthers
+2935,Kyle Rehman,1,Tampa Bay Lightning
+2936,Chris Lee,3,Columbus Blue Jackets
+2937,Chris Lee,4,Nashville Predators
+2938,Frederick L'Ecuyer,3,Columbus Blue Jackets
+2939,Frederick L'Ecuyer,4,Nashville Predators
+2940,Tom Chmielewski,5,Minnesota Wild
+2941,Tom Chmielewski,1,St. Louis Blues
+2942,Tom Kowal,5,Minnesota Wild
+2943,Tom Kowal,1,St. Louis Blues
+2944,Steve Kozari,3,Chicago Blackhawks
+2945,Steve Kozari,5,Winnipeg Jets
+2946,Tim Peel,3,Chicago Blackhawks
+2947,Tim Peel,5,Winnipeg Jets
+2948,Justin St. Pierre ,3,Buffalo Sabres
+2949,Justin St. Pierre ,4,Dallas Stars
+2950,Thomas John Luxmore,3,Buffalo Sabres
+2951,Thomas John Luxmore,4,Dallas Stars
+2952,Brian Pochmara,3,Arizona Coyotes
+2953,Brian Pochmara,0,Vancouver Canucks
+2954,Mike Leggo,3,Arizona Coyotes
+2955,Mike Leggo,0,Vancouver Canucks
+2956,Graham Skilliter,4,Edmonton Oilers
+2957,Graham Skilliter,1,San Jose Sharks
+2958,Trevor Hanson,4,Edmonton Oilers
+2959,Trevor Hanson,1,San Jose Sharks
+2960,Frederick L'Ecuyer,3,New York Islanders
+2961,Frederick L'Ecuyer,2,Washington Capitals
+2962,Ian Walsh,3,New York Islanders
+2963,Ian Walsh,2,Washington Capitals
+2964,Jon McIsaac,6,Columbus Blue Jackets
+2965,Jon McIsaac,4,New York Rangers
+2966,Marc Joannette,6,Columbus Blue Jackets
+2967,Marc Joannette,4,New York Rangers
+2968,Francis Charron,2,Nashville Predators
+2969,Francis Charron,4,Pittsburgh Penguins
+2970,Kendrick Nicholson,2,Nashville Predators
+2971,Kendrick Nicholson,4,Pittsburgh Penguins
+2972,Jean Hebert,5,Carolina Hurricanes
+2973,Jean Hebert,1,Philadelphia Flyers
+2974,Kevin Pollock,5,Carolina Hurricanes
+2975,Kevin Pollock,1,Philadelphia Flyers
+2976,Brad Meier,2,Buffalo Sabres
+2977,Brad Meier,5,Montréal Canadiens
+2978,Evgeny Romasko,2,Buffalo Sabres
+2979,Evgeny Romasko,5,Montréal Canadiens
+2980,Brian Pochmara,3,Detroit Red Wings
+2981,Brian Pochmara,4,New Jersey Devils
+2982,Eric Furlatt,3,Detroit Red Wings
+2983,Eric Furlatt,4,New Jersey Devils
+2984,Dan O'Halloran,4,Boston Bruins
+2985,Dan O'Halloran,3,Tampa Bay Lightning
+2986,Thomas John Luxmore,4,Boston Bruins
+2987,Thomas John Luxmore,3,Tampa Bay Lightning
+2988,Jake Brenk,6,Florida Panthers
+2989,Jake Brenk,5,Ottawa Senators
+2990,Steve Kozari,6,Florida Panthers
+2991,Steve Kozari,5,Ottawa Senators
+2992,Francois St-Laurent,3,St. Louis Blues
+2993,Francois St-Laurent,5,Winnipeg Jets
+2994,Tim Peel,3,St. Louis Blues
+2995,Tim Peel,5,Winnipeg Jets
+2996,Gord Dwyer,6,Dallas Stars
+2997,Gord Dwyer,3,Toronto Maple Leafs
+2998,Kyle Rehman,6,Dallas Stars
+2999,Kyle Rehman,3,Toronto Maple Leafs
+3000,Dean Morton,2,Edmonton Oilers
+3001,Dean Morton,5,Minnesota Wild
+3002,Ghislain Hebert,2,Edmonton Oilers
+3003,Ghislain Hebert,5,Minnesota Wild
+3004,Chris Rooney,2,Arizona Coyotes
+3005,Chris Rooney,3,Los Angeles Kings
+3006,Justin St. Pierre ,2,Arizona Coyotes
+3007,Justin St. Pierre ,3,Los Angeles Kings
+3008,Graham Skilliter,5,Anaheim Ducks
+3009,Graham Skilliter,1,Colorado Avalanche
+3010,Trevor Hanson,5,Anaheim Ducks
+3011,Trevor Hanson,1,Colorado Avalanche
+3012,Tom Kowal,1,Chicago Blackhawks
+3013,Tom Kowal,3,San Jose Sharks
+3014,Wes McCauley,1,Chicago Blackhawks
+3015,Wes McCauley,3,San Jose Sharks
+3016,Garrett Rank,3,Boston Bruins
+3017,Garrett Rank,5,Washington Capitals
+3018,Kelly Sutherland,3,Boston Bruins
+3019,Kelly Sutherland,5,Washington Capitals
+3020,Dean Morton,5,Calgary Flames
+3021,Dean Morton,1,Minnesota Wild
+3022,Ghislain Hebert,5,Calgary Flames
+3023,Ghislain Hebert,1,Minnesota Wild
+3024,Chris Rooney,0,Colorado Avalanche
+3025,Chris Rooney,5,Los Angeles Kings
+3026,Graham Skilliter,0,Colorado Avalanche
+3027,Graham Skilliter,5,Los Angeles Kings
+3028,Brad Watson,1,Buffalo Sabres
+3029,Brad Watson,2,New York Rangers
+3030,Kyle Rehman,1,Buffalo Sabres
+3031,Kyle Rehman,2,New York Rangers
+3032,Brad Meier,1,Montréal Canadiens
+3033,Brad Meier,3,Philadelphia Flyers
+3034,Frederick L'Ecuyer,1,Montréal Canadiens
+3035,Frederick L'Ecuyer,3,Philadelphia Flyers
+3036,Ian Walsh,5,Ottawa Senators
+3037,Ian Walsh,2,Tampa Bay Lightning
+3038,Kevin Pollock,5,Ottawa Senators
+3039,Kevin Pollock,2,Tampa Bay Lightning
+3040,Dan O'Rourke,5,St. Louis Blues
+3041,Dan O'Rourke,1,Toronto Maple Leafs
+3042,Mike Leggo,5,St. Louis Blues
+3043,Mike Leggo,1,Toronto Maple Leafs
+3044,Eric Furlatt,0,Edmonton Oilers
+3045,Eric Furlatt,2,Nashville Predators
+3046,Garrett Rank,0,Edmonton Oilers
+3047,Garrett Rank,2,Nashville Predators
+3048,Steve Kozari,3,Dallas Stars
+3049,Steve Kozari,4,Winnipeg Jets
+3050,Tom Kowal,3,Dallas Stars
+3051,Tom Kowal,4,Winnipeg Jets
+3052,Francis Charron,3,Arizona Coyotes
+3053,Francis Charron,4,Chicago Blackhawks
+3054,Jon McIsaac,3,Arizona Coyotes
+3055,Jon McIsaac,4,Chicago Blackhawks
+3056,Ghislain Hebert,4,San Jose Sharks
+3057,Ghislain Hebert,1,Vancouver Canucks
+3058,Wes McCauley,4,San Jose Sharks
+3059,Wes McCauley,1,Vancouver Canucks
+3060,Brian Pochmara,3,Columbus Blue Jackets
+3061,Brian Pochmara,4,Pittsburgh Penguins
+3062,Justin St. Pierre ,3,Columbus Blue Jackets
+3063,Justin St. Pierre ,4,Pittsburgh Penguins
+3064,Dan O'Halloran,5,Detroit Red Wings
+3065,Dan O'Halloran,4,New York Islanders
+3066,Tim Peel,5,Detroit Red Wings
+3067,Tim Peel,4,New York Islanders
+3068,Jean Hebert,1,Anaheim Ducks
+3069,Jean Hebert,2,Florida Panthers
+3070,Kelly Sutherland,1,Anaheim Ducks
+3071,Kelly Sutherland,2,Florida Panthers
+3072,Chris Lee,4,Calgary Flames
+3073,Chris Lee,3,New Jersey Devils
+3074,Thomas John Luxmore,4,Calgary Flames
+3075,Thomas John Luxmore,3,New Jersey Devils
+3076,Chris Rooney,2,Carolina Hurricanes
+3077,Chris Rooney,1,Edmonton Oilers
+3078,Francois St-Laurent,2,Carolina Hurricanes
+3079,Francois St-Laurent,1,Edmonton Oilers
+3080,Gord Dwyer,2,Montréal Canadiens
+3081,Gord Dwyer,3,Washington Capitals
+3082,Kendrick Nicholson,2,Montréal Canadiens
+3083,Kendrick Nicholson,3,Washington Capitals
+3084,Dan O'Rourke,1,Los Angeles Kings
+3085,Dan O'Rourke,0,Philadelphia Flyers
+3086,Ian Walsh,1,Los Angeles Kings
+3087,Ian Walsh,0,Philadelphia Flyers
+3088,Francis Charron,5,Colorado Avalanche
+3089,Francis Charron,2,Winnipeg Jets
+3090,Ghislain Hebert,5,Colorado Avalanche
+3091,Ghislain Hebert,2,Winnipeg Jets
+3092,Chris Lee,5,Boston Bruins
+3093,Chris Lee,6,Toronto Maple Leafs
+3094,Jon McIsaac,5,Boston Bruins
+3095,Jon McIsaac,6,Toronto Maple Leafs
+3096,Dean Morton,4,Buffalo Sabres
+3097,Dean Morton,0,Ottawa Senators
+3098,Tim Peel,4,Buffalo Sabres
+3099,Tim Peel,0,Ottawa Senators
+3100,Jean Hebert,2,Anaheim Ducks
+3101,Jean Hebert,2,Tampa Bay Lightning
+3102,Tom Kowal,2,Anaheim Ducks
+3103,Tom Kowal,2,Tampa Bay Lightning
+3104,Brad Meier,5,Carolina Hurricanes
+3105,Brad Meier,4,New York Islanders
+3106,Brad Watson,5,Carolina Hurricanes
+3107,Brad Watson,4,New York Islanders
+3108,Mike Leggo,1,Columbus Blue Jackets
+3109,Mike Leggo,5,New Jersey Devils
+3110,Thomas John Luxmore,1,Columbus Blue Jackets
+3111,Thomas John Luxmore,5,New Jersey Devils
+3112,Kevin Pollock,4,Pittsburgh Penguins
+3113,Kevin Pollock,1,St. Louis Blues
+3114,Steve Kozari,4,Pittsburgh Penguins
+3115,Steve Kozari,1,St. Louis Blues
+3116,Kyle Rehman,1,Detroit Red Wings
+3117,Kyle Rehman,0,Nashville Predators
+3118,Marc Joannette,1,Detroit Red Wings
+3119,Marc Joannette,0,Nashville Predators
+3120,Eric Furlatt,5,Chicago Blackhawks
+3121,Eric Furlatt,3,Dallas Stars
+3122,Frederick L'Ecuyer,5,Chicago Blackhawks
+3123,Frederick L'Ecuyer,3,Dallas Stars
+3124,Graham Skilliter,6,Minnesota Wild
+3125,Graham Skilliter,3,Vancouver Canucks
+3126,Wes McCauley,6,Minnesota Wild
+3127,Wes McCauley,3,Vancouver Canucks
+3128,Garrett Rank,2,Arizona Coyotes
+3129,Garrett Rank,2,San Jose Sharks
+3130,Trevor Hanson,2,Arizona Coyotes
+3131,Trevor Hanson,2,San Jose Sharks
+3132,Brian Pochmara,0,Los Angeles Kings
+3133,Brian Pochmara,5,Washington Capitals
+3134,Chris Rooney,0,Los Angeles Kings
+3135,Chris Rooney,5,Washington Capitals
+3136,Dan O'Halloran,0,Edmonton Oilers
+3137,Dan O'Halloran,0,Montréal Canadiens
+3138,Francois St-Laurent,0,Edmonton Oilers
+3139,Francois St-Laurent,0,Montréal Canadiens
+3140,Justin St. Pierre ,3,Calgary Flames
+3141,Justin St. Pierre ,4,New York Rangers
+3142,Kelly Sutherland,3,Calgary Flames
+3143,Kelly Sutherland,4,New York Rangers
+3144,Gord Dwyer,1,Buffalo Sabres
+3145,Gord Dwyer,2,New Jersey Devils
+3146,Ian Walsh,1,Buffalo Sabres
+3147,Ian Walsh,2,New Jersey Devils
+3148,Tom Kowal,6,New York Islanders
+3149,Tom Kowal,5,Toronto Maple Leafs
+3150,Trevor Hanson,6,New York Islanders
+3151,Trevor Hanson,5,Toronto Maple Leafs
+3152,Brad Watson,0,Philadelphia Flyers
+3153,Brad Watson,2,St. Louis Blues
+3154,Pierre Lambert,0,Philadelphia Flyers
+3155,Pierre Lambert,2,St. Louis Blues
+3156,Kelly Sutherland,5,Buffalo Sabres
+3157,Kelly Sutherland,4,San Jose Sharks
+3158,Marc Joannette,5,Buffalo Sabres
+3159,Marc Joannette,4,San Jose Sharks
+3160,Chris Rooney,1,Anaheim Ducks
+3161,Chris Rooney,4,New York Rangers
+3162,Dan O'Rourke,1,Anaheim Ducks
+3163,Dan O'Rourke,4,New York Rangers
+3164,Steve Kozari,2,Calgary Flames
+3165,Steve Kozari,2,Pittsburgh Penguins
+3166,Wes McCauley,2,Calgary Flames
+3167,Wes McCauley,2,Pittsburgh Penguins
+3168,Tom Kowal,0,Carolina Hurricanes
+3169,Tom Kowal,5,Washington Capitals
+3170,Trevor Hanson,0,Carolina Hurricanes
+3171,Trevor Hanson,5,Washington Capitals
+3172,Eric Furlatt,1,Dallas Stars
+3173,Eric Furlatt,3,Toronto Maple Leafs
+3174,Garrett Rank,1,Dallas Stars
+3175,Garrett Rank,3,Toronto Maple Leafs
+3176,Francois St-Laurent,0,Ottawa Senators
+3177,Francois St-Laurent,6,St. Louis Blues
+3178,Gord Dwyer,0,Ottawa Senators
+3179,Gord Dwyer,6,St. Louis Blues
+3180,Francis Charron,3,Columbus Blue Jackets
+3181,Francis Charron,2,Detroit Red Wings
+3182,Ian Walsh,3,Columbus Blue Jackets
+3183,Ian Walsh,2,Detroit Red Wings
+3184,Dean Morton,0,Los Angeles Kings
+3185,Dean Morton,5,Tampa Bay Lightning
+3186,Jean Hebert,0,Los Angeles Kings
+3187,Jean Hebert,5,Tampa Bay Lightning
+3188,Thomas John Luxmore,4,Nashville Predators
+3189,Thomas John Luxmore,2,Vancouver Canucks
+3190,Tim Peel,4,Nashville Predators
+3191,Tim Peel,2,Vancouver Canucks
+3192,Graham Skilliter,4,Minnesota Wild
+3193,Graham Skilliter,2,Winnipeg Jets
+3194,Justin St. Pierre ,4,Minnesota Wild
+3195,Justin St. Pierre ,2,Winnipeg Jets
+3196,Brian Pochmara,4,Colorado Avalanche
+3197,Brian Pochmara,0,Montréal Canadiens
+3198,Kyle Rehman,4,Colorado Avalanche
+3199,Kyle Rehman,0,Montréal Canadiens
+3200,Chris Lee,4,Chicago Blackhawks
+3201,Chris Lee,3,Minnesota Wild
+3202,Kyle Rehman,4,Chicago Blackhawks
+3203,Kyle Rehman,3,Minnesota Wild
+3204,Dan O'Rourke,6,Boston Bruins
+3205,Dan O'Rourke,3,San Jose Sharks
+3206,Tim Peel,6,Boston Bruins
+3207,Tim Peel,3,San Jose Sharks
+3208,Francois St-Laurent,5,Anaheim Ducks
+3209,Francois St-Laurent,2,Buffalo Sabres
+3210,Ghislain Hebert,5,Anaheim Ducks
+3211,Ghislain Hebert,2,Buffalo Sabres
+3212,Gord Dwyer,3,Nashville Predators
+3213,Gord Dwyer,4,New York Rangers
+3214,Jean Hebert,3,Nashville Predators
+3215,Jean Hebert,4,New York Rangers
+3216,Dan O'Halloran,3,New York Islanders
+3217,Dan O'Halloran,1,Philadelphia Flyers
+3218,Kelly Sutherland,3,New York Islanders
+3219,Kelly Sutherland,1,Philadelphia Flyers
+3220,Kevin Pollock,3,Detroit Red Wings
+3221,Kevin Pollock,6,Washington Capitals
+3222,Wes McCauley,3,Detroit Red Wings
+3223,Wes McCauley,6,Washington Capitals
+3224,Eric Furlatt,0,Columbus Blue Jackets
+3225,Eric Furlatt,3,Vancouver Canucks
+3226,Frederick L'Ecuyer,0,Columbus Blue Jackets
+3227,Frederick L'Ecuyer,3,Vancouver Canucks
+3228,Marc Joannette,2,St. Louis Blues
+3229,Marc Joannette,1,Toronto Maple Leafs
+3230,Trevor Hanson,2,St. Louis Blues
+3231,Trevor Hanson,1,Toronto Maple Leafs
+3232,Francis Charron,2,Dallas Stars
+3233,Francis Charron,3,Ottawa Senators
+3234,Jon McIsaac,2,Dallas Stars
+3235,Jon McIsaac,3,Ottawa Senators
+3236,Dean Morton,3,Florida Panthers
+3237,Dean Morton,6,Los Angeles Kings
+3238,Thomas John Luxmore,3,Florida Panthers
+3239,Thomas John Luxmore,6,Los Angeles Kings
+3240,Brad Meier,1,Colorado Avalanche
+3241,Brad Meier,4,Pittsburgh Penguins
+3242,Kendrick Nicholson,1,Colorado Avalanche
+3243,Kendrick Nicholson,4,Pittsburgh Penguins
+3244,Brad Watson,4,Arizona Coyotes
+3245,Brad Watson,5,Montréal Canadiens
+3246,Graham Skilliter,4,Arizona Coyotes
+3247,Graham Skilliter,5,Montréal Canadiens
+3248,Mike Leggo,1,Minnesota Wild
+3249,Mike Leggo,1,Tampa Bay Lightning
+3250,Steve Kozari,1,Minnesota Wild
+3251,Steve Kozari,1,Tampa Bay Lightning
+3252,Chris Rooney,5,Chicago Blackhawks
+3253,Chris Rooney,2,Winnipeg Jets
+3254,Kyle Rehman,5,Chicago Blackhawks
+3255,Kyle Rehman,2,Winnipeg Jets
+3256,Dan O'Rourke,4,Boston Bruins
+3257,Dan O'Rourke,3,Vancouver Canucks
+3258,Tim Peel,4,Boston Bruins
+3259,Tim Peel,3,Vancouver Canucks
+3260,Eric Furlatt,0,New York Islanders
+3261,Eric Furlatt,3,Ottawa Senators
+3262,Kelly Sutherland,0,New York Islanders
+3263,Kelly Sutherland,3,Ottawa Senators
+3264,Francis Charron,2,Philadelphia Flyers
+3265,Francis Charron,1,San Jose Sharks
+3266,Gord Dwyer,2,Philadelphia Flyers
+3267,Gord Dwyer,1,San Jose Sharks
+3268,Dean Morton,7,Florida Panthers
+3269,Dean Morton,4,Nashville Predators
+3270,Jon McIsaac,7,Florida Panthers
+3271,Jon McIsaac,4,Nashville Predators
+3272,Brad Meier,2,Carolina Hurricanes
+3273,Brad Meier,5,Dallas Stars
+3274,Kendrick Nicholson,2,Carolina Hurricanes
+3275,Kendrick Nicholson,5,Dallas Stars
+3276,Chris Lee,2,Columbus Blue Jackets
+3277,Chris Lee,1,Detroit Red Wings
+3278,Ghislain Hebert,2,Columbus Blue Jackets
+3279,Ghislain Hebert,1,Detroit Red Wings
+3280,Francois St-Laurent,3,Buffalo Sabres
+3281,Francois St-Laurent,1,Toronto Maple Leafs
+3282,Thomas John Luxmore,3,Buffalo Sabres
+3283,Thomas John Luxmore,1,Toronto Maple Leafs
+3284,Brian Pochmara,2,Montréal Canadiens
+3285,Brian Pochmara,4,St. Louis Blues
+3286,Jean Hebert,2,Montréal Canadiens
+3287,Jean Hebert,4,St. Louis Blues
+3288,Dan O'Halloran,2,Colorado Avalanche
+3289,Dan O'Halloran,4,New York Rangers
+3290,Tom Chmielewski,2,Colorado Avalanche
+3291,Tom Chmielewski,4,New York Rangers
+3292,Kevin Pollock,4,Anaheim Ducks
+3293,Kevin Pollock,6,Washington Capitals
+3294,Pierre Lambert,4,Anaheim Ducks
+3295,Pierre Lambert,6,Washington Capitals
+3296,Chris Rooney,4,Tampa Bay Lightning
+3297,Chris Rooney,1,Winnipeg Jets
+3298,Marc Joannette,4,Tampa Bay Lightning
+3299,Marc Joannette,1,Winnipeg Jets
+3300,Frederick L'Ecuyer,4,Arizona Coyotes
+3301,Frederick L'Ecuyer,3,Pittsburgh Penguins
+3302,Graham Skilliter,4,Arizona Coyotes
+3303,Graham Skilliter,3,Pittsburgh Penguins
+3304,Chris Schlenker ,5,Chicago Blackhawks
+3305,Chris Schlenker ,1,Edmonton Oilers
+3306,Tom Kowal,5,Chicago Blackhawks
+3307,Tom Kowal,1,Edmonton Oilers
+3308,Francis Charron,1,New Jersey Devils
+3309,Francis Charron,4,San Jose Sharks
+3310,Justin St. Pierre ,1,New Jersey Devils
+3311,Justin St. Pierre ,4,San Jose Sharks
+3312,Brad Watson,3,Detroit Red Wings
+3313,Brad Watson,6,Minnesota Wild
+3314,Kyle Rehman,3,Detroit Red Wings
+3315,Kyle Rehman,6,Minnesota Wild
+3316,Chris Lee,1,Colorado Avalanche
+3317,Chris Lee,5,New York Islanders
+3318,Eric Furlatt,1,Colorado Avalanche
+3319,Eric Furlatt,5,New York Islanders
+3320,Dean Morton,3,Dallas Stars
+3321,Dean Morton,5,Nashville Predators
+3322,Steve Kozari,3,Dallas Stars
+3323,Steve Kozari,5,Nashville Predators
+3324,Tom Chmielewski,4,Boston Bruins
+3325,Tom Chmielewski,0,Montréal Canadiens
+3326,Wes McCauley,4,Boston Bruins
+3327,Wes McCauley,0,Montréal Canadiens
+3328,Garrett Rank,2,Buffalo Sabres
+3329,Garrett Rank,4,Vancouver Canucks
+3330,Kelly Sutherland,2,Buffalo Sabres
+3331,Kelly Sutherland,4,Vancouver Canucks
+3332,Jon McIsaac,2,Columbus Blue Jackets
+3333,Jon McIsaac,3,New York Rangers
+3334,Steve Kozari,2,Columbus Blue Jackets
+3335,Steve Kozari,3,New York Rangers
+3336,Brad Meier,5,Arizona Coyotes
+3337,Brad Meier,0,Calgary Flames
+3338,Chris Rooney,5,Arizona Coyotes
+3339,Chris Rooney,0,Calgary Flames
+3340,Eric Furlatt,2,Colorado Avalanche
+3341,Eric Furlatt,3,New Jersey Devils
+3342,Justin St. Pierre ,2,Colorado Avalanche
+3343,Justin St. Pierre ,3,New Jersey Devils
+3344,Frederick L'Ecuyer,4,Pittsburgh Penguins
+3345,Frederick L'Ecuyer,0,Vancouver Canucks
+3346,Wes McCauley,4,Pittsburgh Penguins
+3347,Wes McCauley,0,Vancouver Canucks
+3348,Dean Morton,1,New York Islanders
+3349,Dean Morton,7,Toronto Maple Leafs
+3350,Garrett Rank,1,New York Islanders
+3351,Garrett Rank,7,Toronto Maple Leafs
+3352,Chris Lee,3,Buffalo Sabres
+3353,Chris Lee,2,Ottawa Senators
+3354,Ghislain Hebert,3,Buffalo Sabres
+3355,Ghislain Hebert,2,Ottawa Senators
+3356,Jon McIsaac,1,Anaheim Ducks
+3357,Jon McIsaac,0,Minnesota Wild
+3358,Tom Kowal,1,Anaheim Ducks
+3359,Tom Kowal,0,Minnesota Wild
+3360,Ian Walsh,2,Dallas Stars
+3361,Ian Walsh,5,Winnipeg Jets
+3362,Kyle Rehman,2,Dallas Stars
+3363,Kyle Rehman,5,Winnipeg Jets
+3364,Brian Pochmara,2,Arizona Coyotes
+3365,Brian Pochmara,5,Edmonton Oilers
+3366,Mike Leggo,2,Arizona Coyotes
+3367,Mike Leggo,5,Edmonton Oilers
+3368,Francis Charron,5,Columbus Blue Jackets
+3369,Francis Charron,2,Toronto Maple Leafs
+3370,Marc Joannette,5,Columbus Blue Jackets
+3371,Marc Joannette,2,Toronto Maple Leafs
+3372,Garrett Rank,0,Detroit Red Wings
+3373,Garrett Rank,2,St. Louis Blues
+3374,Kevin Pollock,0,Detroit Red Wings
+3375,Kevin Pollock,2,St. Louis Blues
+3376,Mike Leggo,3,Calgary Flames
+3377,Mike Leggo,1,Philadelphia Flyers
+3378,Tim Peel,3,Calgary Flames
+3379,Tim Peel,1,Philadelphia Flyers
+3380,Brad Meier,6,Florida Panthers
+3381,Brad Meier,5,San Jose Sharks
+3382,Tom Chmielewski,6,Florida Panthers
+3383,Tom Chmielewski,5,San Jose Sharks
+3384,Graham Skilliter,2,Buffalo Sabres
+3385,Graham Skilliter,0,Colorado Avalanche
+3386,Kendrick Nicholson,2,Buffalo Sabres
+3387,Kendrick Nicholson,0,Colorado Avalanche
+3388,Francois St-Laurent,0,New Jersey Devils
+3389,Francois St-Laurent,3,Ottawa Senators
+3390,Frederick L'Ecuyer,0,New Jersey Devils
+3391,Frederick L'Ecuyer,3,Ottawa Senators
+3392,Dean Morton,4,New York Islanders
+3393,Dean Morton,2,New York Rangers
+3394,Justin St. Pierre ,4,New York Islanders
+3395,Justin St. Pierre ,2,New York Rangers
+3396,Jean Hebert,4,Pittsburgh Penguins
+3397,Jean Hebert,3,Winnipeg Jets
+3398,Marc Joannette,4,Pittsburgh Penguins
+3399,Marc Joannette,3,Winnipeg Jets
+3400,Dan O'Halloran,4,St. Louis Blues
+3401,Dan O'Halloran,3,Vancouver Canucks
+3402,Gord Dwyer,4,St. Louis Blues
+3403,Gord Dwyer,3,Vancouver Canucks
+3404,Ghislain Hebert,1,Dallas Stars
+3405,Ghislain Hebert,3,Minnesota Wild
+3406,Ian Walsh,1,Dallas Stars
+3407,Ian Walsh,3,Minnesota Wild
+3408,Brad Watson,6,Edmonton Oilers
+3409,Brad Watson,3,Philadelphia Flyers
+3410,Tim Peel,6,Edmonton Oilers
+3411,Tim Peel,3,Philadelphia Flyers
+3412,Brad Meier,5,Arizona Coyotes
+3413,Brad Meier,3,Los Angeles Kings
+3414,Dan O'Rourke,5,Arizona Coyotes
+3415,Dan O'Rourke,3,Los Angeles Kings
+3416,Kevin Pollock,2,Columbus Blue Jackets
+3417,Kevin Pollock,1,Pittsburgh Penguins
+3418,Trevor Hanson,2,Columbus Blue Jackets
+3419,Trevor Hanson,1,Pittsburgh Penguins
+3420,Dan O'Halloran,1,Carolina Hurricanes
+3421,Dan O'Halloran,2,Colorado Avalanche
+3422,Frederick L'Ecuyer,1,Carolina Hurricanes
+3423,Frederick L'Ecuyer,2,Colorado Avalanche
+3424,Brad Meier,1,Anaheim Ducks
+3425,Brad Meier,4,Florida Panthers
+3426,Kelly Sutherland,1,Anaheim Ducks
+3427,Kelly Sutherland,4,Florida Panthers
+3428,Dean Morton,3,Buffalo Sabres
+3429,Dean Morton,2,St. Louis Blues
+3430,Garrett Rank,3,Buffalo Sabres
+3431,Garrett Rank,2,St. Louis Blues
+3432,Eric Furlatt,1,Montréal Canadiens
+3433,Eric Furlatt,3,Winnipeg Jets
+3434,Marc Joannette,1,Montréal Canadiens
+3435,Marc Joannette,3,Winnipeg Jets
+3436,Francois St-Laurent,2,Detroit Red Wings
+3437,Francois St-Laurent,2,Washington Capitals
+3438,Gord Dwyer,2,Detroit Red Wings
+3439,Gord Dwyer,2,Washington Capitals
+3440,Brad Watson,6,Ottawa Senators
+3441,Brad Watson,3,Toronto Maple Leafs
+3442,Brian Pochmara,6,Ottawa Senators
+3443,Brian Pochmara,3,Toronto Maple Leafs
+3444,Chris Rooney,3,New Jersey Devils
+3445,Chris Rooney,2,New York Islanders
+3446,Graham Skilliter,3,New Jersey Devils
+3447,Graham Skilliter,2,New York Islanders
+3448,Ghislain Hebert,1,Chicago Blackhawks
+3449,Ghislain Hebert,3,Edmonton Oilers
+3450,Wes McCauley,1,Chicago Blackhawks
+3451,Wes McCauley,3,Edmonton Oilers
+3452,Justin St. Pierre ,4,Dallas Stars
+3453,Justin St. Pierre ,3,Tampa Bay Lightning
+3454,Kendrick Nicholson,4,Dallas Stars
+3455,Kendrick Nicholson,3,Tampa Bay Lightning
+3456,Ian Walsh,5,Minnesota Wild
+3457,Ian Walsh,2,Nashville Predators
+3458,Jean Hebert,5,Minnesota Wild
+3459,Jean Hebert,2,Nashville Predators
+3460,Dan O'Rourke,1,Arizona Coyotes
+3461,Dan O'Rourke,4,San Jose Sharks
+3462,Kyle Rehman,1,Arizona Coyotes
+3463,Kyle Rehman,4,San Jose Sharks
+3464,Steve Kozari,1,Calgary Flames
+3465,Steve Kozari,2,Vancouver Canucks
+3466,Tim Peel,1,Calgary Flames
+3467,Tim Peel,2,Vancouver Canucks
+3468,Chris Lee,3,Florida Panthers
+3469,Chris Lee,2,Los Angeles Kings
+3470,Mike Leggo,3,Florida Panthers
+3471,Mike Leggo,2,Los Angeles Kings
+3472,Kevin Pollock,2,New York Rangers
+3473,Kevin Pollock,1,Washington Capitals
+3474,Pierre Lambert,2,New York Rangers
+3475,Pierre Lambert,1,Washington Capitals
+3476,Francois St-Laurent,5,Detroit Red Wings
+3477,Francois St-Laurent,2,Pittsburgh Penguins
+3478,Garrett Rank,5,Detroit Red Wings
+3479,Garrett Rank,2,Pittsburgh Penguins
+3480,Brian Pochmara,2,Ottawa Senators
+3481,Brian Pochmara,3,Winnipeg Jets
+3482,Francis Charron,2,Ottawa Senators
+3483,Francis Charron,3,Winnipeg Jets
+3484,Brad Watson,1,Buffalo Sabres
+3485,Brad Watson,5,Chicago Blackhawks
+3486,Trevor Hanson,1,Buffalo Sabres
+3487,Trevor Hanson,5,Chicago Blackhawks
+3488,Chris Rooney,4,New Jersey Devils
+3489,Chris Rooney,6,New York Islanders
+3490,Jon McIsaac,4,New Jersey Devils
+3491,Jon McIsaac,6,New York Islanders
+3492,Ghislain Hebert,3,Columbus Blue Jackets
+3493,Ghislain Hebert,4,Nashville Predators
+3494,Wes McCauley,3,Columbus Blue Jackets
+3495,Wes McCauley,4,Nashville Predators
+3496,Dan O'Halloran,0,Carolina Hurricanes
+3497,Dan O'Halloran,4,Toronto Maple Leafs
+3498,Jake Brenk,0,Carolina Hurricanes
+3499,Jake Brenk,4,Toronto Maple Leafs
+3500,Justin St. Pierre ,2,Colorado Avalanche
+3501,Justin St. Pierre ,3,Tampa Bay Lightning
+3502,Tom Kowal,2,Colorado Avalanche
+3503,Tom Kowal,3,Tampa Bay Lightning
+3504,Kelly Sutherland,2,Boston Bruins
+3505,Kelly Sutherland,1,San Jose Sharks
+3506,Thomas John Luxmore,2,Boston Bruins
+3507,Thomas John Luxmore,1,San Jose Sharks
+3508,Chris Lee,1,Anaheim Ducks
+3509,Chris Lee,0,Los Angeles Kings
+3510,Dan O'Rourke,1,Anaheim Ducks
+3511,Dan O'Rourke,0,Los Angeles Kings
+3512,Chris Schlenker ,3,Philadelphia Flyers
+3513,Chris Schlenker ,2,Vancouver Canucks
+3514,Steve Kozari,3,Philadelphia Flyers
+3515,Steve Kozari,2,Vancouver Canucks
+3516,Ian Walsh,2,Florida Panthers
+3517,Ian Walsh,1,St. Louis Blues
+3518,Tom Kowal,2,Florida Panthers
+3519,Tom Kowal,1,St. Louis Blues
+3520,Chris Lee,2,Anaheim Ducks
+3521,Chris Lee,3,Arizona Coyotes
+3522,Kendrick Nicholson,2,Anaheim Ducks
+3523,Kendrick Nicholson,3,Arizona Coyotes
+3524,Mike Leggo,1,New Jersey Devils
+3525,Mike Leggo,2,Ottawa Senators
+3526,Tom Chmielewski,1,New Jersey Devils
+3527,Tom Chmielewski,2,Ottawa Senators
+3528,Brad Watson,2,Montréal Canadiens
+3529,Brad Watson,2,New York Rangers
+3530,Trevor Hanson,2,Montréal Canadiens
+3531,Trevor Hanson,2,New York Rangers
+3532,Gord Dwyer,1,Carolina Hurricanes
+3533,Gord Dwyer,3,Pittsburgh Penguins
+3534,Jon McIsaac,1,Carolina Hurricanes
+3535,Jon McIsaac,3,Pittsburgh Penguins
+3536,Ghislain Hebert,5,Toronto Maple Leafs
+3537,Ghislain Hebert,4,Winnipeg Jets
+3538,Wes McCauley,5,Toronto Maple Leafs
+3539,Wes McCauley,4,Winnipeg Jets
+3540,Brian Pochmara,1,Detroit Red Wings
+3541,Brian Pochmara,3,New York Islanders
+3542,Francis Charron,1,Detroit Red Wings
+3543,Francis Charron,3,New York Islanders
+3544,Chris Rooney,1,Edmonton Oilers
+3545,Chris Rooney,4,Tampa Bay Lightning
+3546,Frederick L'Ecuyer,1,Edmonton Oilers
+3547,Frederick L'Ecuyer,4,Tampa Bay Lightning
+3548,Dan O'Halloran,6,Calgary Flames
+3549,Dan O'Halloran,5,Nashville Predators
+3550,Francois St-Laurent,6,Calgary Flames
+3551,Francois St-Laurent,5,Nashville Predators
+3552,Dean Morton,5,Chicago Blackhawks
+3553,Dean Morton,3,Minnesota Wild
+3554,Eric Furlatt,5,Chicago Blackhawks
+3555,Eric Furlatt,3,Minnesota Wild
+3556,Marc Joannette,1,Colorado Avalanche
+3557,Marc Joannette,2,Los Angeles Kings
+3558,Thomas John Luxmore,1,Colorado Avalanche
+3559,Thomas John Luxmore,2,Los Angeles Kings
+3560,Frederick L'Ecuyer,4,Edmonton Oilers
+3561,Frederick L'Ecuyer,3,Florida Panthers
+3562,Tom Kowal,4,Edmonton Oilers
+3563,Tom Kowal,3,Florida Panthers
+3564,Mike Leggo,1,Philadelphia Flyers
+3565,Mike Leggo,4,Washington Capitals
+3566,Trevor Hanson,1,Philadelphia Flyers
+3567,Trevor Hanson,4,Washington Capitals
+3568,Kendrick Nicholson,5,Anaheim Ducks
+3569,Kendrick Nicholson,3,Boston Bruins
+3570,Tim Peel,5,Anaheim Ducks
+3571,Tim Peel,3,Boston Bruins
+3572,Brad Meier,1,New York Rangers
+3573,Brad Meier,1,Toronto Maple Leafs
+3574,Kyle Rehman,1,New York Rangers
+3575,Kyle Rehman,1,Toronto Maple Leafs
+3576,Francis Charron,0,Montréal Canadiens
+3577,Francis Charron,3,New York Islanders
+3578,Wes McCauley,0,Montréal Canadiens
+3579,Wes McCauley,3,New York Islanders
+3580,Gord Dwyer,3,Calgary Flames
+3581,Gord Dwyer,2,Tampa Bay Lightning
+3582,Jon McIsaac,3,Calgary Flames
+3583,Jon McIsaac,2,Tampa Bay Lightning
+3584,Chris Rooney,2,Colorado Avalanche
+3585,Chris Rooney,4,Nashville Predators
+3586,Dan O'Rourke,2,Colorado Avalanche
+3587,Dan O'Rourke,4,Nashville Predators
+3588,Jean Hebert,3,Arizona Coyotes
+3589,Jean Hebert,6,Chicago Blackhawks
+3590,Thomas John Luxmore,3,Arizona Coyotes
+3591,Thomas John Luxmore,6,Chicago Blackhawks
+3592,Marc Joannette,4,Boston Bruins
+3593,Marc Joannette,1,Los Angeles Kings
+3594,Steve Kozari,4,Boston Bruins
+3595,Steve Kozari,1,Los Angeles Kings
+3596,Garrett Rank,1,Edmonton Oilers
+3597,Garrett Rank,2,Washington Capitals
+3598,Mike Leggo,1,Edmonton Oilers
+3599,Mike Leggo,2,Washington Capitals
+3600,Gord Dwyer,4,Calgary Flames
+3601,Gord Dwyer,2,Florida Panthers
+3602,Kevin Pollock,4,Calgary Flames
+3603,Kevin Pollock,2,Florida Panthers
+3604,Jean Hebert,3,Carolina Hurricanes
+3605,Jean Hebert,0,Ottawa Senators
+3606,Trevor Hanson,3,Carolina Hurricanes
+3607,Trevor Hanson,0,Ottawa Senators
+3608,Dean Morton,2,Arizona Coyotes
+3609,Dean Morton,5,Dallas Stars
+3610,Tim Peel,2,Arizona Coyotes
+3611,Tim Peel,5,Dallas Stars
+3612,Justin St. Pierre ,1,Anaheim Ducks
+3613,Justin St. Pierre ,4,Los Angeles Kings
+3614,Steve Kozari,1,Anaheim Ducks
+3615,Steve Kozari,4,Los Angeles Kings
+3616,Francois St-Laurent,3,New Jersey Devils
+3617,Francois St-Laurent,4,New York Rangers
+3618,Kyle Rehman,3,New Jersey Devils
+3619,Kyle Rehman,4,New York Rangers
+3620,Brad Meier,5,Nashville Predators
+3621,Brad Meier,2,Washington Capitals
+3622,Thomas John Luxmore,5,Nashville Predators
+3623,Thomas John Luxmore,2,Washington Capitals
+3624,Dan O'Halloran,3,Montréal Canadiens
+3625,Dan O'Halloran,2,Toronto Maple Leafs
+3626,Kendrick Nicholson,3,Montréal Canadiens
+3627,Kendrick Nicholson,2,Toronto Maple Leafs
+3628,Eric Furlatt,2,Philadelphia Flyers
+3629,Eric Furlatt,4,Pittsburgh Penguins
+3630,Ian Walsh,2,Philadelphia Flyers
+3631,Ian Walsh,4,Pittsburgh Penguins
+3632,Dan O'Rourke,7,Columbus Blue Jackets
+3633,Dan O'Rourke,0,New York Islanders
+3634,Graham Skilliter,7,Columbus Blue Jackets
+3635,Graham Skilliter,0,New York Islanders
+3636,Brad Watson,3,Buffalo Sabres
+3637,Brad Watson,5,Colorado Avalanche
+3638,Dean Morton,3,Buffalo Sabres
+3639,Dean Morton,5,Colorado Avalanche
+3640,Brian Pochmara,4,San Jose Sharks
+3641,Brian Pochmara,1,Vancouver Canucks
+3642,Marc Joannette,4,San Jose Sharks
+3643,Marc Joannette,1,Vancouver Canucks
+3644,Frederick L'Ecuyer,6,Boston Bruins
+3645,Frederick L'Ecuyer,3,Dallas Stars
+3646,Mike Leggo,6,Boston Bruins
+3647,Mike Leggo,3,Dallas Stars
+3648,Chris Lee,3,Calgary Flames
+3649,Chris Lee,1,Carolina Hurricanes
+3650,Francis Charron,3,Calgary Flames
+3651,Francis Charron,1,Carolina Hurricanes
+3652,Graham Skilliter,5,Columbus Blue Jackets
+3653,Graham Skilliter,2,New York Rangers
+3654,Kelly Sutherland,5,Columbus Blue Jackets
+3655,Kelly Sutherland,2,New York Rangers
+3656,Gord Dwyer,4,Edmonton Oilers
+3657,Gord Dwyer,5,Nashville Predators
+3658,Tim Peel,4,Edmonton Oilers
+3659,Tim Peel,5,Nashville Predators
+3660,Garrett Rank,1,Florida Panthers
+3661,Garrett Rank,2,Ottawa Senators
+3662,Jean Hebert,1,Florida Panthers
+3663,Jean Hebert,2,Ottawa Senators
+3664,Brad Meier,4,Chicago Blackhawks
+3665,Brad Meier,2,St. Louis Blues
+3666,Ghislain Hebert,4,Chicago Blackhawks
+3667,Ghislain Hebert,2,St. Louis Blues
+3668,Justin St. Pierre ,3,Arizona Coyotes
+3669,Justin St. Pierre ,2,Buffalo Sabres
+3670,Kevin Pollock,3,Arizona Coyotes
+3671,Kevin Pollock,2,Buffalo Sabres
+3672,Chris Lee,4,Montréal Canadiens
+3673,Chris Lee,3,New Jersey Devils
+3674,Kyle Rehman,4,Montréal Canadiens
+3675,Kyle Rehman,3,New Jersey Devils
+3676,Garrett Rank,1,Ottawa Senators
+3677,Garrett Rank,5,Tampa Bay Lightning
+3678,Wes McCauley,1,Ottawa Senators
+3679,Wes McCauley,5,Tampa Bay Lightning
+3680,Brian Pochmara,4,Los Angeles Kings
+3681,Brian Pochmara,5,Minnesota Wild
+3682,Kendrick Nicholson,4,Los Angeles Kings
+3683,Kendrick Nicholson,5,Minnesota Wild
+3684,Jean Hebert,1,Arizona Coyotes
+3685,Jean Hebert,4,Boston Bruins
+3686,Tom Kowal,1,Arizona Coyotes
+3687,Tom Kowal,4,Boston Bruins
+3688,Francis Charron,4,Buffalo Sabres
+3689,Francis Charron,5,Nashville Predators
+3690,Steve Kozari,4,Buffalo Sabres
+3691,Steve Kozari,5,Nashville Predators
+3692,Brad Meier,1,New York Rangers
+3693,Brad Meier,4,Washington Capitals
+3694,Dan O'Halloran,1,New York Rangers
+3695,Dan O'Halloran,4,Washington Capitals
+3696,Ghislain Hebert,0,Colorado Avalanche
+3697,Ghislain Hebert,4,Philadelphia Flyers
+3698,Justin St. Pierre ,0,Colorado Avalanche
+3699,Justin St. Pierre ,4,Philadelphia Flyers
+3700,Dean Morton,0,Columbus Blue Jackets
+3701,Dean Morton,1,Montréal Canadiens
+3702,Marc Joannette,0,Columbus Blue Jackets
+3703,Marc Joannette,1,Montréal Canadiens
+3704,Thomas John Luxmore,2,Carolina Hurricanes
+3705,Thomas John Luxmore,2,Florida Panthers
+3706,Wes McCauley,2,Carolina Hurricanes
+3707,Wes McCauley,2,Florida Panthers
+3708,Chris Rooney,2,Edmonton Oilers
+3709,Chris Rooney,1,St. Louis Blues
+3710,Graham Skilliter,2,Edmonton Oilers
+3711,Graham Skilliter,1,St. Louis Blues
+3712,Kelly Sutherland,6,Minnesota Wild
+3713,Kelly Sutherland,5,Winnipeg Jets
+3714,Tom Chmielewski,6,Minnesota Wild
+3715,Tom Chmielewski,5,Winnipeg Jets
+3716,Gord Dwyer,3,Dallas Stars
+3717,Gord Dwyer,2,Pittsburgh Penguins
+3718,Kevin Pollock,3,Dallas Stars
+3719,Kevin Pollock,2,Pittsburgh Penguins
+3720,Dan O'Rourke,2,Calgary Flames
+3721,Dan O'Rourke,1,Los Angeles Kings
+3722,Francois St-Laurent,2,Calgary Flames
+3723,Francois St-Laurent,1,Los Angeles Kings
+3724,Jon McIsaac,3,Detroit Red Wings
+3725,Jon McIsaac,2,Vancouver Canucks
+3726,Trevor Hanson,3,Detroit Red Wings
+3727,Trevor Hanson,2,Vancouver Canucks
+3728,Brad Watson,3,San Jose Sharks
+3729,Brad Watson,1,Toronto Maple Leafs
+3730,Frederick L'Ecuyer,3,San Jose Sharks
+3731,Frederick L'Ecuyer,1,Toronto Maple Leafs
+3732,Eric Furlatt,3,Carolina Hurricanes
+3733,Eric Furlatt,4,Tampa Bay Lightning
+3734,Kyle Rehman,3,Carolina Hurricanes
+3735,Kyle Rehman,4,Tampa Bay Lightning
+3736,Chris Lee,4,Chicago Blackhawks
+3737,Chris Lee,1,Pittsburgh Penguins
+3738,Ian Walsh,4,Chicago Blackhawks
+3739,Ian Walsh,1,Pittsburgh Penguins
+3740,Brian Pochmara,1,Boston Bruins
+3741,Brian Pochmara,2,New York Rangers
+3742,Tim Peel,1,Boston Bruins
+3743,Tim Peel,2,New York Rangers
+3744,Graham Skilliter,3,Arizona Coyotes
+3745,Graham Skilliter,6,Buffalo Sabres
+3746,Tom Kowal,3,Arizona Coyotes
+3747,Tom Kowal,6,Buffalo Sabres
+3748,Francis Charron,1,Florida Panthers
+3749,Francis Charron,1,Philadelphia Flyers
+3750,Wes McCauley,1,Florida Panthers
+3751,Wes McCauley,1,Philadelphia Flyers
+3752,Dan O'Halloran,0,New Jersey Devils
+3753,Dan O'Halloran,1,Washington Capitals
+3754,Kelly Sutherland,0,New Jersey Devils
+3755,Kelly Sutherland,1,Washington Capitals
+3756,Chris Rooney,1,Columbus Blue Jackets
+3757,Chris Rooney,0,Minnesota Wild
+3758,Francois St-Laurent,1,Columbus Blue Jackets
+3759,Francois St-Laurent,0,Minnesota Wild
+3760,Jean Hebert,2,Montréal Canadiens
+3761,Jean Hebert,1,Nashville Predators
+3762,Steve Kozari,2,Montréal Canadiens
+3763,Steve Kozari,1,Nashville Predators
+3764,Brad Meier,1,Colorado Avalanche
+3765,Brad Meier,2,Ottawa Senators
+3766,Dean Morton,1,Colorado Avalanche
+3767,Dean Morton,2,Ottawa Senators
+3768,Justin St. Pierre ,4,Dallas Stars
+3769,Justin St. Pierre ,5,New York Islanders
+3770,Kevin Pollock,4,Dallas Stars
+3771,Kevin Pollock,5,New York Islanders
+3772,Jon McIsaac,2,Los Angeles Kings
+3773,Jon McIsaac,2,Toronto Maple Leafs
+3774,Mike Leggo,2,Los Angeles Kings
+3775,Mike Leggo,2,Toronto Maple Leafs
+3776,Brad Watson,3,San Jose Sharks
+3777,Brad Watson,1,Vancouver Canucks
+3778,Dan O'Rourke,3,San Jose Sharks
+3779,Dan O'Rourke,1,Vancouver Canucks
+3780,Brian Pochmara,5,Pittsburgh Penguins
+3781,Brian Pochmara,2,Tampa Bay Lightning
+3782,Graham Skilliter,5,Pittsburgh Penguins
+3783,Graham Skilliter,2,Tampa Bay Lightning
+3784,Eric Furlatt,4,Arizona Coyotes
+3785,Eric Furlatt,2,Carolina Hurricanes
+3786,Garrett Rank,4,Arizona Coyotes
+3787,Garrett Rank,2,Carolina Hurricanes
+3788,Ghislain Hebert,0,St. Louis Blues
+3789,Ghislain Hebert,3,Winnipeg Jets
+3790,Trevor Hanson,0,St. Louis Blues
+3791,Trevor Hanson,3,Winnipeg Jets
+3792,Gord Dwyer,1,Chicago Blackhawks
+3793,Gord Dwyer,1,New York Islanders
+3794,Kevin Pollock,1,Chicago Blackhawks
+3795,Kevin Pollock,1,New York Islanders
+3796,Ian Walsh,3,Calgary Flames
+3797,Ian Walsh,2,Detroit Red Wings
+3798,Marc Joannette,3,Calgary Flames
+3799,Marc Joannette,2,Detroit Red Wings
+3800,Dan O'Rourke,5,Anaheim Ducks
+3801,Dan O'Rourke,2,Toronto Maple Leafs
+3802,Jake Brenk,5,Anaheim Ducks
+3803,Jake Brenk,2,Toronto Maple Leafs
+3804,Garrett Rank,3,Boston Bruins
+3805,Garrett Rank,2,New Jersey Devils
+3806,Wes McCauley,3,Boston Bruins
+3807,Wes McCauley,2,New Jersey Devils
+3808,Tom Chmielewski,1,Buffalo Sabres
+3809,Tom Chmielewski,1,Tampa Bay Lightning
+3810,Tom Kowal,1,Buffalo Sabres
+3811,Tom Kowal,1,Tampa Bay Lightning
+3812,Francois St-Laurent,2,Columbus Blue Jackets
+3813,Francois St-Laurent,3,Ottawa Senators
+3814,Steve Kozari,2,Columbus Blue Jackets
+3815,Steve Kozari,3,Ottawa Senators
+3816,Chris Rooney,2,Dallas Stars
+3817,Chris Rooney,1,Florida Panthers
+3818,Kelly Sutherland,2,Dallas Stars
+3819,Kelly Sutherland,1,Florida Panthers
+3820,Frederick L'Ecuyer,4,Montréal Canadiens
+3821,Frederick L'Ecuyer,1,New York Rangers
+3822,Tim Peel,4,Montréal Canadiens
+3823,Tim Peel,1,New York Rangers
+3824,Dean Morton,1,Philadelphia Flyers
+3825,Dean Morton,2,Washington Capitals
+3826,Eric Furlatt,1,Philadelphia Flyers
+3827,Eric Furlatt,2,Washington Capitals
+3828,Chris Lee,1,Colorado Avalanche
+3829,Chris Lee,6,Winnipeg Jets
+3830,Kendrick Nicholson,1,Colorado Avalanche
+3831,Kendrick Nicholson,6,Winnipeg Jets
+3832,Gord Dwyer,5,Chicago Blackhawks
+3833,Gord Dwyer,3,Nashville Predators
+3834,Justin St. Pierre ,5,Chicago Blackhawks
+3835,Justin St. Pierre ,3,Nashville Predators
+3836,Ian Walsh,3,Detroit Red Wings
+3837,Ian Walsh,4,Edmonton Oilers
+3838,Marc Joannette,3,Detroit Red Wings
+3839,Marc Joannette,4,Edmonton Oilers
+3840,Francis Charron,3,Los Angeles Kings
+3841,Francis Charron,4,Vancouver Canucks
+3842,Jon McIsaac,3,Los Angeles Kings
+3843,Jon McIsaac,4,Vancouver Canucks
+3844,Brad Meier,5,Calgary Flames
+3845,Brad Meier,2,New York Islanders
+3846,Graham Skilliter,5,Calgary Flames
+3847,Graham Skilliter,2,New York Islanders
+3848,Brad Watson,3,Columbus Blue Jackets
+3849,Brad Watson,0,New Jersey Devils
+3850,Frederick L'Ecuyer,3,Columbus Blue Jackets
+3851,Frederick L'Ecuyer,0,New Jersey Devils
+3852,Thomas John Luxmore,3,Buffalo Sabres
+3853,Thomas John Luxmore,4,Pittsburgh Penguins
+3854,Tim Peel,3,Buffalo Sabres
+3855,Tim Peel,4,Pittsburgh Penguins
+3856,Ghislain Hebert,3,Minnesota Wild
+3857,Ghislain Hebert,1,San Jose Sharks
+3858,Mike Leggo,3,Minnesota Wild
+3859,Mike Leggo,1,San Jose Sharks
+3860,Brian Pochmara,0,Colorado Avalanche
+3861,Brian Pochmara,3,St. Louis Blues
+3862,Chris Lee,0,Colorado Avalanche
+3863,Chris Lee,3,St. Louis Blues
+3864,Dan O'Halloran,1,Anaheim Ducks
+3865,Dan O'Halloran,2,Vancouver Canucks
+3866,Kyle Rehman,1,Anaheim Ducks
+3867,Kyle Rehman,2,Vancouver Canucks
+3868,Francis Charron,1,Arizona Coyotes
+3869,Francis Charron,2,Carolina Hurricanes
+3870,Trevor Hanson,1,Arizona Coyotes
+3871,Trevor Hanson,2,Carolina Hurricanes
+3872,Brad Watson,4,Dallas Stars
+3873,Brad Watson,2,Washington Capitals
+3874,Pierre Lambert,4,Dallas Stars
+3875,Pierre Lambert,2,Washington Capitals
+3876,Eric Furlatt,2,Boston Bruins
+3877,Eric Furlatt,4,Ottawa Senators
+3878,Francois St-Laurent,2,Boston Bruins
+3879,Francois St-Laurent,4,Ottawa Senators
+3880,Justin St. Pierre ,1,New York Rangers
+3881,Justin St. Pierre ,0,Tampa Bay Lightning
+3882,Kelly Sutherland,1,New York Rangers
+3883,Kelly Sutherland,0,Tampa Bay Lightning
+3884,Marc Joannette,3,San Jose Sharks
+3885,Marc Joannette,2,Winnipeg Jets
+3886,Tom Kowal,3,San Jose Sharks
+3887,Tom Kowal,2,Winnipeg Jets
+3888,Kendrick Nicholson,3,Buffalo Sabres
+3889,Kendrick Nicholson,6,Philadelphia Flyers
+3890,Kevin Pollock,3,Buffalo Sabres
+3891,Kevin Pollock,6,Philadelphia Flyers
+3892,Gord Dwyer,2,Columbus Blue Jackets
+3893,Gord Dwyer,0,New Jersey Devils
+3894,Thomas John Luxmore,2,Columbus Blue Jackets
+3895,Thomas John Luxmore,0,New Jersey Devils
+3896,Dean Morton,2,Detroit Red Wings
+3897,Dean Morton,3,Toronto Maple Leafs
+3898,Garrett Rank,2,Detroit Red Wings
+3899,Garrett Rank,3,Toronto Maple Leafs
+3900,Brian Pochmara,2,Florida Panthers
+3901,Brian Pochmara,5,New York Rangers
+3902,Justin St. Pierre ,2,Florida Panthers
+3903,Justin St. Pierre ,5,New York Rangers
+3904,Marc Joannette,1,Minnesota Wild
+3905,Marc Joannette,2,St. Louis Blues
+3906,Steve Kozari,1,Minnesota Wild
+3907,Steve Kozari,2,St. Louis Blues
+3908,Dan O'Rourke,1,Carolina Hurricanes
+3909,Dan O'Rourke,3,Colorado Avalanche
+3910,Jean Hebert,1,Carolina Hurricanes
+3911,Jean Hebert,3,Colorado Avalanche
+3912,Ghislain Hebert,1,Edmonton Oilers
+3913,Ghislain Hebert,4,New York Islanders
+3914,Mike Leggo,1,Edmonton Oilers
+3915,Mike Leggo,4,New York Islanders
+3916,Graham Skilliter,2,Montréal Canadiens
+3917,Graham Skilliter,1,Vancouver Canucks
+3918,Ian Walsh,2,Montréal Canadiens
+3919,Ian Walsh,1,Vancouver Canucks
+3920,Dan O'Halloran,3,Anaheim Ducks
+3921,Dan O'Halloran,3,Nashville Predators
+3922,Trevor Hanson,3,Anaheim Ducks
+3923,Trevor Hanson,3,Nashville Predators
+3924,Brad Watson,6,Boston Bruins
+3925,Brad Watson,1,Detroit Red Wings
+3926,Chris Rooney,6,Boston Bruins
+3927,Chris Rooney,1,Detroit Red Wings
+3928,Kelly Sutherland,2,Dallas Stars
+3929,Kelly Sutherland,5,Ottawa Senators
+3930,Kyle Rehman,2,Dallas Stars
+3931,Kyle Rehman,5,Ottawa Senators
+3932,Brad Meier,7,Pittsburgh Penguins
+3933,Brad Meier,4,Winnipeg Jets
+3934,Wes McCauley,7,Pittsburgh Penguins
+3935,Wes McCauley,4,Winnipeg Jets
+3936,Francois St-Laurent,4,Carolina Hurricanes
+3937,Francois St-Laurent,3,New York Rangers
+3938,Gord Dwyer,4,Carolina Hurricanes
+3939,Gord Dwyer,3,New York Rangers
+3940,Kevin Pollock,2,Philadelphia Flyers
+3941,Kevin Pollock,4,Toronto Maple Leafs
+3942,Thomas John Luxmore,2,Philadelphia Flyers
+3943,Thomas John Luxmore,4,Toronto Maple Leafs
+3944,Francis Charron,1,Minnesota Wild
+3945,Francis Charron,4,Tampa Bay Lightning
+3946,Jon McIsaac,1,Minnesota Wild
+3947,Jon McIsaac,4,Tampa Bay Lightning
+3948,Evgeny Romasko,1,Anaheim Ducks
+3949,Evgeny Romasko,0,Chicago Blackhawks
+3950,Steve Kozari,1,Anaheim Ducks
+3951,Steve Kozari,0,Chicago Blackhawks
+3952,Garrett Rank,3,Colorado Avalanche
+3953,Garrett Rank,2,New Jersey Devils
+3954,Marc Joannette,3,Colorado Avalanche
+3955,Marc Joannette,2,New Jersey Devils
+3956,Jean Hebert,5,Calgary Flames
+3957,Jean Hebert,0,Montréal Canadiens
+3958,Tom Kowal,5,Calgary Flames
+3959,Tom Kowal,0,Montréal Canadiens
+3960,Dan O'Rourke,2,Arizona Coyotes
+3961,Dan O'Rourke,3,Ottawa Senators
+3962,Ian Walsh,2,Arizona Coyotes
+3963,Ian Walsh,3,Ottawa Senators
+3964,Eric Furlatt,4,New York Islanders
+3965,Eric Furlatt,3,Vancouver Canucks
+3966,Ghislain Hebert,4,New York Islanders
+3967,Ghislain Hebert,3,Vancouver Canucks
+3968,Frederick L'Ecuyer,3,Los Angeles Kings
+3969,Frederick L'Ecuyer,2,Nashville Predators
+3970,Trevor Hanson,3,Los Angeles Kings
+3971,Trevor Hanson,2,Nashville Predators
+3972,Dean Morton,4,San Jose Sharks
+3973,Dean Morton,2,Washington Capitals
+3974,Tim Peel,4,San Jose Sharks
+3975,Tim Peel,2,Washington Capitals
+3976,Chris Lee,3,Buffalo Sabres
+3977,Chris Lee,4,Columbus Blue Jackets
+3978,Kelly Sutherland,3,Buffalo Sabres
+3979,Kelly Sutherland,4,Columbus Blue Jackets
+3980,Dan O'Halloran,2,Chicago Blackhawks
+3981,Dan O'Halloran,4,Detroit Red Wings
+3982,Wes McCauley,2,Chicago Blackhawks
+3983,Wes McCauley,4,Detroit Red Wings
+3984,Francis Charron,4,Florida Panthers
+3985,Francis Charron,7,Minnesota Wild
+3986,Kyle Rehman,4,Florida Panthers
+3987,Kyle Rehman,7,Minnesota Wild
+3988,Chris Rooney,3,Anaheim Ducks
+3989,Chris Rooney,4,St. Louis Blues
+3990,Kendrick Nicholson,3,Anaheim Ducks
+3991,Kendrick Nicholson,4,St. Louis Blues
+3992,Graham Skilliter,2,Edmonton Oilers
+3993,Graham Skilliter,2,Pittsburgh Penguins
+3994,Tom Kowal,2,Edmonton Oilers
+3995,Tom Kowal,2,Pittsburgh Penguins
+3996,Brian Pochmara,2,Boston Bruins
+3997,Brian Pochmara,1,Philadelphia Flyers
+3998,Marc Joannette,2,Boston Bruins
+3999,Marc Joannette,1,Philadelphia Flyers
+4000,Eric Furlatt,3,Nashville Predators
+4001,Eric Furlatt,1,San Jose Sharks
+4002,Ian Walsh,3,Nashville Predators
+4003,Ian Walsh,1,San Jose Sharks
+4004,Jon McIsaac,5,Buffalo Sabres
+4005,Jon McIsaac,3,Columbus Blue Jackets
+4006,Wes McCauley,5,Buffalo Sabres
+4007,Wes McCauley,3,Columbus Blue Jackets
+4008,Gord Dwyer,2,Florida Panthers
+4009,Gord Dwyer,3,Tampa Bay Lightning
+4010,Kyle Rehman,2,Florida Panthers
+4011,Kyle Rehman,3,Tampa Bay Lightning
+4012,Chris Lee,2,Carolina Hurricanes
+4013,Chris Lee,3,Toronto Maple Leafs
+4014,Chris Rooney,2,Carolina Hurricanes
+4015,Chris Rooney,3,Toronto Maple Leafs
+4016,Garrett Rank,3,Calgary Flames
+4017,Garrett Rank,0,Winnipeg Jets
+4018,Kevin Pollock,3,Calgary Flames
+4019,Kevin Pollock,0,Winnipeg Jets
+4020,Jake Brenk,2,Colorado Avalanche
+4021,Jake Brenk,4,Ottawa Senators
+4022,Mike Leggo,2,Colorado Avalanche
+4023,Mike Leggo,4,Ottawa Senators
+4024,Dan O'Rourke,3,New York Islanders
+4025,Dan O'Rourke,4,St. Louis Blues
+4026,Tim Peel,3,New York Islanders
+4027,Tim Peel,4,St. Louis Blues
+4028,Dean Morton,5,Arizona Coyotes
+4029,Dean Morton,4,New Jersey Devils
+4030,Trevor Hanson,5,Arizona Coyotes
+4031,Trevor Hanson,4,New Jersey Devils
+4032,Brad Meier,3,Pittsburgh Penguins
+4033,Brad Meier,0,Vancouver Canucks
+4034,Francois St-Laurent,3,Pittsburgh Penguins
+4035,Francois St-Laurent,0,Vancouver Canucks
+4036,Brad Watson,4,Los Angeles Kings
+4037,Brad Watson,2,Washington Capitals
+4038,Frederick L'Ecuyer,4,Los Angeles Kings
+4039,Frederick L'Ecuyer,2,Washington Capitals
+4040,Chris Schlenker ,1,Detroit Red Wings
+4041,Chris Schlenker ,4,New York Rangers
+4042,Steve Kozari,1,Detroit Red Wings
+4043,Steve Kozari,4,New York Rangers
+4044,Kelly Sutherland,4,Chicago Blackhawks
+4045,Kelly Sutherland,2,Minnesota Wild
+4046,Kendrick Nicholson,4,Chicago Blackhawks
+4047,Kendrick Nicholson,2,Minnesota Wild
+4048,Justin St. Pierre ,1,Edmonton Oilers
+4049,Justin St. Pierre ,4,Montréal Canadiens
+4050,Kevin Pollock,1,Edmonton Oilers
+4051,Kevin Pollock,4,Montréal Canadiens
+4052,Eric Furlatt,5,Anaheim Ducks
+4053,Eric Furlatt,2,Washington Capitals
+4054,Frederick L'Ecuyer,5,Anaheim Ducks
+4055,Frederick L'Ecuyer,2,Washington Capitals
+4056,Dan O'Halloran,1,Dallas Stars
+4057,Dan O'Halloran,5,San Jose Sharks
+4058,Ian Walsh,1,Dallas Stars
+4059,Ian Walsh,5,San Jose Sharks
+4060,Dan O'Rourke,8,Carolina Hurricanes
+4061,Dan O'Rourke,4,New York Islanders
+4062,Kyle Rehman,8,Carolina Hurricanes
+4063,Kyle Rehman,4,New York Islanders
+4064,Chris Lee,2,New York Rangers
+4065,Chris Lee,3,Tampa Bay Lightning
+4066,Jon McIsaac,2,New York Rangers
+4067,Jon McIsaac,3,Tampa Bay Lightning
+4068,Chris Rooney,5,Columbus Blue Jackets
+4069,Chris Rooney,3,Philadelphia Flyers
+4070,Thomas John Luxmore,5,Columbus Blue Jackets
+4071,Thomas John Luxmore,3,Philadelphia Flyers
+4072,Kendrick Nicholson,5,Nashville Predators
+4073,Kendrick Nicholson,4,Winnipeg Jets
+4074,Tim Peel,5,Nashville Predators
+4075,Tim Peel,4,Winnipeg Jets
+4076,Brad Watson,3,Calgary Flames
+4077,Brad Watson,3,Pittsburgh Penguins
+4078,Justin St. Pierre ,3,Calgary Flames
+4079,Justin St. Pierre ,3,Pittsburgh Penguins
+4080,Francois St-Laurent,6,Boston Bruins
+4081,Francois St-Laurent,3,Vancouver Canucks
+4082,Tom Kowal,6,Boston Bruins
+4083,Tom Kowal,3,Vancouver Canucks
+4084,Evgeny Romasko,1,Arizona Coyotes
+4085,Evgeny Romasko,0,Colorado Avalanche
+4086,Mike Leggo,1,Arizona Coyotes
+4087,Mike Leggo,0,Colorado Avalanche
+4088,Dean Morton,1,Los Angeles Kings
+4089,Dean Morton,3,St. Louis Blues
+4090,Eric Furlatt,1,Los Angeles Kings
+4091,Eric Furlatt,3,St. Louis Blues
+4092,Chris Schlenker ,3,New Jersey Devils
+4093,Chris Schlenker ,3,Winnipeg Jets
+4094,Dan O'Rourke,3,New Jersey Devils
+4095,Dan O'Rourke,3,Winnipeg Jets
+4096,Jon McIsaac,2,Minnesota Wild
+4097,Jon McIsaac,4,Washington Capitals
+4098,Thomas John Luxmore,2,Minnesota Wild
+4099,Thomas John Luxmore,4,Washington Capitals
+4100,Jean Hebert,2,Carolina Hurricanes
+4101,Jean Hebert,3,New York Islanders
+4102,Tim Peel,2,Carolina Hurricanes
+4103,Tim Peel,3,New York Islanders
+4104,Ghislain Hebert,4,Chicago Blackhawks
+4105,Ghislain Hebert,2,Montréal Canadiens
+4106,Kelly Sutherland,4,Chicago Blackhawks
+4107,Kelly Sutherland,2,Montréal Canadiens
+4108,Graham Skilliter,1,Ottawa Senators
+4109,Graham Skilliter,2,Tampa Bay Lightning
+4110,Marc Joannette,1,Ottawa Senators
+4111,Marc Joannette,2,Tampa Bay Lightning
+4112,Ian Walsh,7,Florida Panthers
+4113,Ian Walsh,2,Toronto Maple Leafs
+4114,Steve Kozari,7,Florida Panthers
+4115,Steve Kozari,2,Toronto Maple Leafs
+4116,Brad Watson,1,Dallas Stars
+4117,Brad Watson,7,Edmonton Oilers
+4118,Kevin Pollock,1,Dallas Stars
+4119,Kevin Pollock,7,Edmonton Oilers
+4120,Dan O'Halloran,2,Arizona Coyotes
+4121,Dan O'Halloran,2,Los Angeles Kings
+4122,Dean Morton,2,Arizona Coyotes
+4123,Dean Morton,2,Los Angeles Kings
+4124,Frederick L'Ecuyer,1,Buffalo Sabres
+4125,Frederick L'Ecuyer,4,San Jose Sharks
+4126,Tom Kowal,1,Buffalo Sabres
+4127,Tom Kowal,4,San Jose Sharks
+4128,Jean Hebert,4,Philadelphia Flyers
+4129,Jean Hebert,0,Pittsburgh Penguins
+4130,Kyle Rehman,4,Philadelphia Flyers
+4131,Kyle Rehman,0,Pittsburgh Penguins
+4132,Justin St. Pierre ,5,Boston Bruins
+4133,Justin St. Pierre ,2,Calgary Flames
+4134,Kevin Pollock,5,Boston Bruins
+4135,Kevin Pollock,2,Calgary Flames
+4136,Gord Dwyer,3,Colorado Avalanche
+4137,Gord Dwyer,1,Detroit Red Wings
+4138,Tom Chmielewski,3,Colorado Avalanche
+4139,Tom Chmielewski,1,Detroit Red Wings
+4140,Francois St-Laurent,2,Anaheim Ducks
+4141,Francois St-Laurent,1,St. Louis Blues
+4142,Mike Leggo,2,Anaheim Ducks
+4143,Mike Leggo,1,St. Louis Blues
+4144,Graham Skilliter,6,New Jersey Devils
+4145,Graham Skilliter,2,Philadelphia Flyers
+4146,Tim Peel,6,New Jersey Devils
+4147,Tim Peel,2,Philadelphia Flyers
+4148,Brian Pochmara,2,New York Islanders
+4149,Brian Pochmara,4,Winnipeg Jets
+4150,Thomas John Luxmore,2,New York Islanders
+4151,Thomas John Luxmore,4,Winnipeg Jets
+4152,Garrett Rank,2,Nashville Predators
+4153,Garrett Rank,1,Washington Capitals
+4154,Kyle Rehman,2,Nashville Predators
+4155,Kyle Rehman,1,Washington Capitals
+4156,Frederick L'Ecuyer,3,Carolina Hurricanes
+4157,Frederick L'Ecuyer,1,Minnesota Wild
+4158,Marc Joannette,3,Carolina Hurricanes
+4159,Marc Joannette,1,Minnesota Wild
+4160,Ghislain Hebert,2,Columbus Blue Jackets
+4161,Ghislain Hebert,1,Florida Panthers
+4162,Wes McCauley,2,Columbus Blue Jackets
+4163,Wes McCauley,1,Florida Panthers
+4164,Chris Rooney,2,Chicago Blackhawks
+4165,Chris Rooney,1,Ottawa Senators
+4166,Francis Charron,2,Chicago Blackhawks
+4167,Francis Charron,1,Ottawa Senators
+4168,Ian Walsh,0,Tampa Bay Lightning
+4169,Ian Walsh,5,Toronto Maple Leafs
+4170,Steve Kozari,0,Tampa Bay Lightning
+4171,Steve Kozari,5,Toronto Maple Leafs
+4172,Brad Watson,4,Boston Bruins
+4173,Brad Watson,7,Edmonton Oilers
+4174,Trevor Hanson,4,Boston Bruins
+4175,Trevor Hanson,7,Edmonton Oilers
+4176,Chris Schlenker ,4,Dallas Stars
+4177,Chris Schlenker ,2,Vancouver Canucks
+4178,Tom Kowal,4,Dallas Stars
+4179,Tom Kowal,2,Vancouver Canucks
+4180,Gord Dwyer,4,Arizona Coyotes
+4181,Gord Dwyer,4,Detroit Red Wings
+4182,Jake Brenk,4,Arizona Coyotes
+4183,Jake Brenk,4,Detroit Red Wings
+4184,Brad Meier,0,Buffalo Sabres
+4185,Brad Meier,2,Los Angeles Kings
+4186,Francois St-Laurent,0,Buffalo Sabres
+4187,Francois St-Laurent,2,Los Angeles Kings
+4188,Dan O'Halloran,1,San Jose Sharks
+4189,Dan O'Halloran,4,St. Louis Blues
+4190,Dean Morton,1,San Jose Sharks
+4191,Dean Morton,4,St. Louis Blues
+4192,Eric Furlatt,3,Florida Panthers
+4193,Eric Furlatt,3,New York Rangers
+4194,Kendrick Nicholson,3,Florida Panthers
+4195,Kendrick Nicholson,3,New York Rangers
+4196,Brian Pochmara,4,New Jersey Devils
+4197,Brian Pochmara,6,Pittsburgh Penguins
+4198,Jean Hebert,4,New Jersey Devils
+4199,Jean Hebert,6,Pittsburgh Penguins
+4200,Chris Lee,3,Calgary Flames
+4201,Chris Lee,1,Dallas Stars
+4202,Trevor Hanson,3,Calgary Flames
+4203,Trevor Hanson,1,Dallas Stars
+4204,Brad Meier,1,Anaheim Ducks
+4205,Brad Meier,1,Buffalo Sabres
+4206,Justin St. Pierre ,1,Anaheim Ducks
+4207,Justin St. Pierre ,1,Buffalo Sabres
+4208,Francis Charron,1,Colorado Avalanche
+4209,Francis Charron,5,Detroit Red Wings
+4210,Kevin Pollock,1,Colorado Avalanche
+4211,Kevin Pollock,5,Detroit Red Wings
+4212,Frederick L'Ecuyer,3,Columbus Blue Jackets
+4213,Frederick L'Ecuyer,2,New York Islanders
+4214,Marc Joannette,3,Columbus Blue Jackets
+4215,Marc Joannette,2,New York Islanders
+4216,Graham Skilliter,2,Chicago Blackhawks
+4217,Graham Skilliter,1,Toronto Maple Leafs
+4218,Mike Leggo,2,Chicago Blackhawks
+4219,Mike Leggo,1,Toronto Maple Leafs
+4220,Dean Morton,3,Montréal Canadiens
+4221,Dean Morton,3,Ottawa Senators
+4222,Tim Peel,3,Montréal Canadiens
+4223,Tim Peel,3,Ottawa Senators
+4224,Dan O'Rourke,3,Tampa Bay Lightning
+4225,Dan O'Rourke,5,Washington Capitals
+4226,Ghislain Hebert,3,Tampa Bay Lightning
+4227,Ghislain Hebert,5,Washington Capitals
+4228,Ian Walsh,4,Carolina Hurricanes
+4229,Ian Walsh,2,Nashville Predators
+4230,Steve Kozari,4,Carolina Hurricanes
+4231,Steve Kozari,2,Nashville Predators
+4232,Kelly Sutherland,2,Minnesota Wild
+4233,Kelly Sutherland,3,New York Rangers
+4234,Wes McCauley,2,Minnesota Wild
+4235,Wes McCauley,3,New York Rangers
+4236,Dan O'Halloran,0,Arizona Coyotes
+4237,Dan O'Halloran,3,St. Louis Blues
+4238,Furman Furman,0,Arizona Coyotes
+4239,Furman Furman,3,St. Louis Blues
+4240,Chris Lee,2,Edmonton Oilers
+4241,Chris Lee,0,Vancouver Canucks
+4242,Thomas John Luxmore,2,Edmonton Oilers
+4243,Thomas John Luxmore,0,Vancouver Canucks
+4244,Garrett Rank,2,Anaheim Ducks
+4245,Garrett Rank,1,San Jose Sharks
+4246,Gord Dwyer,2,Anaheim Ducks
+4247,Gord Dwyer,1,San Jose Sharks
+4248,Eric Furlatt,4,Columbus Blue Jackets
+4249,Eric Furlatt,1,New Jersey Devils
+4250,Kendrick Nicholson,4,Columbus Blue Jackets
+4251,Kendrick Nicholson,1,New Jersey Devils
+4252,Chris Rooney,0,Florida Panthers
+4253,Chris Rooney,4,Pittsburgh Penguins
+4254,Jon McIsaac,0,Florida Panthers
+4255,Jon McIsaac,4,Pittsburgh Penguins
+4256,Tom Kowal,4,Minnesota Wild
+4257,Tom Kowal,5,Winnipeg Jets
+4258,Trevor Hanson,4,Minnesota Wild
+4259,Trevor Hanson,5,Winnipeg Jets
+4260,Brian Pochmara,3,Carolina Hurricanes
+4261,Brian Pochmara,4,Philadelphia Flyers
+4262,Ian Walsh,3,Carolina Hurricanes
+4263,Ian Walsh,4,Philadelphia Flyers
+4264,Francois St-Laurent,6,Chicago Blackhawks
+4265,Francois St-Laurent,3,Colorado Avalanche
+4266,Frederick L'Ecuyer,6,Chicago Blackhawks
+4267,Frederick L'Ecuyer,3,Colorado Avalanche
+4268,Graham Skilliter,4,Montréal Canadiens
+4269,Graham Skilliter,1,Ottawa Senators
+4270,Mike Leggo,4,Montréal Canadiens
+4271,Mike Leggo,1,Ottawa Senators
+4272,Brad Meier,5,Calgary Flames
+4273,Brad Meier,2,Los Angeles Kings
+4274,Thomas John Luxmore,5,Calgary Flames
+4275,Thomas John Luxmore,2,Los Angeles Kings
+4276,Dan O'Halloran,2,Boston Bruins
+4277,Dan O'Halloran,4,Toronto Maple Leafs
+4278,Justin St. Pierre ,2,Boston Bruins
+4279,Justin St. Pierre ,4,Toronto Maple Leafs
+4280,Brian Pochmara,2,Buffalo Sabres
+4281,Brian Pochmara,1,Detroit Red Wings
+4282,Dean Morton,2,Buffalo Sabres
+4283,Dean Morton,1,Detroit Red Wings
+4284,Dan O'Rourke,1,Arizona Coyotes
+4285,Dan O'Rourke,3,Nashville Predators
+4286,Kendrick Nicholson,1,Arizona Coyotes
+4287,Kendrick Nicholson,3,Nashville Predators
+4288,Garrett Rank,1,Dallas Stars
+4289,Garrett Rank,0,San Jose Sharks
+4290,Ghislain Hebert,1,Dallas Stars
+4291,Ghislain Hebert,0,San Jose Sharks
+4292,Chris Lee,2,Edmonton Oilers
+4293,Chris Lee,0,Los Angeles Kings
+4294,Wes McCauley,2,Edmonton Oilers
+4295,Wes McCauley,0,Los Angeles Kings
+4296,Chris Rooney,2,Boston Bruins
+4297,Chris Rooney,3,Ottawa Senators
+4298,Kyle Rehman,2,Boston Bruins
+4299,Kyle Rehman,3,Ottawa Senators
+4300,Justin St. Pierre ,1,Buffalo Sabres
+4301,Justin St. Pierre ,3,Pittsburgh Penguins
+4302,Mike Leggo,1,Buffalo Sabres
+4303,Mike Leggo,3,Pittsburgh Penguins
+4304,Graham Skilliter,3,New Jersey Devils
+4305,Graham Skilliter,2,New York Rangers
+4306,Jon McIsaac,3,New Jersey Devils
+4307,Jon McIsaac,2,New York Rangers
+4308,Kelly Sutherland,2,Calgary Flames
+4309,Kelly Sutherland,4,Washington Capitals
+4310,Marc Joannette,2,Calgary Flames
+4311,Marc Joannette,4,Washington Capitals
+4312,Eric Furlatt,2,Detroit Red Wings
+4313,Eric Furlatt,1,Montréal Canadiens
+4314,Trevor Hanson,2,Detroit Red Wings
+4315,Trevor Hanson,1,Montréal Canadiens
+4316,Jean Hebert,5,Arizona Coyotes
+4317,Jean Hebert,3,Tampa Bay Lightning
+4318,Tom Chmielewski,5,Arizona Coyotes
+4319,Tom Chmielewski,3,Tampa Bay Lightning
+4320,Francois St-Laurent,4,Carolina Hurricanes
+4321,Francois St-Laurent,3,Florida Panthers
+4322,Gord Dwyer,4,Carolina Hurricanes
+4323,Gord Dwyer,3,Florida Panthers
+4324,Steve Kozari,3,Minnesota Wild
+4325,Steve Kozari,2,San Jose Sharks
+4326,Thomas John Luxmore,3,Minnesota Wild
+4327,Thomas John Luxmore,2,San Jose Sharks
+4328,Brad Watson,2,Philadelphia Flyers
+4329,Brad Watson,3,Winnipeg Jets
+4330,Frederick L'Ecuyer,2,Philadelphia Flyers
+4331,Frederick L'Ecuyer,3,Winnipeg Jets
+4332,Kevin Pollock,4,Chicago Blackhawks
+4333,Kevin Pollock,5,Vancouver Canucks
+4334,Tim Peel,4,Chicago Blackhawks
+4335,Tim Peel,5,Vancouver Canucks
+4336,Francis Charron,2,Colorado Avalanche
+4337,Francis Charron,4,St. Louis Blues
+4338,Tom Kowal,2,Colorado Avalanche
+4339,Tom Kowal,4,St. Louis Blues
+4340,Garrett Rank,2,Columbus Blue Jackets
+4341,Garrett Rank,5,Toronto Maple Leafs
+4342,Tim Peel,2,Columbus Blue Jackets
+4343,Tim Peel,5,Toronto Maple Leafs
+4344,Dan O'Rourke,3,New York Islanders
+4345,Dan O'Rourke,2,New York Rangers
+4346,Dean Morton,3,New York Islanders
+4347,Dean Morton,2,New York Rangers
+4348,Brad Meier,4,Anaheim Ducks
+4349,Brad Meier,3,Edmonton Oilers
+4350,Wes McCauley,4,Anaheim Ducks
+4351,Wes McCauley,3,Edmonton Oilers
+4352,Eric Furlatt,3,Boston Bruins
+4353,Eric Furlatt,6,Tampa Bay Lightning
+4354,Trevor Hanson,3,Boston Bruins
+4355,Trevor Hanson,6,Tampa Bay Lightning
+4356,Kyle Rehman,1,Columbus Blue Jackets
+4357,Kyle Rehman,1,Washington Capitals
+4358,Mike Leggo,1,Columbus Blue Jackets
+4359,Mike Leggo,1,Washington Capitals
+4360,Jean Hebert,2,New Jersey Devils
+4361,Jean Hebert,4,Toronto Maple Leafs
+4362,Kelly Sutherland,2,New Jersey Devils
+4363,Kelly Sutherland,4,Toronto Maple Leafs
+4364,Dan O'Rourke,4,Carolina Hurricanes
+4365,Dan O'Rourke,1,Montréal Canadiens
+4366,Justin St. Pierre ,4,Carolina Hurricanes
+4367,Justin St. Pierre ,1,Montréal Canadiens
+4368,Gord Dwyer,1,Ottawa Senators
+4369,Gord Dwyer,1,Pittsburgh Penguins
+4370,Jon McIsaac,1,Ottawa Senators
+4371,Jon McIsaac,1,Pittsburgh Penguins
+4372,Marc Joannette,1,Arizona Coyotes
+4373,Marc Joannette,3,Florida Panthers
+4374,Tom Chmielewski,1,Arizona Coyotes
+4375,Tom Chmielewski,3,Florida Panthers
+4376,Ghislain Hebert,4,St. Louis Blues
+4377,Ghislain Hebert,1,Vancouver Canucks
+4378,Kevin Pollock,4,St. Louis Blues
+4379,Kevin Pollock,1,Vancouver Canucks
+4380,Francois St-Laurent,1,Calgary Flames
+4381,Francois St-Laurent,3,Nashville Predators
+4382,Frederick L'Ecuyer,1,Calgary Flames
+4383,Frederick L'Ecuyer,3,Nashville Predators
+4384,Brad Watson,1,Minnesota Wild
+4385,Brad Watson,3,Philadelphia Flyers
+4386,Chris Lee,1,Minnesota Wild
+4387,Chris Lee,3,Philadelphia Flyers
+4388,Brian Pochmara,2,Chicago Blackhawks
+4389,Brian Pochmara,2,Dallas Stars
+4390,Dan O'Halloran,2,Chicago Blackhawks
+4391,Dan O'Halloran,2,Dallas Stars
+4392,Steve Kozari,4,Colorado Avalanche
+4393,Steve Kozari,7,Edmonton Oilers
+4394,Tom Kowal,4,Colorado Avalanche
+4395,Tom Kowal,7,Edmonton Oilers
+4396,Francis Charron,5,Los Angeles Kings
+4397,Francis Charron,2,Winnipeg Jets
+4398,Ian Walsh,5,Los Angeles Kings
+4399,Ian Walsh,2,Winnipeg Jets
+4400,Jake Brenk,3,New York Islanders
+4401,Jake Brenk,3,Pittsburgh Penguins
+4402,Mike Leggo,3,New York Islanders
+4403,Mike Leggo,3,Pittsburgh Penguins
+4404,Ghislain Hebert,1,Detroit Red Wings
+4405,Ghislain Hebert,2,Tampa Bay Lightning
+4406,Kelly Sutherland,1,Detroit Red Wings
+4407,Kelly Sutherland,2,Tampa Bay Lightning
+4408,Brad Meier,6,Dallas Stars
+4409,Brad Meier,1,San Jose Sharks
+4410,Chris Rooney,6,Dallas Stars
+4411,Chris Rooney,1,San Jose Sharks
+4412,Ian Walsh,3,Anaheim Ducks
+4413,Ian Walsh,1,Winnipeg Jets
+4414,Wes McCauley,3,Anaheim Ducks
+4415,Wes McCauley,1,Winnipeg Jets
+4416,Dan O'Halloran,1,Columbus Blue Jackets
+4417,Dan O'Halloran,0,Philadelphia Flyers
+4418,Justin St. Pierre ,1,Columbus Blue Jackets
+4419,Justin St. Pierre ,0,Philadelphia Flyers
+4420,Dan O'Rourke,2,Minnesota Wild
+4421,Dan O'Rourke,4,Vancouver Canucks
+4422,Garrett Rank,2,Minnesota Wild
+4423,Garrett Rank,4,Vancouver Canucks
+4424,Ghislain Hebert,5,Buffalo Sabres
+4425,Ghislain Hebert,2,Toronto Maple Leafs
+4426,Graham Skilliter,5,Buffalo Sabres
+4427,Graham Skilliter,2,Toronto Maple Leafs
+4428,Gord Dwyer,3,Montréal Canadiens
+4429,Gord Dwyer,1,Ottawa Senators
+4430,Trevor Hanson,3,Montréal Canadiens
+4431,Trevor Hanson,1,Ottawa Senators
+4432,Eric Furlatt,0,Chicago Blackhawks
+4433,Eric Furlatt,7,Florida Panthers
+4434,Thomas John Luxmore,0,Chicago Blackhawks
+4435,Thomas John Luxmore,7,Florida Panthers
+4436,Dean Morton,3,Carolina Hurricanes
+4437,Dean Morton,1,New Jersey Devils
+4438,Marc Joannette,3,Carolina Hurricanes
+4439,Marc Joannette,1,New Jersey Devils
+4440,Chris Lee,2,Boston Bruins
+4441,Chris Lee,1,New York Islanders
+4442,Francis Charron,2,Boston Bruins
+4443,Francis Charron,1,New York Islanders
+4444,Francois St-Laurent,1,Arizona Coyotes
+4445,Francois St-Laurent,4,Washington Capitals
+4446,Jon McIsaac,1,Arizona Coyotes
+4447,Jon McIsaac,4,Washington Capitals
+4448,Brian Pochmara,3,Calgary Flames
+4449,Brian Pochmara,2,St. Louis Blues
+4450,Kyle Rehman,3,Calgary Flames
+4451,Kyle Rehman,2,St. Louis Blues
+4452,Kevin Pollock,7,Nashville Predators
+4453,Kevin Pollock,2,San Jose Sharks
+4454,Tim Peel,7,Nashville Predators
+4455,Tim Peel,2,San Jose Sharks
+4456,Jean Hebert,1,Colorado Avalanche
+4457,Jean Hebert,4,Edmonton Oilers
+4458,Kendrick Nicholson,1,Colorado Avalanche
+4459,Kendrick Nicholson,4,Edmonton Oilers
+4460,Ian Walsh,0,Los Angeles Kings
+4461,Ian Walsh,3,New York Rangers
+4462,Tom Kowal,0,Los Angeles Kings
+4463,Tom Kowal,3,New York Rangers
+4464,Dan O'Halloran,6,Philadelphia Flyers
+4465,Dan O'Halloran,2,Pittsburgh Penguins
+4466,Graham Skilliter,6,Philadelphia Flyers
+4467,Graham Skilliter,2,Pittsburgh Penguins
+4468,Chris Lee,2,Dallas Stars
+4469,Chris Lee,1,New Jersey Devils
+4470,Jon McIsaac,2,Dallas Stars
+4471,Jon McIsaac,1,New Jersey Devils
+4472,Brad Meier,3,Detroit Red Wings
+4473,Brad Meier,2,Minnesota Wild
+4474,Kelly Sutherland,3,Detroit Red Wings
+4475,Kelly Sutherland,2,Minnesota Wild
+4476,Garrett Rank,1,Vancouver Canucks
+4477,Garrett Rank,2,Winnipeg Jets
+4478,Steve Kozari,1,Vancouver Canucks
+4479,Steve Kozari,2,Winnipeg Jets
+4480,Chris Rooney,6,Anaheim Ducks
+4481,Chris Rooney,3,New York Rangers
+4482,Tom Kowal,6,Anaheim Ducks
+4483,Tom Kowal,3,New York Rangers
+4484,Brian Pochmara,4,Buffalo Sabres
+4485,Brian Pochmara,2,Florida Panthers
+4486,Francis Charron,4,Buffalo Sabres
+4487,Francis Charron,2,Florida Panthers
+4488,Chris Lee,3,Nashville Predators
+4489,Chris Lee,1,New York Islanders
+4490,Graham Skilliter,3,Nashville Predators
+4491,Graham Skilliter,1,New York Islanders
+4492,Eric Furlatt,4,Chicago Blackhawks
+4493,Eric Furlatt,5,Tampa Bay Lightning
+4494,Mike Leggo,4,Chicago Blackhawks
+4495,Mike Leggo,5,Tampa Bay Lightning
+4496,Thomas John Luxmore,1,Arizona Coyotes
+4497,Thomas John Luxmore,4,St. Louis Blues
+4498,Tim Peel,1,Arizona Coyotes
+4499,Tim Peel,4,St. Louis Blues
+4500,Jean Hebert,4,Calgary Flames
+4501,Jean Hebert,2,Colorado Avalanche
+4502,Kendrick Nicholson,4,Calgary Flames
+4503,Kendrick Nicholson,2,Colorado Avalanche
+4504,Ghislain Hebert,4,Boston Bruins
+4505,Ghislain Hebert,1,Nashville Predators
+4506,Wes McCauley,4,Boston Bruins
+4507,Wes McCauley,1,Nashville Predators
+4508,Francois St-Laurent,2,Ottawa Senators
+4509,Francois St-Laurent,2,Philadelphia Flyers
+4510,Kelly Sutherland,2,Ottawa Senators
+4511,Kelly Sutherland,2,Philadelphia Flyers
+4512,Francis Charron,4,Carolina Hurricanes
+4513,Francis Charron,1,Detroit Red Wings
+4514,Mike Leggo,4,Carolina Hurricanes
+4515,Mike Leggo,1,Detroit Red Wings
+4516,Brad Watson,1,Buffalo Sabres
+4517,Brad Watson,3,Columbus Blue Jackets
+4518,Dean Morton,1,Buffalo Sabres
+4519,Dean Morton,3,Columbus Blue Jackets
+4520,Brian Pochmara,2,Florida Panthers
+4521,Brian Pochmara,3,Toronto Maple Leafs
+4522,Kevin Pollock,2,Florida Panthers
+4523,Kevin Pollock,3,Toronto Maple Leafs
+4524,Garrett Rank,1,Dallas Stars
+4525,Garrett Rank,4,Montréal Canadiens
+4526,Marc Joannette,1,Dallas Stars
+4527,Marc Joannette,4,Montréal Canadiens
+4528,Dan O'Halloran,4,Minnesota Wild
+4529,Dan O'Halloran,5,Washington Capitals
+4530,Ian Walsh,4,Minnesota Wild
+4531,Ian Walsh,5,Washington Capitals
+4532,Kyle Rehman,2,Edmonton Oilers
+4533,Kyle Rehman,1,Los Angeles Kings
+4534,Steve Kozari,2,Edmonton Oilers
+4535,Steve Kozari,1,Los Angeles Kings
+4536,Jean Hebert,4,Anaheim Ducks
+4537,Jean Hebert,1,Vancouver Canucks
+4538,Trevor Hanson,4,Anaheim Ducks
+4539,Trevor Hanson,1,Vancouver Canucks
+4540,Chris Rooney,4,New York Rangers
+4541,Chris Rooney,5,San Jose Sharks
+4542,Justin St. Pierre ,4,New York Rangers
+4543,Justin St. Pierre ,5,San Jose Sharks
+4544,Thomas John Luxmore,5,Chicago Blackhawks
+4545,Thomas John Luxmore,1,Pittsburgh Penguins
+4546,Tim Peel,5,Chicago Blackhawks
+4547,Tim Peel,1,Pittsburgh Penguins
+4548,Kyle Rehman,1,Calgary Flames
+4549,Kyle Rehman,4,Los Angeles Kings
+4550,Tom Kowal,1,Calgary Flames
+4551,Tom Kowal,4,Los Angeles Kings
+4552,Ian Walsh,3,Colorado Avalanche
+4553,Ian Walsh,5,Washington Capitals
+4554,Tom Chmielewski,3,Colorado Avalanche
+4555,Tom Chmielewski,5,Washington Capitals
+4556,Chris Lee,1,Arizona Coyotes
+4557,Chris Lee,3,St. Louis Blues
+4558,Chris Rooney,1,Arizona Coyotes
+4559,Chris Rooney,3,St. Louis Blues
+4560,Jon McIsaac,2,Boston Bruins
+4561,Jon McIsaac,0,Dallas Stars
+4562,Kelly Sutherland,2,Boston Bruins
+4563,Kelly Sutherland,0,Dallas Stars
+4564,Marc Joannette,3,New York Islanders
+4565,Marc Joannette,6,Philadelphia Flyers
+4566,Wes McCauley,3,New York Islanders
+4567,Wes McCauley,6,Philadelphia Flyers
+4568,Ghislain Hebert,2,Carolina Hurricanes
+4569,Ghislain Hebert,1,Columbus Blue Jackets
+4570,Justin St. Pierre ,2,Carolina Hurricanes
+4571,Justin St. Pierre ,1,Columbus Blue Jackets
+4572,Brad Watson,2,Florida Panthers
+4573,Brad Watson,6,Montréal Canadiens
+4574,Frederick L'Ecuyer,2,Florida Panthers
+4575,Frederick L'Ecuyer,6,Montréal Canadiens
+4576,Dan O'Halloran,3,Detroit Red Wings
+4577,Dan O'Halloran,5,Tampa Bay Lightning
+4578,Kevin Pollock,3,Detroit Red Wings
+4579,Kevin Pollock,5,Tampa Bay Lightning
+4580,Francis Charron,1,Nashville Predators
+4581,Francis Charron,3,Toronto Maple Leafs
+4582,Gord Dwyer,1,Nashville Predators
+4583,Gord Dwyer,3,Toronto Maple Leafs
+4584,Jean Hebert,5,Minnesota Wild
+4585,Jean Hebert,1,Ottawa Senators
+4586,Mike Leggo,5,Minnesota Wild
+4587,Mike Leggo,1,Ottawa Senators
+4588,Dan O'Rourke,3,Anaheim Ducks
+4589,Dan O'Rourke,4,Winnipeg Jets
+4590,Francois St-Laurent,3,Anaheim Ducks
+4591,Francois St-Laurent,4,Winnipeg Jets
+4592,Brad Meier,3,Edmonton Oilers
+4593,Brad Meier,2,San Jose Sharks
+4594,Kyle Rehman,3,Edmonton Oilers
+4595,Kyle Rehman,2,San Jose Sharks
+4596,Eric Furlatt,3,New York Rangers
+4597,Eric Furlatt,3,Pittsburgh Penguins
+4598,Ghislain Hebert,3,New York Rangers
+4599,Ghislain Hebert,3,Pittsburgh Penguins
+4600,Kendrick Nicholson,1,New Jersey Devils
+4601,Kendrick Nicholson,2,New York Islanders
+4602,Tim Peel,1,New Jersey Devils
+4603,Tim Peel,2,New York Islanders
+4604,Dean Morton,3,Chicago Blackhawks
+4605,Dean Morton,1,Columbus Blue Jackets
+4606,Trevor Hanson,3,Chicago Blackhawks
+4607,Trevor Hanson,1,Columbus Blue Jackets
+4608,Garrett Rank,1,Colorado Avalanche
+4609,Garrett Rank,1,St. Louis Blues
+4610,Ian Walsh,1,Colorado Avalanche
+4611,Ian Walsh,1,St. Louis Blues
+4612,Dan O'Rourke,5,Calgary Flames
+4613,Dan O'Rourke,2,San Jose Sharks
+4614,Francois St-Laurent,5,Calgary Flames
+4615,Francois St-Laurent,2,San Jose Sharks
+4616,Brad Meier,2,Los Angeles Kings
+4617,Brad Meier,0,Vancouver Canucks
+4618,Graham Skilliter,2,Los Angeles Kings
+4619,Graham Skilliter,0,Vancouver Canucks
+4620,Brian Pochmara,6,Arizona Coyotes
+4621,Brian Pochmara,3,Washington Capitals
+4622,Tom Kowal,6,Arizona Coyotes
+4623,Tom Kowal,3,Washington Capitals
+4624,Frederick L'Ecuyer,5,Boston Bruins
+4625,Frederick L'Ecuyer,2,Florida Panthers
+4626,Gord Dwyer,5,Boston Bruins
+4627,Gord Dwyer,2,Florida Panthers
+4628,Jon McIsaac,0,Minnesota Wild
+4629,Jon McIsaac,3,Nashville Predators
+4630,Wes McCauley,0,Minnesota Wild
+4631,Wes McCauley,3,Nashville Predators
+4632,Marc Joannette,4,Detroit Red Wings
+4633,Marc Joannette,5,Toronto Maple Leafs
+4634,Trevor Hanson,4,Detroit Red Wings
+4635,Trevor Hanson,5,Toronto Maple Leafs
+4636,Kevin Pollock,2,Montréal Canadiens
+4637,Kevin Pollock,1,Tampa Bay Lightning
+4638,Steve Kozari,2,Montréal Canadiens
+4639,Steve Kozari,1,Tampa Bay Lightning
+4640,Eric Furlatt,0,New Jersey Devils
+4641,Eric Furlatt,3,Philadelphia Flyers
+4642,Justin St. Pierre ,0,New Jersey Devils
+4643,Justin St. Pierre ,3,Philadelphia Flyers
+4644,Chris Lee,0,Carolina Hurricanes
+4645,Chris Lee,3,Dallas Stars
+4646,Dean Morton,0,Carolina Hurricanes
+4647,Dean Morton,3,Dallas Stars
+4648,Jean Hebert,2,Ottawa Senators
+4649,Jean Hebert,4,Winnipeg Jets
+4650,Kyle Rehman,2,Ottawa Senators
+4651,Kyle Rehman,4,Winnipeg Jets
+4652,Dan O'Rourke,2,Anaheim Ducks
+4653,Dan O'Rourke,3,Edmonton Oilers
+4654,Francois St-Laurent,2,Anaheim Ducks
+4655,Francois St-Laurent,3,Edmonton Oilers
+4656,Francis Charron,3,Boston Bruins
+4657,Francis Charron,2,Chicago Blackhawks
+4658,Thomas John Luxmore,3,Boston Bruins
+4659,Thomas John Luxmore,2,Chicago Blackhawks
+4660,Brad Meier,2,Buffalo Sabres
+4661,Brad Meier,4,New York Islanders
+4662,Frederick L'Ecuyer,2,Buffalo Sabres
+4663,Frederick L'Ecuyer,4,New York Islanders
+4664,Eric Furlatt,2,Carolina Hurricanes
+4665,Eric Furlatt,3,Pittsburgh Penguins
+4666,Kendrick Nicholson,2,Carolina Hurricanes
+4667,Kendrick Nicholson,3,Pittsburgh Penguins
+4668,Steve Kozari,3,Dallas Stars
+4669,Steve Kozari,6,Tampa Bay Lightning
+4670,Tim Peel,3,Dallas Stars
+4671,Tim Peel,6,Tampa Bay Lightning
+4672,Gord Dwyer,2,Columbus Blue Jackets
+4673,Gord Dwyer,3,Washington Capitals
+4674,Jon McIsaac,2,Columbus Blue Jackets
+4675,Jon McIsaac,3,Washington Capitals
+4676,Garrett Rank,1,Nashville Predators
+4677,Garrett Rank,4,St. Louis Blues
+4678,Kelly Sutherland,1,Nashville Predators
+4679,Kelly Sutherland,4,St. Louis Blues
+4680,Brian Pochmara,2,Colorado Avalanche
+4681,Brian Pochmara,5,Minnesota Wild
+4682,Ghislain Hebert,2,Colorado Avalanche
+4683,Ghislain Hebert,5,Minnesota Wild
+4684,Ian Walsh,3,San Jose Sharks
+4685,Ian Walsh,1,Vancouver Canucks
+4686,Tom Kowal,3,San Jose Sharks
+4687,Tom Kowal,1,Vancouver Canucks
+4688,Marc Joannette,4,New York Rangers
+4689,Marc Joannette,3,Philadelphia Flyers
+4690,Trevor Hanson,4,New York Rangers
+4691,Trevor Hanson,3,Philadelphia Flyers
+4692,Chris Rooney,4,Anaheim Ducks
+4693,Chris Rooney,3,Calgary Flames
+4694,Graham Skilliter,4,Anaheim Ducks
+4695,Graham Skilliter,3,Calgary Flames
+4696,Brad Watson,2,Arizona Coyotes
+4697,Brad Watson,1,Los Angeles Kings
+4698,Mike Leggo,2,Arizona Coyotes
+4699,Mike Leggo,1,Los Angeles Kings
+4700,Garrett Rank,2,Buffalo Sabres
+4701,Garrett Rank,4,Toronto Maple Leafs
+4702,Wes McCauley,2,Buffalo Sabres
+4703,Wes McCauley,4,Toronto Maple Leafs
+4704,Dan O'Halloran,4,Detroit Red Wings
+4705,Dan O'Halloran,4,Ottawa Senators
+4706,Kendrick Nicholson,4,Detroit Red Wings
+4707,Kendrick Nicholson,4,Ottawa Senators
+4708,Jean Hebert,1,Florida Panthers
+4709,Jean Hebert,4,Montréal Canadiens
+4710,Tim Peel,1,Florida Panthers
+4711,Tim Peel,4,Montréal Canadiens
+4712,Brad Meier,4,Boston Bruins
+4713,Brad Meier,0,Tampa Bay Lightning
+4714,Jon McIsaac,4,Boston Bruins
+4715,Jon McIsaac,0,Tampa Bay Lightning
+4716,Francis Charron,1,New Jersey Devils
+4717,Francis Charron,0,Philadelphia Flyers
+4718,Kelly Sutherland,1,New Jersey Devils
+4719,Kelly Sutherland,0,Philadelphia Flyers
+4720,Thomas John Luxmore,1,Columbus Blue Jackets
+4721,Thomas John Luxmore,4,Pittsburgh Penguins
+4722,Wes McCauley,1,Columbus Blue Jackets
+4723,Wes McCauley,4,Pittsburgh Penguins
+4724,Eric Furlatt,1,Toronto Maple Leafs
+4725,Eric Furlatt,4,Washington Capitals
+4726,Trevor Hanson,1,Toronto Maple Leafs
+4727,Trevor Hanson,4,Washington Capitals
+4728,Frederick L'Ecuyer,0,Detroit Red Wings
+4729,Frederick L'Ecuyer,2,Ottawa Senators
+4730,Marc Joannette,0,Detroit Red Wings
+4731,Marc Joannette,2,Ottawa Senators
+4732,Brian Pochmara,2,St. Louis Blues
+4733,Brian Pochmara,5,Winnipeg Jets
+4734,Francois St-Laurent,2,St. Louis Blues
+4735,Francois St-Laurent,5,Winnipeg Jets
+4736,Dan O'Halloran,1,Nashville Predators
+4737,Dan O'Halloran,2,New York Islanders
+4738,Kevin Pollock,1,Nashville Predators
+4739,Kevin Pollock,2,New York Islanders
+4740,Chris Rooney,3,Carolina Hurricanes
+4741,Chris Rooney,5,Minnesota Wild
+4742,Graham Skilliter,3,Carolina Hurricanes
+4743,Graham Skilliter,5,Minnesota Wild
+4744,Cameron Voss ,2,Arizona Coyotes
+4745,Cameron Voss ,3,Dallas Stars
+4746,Gord Dwyer,2,Arizona Coyotes
+4747,Gord Dwyer,3,Dallas Stars
+4748,Dan O'Rourke,3,Chicago Blackhawks
+4749,Dan O'Rourke,4,Colorado Avalanche
+4750,Ghislain Hebert,3,Chicago Blackhawks
+4751,Ghislain Hebert,4,Colorado Avalanche
+4752,Brad Watson,3,Anaheim Ducks
+4753,Brad Watson,1,Calgary Flames
+4754,Ian Walsh,3,Anaheim Ducks
+4755,Ian Walsh,1,Calgary Flames
+4756,Chris Lee,4,Edmonton Oilers
+4757,Chris Lee,6,Los Angeles Kings
+4758,Justin St. Pierre ,4,Edmonton Oilers
+4759,Justin St. Pierre ,6,Los Angeles Kings
+4760,Kyle Rehman,3,San Jose Sharks
+4761,Kyle Rehman,1,Vancouver Canucks
+4762,Steve Kozari,3,San Jose Sharks
+4763,Steve Kozari,1,Vancouver Canucks
+4764,Garrett Rank,2,Buffalo Sabres
+4765,Garrett Rank,1,Montréal Canadiens
+4766,Kelly Sutherland,2,Buffalo Sabres
+4767,Kelly Sutherland,1,Montréal Canadiens
+4768,Kendrick Nicholson,0,New York Rangers
+4769,Kendrick Nicholson,2,Washington Capitals
+4770,Tom Kowal,0,New York Rangers
+4771,Tom Kowal,2,Washington Capitals
+4772,Brian Pochmara,1,Boston Bruins
+4773,Brian Pochmara,1,Ottawa Senators
+4774,Dan O'Halloran,1,Boston Bruins
+4775,Dan O'Halloran,1,Ottawa Senators
+4776,Tim Peel,4,New Jersey Devils
+4777,Tim Peel,7,Pittsburgh Penguins
+4778,Trevor Hanson,4,New Jersey Devils
+4779,Trevor Hanson,7,Pittsburgh Penguins
+4780,Jean Hebert,0,Carolina Hurricanes
+4781,Jean Hebert,3,New York Islanders
+4782,Tom Kowal,0,Carolina Hurricanes
+4783,Tom Kowal,3,New York Islanders
+4784,Eric Furlatt,4,Columbus Blue Jackets
+4785,Eric Furlatt,5,Winnipeg Jets
+4786,Frederick L'Ecuyer,4,Columbus Blue Jackets
+4787,Frederick L'Ecuyer,5,Winnipeg Jets
+4788,Chris Rooney,4,Tampa Bay Lightning
+4789,Chris Rooney,1,Toronto Maple Leafs
+4790,Wes McCauley,4,Tampa Bay Lightning
+4791,Wes McCauley,1,Toronto Maple Leafs
+4792,Brad Meier,3,Florida Panthers
+4793,Brad Meier,6,St. Louis Blues
+4794,Ghislain Hebert,3,Florida Panthers
+4795,Ghislain Hebert,6,St. Louis Blues
+4796,Dan O'Rourke,3,Dallas Stars
+4797,Dan O'Rourke,7,Nashville Predators
+4798,Ian Walsh,3,Dallas Stars
+4799,Ian Walsh,7,Nashville Predators
+4800,Brad Watson,3,Colorado Avalanche
+4801,Brad Watson,4,Minnesota Wild
+4802,Dean Morton,3,Colorado Avalanche
+4803,Dean Morton,4,Minnesota Wild
+4804,Francois St-Laurent,4,Arizona Coyotes
+4805,Francois St-Laurent,3,Vancouver Canucks
+4806,Furman South,4,Arizona Coyotes
+4807,Furman South,3,Vancouver Canucks
+4808,Gord Dwyer,4,Anaheim Ducks
+4809,Gord Dwyer,0,Chicago Blackhawks
+4810,Kyle Rehman,4,Anaheim Ducks
+4811,Kyle Rehman,0,Chicago Blackhawks
+4812,Chris Lee,4,Calgary Flames
+4813,Chris Lee,1,Los Angeles Kings
+4814,Steve Kozari,4,Calgary Flames
+4815,Steve Kozari,1,Los Angeles Kings
+4816,Graham Skilliter,4,Edmonton Oilers
+4817,Graham Skilliter,2,San Jose Sharks
+4818,Kevin Pollock,4,Edmonton Oilers
+4819,Kevin Pollock,2,San Jose Sharks
+4820,Kelly Sutherland,2,Montréal Canadiens
+4821,Kelly Sutherland,4,Tampa Bay Lightning
+4822,Wes McCauley,2,Montréal Canadiens
+4823,Wes McCauley,4,Tampa Bay Lightning
+4824,Ghislain Hebert,1,New York Rangers
+4825,Ghislain Hebert,3,Ottawa Senators
+4826,Tim Peel,1,New York Rangers
+4827,Tim Peel,3,Ottawa Senators
+4828,Brad Meier,2,Columbus Blue Jackets
+4829,Brad Meier,4,Philadelphia Flyers
+4830,Kendrick Nicholson,2,Columbus Blue Jackets
+4831,Kendrick Nicholson,4,Philadelphia Flyers
+4832,Graham Skilliter,1,Boston Bruins
+4833,Graham Skilliter,3,Washington Capitals
+4834,Jean Hebert,1,Boston Bruins
+4835,Jean Hebert,3,Washington Capitals
+4836,Chris Rooney,2,New Jersey Devils
+4837,Chris Rooney,4,New York Islanders
+4838,Garrett Rank,2,New Jersey Devils
+4839,Garrett Rank,4,New York Islanders
+4840,Brian Pochmara,3,Pittsburgh Penguins
+4841,Brian Pochmara,5,Toronto Maple Leafs
+4842,Dan O'Halloran,3,Pittsburgh Penguins
+4843,Dan O'Halloran,5,Toronto Maple Leafs
+4844,Chris Lee,2,Detroit Red Wings
+4845,Chris Lee,3,Montréal Canadiens
+4846,Thomas John Luxmore,2,Detroit Red Wings
+4847,Thomas John Luxmore,3,Montréal Canadiens
+4848,Jon McIsaac,0,Buffalo Sabres
+4849,Jon McIsaac,3,Florida Panthers
+4850,Marc Joannette,0,Buffalo Sabres
+4851,Marc Joannette,3,Florida Panthers
+4852,Jake Brenk,4,Carolina Hurricanes
+4853,Jake Brenk,4,St. Louis Blues
+4854,Steve Kozari,4,Carolina Hurricanes
+4855,Steve Kozari,4,St. Louis Blues
+4856,Dan O'Rourke,1,Nashville Predators
+4857,Dan O'Rourke,2,Winnipeg Jets
+4858,Frederick L'Ecuyer,1,Nashville Predators
+4859,Frederick L'Ecuyer,2,Winnipeg Jets
+4860,Peter MacDougall,3,Colorado Avalanche
+4861,Peter MacDougall,3,Dallas Stars
+4862,Tom Kowal,3,Colorado Avalanche
+4863,Tom Kowal,3,Dallas Stars
+4864,Ian Walsh,1,Arizona Coyotes
+4865,Ian Walsh,3,Minnesota Wild
+4866,Kyle Rehman,1,Arizona Coyotes
+4867,Kyle Rehman,3,Minnesota Wild
+4868,Dean Morton,3,Edmonton Oilers
+4869,Dean Morton,2,Vancouver Canucks
+4870,Gord Dwyer,3,Edmonton Oilers
+4871,Gord Dwyer,2,Vancouver Canucks
+4872,Brad Watson,1,Calgary Flames
+4873,Brad Watson,3,San Jose Sharks
+4874,Justin St. Pierre ,1,Calgary Flames
+4875,Justin St. Pierre ,3,San Jose Sharks
+4876,Francois St-Laurent,2,Chicago Blackhawks
+4877,Francois St-Laurent,3,Los Angeles Kings
+4878,Kevin Pollock,2,Chicago Blackhawks
+4879,Kevin Pollock,3,Los Angeles Kings
+4880,Brian Pochmara,4,Detroit Red Wings
+4881,Brian Pochmara,1,New Jersey Devils
+4882,Jake Brenk,4,Detroit Red Wings
+4883,Jake Brenk,1,New Jersey Devils
+4884,Jon McIsaac,2,Buffalo Sabres
+4885,Jon McIsaac,4,Tampa Bay Lightning
+4886,Marc Joannette,2,Buffalo Sabres
+4887,Marc Joannette,4,Tampa Bay Lightning
+4888,Brad Meier,4,New York Islanders
+4889,Brad Meier,2,Ottawa Senators
+4890,Graham Skilliter,4,New York Islanders
+4891,Graham Skilliter,2,Ottawa Senators
+4892,Chris Lee,3,Columbus Blue Jackets
+4893,Chris Lee,2,Toronto Maple Leafs
+4894,Kelly Sutherland,3,Columbus Blue Jackets
+4895,Kelly Sutherland,2,Toronto Maple Leafs
+4896,Kendrick Nicholson,2,Colorado Avalanche
+4897,Kendrick Nicholson,3,St. Louis Blues
+4898,Steve Kozari,2,Colorado Avalanche
+4899,Steve Kozari,3,St. Louis Blues
+4900,Dan O'Halloran,3,New York Rangers
+4901,Dan O'Halloran,2,Pittsburgh Penguins
+4902,Francis Charron,3,New York Rangers
+4903,Francis Charron,2,Pittsburgh Penguins
+4904,Eric Furlatt,3,Carolina Hurricanes
+4905,Eric Furlatt,3,Philadelphia Flyers
+4906,Thomas John Luxmore,3,Carolina Hurricanes
+4907,Thomas John Luxmore,3,Philadelphia Flyers
+4908,Garrett Rank,2,Florida Panthers
+4909,Garrett Rank,0,Washington Capitals
+4910,Wes McCauley,2,Florida Panthers
+4911,Wes McCauley,0,Washington Capitals
+4912,Justin St. Pierre ,4,Anaheim Ducks
+4913,Justin St. Pierre ,3,Los Angeles Kings
+4914,Kevin Pollock,4,Anaheim Ducks
+4915,Kevin Pollock,3,Los Angeles Kings
+4916,Dean Morton,5,Edmonton Oilers
+4917,Dean Morton,2,Vancouver Canucks
+4918,Gord Dwyer,5,Edmonton Oilers
+4919,Gord Dwyer,2,Vancouver Canucks
