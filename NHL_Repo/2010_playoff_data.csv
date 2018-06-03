@@ -1,0 +1,90 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2010030111,Washington Capitals,2,New York Rangers,1,Dan O'Halloran,Brian Pochmara,Washington Capitals,New York Rangers
+2010030112,Washington Capitals,2,New York Rangers,0,Wes McCauley,Eric Furlatt,Washington Capitals,New York Rangers
+2010030113,New York Rangers,3,Washington Capitals,2,Chris Rooney,Tim Peel,New York Rangers,Washington Capitals
+2010030114,New York Rangers,3,Washington Capitals,4,Paul Devorski,Steve Kozari,Washington Capitals,New York Rangers
+2010030115,Washington Capitals,3,New York Rangers,1,Stephen Walkom,Ian Walsh,Washington Capitals,New York Rangers
+2010030121,Philadelphia Flyers,0,Buffalo Sabres,1,Kelly Sutherland,Dennis LaRue,Buffalo Sabres,Philadelphia Flyers
+2010030122,Philadelphia Flyers,5,Buffalo Sabres,4,Dan O'Rourke,Brad Meier,Philadelphia Flyers,Buffalo Sabres
+2010030123,Buffalo Sabres,2,Philadelphia Flyers,4,Paul Devorski,Steve Kozari,Philadelphia Flyers,Buffalo Sabres
+2010030124,Buffalo Sabres,1,Philadelphia Flyers,0,Marc Joannette,Francois StLaurent,Buffalo Sabres,Philadelphia Flyers
+2010030125,Philadelphia Flyers,3,Buffalo Sabres,4,Dan O'Halloran,Brian Pochmara,Buffalo Sabres,Philadelphia Flyers
+2010030126,Buffalo Sabres,4,Philadelphia Flyers,5,Chris Lee,Kevin Pollock,Philadelphia Flyers,Buffalo Sabres
+2010030127,Philadelphia Flyers,5,Buffalo Sabres,2,Dan O'Rourke,Stephen Walkom,Philadelphia Flyers,Buffalo Sabres
+2010030131,Boston Bruins,0,Montréal Canadiens,2,Dan O'Rourke,Brad Meier,Montréal Canadiens,Boston Bruins
+2010030132,Boston Bruins,1,Montréal Canadiens,3,Paul Devorski,Steve Kozari,Montréal Canadiens,Boston Bruins
+2010030133,Montréal Canadiens,2,Boston Bruins,4,Dan O'Halloran,Brian Pochmara,Boston Bruins,Montréal Canadiens
+2010030134,Montréal Canadiens,4,Boston Bruins,5,Stephen Walkom,Ian Walsh,Boston Bruins,Montréal Canadiens
+2010030135,Boston Bruins,2,Montréal Canadiens,1,Greg Kimmerly,Brad Watson,Boston Bruins,Montréal Canadiens
+2010030136,Montréal Canadiens,2,Boston Bruins,1,Chris Lee,Kevin Pollock,Montréal Canadiens,Boston Bruins
+2010030137,Boston Bruins,4,Montréal Canadiens,3,Kelly Sutherland,Tim Peel,Boston Bruins,Montréal Canadiens
+2010030141,Pittsburgh Penguins,3,Tampa Bay Lightning,0,Wes McCauley,Eric Furlatt,Pittsburgh Penguins,Tampa Bay Lightning
+2010030142,Pittsburgh Penguins,1,Tampa Bay Lightning,5,Chris Rooney,Tim Peel,Tampa Bay Lightning,Pittsburgh Penguins
+2010030143,Tampa Bay Lightning,2,Pittsburgh Penguins,3,Kelly Sutherland,Dennis LaRue,Pittsburgh Penguins,Tampa Bay Lightning
+2010030144,Tampa Bay Lightning,2,Pittsburgh Penguins,3,Chris Lee,Kevin Pollock,Pittsburgh Penguins,Tampa Bay Lightning
+2010030145,Pittsburgh Penguins,2,Tampa Bay Lightning,8,Dan O'Rourke,Brad Meier,Tampa Bay Lightning,Pittsburgh Penguins
+2010030146,Tampa Bay Lightning,4,Pittsburgh Penguins,2,Marc Joannette,Eric Furlatt,Tampa Bay Lightning,Pittsburgh Penguins
+2010030147,Pittsburgh Penguins,0,Tampa Bay Lightning,1,Dan O'Halloran,Brad Watson,Tampa Bay Lightning,Pittsburgh Penguins
+2010030151,Vancouver Canucks,2,Chicago Blackhawks,0,Marc Joannette,Francois StLaurent,Vancouver Canucks,Chicago Blackhawks
+2010030152,Vancouver Canucks,4,Chicago Blackhawks,3,Stephen Walkom,Ian Walsh,Vancouver Canucks,Chicago Blackhawks
+2010030153,Chicago Blackhawks,2,Vancouver Canucks,3,Greg Kimmerly,Brad Watson,Vancouver Canucks,Chicago Blackhawks
+2010030154,Chicago Blackhawks,7,Vancouver Canucks,2,Dan O'Rourke,Brad Meier,Chicago Blackhawks,Vancouver Canucks
+2010030155,Vancouver Canucks,0,Chicago Blackhawks,5,Tim Peel,Eric Furlatt,Chicago Blackhawks,Vancouver Canucks
+2010030156,Chicago Blackhawks,4,Vancouver Canucks,3,Wes McCauley,Kelly Sutherland,Chicago Blackhawks,Vancouver Canucks
+2010030157,Vancouver Canucks,2,Chicago Blackhawks,1,Paul Devorski,Steve Kozari,Vancouver Canucks,Chicago Blackhawks
+2010030161,San Jose Sharks,3,Los Angeles Kings,2,Greg Kimmerly,Brad Watson,San Jose Sharks,Los Angeles Kings
+2010030162,San Jose Sharks,0,Los Angeles Kings,4,Chris Lee,Kevin Pollock,Los Angeles Kings,San Jose Sharks
+2010030163,Los Angeles Kings,5,San Jose Sharks,6,Wes McCauley,Eric Furlatt,San Jose Sharks,Los Angeles Kings
+2010030164,Los Angeles Kings,3,San Jose Sharks,6,Kelly Sutherland,Dennis LaRue,San Jose Sharks,Los Angeles Kings
+2010030165,San Jose Sharks,1,Los Angeles Kings,3,Tim Peel,Marc Joannette,Los Angeles Kings,San Jose Sharks
+2010030166,Los Angeles Kings,3,San Jose Sharks,4,Dan O'Halloran,Brian Pochmara,San Jose Sharks,Los Angeles Kings
+2010030171,Detroit Red Wings,4,Phoenix Coyotes,2,Paul Devorski,Steve Kozari,Detroit Red Wings,Phoenix Coyotes
+2010030172,Detroit Red Wings,4,Phoenix Coyotes,3,Kelly Sutherland,Dennis LaRue,Detroit Red Wings,Phoenix Coyotes
+2010030173,Phoenix Coyotes,2,Detroit Red Wings,4,Chris Lee,Kevin Pollock,Detroit Red Wings,Phoenix Coyotes
+2010030174,Phoenix Coyotes,3,Detroit Red Wings,6,Greg Kimmerly,Brad Watson,Detroit Red Wings,Phoenix Coyotes
+2010030181,Anaheim Ducks,1,Nashville Predators,4,Chris Lee,Kevin Pollock,Nashville Predators,Anaheim Ducks
+2010030182,Anaheim Ducks,5,Nashville Predators,3,Marc Joannette,Francois StLaurent,Anaheim Ducks,Nashville Predators
+2010030183,Nashville Predators,4,Anaheim Ducks,3,Stephen Walkom,Ian Walsh,Nashville Predators,Anaheim Ducks
+2010030184,Nashville Predators,3,Anaheim Ducks,6,Dan O'Halloran,Brian Pochmara,Anaheim Ducks,Nashville Predators
+2010030185,Anaheim Ducks,3,Nashville Predators,4,Wes McCauley,Kelly Sutherland,Nashville Predators,Anaheim Ducks
+2010030186,Nashville Predators,4,Anaheim Ducks,2,Paul Devorski,Steve Kozari,Nashville Predators,Anaheim Ducks
+2010030211,Washington Capitals,2,Tampa Bay Lightning,4,Kelly Sutherland,Kevin Pollock,Tampa Bay Lightning,Washington Capitals
+2010030212,Washington Capitals,2,Tampa Bay Lightning,3,Tim Peel,Chris Lee,Tampa Bay Lightning,Washington Capitals
+2010030213,Tampa Bay Lightning,4,Washington Capitals,3,Dan O'Rourke,Paul Devorski,Tampa Bay Lightning,Washington Capitals
+2010030214,Tampa Bay Lightning,5,Washington Capitals,3,Stephen Walkom,Steve Kozari,Tampa Bay Lightning,Washington Capitals
+2010030221,Philadelphia Flyers,3,Boston Bruins,7,Dan O'Rourke,Paul Devorski,Boston Bruins,Philadelphia Flyers
+2010030222,Philadelphia Flyers,2,Boston Bruins,3,Marc Joannette,Eric Furlatt,Boston Bruins,Philadelphia Flyers
+2010030223,Boston Bruins,5,Philadelphia Flyers,1,Dan O'Halloran,Brad Watson,Boston Bruins,Philadelphia Flyers
+2010030224,Boston Bruins,5,Philadelphia Flyers,1,Stephen Walkom,Steve Kozari,Boston Bruins,Philadelphia Flyers
+2010030231,Vancouver Canucks,1,Nashville Predators,0,Marc Joannette,Eric Furlatt,Vancouver Canucks,Nashville Predators
+2010030232,Vancouver Canucks,1,Nashville Predators,2,Dan O'Halloran,Brad Watson,Nashville Predators,Vancouver Canucks
+2010030233,Nashville Predators,2,Vancouver Canucks,3,Tim Peel,Chris Lee,Vancouver Canucks,Nashville Predators
+2010030234,Nashville Predators,2,Vancouver Canucks,4,Kelly Sutherland,Kevin Pollock,Vancouver Canucks,Nashville Predators
+2010030235,Vancouver Canucks,3,Nashville Predators,4,Dan O'Rourke,Paul Devorski,Nashville Predators,Vancouver Canucks
+2010030236,Nashville Predators,1,Vancouver Canucks,2,Stephen Walkom,Steve Kozari,Vancouver Canucks,Nashville Predators
+2010030241,San Jose Sharks,2,Detroit Red Wings,1,Stephen Walkom,Steve Kozari,San Jose Sharks,Detroit Red Wings
+2010030242,San Jose Sharks,2,Detroit Red Wings,1,Kelly Sutherland,Kevin Pollock,San Jose Sharks,Detroit Red Wings
+2010030243,Detroit Red Wings,3,San Jose Sharks,4,Marc Joannette,Eric Furlatt,San Jose Sharks,Detroit Red Wings
+2010030244,Detroit Red Wings,4,San Jose Sharks,3,Dan O'Halloran,Brad Watson,Detroit Red Wings,San Jose Sharks
+2010030245,San Jose Sharks,3,Detroit Red Wings,4,Tim Peel,Chris Lee,Detroit Red Wings,San Jose Sharks
+2010030246,Detroit Red Wings,3,San Jose Sharks,1,Dan O'Rourke,Paul Devorski,Detroit Red Wings,San Jose Sharks
+2010030247,San Jose Sharks,3,Detroit Red Wings,2,Kelly Sutherland,Dan O'Halloran,San Jose Sharks,Detroit Red Wings
+2010030311,Boston Bruins,2,Tampa Bay Lightning,5,Dan O'Rourke,Brad Watson,Tampa Bay Lightning,Boston Bruins
+2010030312,Boston Bruins,6,Tampa Bay Lightning,5,Kelly Sutherland,Eric Furlatt,Boston Bruins,Tampa Bay Lightning
+2010030313,Tampa Bay Lightning,0,Boston Bruins,2,Stephen Walkom,Steve Kozari,Boston Bruins,Tampa Bay Lightning
+2010030314,Tampa Bay Lightning,5,Boston Bruins,3,Dan O'Halloran,Tim Peel,Tampa Bay Lightning,Boston Bruins
+2010030315,Boston Bruins,3,Tampa Bay Lightning,1,Dan O'Rourke,Brad Watson,Boston Bruins,Tampa Bay Lightning
+2010030316,Tampa Bay Lightning,5,Boston Bruins,4,Kelly Sutherland,Eric Furlatt,Tampa Bay Lightning,Boston Bruins
+2010030317,Boston Bruins,1,Tampa Bay Lightning,0,Dan O'Halloran,Stephen Walkom,Boston Bruins,Tampa Bay Lightning
+2010030321,Vancouver Canucks,3,San Jose Sharks,2,Stephen Walkom,Steve Kozari,Vancouver Canucks,San Jose Sharks
+2010030322,Vancouver Canucks,7,San Jose Sharks,3,Dan O'Halloran,Tim Peel,Vancouver Canucks,San Jose Sharks
+2010030323,San Jose Sharks,4,Vancouver Canucks,3,Dan O'Rourke,Brad Watson,San Jose Sharks,Vancouver Canucks
+2010030324,San Jose Sharks,2,Vancouver Canucks,4,Kelly Sutherland,Eric Furlatt,Vancouver Canucks,San Jose Sharks
+2010030325,Vancouver Canucks,3,San Jose Sharks,2,Stephen Walkom,Steve Kozari,Vancouver Canucks,San Jose Sharks
+2010030411,Vancouver Canucks,1,Boston Bruins,0,Dan O'Rourke,Stephen Walkom,Vancouver Canucks,Boston Bruins
+2010030412,Vancouver Canucks,3,Boston Bruins,2,Kelly Sutherland,Dan O'Halloran,Vancouver Canucks,Boston Bruins
+2010030413,Boston Bruins,8,Vancouver Canucks,1,Dan O'Rourke,Stephen Walkom,Boston Bruins,Vancouver Canucks
+2010030414,Boston Bruins,4,Vancouver Canucks,0,Kelly Sutherland,Dan O'Halloran,Boston Bruins,Vancouver Canucks
+2010030415,Vancouver Canucks,1,Boston Bruins,0,Dan O'Rourke,Stephen Walkom,Vancouver Canucks,Boston Bruins
+2010030416,Boston Bruins,5,Vancouver Canucks,2,Kelly Sutherland,Dan O'Halloran,Boston Bruins,Vancouver Canucks
+2010030417,Vancouver Canucks,0,Boston Bruins,4,Dan O'Halloran,Stephen Walkom,Boston Bruins,Vancouver Canucks

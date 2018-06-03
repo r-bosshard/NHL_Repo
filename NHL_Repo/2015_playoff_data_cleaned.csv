@@ -1,0 +1,365 @@
+,Ref,Score,Team
+0,Dave Jackson,4,Florida Panthers
+1,Dave Jackson,5,New York Islanders
+2,Kelly Sutherland,4,Florida Panthers
+3,Kelly Sutherland,5,New York Islanders
+4,Francis Charron,3,Florida Panthers
+5,Francis Charron,1,New York Islanders
+6,Wes McCauley,3,Florida Panthers
+7,Wes McCauley,1,New York Islanders
+8,Chris Rooney,3,Florida Panthers
+9,Chris Rooney,4,New York Islanders
+10,Kelly Sutherland,3,Florida Panthers
+11,Kelly Sutherland,4,New York Islanders
+12,Brad Watson,2,Florida Panthers
+13,Brad Watson,1,New York Islanders
+14,Frederick L'Ecuyer,2,Florida Panthers
+15,Frederick L'Ecuyer,1,New York Islanders
+16,Dan O'Halloran,1,Florida Panthers
+17,Dan O'Halloran,2,New York Islanders
+18,Ian Walsh,1,Florida Panthers
+19,Ian Walsh,2,New York Islanders
+20,Dan O'Rourke,1,Florida Panthers
+21,Dan O'Rourke,2,New York Islanders
+22,Marc Joannette,1,Florida Panthers
+23,Marc Joannette,2,New York Islanders
+24,Francis Charron,2,Detroit Red Wings
+25,Francis Charron,3,Tampa Bay Lightning
+26,Wes McCauley,2,Detroit Red Wings
+27,Wes McCauley,3,Tampa Bay Lightning
+28,Chris Rooney,2,Detroit Red Wings
+29,Chris Rooney,5,Tampa Bay Lightning
+30,Graham Skilliter,2,Detroit Red Wings
+31,Graham Skilliter,5,Tampa Bay Lightning
+32,Gord Dwyer,2,Detroit Red Wings
+33,Gord Dwyer,0,Tampa Bay Lightning
+34,Graham Skilliter,2,Detroit Red Wings
+35,Graham Skilliter,0,Tampa Bay Lightning
+36,Jean Hebert,2,Detroit Red Wings
+37,Jean Hebert,3,Tampa Bay Lightning
+38,Tim Peel,2,Detroit Red Wings
+39,Tim Peel,3,Tampa Bay Lightning
+40,Jean Hebert,0,Detroit Red Wings
+41,Jean Hebert,1,Tampa Bay Lightning
+42,Kevin Pollock,0,Detroit Red Wings
+43,Kevin Pollock,1,Tampa Bay Lightning
+44,Dean Morton,0,Philadelphia Flyers
+45,Dean Morton,2,Washington Capitals
+46,Marc Joannette,0,Philadelphia Flyers
+47,Marc Joannette,2,Washington Capitals
+48,Dave Jackson,1,Philadelphia Flyers
+49,Dave Jackson,4,Washington Capitals
+50,Kelly Sutherland,1,Philadelphia Flyers
+51,Kelly Sutherland,4,Washington Capitals
+52,Graham Skilliter,1,Philadelphia Flyers
+53,Graham Skilliter,6,Washington Capitals
+54,Kevin Pollock,1,Philadelphia Flyers
+55,Kevin Pollock,6,Washington Capitals
+56,Francis Charron,2,Philadelphia Flyers
+57,Francis Charron,1,Washington Capitals
+58,Wes McCauley,2,Philadelphia Flyers
+59,Wes McCauley,1,Washington Capitals
+60,Frederick L'Ecuyer,2,Philadelphia Flyers
+61,Frederick L'Ecuyer,0,Washington Capitals
+62,Gord Dwyer,2,Philadelphia Flyers
+63,Gord Dwyer,0,Washington Capitals
+64,Dan O'Halloran,0,Philadelphia Flyers
+65,Dan O'Halloran,1,Washington Capitals
+66,Graham Skilliter,0,Philadelphia Flyers
+67,Graham Skilliter,1,Washington Capitals
+68,Jean Hebert,2,New York Rangers
+69,Jean Hebert,5,Pittsburgh Penguins
+70,Tim Peel,2,New York Rangers
+71,Tim Peel,5,Pittsburgh Penguins
+72,Ghislain Hebert,4,New York Rangers
+73,Ghislain Hebert,2,Pittsburgh Penguins
+74,Marc Joannette,4,New York Rangers
+75,Marc Joannette,2,Pittsburgh Penguins
+76,Dave Jackson,1,New York Rangers
+77,Dave Jackson,3,Pittsburgh Penguins
+78,Kelly Sutherland,1,New York Rangers
+79,Kelly Sutherland,3,Pittsburgh Penguins
+80,Gord Dwyer,0,New York Rangers
+81,Gord Dwyer,5,Pittsburgh Penguins
+82,Wes McCauley,0,New York Rangers
+83,Wes McCauley,5,Pittsburgh Penguins
+84,Francis Charron,3,New York Rangers
+85,Francis Charron,6,Pittsburgh Penguins
+86,Wes McCauley,3,New York Rangers
+87,Wes McCauley,6,Pittsburgh Penguins
+88,Frederick L'Ecuyer,4,Dallas Stars
+89,Frederick L'Ecuyer,0,Minnesota Wild
+90,Ghislain Hebert,4,Dallas Stars
+91,Ghislain Hebert,0,Minnesota Wild
+92,Francis Charron,2,Dallas Stars
+93,Francis Charron,1,Minnesota Wild
+94,Kevin Pollock,2,Dallas Stars
+95,Kevin Pollock,1,Minnesota Wild
+96,Marc Joannette,3,Dallas Stars
+97,Marc Joannette,5,Minnesota Wild
+98,Trevor Hanson,3,Dallas Stars
+99,Trevor Hanson,5,Minnesota Wild
+100,Dan O'Halloran,3,Dallas Stars
+101,Dan O'Halloran,2,Minnesota Wild
+102,Ian Walsh,3,Dallas Stars
+103,Ian Walsh,2,Minnesota Wild
+104,Dan O'Rourke,4,Dallas Stars
+105,Dan O'Rourke,5,Minnesota Wild
+106,Graham Skilliter,4,Dallas Stars
+107,Graham Skilliter,5,Minnesota Wild
+108,Eric Furlatt,5,Dallas Stars
+109,Eric Furlatt,4,Minnesota Wild
+110,Gord Dwyer,5,Dallas Stars
+111,Gord Dwyer,4,Minnesota Wild
+112,Ghislain Hebert,0,Chicago Blackhawks
+113,Ghislain Hebert,1,St. Louis Blues
+114,Gord Dwyer,0,Chicago Blackhawks
+115,Gord Dwyer,1,St. Louis Blues
+116,Dan O'Rourke,3,Chicago Blackhawks
+117,Dan O'Rourke,2,St. Louis Blues
+118,Jean Hebert,3,Chicago Blackhawks
+119,Jean Hebert,2,St. Louis Blues
+120,Jean Hebert,2,Chicago Blackhawks
+121,Jean Hebert,3,St. Louis Blues
+122,Tim Peel,2,Chicago Blackhawks
+123,Tim Peel,3,St. Louis Blues
+124,Chris Rooney,3,Chicago Blackhawks
+125,Chris Rooney,4,St. Louis Blues
+126,Francois St-Laurent,3,Chicago Blackhawks
+127,Francois St-Laurent,4,St. Louis Blues
+128,Francis Charron,4,Chicago Blackhawks
+129,Francis Charron,3,St. Louis Blues
+130,Marc Joannette,4,Chicago Blackhawks
+131,Marc Joannette,3,St. Louis Blues
+132,Dave Jackson,6,Chicago Blackhawks
+133,Dave Jackson,3,St. Louis Blues
+134,Kelly Sutherland,6,Chicago Blackhawks
+135,Kelly Sutherland,3,St. Louis Blues
+136,Francis Charron,2,Chicago Blackhawks
+137,Francis Charron,3,St. Louis Blues
+138,Wes McCauley,2,Chicago Blackhawks
+139,Wes McCauley,3,St. Louis Blues
+140,Dan O'Halloran,2,Anaheim Ducks
+141,Dan O'Halloran,3,Nashville Predators
+142,Mike Leggo,2,Anaheim Ducks
+143,Mike Leggo,3,Nashville Predators
+144,Dan O'Rourke,2,Anaheim Ducks
+145,Dan O'Rourke,3,Nashville Predators
+146,Frederick L'Ecuyer,2,Anaheim Ducks
+147,Frederick L'Ecuyer,3,Nashville Predators
+148,Eric Furlatt,3,Anaheim Ducks
+149,Eric Furlatt,0,Nashville Predators
+150,Gord Dwyer,3,Anaheim Ducks
+151,Gord Dwyer,0,Nashville Predators
+152,Dave Jackson,4,Anaheim Ducks
+153,Dave Jackson,1,Nashville Predators
+154,Kelly Sutherland,4,Anaheim Ducks
+155,Kelly Sutherland,1,Nashville Predators
+156,Chris Rooney,5,Anaheim Ducks
+157,Chris Rooney,2,Nashville Predators
+158,Jean Hebert,5,Anaheim Ducks
+159,Jean Hebert,2,Nashville Predators
+160,Brad Watson,1,Anaheim Ducks
+161,Brad Watson,3,Nashville Predators
+162,Frederick L'Ecuyer,1,Anaheim Ducks
+163,Frederick L'Ecuyer,3,Nashville Predators
+164,Dan O'Halloran,1,Anaheim Ducks
+165,Dan O'Halloran,2,Nashville Predators
+166,Kelly Sutherland,1,Anaheim Ducks
+167,Kelly Sutherland,2,Nashville Predators
+168,Kevin Pollock,3,Los Angeles Kings
+169,Kevin Pollock,4,San Jose Sharks
+170,Mike Leggo,3,Los Angeles Kings
+171,Mike Leggo,4,San Jose Sharks
+172,Brad Watson,1,Los Angeles Kings
+173,Brad Watson,2,San Jose Sharks
+174,Frederick L'Ecuyer,1,Los Angeles Kings
+175,Frederick L'Ecuyer,2,San Jose Sharks
+176,Dan O'Halloran,2,Los Angeles Kings
+177,Dan O'Halloran,1,San Jose Sharks
+178,Dan O'Rourke,2,Los Angeles Kings
+179,Dan O'Rourke,1,San Jose Sharks
+180,Dan O'Rourke,2,Los Angeles Kings
+181,Dan O'Rourke,3,San Jose Sharks
+182,Mike Leggo,2,Los Angeles Kings
+183,Mike Leggo,3,San Jose Sharks
+184,Chris Rooney,3,Los Angeles Kings
+185,Chris Rooney,6,San Jose Sharks
+186,Mike Leggo,3,Los Angeles Kings
+187,Mike Leggo,6,San Jose Sharks
+188,Gord Dwyer,5,New York Islanders
+189,Gord Dwyer,3,Tampa Bay Lightning
+190,Jean Hebert,5,New York Islanders
+191,Jean Hebert,3,Tampa Bay Lightning
+192,Francis Charron,1,New York Islanders
+193,Francis Charron,4,Tampa Bay Lightning
+194,Wes McCauley,1,New York Islanders
+195,Wes McCauley,4,Tampa Bay Lightning
+196,Brad Watson,4,New York Islanders
+197,Brad Watson,5,Tampa Bay Lightning
+198,Francis Charron,4,New York Islanders
+199,Francis Charron,5,Tampa Bay Lightning
+200,Jean Hebert,1,New York Islanders
+201,Jean Hebert,2,Tampa Bay Lightning
+202,Kelly Sutherland,1,New York Islanders
+203,Kelly Sutherland,2,Tampa Bay Lightning
+204,Dan O'Rourke,0,New York Islanders
+205,Dan O'Rourke,4,Tampa Bay Lightning
+206,Frederick L'Ecuyer,0,New York Islanders
+207,Frederick L'Ecuyer,4,Tampa Bay Lightning
+208,Chris Lee,3,Pittsburgh Penguins
+209,Chris Lee,4,Washington Capitals
+210,Dan O'Rourke,3,Pittsburgh Penguins
+211,Dan O'Rourke,4,Washington Capitals
+212,Dan O'Halloran,2,Pittsburgh Penguins
+213,Dan O'Halloran,1,Washington Capitals
+214,Eric Furlatt,2,Pittsburgh Penguins
+215,Eric Furlatt,1,Washington Capitals
+216,Francis Charron,3,Pittsburgh Penguins
+217,Francis Charron,2,Washington Capitals
+218,Wes McCauley,3,Pittsburgh Penguins
+219,Wes McCauley,2,Washington Capitals
+220,Kelly Sutherland,3,Pittsburgh Penguins
+221,Kelly Sutherland,2,Washington Capitals
+222,Wes McCauley,3,Pittsburgh Penguins
+223,Wes McCauley,2,Washington Capitals
+224,Brad Watson,1,Pittsburgh Penguins
+225,Brad Watson,3,Washington Capitals
+226,Kelly Sutherland,1,Pittsburgh Penguins
+227,Kelly Sutherland,3,Washington Capitals
+228,Francis Charron,4,Pittsburgh Penguins
+229,Francis Charron,3,Washington Capitals
+230,Gord Dwyer,4,Pittsburgh Penguins
+231,Gord Dwyer,3,Washington Capitals
+232,Jean Hebert,2,Dallas Stars
+233,Jean Hebert,1,St. Louis Blues
+234,Kelly Sutherland,2,Dallas Stars
+235,Kelly Sutherland,1,St. Louis Blues
+236,Brad Watson,3,Dallas Stars
+237,Brad Watson,4,St. Louis Blues
+238,Gord Dwyer,3,Dallas Stars
+239,Gord Dwyer,4,St. Louis Blues
+240,Dan O'Rourke,1,Dallas Stars
+241,Dan O'Rourke,6,St. Louis Blues
+242,Gord Dwyer,1,Dallas Stars
+243,Gord Dwyer,6,St. Louis Blues
+244,Chris Lee,3,Dallas Stars
+245,Chris Lee,2,St. Louis Blues
+246,Dan O'Rourke,3,Dallas Stars
+247,Dan O'Rourke,2,St. Louis Blues
+248,Dan O'Halloran,1,Dallas Stars
+249,Dan O'Halloran,4,St. Louis Blues
+250,Gord Dwyer,1,Dallas Stars
+251,Gord Dwyer,4,St. Louis Blues
+252,Francis Charron,3,Dallas Stars
+253,Francis Charron,2,St. Louis Blues
+254,Wes McCauley,3,Dallas Stars
+255,Wes McCauley,2,St. Louis Blues
+256,Dan O'Halloran,1,Dallas Stars
+257,Dan O'Halloran,6,St. Louis Blues
+258,Kelly Sutherland,1,Dallas Stars
+259,Kelly Sutherland,6,St. Louis Blues
+260,Brad Watson,2,Nashville Predators
+261,Brad Watson,5,San Jose Sharks
+262,Frederick L'Ecuyer,2,Nashville Predators
+263,Frederick L'Ecuyer,5,San Jose Sharks
+264,Dan O'Rourke,2,Nashville Predators
+265,Dan O'Rourke,3,San Jose Sharks
+266,Frederick L'Ecuyer,2,Nashville Predators
+267,Frederick L'Ecuyer,3,San Jose Sharks
+268,Chris Lee,4,Nashville Predators
+269,Chris Lee,1,San Jose Sharks
+270,Dan O'Halloran,4,Nashville Predators
+271,Dan O'Halloran,1,San Jose Sharks
+272,Eric Furlatt,4,Nashville Predators
+273,Eric Furlatt,3,San Jose Sharks
+274,Gord Dwyer,4,Nashville Predators
+275,Gord Dwyer,3,San Jose Sharks
+276,Francis Charron,1,Nashville Predators
+277,Francis Charron,5,San Jose Sharks
+278,Wes McCauley,1,Nashville Predators
+279,Wes McCauley,5,San Jose Sharks
+280,Jean Hebert,4,Nashville Predators
+281,Jean Hebert,3,San Jose Sharks
+282,Kelly Sutherland,4,Nashville Predators
+283,Kelly Sutherland,3,San Jose Sharks
+284,Brad Watson,0,Nashville Predators
+285,Brad Watson,5,San Jose Sharks
+286,Dan O'Rourke,0,Nashville Predators
+287,Dan O'Rourke,5,San Jose Sharks
+288,Francis Charron,1,Pittsburgh Penguins
+289,Francis Charron,3,Tampa Bay Lightning
+290,Wes McCauley,1,Pittsburgh Penguins
+291,Wes McCauley,3,Tampa Bay Lightning
+292,Dan O'Halloran,3,Pittsburgh Penguins
+293,Dan O'Halloran,2,Tampa Bay Lightning
+294,Gord Dwyer,3,Pittsburgh Penguins
+295,Gord Dwyer,2,Tampa Bay Lightning
+296,Eric Furlatt,4,Pittsburgh Penguins
+297,Eric Furlatt,2,Tampa Bay Lightning
+298,Kelly Sutherland,4,Pittsburgh Penguins
+299,Kelly Sutherland,2,Tampa Bay Lightning
+300,Brad Watson,3,Pittsburgh Penguins
+301,Brad Watson,4,Tampa Bay Lightning
+302,Dan O'Rourke,3,Pittsburgh Penguins
+303,Dan O'Rourke,4,Tampa Bay Lightning
+304,Francis Charron,3,Pittsburgh Penguins
+305,Francis Charron,4,Tampa Bay Lightning
+306,Wes McCauley,3,Pittsburgh Penguins
+307,Wes McCauley,4,Tampa Bay Lightning
+308,Dan O'Halloran,5,Pittsburgh Penguins
+309,Dan O'Halloran,2,Tampa Bay Lightning
+310,Francis Charron,5,Pittsburgh Penguins
+311,Francis Charron,2,Tampa Bay Lightning
+312,Francis Charron,2,Pittsburgh Penguins
+313,Francis Charron,1,Tampa Bay Lightning
+314,Wes McCauley,2,Pittsburgh Penguins
+315,Wes McCauley,1,Tampa Bay Lightning
+316,Francis Charron,1,San Jose Sharks
+317,Francis Charron,2,St. Louis Blues
+318,Kelly Sutherland,1,San Jose Sharks
+319,Kelly Sutherland,2,St. Louis Blues
+320,Dan O'Rourke,4,San Jose Sharks
+321,Dan O'Rourke,0,St. Louis Blues
+322,Wes McCauley,4,San Jose Sharks
+323,Wes McCauley,0,St. Louis Blues
+324,Francis Charron,3,San Jose Sharks
+325,Francis Charron,0,St. Louis Blues
+326,Wes McCauley,3,San Jose Sharks
+327,Wes McCauley,0,St. Louis Blues
+328,Dan O'Halloran,3,San Jose Sharks
+329,Dan O'Halloran,6,St. Louis Blues
+330,Kelly Sutherland,3,San Jose Sharks
+331,Kelly Sutherland,6,St. Louis Blues
+332,Brad Watson,6,San Jose Sharks
+333,Brad Watson,3,St. Louis Blues
+334,Kelly Sutherland,6,San Jose Sharks
+335,Kelly Sutherland,3,St. Louis Blues
+336,Brad Watson,5,San Jose Sharks
+337,Brad Watson,2,St. Louis Blues
+338,Dan O'Rourke,5,San Jose Sharks
+339,Dan O'Rourke,2,St. Louis Blues
+340,Dan O'Rourke,3,Pittsburgh Penguins
+341,Dan O'Rourke,2,San Jose Sharks
+342,Wes McCauley,3,Pittsburgh Penguins
+343,Wes McCauley,2,San Jose Sharks
+344,Kelly Sutherland,2,Pittsburgh Penguins
+345,Kelly Sutherland,1,San Jose Sharks
+346,Wes McCauley,2,Pittsburgh Penguins
+347,Wes McCauley,1,San Jose Sharks
+348,Dan O'Rourke,2,Pittsburgh Penguins
+349,Dan O'Rourke,3,San Jose Sharks
+350,Kelly Sutherland,2,Pittsburgh Penguins
+351,Kelly Sutherland,3,San Jose Sharks
+352,Dan O'Rourke,3,Pittsburgh Penguins
+353,Dan O'Rourke,1,San Jose Sharks
+354,Wes McCauley,3,Pittsburgh Penguins
+355,Wes McCauley,1,San Jose Sharks
+356,Dan O'Rourke,2,Pittsburgh Penguins
+357,Dan O'Rourke,4,San Jose Sharks
+358,Wes McCauley,2,Pittsburgh Penguins
+359,Wes McCauley,4,San Jose Sharks
+360,Kelly Sutherland,3,Pittsburgh Penguins
+361,Kelly Sutherland,1,San Jose Sharks
+362,Wes McCauley,3,Pittsburgh Penguins
+363,Wes McCauley,1,San Jose Sharks

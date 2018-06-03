@@ -1,0 +1,361 @@
+,Ref,Score,Team
+0,Bill McCreary,2,Boston Bruins
+1,Bill McCreary,5,Montréal Canadiens
+2,Shane Heyer,2,Boston Bruins
+3,Shane Heyer,5,Montréal Canadiens
+4,Brad Watson,6,Boston Bruins
+5,Brad Watson,4,Montréal Canadiens
+6,Michael McGeough,6,Boston Bruins
+7,Michael McGeough,4,Montréal Canadiens
+8,Blaine Angus,3,Boston Bruins
+9,Blaine Angus,5,Montréal Canadiens
+10,Rob Shick,3,Boston Bruins
+11,Rob Shick,5,Montréal Canadiens
+12,Dave Jackson,5,Boston Bruins
+13,Dave Jackson,2,Montréal Canadiens
+14,Don Koharski,5,Boston Bruins
+15,Don Koharski,2,Montréal Canadiens
+16,Dan Marouelli,1,Boston Bruins
+17,Dan Marouelli,2,Montréal Canadiens
+18,Marc Joannette,1,Boston Bruins
+19,Marc Joannette,2,Montréal Canadiens
+20,Dan Marouelli,1,Boston Bruins
+21,Dan Marouelli,2,Montréal Canadiens
+22,Kevin Pollock,1,Boston Bruins
+23,Kevin Pollock,2,Montréal Canadiens
+24,Bill McCreary,0,Ottawa Senators
+25,Bill McCreary,1,Philadelphia Flyers
+26,Brad Meier,0,Ottawa Senators
+27,Brad Meier,1,Philadelphia Flyers
+28,Blaine Angus,3,Ottawa Senators
+29,Blaine Angus,0,Philadelphia Flyers
+30,Rob Shick,3,Ottawa Senators
+31,Rob Shick,0,Philadelphia Flyers
+32,Don Koharski,3,Ottawa Senators
+33,Don Koharski,0,Philadelphia Flyers
+34,Mike Hasenfratz,3,Ottawa Senators
+35,Mike Hasenfratz,0,Philadelphia Flyers
+36,Bill McCreary,3,Ottawa Senators
+37,Bill McCreary,0,Philadelphia Flyers
+38,Rob Shick,3,Ottawa Senators
+39,Rob Shick,0,Philadelphia Flyers
+40,Dan O'Halloran,2,Ottawa Senators
+41,Dan O'Halloran,1,Philadelphia Flyers
+42,Kerry Fraser,2,Ottawa Senators
+43,Kerry Fraser,1,Philadelphia Flyers
+44,Michael McGeough,2,Carolina Hurricanes
+45,Michael McGeough,1,New Jersey Devils
+46,Rob Shick,2,Carolina Hurricanes
+47,Rob Shick,1,New Jersey Devils
+48,Brad Watson,2,Carolina Hurricanes
+49,Brad Watson,1,New Jersey Devils
+50,Rob Shick,2,Carolina Hurricanes
+51,Rob Shick,1,New Jersey Devils
+52,Bill McCreary,0,Carolina Hurricanes
+53,Bill McCreary,4,New Jersey Devils
+54,Dan Marouelli,0,Carolina Hurricanes
+55,Dan Marouelli,4,New Jersey Devils
+56,Dan Marouelli,1,Carolina Hurricanes
+57,Dan Marouelli,3,New Jersey Devils
+58,Dave Jackson,1,Carolina Hurricanes
+59,Dave Jackson,3,New Jersey Devils
+60,Dan O'Halloran,3,Carolina Hurricanes
+61,Dan O'Halloran,2,New Jersey Devils
+62,Kerry Fraser,3,Carolina Hurricanes
+63,Kerry Fraser,2,New Jersey Devils
+64,Don Van Massenhoven,1,Carolina Hurricanes
+65,Don Van Massenhoven,0,New Jersey Devils
+66,Mark Faucette,1,Carolina Hurricanes
+67,Mark Faucette,0,New Jersey Devils
+68,Dan Marouelli,1,New York Islanders
+69,Dan Marouelli,3,Toronto Maple Leafs
+70,Don Van Massenhoven,1,New York Islanders
+71,Don Van Massenhoven,3,Toronto Maple Leafs
+72,Dave Jackson,0,New York Islanders
+73,Dave Jackson,2,Toronto Maple Leafs
+74,Don Koharski,0,New York Islanders
+75,Don Koharski,2,Toronto Maple Leafs
+76,Bill McCreary,6,New York Islanders
+77,Bill McCreary,1,Toronto Maple Leafs
+78,Shane Heyer,6,New York Islanders
+79,Shane Heyer,1,Toronto Maple Leafs
+80,Brad Watson,4,New York Islanders
+81,Brad Watson,3,Toronto Maple Leafs
+82,Dan Marouelli,4,New York Islanders
+83,Dan Marouelli,3,Toronto Maple Leafs
+84,Kevin Pollock,3,New York Islanders
+85,Kevin Pollock,6,Toronto Maple Leafs
+86,Paul Devorski,3,New York Islanders
+87,Paul Devorski,6,Toronto Maple Leafs
+88,Kerry Fraser,5,New York Islanders
+89,Kerry Fraser,3,Toronto Maple Leafs
+90,Paul Devorski,5,New York Islanders
+91,Paul Devorski,3,Toronto Maple Leafs
+92,Don Koharski,2,New York Islanders
+93,Don Koharski,4,Toronto Maple Leafs
+94,Stephen Walkom,2,New York Islanders
+95,Stephen Walkom,4,Toronto Maple Leafs
+96,Dave Jackson,3,Detroit Red Wings
+97,Dave Jackson,4,Vancouver Canucks
+98,Don Koharski,3,Detroit Red Wings
+99,Don Koharski,4,Vancouver Canucks
+100,Don Koharski,2,Detroit Red Wings
+101,Don Koharski,5,Vancouver Canucks
+102,Mike Hasenfratz,2,Detroit Red Wings
+103,Mike Hasenfratz,5,Vancouver Canucks
+104,Marc Joannette,3,Detroit Red Wings
+105,Marc Joannette,1,Vancouver Canucks
+106,Stephen Walkom,3,Detroit Red Wings
+107,Stephen Walkom,1,Vancouver Canucks
+108,Mark Faucette,4,Detroit Red Wings
+109,Mark Faucette,2,Vancouver Canucks
+110,Stephen Walkom,4,Detroit Red Wings
+111,Stephen Walkom,2,Vancouver Canucks
+112,Brad Watson,4,Detroit Red Wings
+113,Brad Watson,0,Vancouver Canucks
+114,Dan Marouelli,4,Detroit Red Wings
+115,Dan Marouelli,0,Vancouver Canucks
+116,Bill McCreary,6,Detroit Red Wings
+117,Bill McCreary,4,Vancouver Canucks
+118,Michael McGeough,6,Detroit Red Wings
+119,Michael McGeough,4,Vancouver Canucks
+120,Kerry Fraser,4,Colorado Avalanche
+121,Kerry Fraser,3,Los Angeles Kings
+122,Stephane Auger,4,Colorado Avalanche
+123,Stephane Auger,3,Los Angeles Kings
+124,Dan O'Halloran,5,Colorado Avalanche
+125,Dan O'Halloran,3,Los Angeles Kings
+126,Kerry Fraser,5,Colorado Avalanche
+127,Kerry Fraser,3,Los Angeles Kings
+128,Dennis LaRue,1,Colorado Avalanche
+129,Dennis LaRue,3,Los Angeles Kings
+130,Don Van Massenhoven,1,Colorado Avalanche
+131,Don Van Massenhoven,3,Los Angeles Kings
+132,Don Van Massenhoven,1,Colorado Avalanche
+133,Don Van Massenhoven,0,Los Angeles Kings
+134,Michael McGeough,1,Colorado Avalanche
+135,Michael McGeough,0,Los Angeles Kings
+136,Mark Faucette,0,Colorado Avalanche
+137,Mark Faucette,1,Los Angeles Kings
+138,Stephen Walkom,0,Colorado Avalanche
+139,Stephen Walkom,1,Los Angeles Kings
+140,Dave Jackson,1,Colorado Avalanche
+141,Dave Jackson,3,Los Angeles Kings
+142,Stephen Walkom,1,Colorado Avalanche
+143,Stephen Walkom,3,Los Angeles Kings
+144,Bill McCreary,4,Colorado Avalanche
+145,Bill McCreary,0,Los Angeles Kings
+146,Michael McGeough,4,Colorado Avalanche
+147,Michael McGeough,0,Los Angeles Kings
+148,Stephen Walkom,1,Phoenix Coyotes
+149,Stephen Walkom,2,San Jose Sharks
+150,Tim Peel,1,Phoenix Coyotes
+151,Tim Peel,2,San Jose Sharks
+152,Mark Faucette,3,Phoenix Coyotes
+153,Mark Faucette,1,San Jose Sharks
+154,Stephen Walkom,3,Phoenix Coyotes
+155,Stephen Walkom,1,San Jose Sharks
+156,Paul Devorski,1,Phoenix Coyotes
+157,Paul Devorski,4,San Jose Sharks
+158,Stephane Auger,1,Phoenix Coyotes
+159,Stephane Auger,4,San Jose Sharks
+160,Kevin Pollock,1,Phoenix Coyotes
+161,Kevin Pollock,2,San Jose Sharks
+162,Paul Devorski,1,Phoenix Coyotes
+163,Paul Devorski,2,San Jose Sharks
+164,Dennis LaRue,1,Phoenix Coyotes
+165,Dennis LaRue,4,San Jose Sharks
+166,Rob Shick,1,Phoenix Coyotes
+167,Rob Shick,4,San Jose Sharks
+168,Kevin Pollock,2,Chicago Blackhawks
+169,Kevin Pollock,1,St. Louis Blues
+170,Paul Devorski,2,Chicago Blackhawks
+171,Paul Devorski,1,St. Louis Blues
+172,Dennis LaRue,0,Chicago Blackhawks
+173,Dennis LaRue,2,St. Louis Blues
+174,Paul Devorski,0,Chicago Blackhawks
+175,Paul Devorski,2,St. Louis Blues
+176,Dan O'Halloran,0,Chicago Blackhawks
+177,Dan O'Halloran,4,St. Louis Blues
+178,Kerry Fraser,0,Chicago Blackhawks
+179,Kerry Fraser,4,St. Louis Blues
+180,Kerry Fraser,0,Chicago Blackhawks
+181,Kerry Fraser,1,St. Louis Blues
+182,Tim Peel,0,Chicago Blackhawks
+183,Tim Peel,1,St. Louis Blues
+184,Don Van Massenhoven,3,Chicago Blackhawks
+185,Don Van Massenhoven,5,St. Louis Blues
+186,Michael McGeough,3,Chicago Blackhawks
+187,Michael McGeough,5,St. Louis Blues
+188,Kevin Pollock,2,Carolina Hurricanes
+189,Kevin Pollock,0,Montréal Canadiens
+190,Stephen Walkom,2,Carolina Hurricanes
+191,Stephen Walkom,0,Montréal Canadiens
+192,Michael McGeough,1,Carolina Hurricanes
+193,Michael McGeough,4,Montréal Canadiens
+194,Stephen Walkom,1,Carolina Hurricanes
+195,Stephen Walkom,4,Montréal Canadiens
+196,Don Koharski,1,Carolina Hurricanes
+197,Don Koharski,2,Montréal Canadiens
+198,Don Van Massenhoven,1,Carolina Hurricanes
+199,Don Van Massenhoven,2,Montréal Canadiens
+200,Dave Jackson,4,Carolina Hurricanes
+201,Dave Jackson,3,Montréal Canadiens
+202,Kerry Fraser,4,Carolina Hurricanes
+203,Kerry Fraser,3,Montréal Canadiens
+204,Brad Watson,5,Carolina Hurricanes
+205,Brad Watson,1,Montréal Canadiens
+206,Paul Devorski,5,Carolina Hurricanes
+207,Paul Devorski,1,Montréal Canadiens
+208,Kevin Pollock,8,Carolina Hurricanes
+209,Kevin Pollock,2,Montréal Canadiens
+210,Rob Shick,8,Carolina Hurricanes
+211,Rob Shick,2,Montréal Canadiens
+212,Dan Marouelli,5,Ottawa Senators
+213,Dan Marouelli,0,Toronto Maple Leafs
+214,Michael McGeough,5,Ottawa Senators
+215,Michael McGeough,0,Toronto Maple Leafs
+216,Bill McCreary,2,Ottawa Senators
+217,Bill McCreary,3,Toronto Maple Leafs
+218,Don Van Massenhoven,2,Ottawa Senators
+219,Don Van Massenhoven,3,Toronto Maple Leafs
+220,Brad Watson,3,Ottawa Senators
+221,Brad Watson,2,Toronto Maple Leafs
+222,Don Koharski,3,Ottawa Senators
+223,Don Koharski,2,Toronto Maple Leafs
+224,Kerry Fraser,1,Ottawa Senators
+225,Kerry Fraser,2,Toronto Maple Leafs
+226,Kevin Pollock,1,Ottawa Senators
+227,Kevin Pollock,2,Toronto Maple Leafs
+228,Rob Shick,4,Ottawa Senators
+229,Rob Shick,2,Toronto Maple Leafs
+230,Stephen Walkom,4,Ottawa Senators
+231,Stephen Walkom,2,Toronto Maple Leafs
+232,Bill McCreary,3,Ottawa Senators
+233,Bill McCreary,4,Toronto Maple Leafs
+234,Dave Jackson,3,Ottawa Senators
+235,Dave Jackson,4,Toronto Maple Leafs
+236,Bill McCreary,0,Ottawa Senators
+237,Bill McCreary,3,Toronto Maple Leafs
+238,Don Koharski,0,Ottawa Senators
+239,Don Koharski,3,Toronto Maple Leafs
+240,Dave Jackson,2,Detroit Red Wings
+241,Dave Jackson,0,St. Louis Blues
+242,Paul Devorski,2,Detroit Red Wings
+243,Paul Devorski,0,St. Louis Blues
+244,Kerry Fraser,3,Detroit Red Wings
+245,Kerry Fraser,2,St. Louis Blues
+246,Paul Devorski,3,Detroit Red Wings
+247,Paul Devorski,2,St. Louis Blues
+248,Michael McGeough,1,Detroit Red Wings
+249,Michael McGeough,6,St. Louis Blues
+250,Rob Shick,1,Detroit Red Wings
+251,Rob Shick,6,St. Louis Blues
+252,Bill McCreary,4,Detroit Red Wings
+253,Bill McCreary,3,St. Louis Blues
+254,Michael McGeough,4,Detroit Red Wings
+255,Michael McGeough,3,St. Louis Blues
+256,Dan Marouelli,4,Detroit Red Wings
+257,Dan Marouelli,0,St. Louis Blues
+258,Kevin Pollock,4,Detroit Red Wings
+259,Kevin Pollock,0,St. Louis Blues
+260,Bill McCreary,3,Colorado Avalanche
+261,Bill McCreary,6,San Jose Sharks
+262,Rob Shick,3,Colorado Avalanche
+263,Rob Shick,6,San Jose Sharks
+264,Dan Marouelli,8,Colorado Avalanche
+265,Dan Marouelli,2,San Jose Sharks
+266,Dennis LaRue,8,Colorado Avalanche
+267,Dennis LaRue,2,San Jose Sharks
+268,Dan Marouelli,4,Colorado Avalanche
+269,Dan Marouelli,6,San Jose Sharks
+270,Dan O'Halloran,4,Colorado Avalanche
+271,Dan O'Halloran,6,San Jose Sharks
+272,Dennis LaRue,4,Colorado Avalanche
+273,Dennis LaRue,1,San Jose Sharks
+274,Paul Devorski,4,Colorado Avalanche
+275,Paul Devorski,1,San Jose Sharks
+276,Don Koharski,3,Colorado Avalanche
+277,Don Koharski,5,San Jose Sharks
+278,Don Van Massenhoven,3,Colorado Avalanche
+279,Don Van Massenhoven,5,San Jose Sharks
+280,Don Van Massenhoven,2,Colorado Avalanche
+281,Don Van Massenhoven,1,San Jose Sharks
+282,Kerry Fraser,2,Colorado Avalanche
+283,Kerry Fraser,1,San Jose Sharks
+284,Kerry Fraser,1,Colorado Avalanche
+285,Kerry Fraser,0,San Jose Sharks
+286,Stephen Walkom,1,Colorado Avalanche
+287,Stephen Walkom,0,San Jose Sharks
+288,Dan Marouelli,1,Carolina Hurricanes
+289,Dan Marouelli,2,Toronto Maple Leafs
+290,Rob Shick,1,Carolina Hurricanes
+291,Rob Shick,2,Toronto Maple Leafs
+292,Kevin Pollock,2,Carolina Hurricanes
+293,Kevin Pollock,1,Toronto Maple Leafs
+294,Paul Devorski,2,Carolina Hurricanes
+295,Paul Devorski,1,Toronto Maple Leafs
+296,Don Koharski,2,Carolina Hurricanes
+297,Don Koharski,1,Toronto Maple Leafs
+298,Michael McGeough,2,Carolina Hurricanes
+299,Michael McGeough,1,Toronto Maple Leafs
+300,Bill McCreary,3,Carolina Hurricanes
+301,Bill McCreary,0,Toronto Maple Leafs
+302,Stephen Walkom,3,Carolina Hurricanes
+303,Stephen Walkom,0,Toronto Maple Leafs
+304,Kerry Fraser,0,Carolina Hurricanes
+305,Kerry Fraser,1,Toronto Maple Leafs
+306,Rob Shick,0,Carolina Hurricanes
+307,Rob Shick,1,Toronto Maple Leafs
+308,Dan Marouelli,2,Carolina Hurricanes
+309,Dan Marouelli,1,Toronto Maple Leafs
+310,Paul Devorski,2,Carolina Hurricanes
+311,Paul Devorski,1,Toronto Maple Leafs
+312,Don Koharski,3,Colorado Avalanche
+313,Don Koharski,5,Detroit Red Wings
+314,Michael McGeough,3,Colorado Avalanche
+315,Michael McGeough,5,Detroit Red Wings
+316,Bill McCreary,4,Colorado Avalanche
+317,Bill McCreary,3,Detroit Red Wings
+318,Stephen Walkom,4,Colorado Avalanche
+319,Stephen Walkom,3,Detroit Red Wings
+320,Kerry Fraser,1,Colorado Avalanche
+321,Kerry Fraser,2,Detroit Red Wings
+322,Rob Shick,1,Colorado Avalanche
+323,Rob Shick,2,Detroit Red Wings
+324,Dan Marouelli,3,Colorado Avalanche
+325,Dan Marouelli,2,Detroit Red Wings
+326,Paul Devorski,3,Colorado Avalanche
+327,Paul Devorski,2,Detroit Red Wings
+328,Don Koharski,2,Colorado Avalanche
+329,Don Koharski,1,Detroit Red Wings
+330,Kevin Pollock,2,Colorado Avalanche
+331,Kevin Pollock,1,Detroit Red Wings
+332,Kerry Fraser,0,Colorado Avalanche
+333,Kerry Fraser,2,Detroit Red Wings
+334,Stephen Walkom,0,Colorado Avalanche
+335,Stephen Walkom,2,Detroit Red Wings
+336,Bill McCreary,0,Colorado Avalanche
+337,Bill McCreary,7,Detroit Red Wings
+338,Don Koharski,0,Colorado Avalanche
+339,Don Koharski,7,Detroit Red Wings
+340,Bill McCreary,3,Carolina Hurricanes
+341,Bill McCreary,2,Detroit Red Wings
+342,Stephen Walkom,3,Carolina Hurricanes
+343,Stephen Walkom,2,Detroit Red Wings
+344,Don Koharski,1,Carolina Hurricanes
+345,Don Koharski,3,Detroit Red Wings
+346,Paul Devorski,1,Carolina Hurricanes
+347,Paul Devorski,3,Detroit Red Wings
+348,Bill McCreary,2,Carolina Hurricanes
+349,Bill McCreary,3,Detroit Red Wings
+350,Stephen Walkom,2,Carolina Hurricanes
+351,Stephen Walkom,3,Detroit Red Wings
+352,Don Koharski,0,Carolina Hurricanes
+353,Don Koharski,3,Detroit Red Wings
+354,Paul Devorski,0,Carolina Hurricanes
+355,Paul Devorski,3,Detroit Red Wings
+356,Bill McCreary,1,Carolina Hurricanes
+357,Bill McCreary,3,Detroit Red Wings
+358,Stephen Walkom,1,Carolina Hurricanes
+359,Stephen Walkom,3,Detroit Red Wings

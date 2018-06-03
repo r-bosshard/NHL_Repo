@@ -1,0 +1,90 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2002030111,Ottawa Senators,0,New York Islanders,3,Marc Joannette,Bill McCreary,New York Islanders,Ottawa Senators
+2002030112,Ottawa Senators,3,New York Islanders,0,Paul Devorski,Michael McGeough,Ottawa Senators,New York Islanders
+2002030113,New York Islanders,2,Ottawa Senators,3,Kerry Fraser,Chris Rooney,Ottawa Senators,New York Islanders
+2002030114,New York Islanders,1,Ottawa Senators,3,Dennis LaRue,Bill McCreary,Ottawa Senators,New York Islanders
+2002030115,Ottawa Senators,4,New York Islanders,1,Dan Marouelli,Kelly Sutherland,Ottawa Senators,New York Islanders
+2002030121,New Jersey Devils,2,Boston Bruins,1,Kerry Fraser,Kelly Sutherland,New Jersey Devils,Boston Bruins
+2002030122,New Jersey Devils,4,Boston Bruins,2,Kevin Pollock,Brad Watson,New Jersey Devils,Boston Bruins
+2002030123,Boston Bruins,0,New Jersey Devils,3,Marc Joannette,Bill McCreary,New Jersey Devils,Boston Bruins
+2002030124,Boston Bruins,5,New Jersey Devils,1,Kerry Fraser,Dan O'Halloran,Boston Bruins,New Jersey Devils
+2002030125,New Jersey Devils,3,Boston Bruins,0,Paul Devorski,Don Koharski,New Jersey Devils,Boston Bruins
+2002030131,Tampa Bay Lightning,0,Washington Capitals,3,Dan O'Halloran,Don Van Massenhoven,Washington Capitals,Tampa Bay Lightning
+2002030132,Tampa Bay Lightning,3,Washington Capitals,6,Kerry Fraser,Kelly Sutherland,Washington Capitals,Tampa Bay Lightning
+2002030133,Washington Capitals,3,Tampa Bay Lightning,4,Dennis LaRue,Bill McCreary,Tampa Bay Lightning,Washington Capitals
+2002030134,Washington Capitals,1,Tampa Bay Lightning,3,Paul Devorski,Tim Peel,Tampa Bay Lightning,Washington Capitals
+2002030135,Tampa Bay Lightning,2,Washington Capitals,1,Dave Jackson,Brad Watson,Tampa Bay Lightning,Washington Capitals
+2002030136,Washington Capitals,1,Tampa Bay Lightning,2,Paul Devorski,Rob Shick,Tampa Bay Lightning,Washington Capitals
+2002030141,Philadelphia Flyers,3,Toronto Maple Leafs,5,Stephane Auger,Stephen Walkom,Toronto Maple Leafs,Philadelphia Flyers
+2002030142,Philadelphia Flyers,4,Toronto Maple Leafs,1,Marc Joannette,Bill McCreary,Philadelphia Flyers,Toronto Maple Leafs
+2002030143,Toronto Maple Leafs,4,Philadelphia Flyers,3,Paul Devorski,Kevin Pollock,Toronto Maple Leafs,Philadelphia Flyers
+2002030144,Toronto Maple Leafs,2,Philadelphia Flyers,3,Don Koharski,Stephen Walkom,Philadelphia Flyers,Toronto Maple Leafs
+2002030145,Philadelphia Flyers,4,Toronto Maple Leafs,1,Don Koharski,Stephen Walkom,Philadelphia Flyers,Toronto Maple Leafs
+2002030146,Toronto Maple Leafs,2,Philadelphia Flyers,1,Paul Devorski,Dan Marouelli,Toronto Maple Leafs,Philadelphia Flyers
+2002030147,Philadelphia Flyers,6,Toronto Maple Leafs,1,Don Koharski,Dan Marouelli,Philadelphia Flyers,Toronto Maple Leafs
+2002030151,Dallas Stars,1,Edmonton Oilers,2,Don Koharski,Tim Peel,Edmonton Oilers,Dallas Stars
+2002030152,Dallas Stars,6,Edmonton Oilers,1,Dennis LaRue,Don Van Massenhoven,Dallas Stars,Edmonton Oilers
+2002030153,Edmonton Oilers,3,Dallas Stars,2,Dan Marouelli,Dean Warren,Edmonton Oilers,Dallas Stars
+2002030154,Edmonton Oilers,1,Dallas Stars,3,Dan Marouelli,Brad Meier,Dallas Stars,Edmonton Oilers
+2002030155,Dallas Stars,5,Edmonton Oilers,2,Michael McGeough,Brad Watson,Dallas Stars,Edmonton Oilers
+2002030156,Edmonton Oilers,2,Dallas Stars,3,Kerry Fraser,Kevin Pollock,Dallas Stars,Edmonton Oilers
+2002030161,Detroit Red Wings,1,Anaheim Ducks,2,Kevin Pollock,Brad Watson,Anaheim Ducks,Detroit Red Wings
+2002030162,Detroit Red Wings,2,Anaheim Ducks,3,Eric Furlatt,Stephen Walkom,Anaheim Ducks,Detroit Red Wings
+2002030163,Anaheim Ducks,2,Detroit Red Wings,1,Don Van Massenhoven,Brad Watson,Anaheim Ducks,Detroit Red Wings
+2002030164,Anaheim Ducks,3,Detroit Red Wings,2,Dave Jackson,Rob Shick,Anaheim Ducks,Detroit Red Wings
+2002030171,Colorado Avalanche,2,Minnesota Wild,4,Paul Devorski,Michael McGeough,Minnesota Wild,Colorado Avalanche
+2002030172,Colorado Avalanche,3,Minnesota Wild,2,Dave Jackson,Don Koharski,Colorado Avalanche,Minnesota Wild
+2002030173,Minnesota Wild,0,Colorado Avalanche,3,Rob Shick,Stephen Walkom,Colorado Avalanche,Minnesota Wild
+2002030174,Minnesota Wild,1,Colorado Avalanche,3,Michael McGeough,Kevin Pollock,Colorado Avalanche,Minnesota Wild
+2002030175,Colorado Avalanche,2,Minnesota Wild,3,Bill McCreary,Don Van Massenhoven,Minnesota Wild,Colorado Avalanche
+2002030176,Minnesota Wild,3,Colorado Avalanche,2,Kerry Fraser,Kevin Pollock,Minnesota Wild,Colorado Avalanche
+2002030177,Colorado Avalanche,2,Minnesota Wild,3,Kerry Fraser,Brad Watson,Minnesota Wild,Colorado Avalanche
+2002030181,Vancouver Canucks,0,St. Louis Blues,6,Dan Marouelli,Dean Warren,St. Louis Blues,Vancouver Canucks
+2002030182,Vancouver Canucks,2,St. Louis Blues,1,Dan Marouelli,Rob Shick,Vancouver Canucks,St. Louis Blues
+2002030183,St. Louis Blues,3,Vancouver Canucks,1,Stephane Auger,Don Koharski,St. Louis Blues,Vancouver Canucks
+2002030184,St. Louis Blues,4,Vancouver Canucks,1,Marc Joannette,Don Van Massenhoven,St. Louis Blues,Vancouver Canucks
+2002030185,Vancouver Canucks,5,St. Louis Blues,3,Kerry Fraser,Kevin Pollock,Vancouver Canucks,St. Louis Blues
+2002030186,St. Louis Blues,3,Vancouver Canucks,4,Bill McCreary,Brad Watson,Vancouver Canucks,St. Louis Blues
+2002030187,Vancouver Canucks,4,St. Louis Blues,1,Bill McCreary,Stephen Walkom,Vancouver Canucks,St. Louis Blues
+2002030211,Ottawa Senators,4,Philadelphia Flyers,2,Bill McCreary,Kevin Pollock,Ottawa Senators,Philadelphia Flyers
+2002030212,Ottawa Senators,0,Philadelphia Flyers,2,Paul Devorski,Stephen Walkom,Philadelphia Flyers,Ottawa Senators
+2002030213,Philadelphia Flyers,2,Ottawa Senators,3,Don Van Massenhoven,Stephen Walkom,Ottawa Senators,Philadelphia Flyers
+2002030214,Philadelphia Flyers,1,Ottawa Senators,0,Kerry Fraser,Brad Watson,Philadelphia Flyers,Ottawa Senators
+2002030215,Ottawa Senators,5,Philadelphia Flyers,2,Don Koharski,Dan Marouelli,Ottawa Senators,Philadelphia Flyers
+2002030216,Philadelphia Flyers,1,Ottawa Senators,5,Bill McCreary,Kevin Pollock,Ottawa Senators,Philadelphia Flyers
+2002030221,New Jersey Devils,3,Tampa Bay Lightning,0,Stephane Auger,Don Koharski,New Jersey Devils,Tampa Bay Lightning
+2002030222,New Jersey Devils,3,Tampa Bay Lightning,2,Kerry Fraser,Don Van Massenhoven,New Jersey Devils,Tampa Bay Lightning
+2002030223,Tampa Bay Lightning,4,New Jersey Devils,3,Marc Joannette,Dan Marouelli,Tampa Bay Lightning,New Jersey Devils
+2002030224,Tampa Bay Lightning,1,New Jersey Devils,3,Paul Devorski,Kevin Pollock,New Jersey Devils,Tampa Bay Lightning
+2002030225,New Jersey Devils,2,Tampa Bay Lightning,1,Stephen Walkom,Brad Watson,New Jersey Devils,Tampa Bay Lightning
+2002030231,Dallas Stars,3,Anaheim Ducks,4,Michael McGeough,Stephen Walkom,Anaheim Ducks,Dallas Stars
+2002030232,Dallas Stars,2,Anaheim Ducks,3,Don Koharski,Brad Watson,Anaheim Ducks,Dallas Stars
+2002030233,Anaheim Ducks,1,Dallas Stars,2,Bill McCreary,Kevin Pollock,Dallas Stars,Anaheim Ducks
+2002030234,Anaheim Ducks,1,Dallas Stars,0,Bill McCreary,Dean Warren,Anaheim Ducks,Dallas Stars
+2002030235,Dallas Stars,4,Anaheim Ducks,1,Kerry Fraser,Marc Joannette,Dallas Stars,Anaheim Ducks
+2002030236,Anaheim Ducks,4,Dallas Stars,3,Paul Devorski,Dan Marouelli,Anaheim Ducks,Dallas Stars
+2002030241,Vancouver Canucks,4,Minnesota Wild,3,Marc Joannette,Dan Marouelli,Vancouver Canucks,Minnesota Wild
+2002030242,Vancouver Canucks,2,Minnesota Wild,3,Michael McGeough,Dean Warren,Minnesota Wild,Vancouver Canucks
+2002030243,Minnesota Wild,2,Vancouver Canucks,3,Stephane Auger,Don Koharski,Vancouver Canucks,Minnesota Wild
+2002030244,Minnesota Wild,2,Vancouver Canucks,3,Paul Devorski,Kevin Pollock,Vancouver Canucks,Minnesota Wild
+2002030245,Vancouver Canucks,2,Minnesota Wild,7,Kerry Fraser,Don Van Massenhoven,Minnesota Wild,Vancouver Canucks
+2002030246,Minnesota Wild,5,Vancouver Canucks,1,Paul Devorski,Stephen Walkom,Minnesota Wild,Vancouver Canucks
+2002030247,Vancouver Canucks,2,Minnesota Wild,4,Bill McCreary,Kevin Pollock,Minnesota Wild,Vancouver Canucks
+2002030311,Ottawa Senators,3,New Jersey Devils,2,Marc Joannette,Dan Marouelli,Ottawa Senators,New Jersey Devils
+2002030312,Ottawa Senators,1,New Jersey Devils,4,Bill McCreary,Kevin Pollock,New Jersey Devils,Ottawa Senators
+2002030313,New Jersey Devils,1,Ottawa Senators,0,Kerry Fraser,Brad Watson,New Jersey Devils,Ottawa Senators
+2002030314,New Jersey Devils,5,Ottawa Senators,2,Don Koharski,Stephen Walkom,New Jersey Devils,Ottawa Senators
+2002030315,Ottawa Senators,3,New Jersey Devils,1,Paul Devorski,Kevin Pollock,Ottawa Senators,New Jersey Devils
+2002030316,New Jersey Devils,1,Ottawa Senators,2,Dan Marouelli,Bill McCreary,Ottawa Senators,New Jersey Devils
+2002030317,Ottawa Senators,2,New Jersey Devils,3,Paul Devorski,Bill McCreary,New Jersey Devils,Ottawa Senators
+2002030321,Minnesota Wild,0,Anaheim Ducks,1,Don Koharski,Brad Watson,Anaheim Ducks,Minnesota Wild
+2002030322,Minnesota Wild,0,Anaheim Ducks,2,Paul Devorski,Stephen Walkom,Anaheim Ducks,Minnesota Wild
+2002030323,Anaheim Ducks,4,Minnesota Wild,0,Marc Joannette,Dan Marouelli,Anaheim Ducks,Minnesota Wild
+2002030324,Anaheim Ducks,2,Minnesota Wild,1,Bill McCreary,Kevin Pollock,Anaheim Ducks,Minnesota Wild
+2002030411,New Jersey Devils,3,Anaheim Ducks,0,DAN Marouelli,Brad Watson,New Jersey Devils,Anaheim Ducks
+2002030412,New Jersey Devils,3,Anaheim Ducks,0,Paul Devorski,Bill McCreary,New Jersey Devils,Anaheim Ducks
+2002030413,Anaheim Ducks,3,New Jersey Devils,2,Dan Marouelli,Bill McCreary,Anaheim Ducks,New Jersey Devils
+2002030414,Anaheim Ducks,1,New Jersey Devils,0,Dan Marouelli,Brad Watson,Anaheim Ducks,New Jersey Devils
+2002030415,New Jersey Devils,6,Anaheim Ducks,3,Paul Devorski,Bill McCreary,New Jersey Devils,Anaheim Ducks
+2002030416,Anaheim Ducks,5,New Jersey Devils,2,Dan Marouelli,Brad Watson,Anaheim Ducks,New Jersey Devils
+2002030417,New Jersey Devils,3,Anaheim Ducks,0,Dan Marouelli,Bill McCreary,New Jersey Devils,Anaheim Ducks

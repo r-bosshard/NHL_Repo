@@ -1,0 +1,83 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2005030111,Ottawa Senators,4,Tampa Bay Lightning,1,Dave Jackson,Brad Watson,Ottawa Senators,Tampa Bay Lightning
+2005030112,Ottawa Senators,3,Tampa Bay Lightning,4,Tim Peel,Don VanMassenhoven,Tampa Bay Lightning,Ottawa Senators
+2005030113,Tampa Bay Lightning,4,Ottawa Senators,8,Kerry Fraser,Eric Furlatt,Ottawa Senators,Tampa Bay Lightning
+2005030114,Tampa Bay Lightning,2,Ottawa Senators,5,Bill McCreary,Kelly Sutherland,Ottawa Senators,Tampa Bay Lightning
+2005030115,Ottawa Senators,3,Tampa Bay Lightning,2,Dan Marouelli,Dennis LaRue,Ottawa Senators,Tampa Bay Lightning
+2005030121,Carolina Hurricanes,1,Montréal Canadiens,6,Don Koharski,Greg Kimmerly,Montréal Canadiens,Carolina Hurricanes
+2005030122,Carolina Hurricanes,5,Montréal Canadiens,6,Paul Devorski,Brad Meier,Montréal Canadiens,Carolina Hurricanes
+2005030123,Montréal Canadiens,1,Carolina Hurricanes,2,Dan Marouelli,Dennis LaRue,Carolina Hurricanes,Montréal Canadiens
+2005030124,Montréal Canadiens,2,Carolina Hurricanes,3,Tim Peel,Don VanMassenhoven,Carolina Hurricanes,Montréal Canadiens
+2005030125,Carolina Hurricanes,2,Montréal Canadiens,1,Kerry Fraser,Eric Furlatt,Carolina Hurricanes,Montréal Canadiens
+2005030126,Montréal Canadiens,1,Carolina Hurricanes,2,Bill McCreary,Kevin Pollock,Carolina Hurricanes,Montréal Canadiens
+2005030131,New Jersey Devils,6,New York Rangers,1,Paul Devorski,Brad Meier,New Jersey Devils,New York Rangers
+2005030132,New Jersey Devils,4,New York Rangers,1,Dan Marouelli,Dennis LaRue,New Jersey Devils,New York Rangers
+2005030133,New York Rangers,0,New Jersey Devils,3,Tim Peel,Don VanMassenhoven,New Jersey Devils,New York Rangers
+2005030134,New York Rangers,2,New Jersey Devils,4,Rob Shick,Kevin Pollock,New Jersey Devils,New York Rangers
+2005030141,Buffalo Sabres,3,Philadelphia Flyers,2,Dan Marouelli,Dennis LaRue,Buffalo Sabres,Philadelphia Flyers
+2005030142,Buffalo Sabres,8,Philadelphia Flyers,2,Dave Jackson,Brad Watson,Buffalo Sabres,Philadelphia Flyers
+2005030143,Philadelphia Flyers,4,Buffalo Sabres,2,Paul Devorski,Brad Meier,Philadelphia Flyers,Buffalo Sabres
+2005030144,Philadelphia Flyers,5,Buffalo Sabres,4,Mike Leggo,Michael McGeough,Philadelphia Flyers,Buffalo Sabres
+2005030145,Buffalo Sabres,3,Philadelphia Flyers,0,Tim Peel,Don VanMassenhoven,Buffalo Sabres,Philadelphia Flyers
+2005030146,Philadelphia Flyers,1,Buffalo Sabres,7,Paul Devorski,Dan O'Halloran,Buffalo Sabres,Philadelphia Flyers
+2005030151,Detroit Red Wings,3,Edmonton Oilers,2,Bill McCreary,Kelly Sutherland,Detroit Red Wings,Edmonton Oilers
+2005030152,Detroit Red Wings,2,Edmonton Oilers,4,Kerry Fraser,Eric Furlatt,Edmonton Oilers,Detroit Red Wings
+2005030153,Edmonton Oilers,4,Detroit Red Wings,3,Rob Shick,Kevin Pollock,Edmonton Oilers,Detroit Red Wings
+2005030154,Edmonton Oilers,2,Detroit Red Wings,4,Marc Joannette,Dean Warren,Detroit Red Wings,Edmonton Oilers
+2005030155,Detroit Red Wings,2,Edmonton Oilers,3,Don Koharski,Greg Kimmerly,Edmonton Oilers,Detroit Red Wings
+2005030156,Edmonton Oilers,4,Detroit Red Wings,3,Mike Leggo,Michael McGeough,Edmonton Oilers,Detroit Red Wings
+2005030161,Dallas Stars,2,Colorado Avalanche,5,Mike Leggo,Michael McGeough,Colorado Avalanche,Dallas Stars
+2005030162,Dallas Stars,4,Colorado Avalanche,5,Marc Joannette,Dean Warren,Colorado Avalanche,Dallas Stars
+2005030163,Colorado Avalanche,4,Dallas Stars,3,Dan O'Halloran,Mike Hasenfratz,Colorado Avalanche,Dallas Stars
+2005030164,Colorado Avalanche,1,Dallas Stars,4,Paul Devorski,Brad Meier,Dallas Stars,Colorado Avalanche
+2005030171,Calgary Flames,2,Anaheim Ducks,1,Dan O'Halloran,Mike Hasenfratz,Calgary Flames,Anaheim Ducks
+2005030172,Calgary Flames,3,Anaheim Ducks,4,Rob Shick,Kevin Pollock,Anaheim Ducks,Calgary Flames
+2005030173,Anaheim Ducks,2,Calgary Flames,5,Mike Leggo,Michael McGeough,Calgary Flames,Anaheim Ducks
+2005030174,Anaheim Ducks,3,Calgary Flames,2,Dave Jackson,Brad Watson,Anaheim Ducks,Calgary Flames
+2005030175,Calgary Flames,3,Anaheim Ducks,2,Marc Joannette,Dean Warren,Calgary Flames,Anaheim Ducks
+2005030176,Anaheim Ducks,2,Calgary Flames,1,Don Koharski,Rob Shick,Anaheim Ducks,Calgary Flames
+2005030177,Calgary Flames,0,Anaheim Ducks,3,Don VanMassenhoven,Brad Watson,Anaheim Ducks,Calgary Flames
+2005030181,Nashville Predators,4,San Jose Sharks,3,Marc Joannette,Dean Warren,Nashville Predators,San Jose Sharks
+2005030182,Nashville Predators,0,San Jose Sharks,3,Bill McCreary,Kelly Sutherland,San Jose Sharks,Nashville Predators
+2005030183,San Jose Sharks,4,Nashville Predators,1,Don Koharski,Greg Kimmerly,San Jose Sharks,Nashville Predators
+2005030184,San Jose Sharks,5,Nashville Predators,4,Rob Shick,Kevin Pollock,San Jose Sharks,Nashville Predators
+2005030185,Nashville Predators,1,San Jose Sharks,2,Dan O'Halloran,Mike Hasenfratz,San Jose Sharks,Nashville Predators
+2005030211,Ottawa Senators,6,Buffalo Sabres,7,Paul Devorski,Don VanMassenhoven,Buffalo Sabres,Ottawa Senators
+2005030212,Ottawa Senators,1,Buffalo Sabres,2,Bill McCreary,Marc Joannette,Buffalo Sabres,Ottawa Senators
+2005030213,Buffalo Sabres,3,Ottawa Senators,2,Rob Shick,Kevin Pollock,Buffalo Sabres,Ottawa Senators
+2005030214,Buffalo Sabres,1,Ottawa Senators,2,Kerry Fraser,Eric Furlatt,Ottawa Senators,Buffalo Sabres
+2005030215,Ottawa Senators,2,Buffalo Sabres,3,Don Koharski,Dan O'Halloran,Buffalo Sabres,Ottawa Senators
+2005030221,Carolina Hurricanes,6,New Jersey Devils,0,Don Koharski,Dan O'Halloran,Carolina Hurricanes,New Jersey Devils
+2005030222,Carolina Hurricanes,3,New Jersey Devils,2,Rob Shick,Kevin Pollock,Carolina Hurricanes,New Jersey Devils
+2005030223,New Jersey Devils,2,Carolina Hurricanes,3,Paul Devorski,Don VanMassenhoven,Carolina Hurricanes,New Jersey Devils
+2005030224,New Jersey Devils,5,Carolina Hurricanes,1,Dave Jackson,Brad Watson,New Jersey Devils,Carolina Hurricanes
+2005030225,Carolina Hurricanes,4,New Jersey Devils,1,Mike Leggo,Michael McGeough,Carolina Hurricanes,New Jersey Devils
+2005030231,San Jose Sharks,2,Edmonton Oilers,1,Dave Jackson,Brad Watson,San Jose Sharks,Edmonton Oilers
+2005030232,San Jose Sharks,2,Edmonton Oilers,1,Mike Leggo,Michael McGeough,San Jose Sharks,Edmonton Oilers
+2005030233,Edmonton Oilers,3,San Jose Sharks,2,Don Koharski,Dan O'Halloran,Edmonton Oilers,San Jose Sharks
+2005030234,Edmonton Oilers,6,San Jose Sharks,3,Paul Devorski,Don VanMassenhoven,Edmonton Oilers,San Jose Sharks
+2005030235,San Jose Sharks,3,Edmonton Oilers,6,Bill McCreary,Marc Joannette,Edmonton Oilers,San Jose Sharks
+2005030236,Edmonton Oilers,2,San Jose Sharks,0,Rob Shick,Brad Watson,Edmonton Oilers,San Jose Sharks
+2005030241,Anaheim Ducks,5,Colorado Avalanche,0,Mike Leggo,Michael McGeough,Anaheim Ducks,Colorado Avalanche
+2005030242,Anaheim Ducks,3,Colorado Avalanche,0,Kerry Fraser,Eric Furlatt,Anaheim Ducks,Colorado Avalanche
+2005030243,Colorado Avalanche,3,Anaheim Ducks,4,Dave Jackson,Brad Watson,Anaheim Ducks,Colorado Avalanche
+2005030244,Colorado Avalanche,1,Anaheim Ducks,4,Bill McCreary,Marc Joannette,Anaheim Ducks,Colorado Avalanche
+2005030311,Carolina Hurricanes,2,Buffalo Sabres,3,Michael McGeough,Eric Furlatt,Buffalo Sabres,Carolina Hurricanes
+2005030312,Carolina Hurricanes,4,Buffalo Sabres,3,Dan O'Halloran,Don VanMassenhoven,Carolina Hurricanes,Buffalo Sabres
+2005030313,Buffalo Sabres,4,Carolina Hurricanes,3,Rob Shick,Marc Joannette,Buffalo Sabres,Carolina Hurricanes
+2005030314,Buffalo Sabres,0,Carolina Hurricanes,4,Michael McGeough,Brad Watson,Carolina Hurricanes,Buffalo Sabres
+2005030315,Carolina Hurricanes,4,Buffalo Sabres,3,Paul Devorski,Don VanMassenhoven,Carolina Hurricanes,Buffalo Sabres
+2005030316,Buffalo Sabres,2,Carolina Hurricanes,1,Bill McCreary,Dan O'Halloran,Buffalo Sabres,Carolina Hurricanes
+2005030317,Carolina Hurricanes,4,Buffalo Sabres,2,Paul Devorski,Brad Watson,Carolina Hurricanes,Buffalo Sabres
+2005030321,Anaheim Ducks,1,Edmonton Oilers,3,Paul Devorski,Don VanMassenhoven,Edmonton Oilers,Anaheim Ducks
+2005030322,Anaheim Ducks,1,Edmonton Oilers,3,Bill McCreary,Marc Joannette,Edmonton Oilers,Anaheim Ducks
+2005030323,Edmonton Oilers,5,Anaheim Ducks,4,Brad Watson,Eric Furlatt,Edmonton Oilers,Anaheim Ducks
+2005030324,Edmonton Oilers,3,Anaheim Ducks,6,Paul Devorski,Dan O'Halloran,Anaheim Ducks,Edmonton Oilers
+2005030325,Anaheim Ducks,1,Edmonton Oilers,2,Bill McCreary,Rob Shick,Edmonton Oilers,Anaheim Ducks
+2005030411,Carolina Hurricanes,5,Edmonton Oilers,4,Paul Devorski,Michael McGeough,Carolina Hurricanes,Edmonton Oilers
+2005030412,Carolina Hurricanes,5,Edmonton Oilers,0,Bill McCreary,Brad Watson,Carolina Hurricanes,Edmonton Oilers
+2005030413,Edmonton Oilers,2,Carolina Hurricanes,1,Paul Devorski,Michael McGeough,Edmonton Oilers,Carolina Hurricanes
+2005030414,Edmonton Oilers,1,Carolina Hurricanes,2,Bill McCreary,Brad Watson,Carolina Hurricanes,Edmonton Oilers
+2005030415,Carolina Hurricanes,3,Edmonton Oilers,4,Paul Devorski,Michael McGeough,Edmonton Oilers,Carolina Hurricanes
+2005030416,Edmonton Oilers,4,Carolina Hurricanes,0,Bill McCreary,Brad Watson,Edmonton Oilers,Carolina Hurricanes
+2005030417,Carolina Hurricanes,3,Edmonton Oilers,1,Bill McCreary,Brad Watson,Carolina Hurricanes,Edmonton Oilers

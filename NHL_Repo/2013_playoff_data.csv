@@ -1,0 +1,94 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2013030111,Boston Bruins,0,Detroit Red Wings,1,Francis Charron,Paul Devorski,Detroit Red Wings,Boston Bruins
+2013030112,Boston Bruins,4,Detroit Red Wings,1,Chris Lee,Francois St-Laurent,Boston Bruins,Detroit Red Wings
+2013030113,Detroit Red Wings,0,Boston Bruins,3,Marc Joannette,Kevin Pollock,Boston Bruins,Detroit Red Wings
+2013030114,Detroit Red Wings,2,Boston Bruins,3,Justin St. Pierre ,Brad Watson,Boston Bruins,Detroit Red Wings
+2013030115,Boston Bruins,4,Detroit Red Wings,2,Dean Morton,Steve Kozari,Boston Bruins,Detroit Red Wings
+2013030121,Tampa Bay Lightning,4,Montréal Canadiens,5,Dan O'Halloran,Gord Dwyer,Montréal Canadiens,Tampa Bay Lightning
+2013030122,Tampa Bay Lightning,1,Montréal Canadiens,4,Chris Rooney,Tim Peel,Montréal Canadiens,Tampa Bay Lightning
+2013030123,Montréal Canadiens,3,Tampa Bay Lightning,2,Francis Charron,Paul Devorski,Montréal Canadiens,Tampa Bay Lightning
+2013030124,Montréal Canadiens,4,Tampa Bay Lightning,3,Chris Lee,Francois St-Laurent,Montréal Canadiens,Tampa Bay Lightning
+2013030131,Pittsburgh Penguins,4,Columbus Blue Jackets,3,Wes McCauley,Eric Furlatt,Pittsburgh Penguins,Columbus Blue Jackets
+2013030132,Pittsburgh Penguins,3,Columbus Blue Jackets,4,Dave Jackson,Dan O'Rourke,Columbus Blue Jackets,Pittsburgh Penguins
+2013030133,Columbus Blue Jackets,3,Pittsburgh Penguins,4,Dean Morton,Steve Kozari,Pittsburgh Penguins,Columbus Blue Jackets
+2013030134,Columbus Blue Jackets,4,Pittsburgh Penguins,3,Dan O'Halloran,Gord Dwyer,Columbus Blue Jackets,Pittsburgh Penguins
+2013030135,Pittsburgh Penguins,3,Columbus Blue Jackets,1,Chris Rooney,Tim Peel,Pittsburgh Penguins,Columbus Blue Jackets
+2013030136,Columbus Blue Jackets,3,Pittsburgh Penguins,4,Marc Joannette,Kevin Pollock,Pittsburgh Penguins,Columbus Blue Jackets
+2013030141,New York Rangers,4,Philadelphia Flyers,1,Dave Jackson,Dan O'Rourke,New York Rangers,Philadelphia Flyers
+2013030142,New York Rangers,2,Philadelphia Flyers,4,Wes McCauley,Eric Furlatt,Philadelphia Flyers,New York Rangers
+2013030143,Philadelphia Flyers,1,New York Rangers,4,Francis Charron,Paul Devorski,New York Rangers,Philadelphia Flyers
+2013030144,Philadelphia Flyers,2,New York Rangers,1,Dan O'Halloran,Gord Dwyer,Philadelphia Flyers,New York Rangers
+2013030145,New York Rangers,4,Philadelphia Flyers,2,Justin St. Pierre ,Brad Watson,New York Rangers,Philadelphia Flyers
+2013030146,Philadelphia Flyers,5,New York Rangers,2,Dean Morton,Steve Kozari,Philadelphia Flyers,New York Rangers
+2013030147,New York Rangers,2,Philadelphia Flyers,1,Chris Rooney,Tim Peel,New York Rangers,Philadelphia Flyers
+2013030151,Colorado Avalanche,5,Minnesota Wild,4,Dean Morton,Steve Kozari,Colorado Avalanche,Minnesota Wild
+2013030152,Colorado Avalanche,4,Minnesota Wild,2,Marc Joannette,Kevin Pollock,Colorado Avalanche,Minnesota Wild
+2013030153,Minnesota Wild,1,Colorado Avalanche,0,Justin St. Pierre ,Brad Watson,Minnesota Wild,Colorado Avalanche
+2013030154,Minnesota Wild,2,Colorado Avalanche,1,Chris Rooney,Tim Peel,Minnesota Wild,Colorado Avalanche
+2013030155,Colorado Avalanche,4,Minnesota Wild,3,Kelly Sutherland,Brad Meier,Colorado Avalanche,Minnesota Wild
+2013030156,Minnesota Wild,5,Colorado Avalanche,2,Paul Devorski,Gord Dwyer,Minnesota Wild,Colorado Avalanche
+2013030157,Colorado Avalanche,4,Minnesota Wild,5,Wes McCauley,Eric Furlatt,Minnesota Wild,Colorado Avalanche
+2013030161,St. Louis Blues,4,Chicago Blackhawks,3,Marc Joannette,Kevin Pollock,St. Louis Blues,Chicago Blackhawks
+2013030162,St. Louis Blues,4,Chicago Blackhawks,3,Kelly Sutherland,Brad Meier,St. Louis Blues,Chicago Blackhawks
+2013030163,Chicago Blackhawks,2,St. Louis Blues,0,Dave Jackson,Dan O'Rourke,Chicago Blackhawks,St. Louis Blues
+2013030164,Chicago Blackhawks,4,St. Louis Blues,3,Wes McCauley,Eric Furlatt,Chicago Blackhawks,St. Louis Blues
+2013030165,St. Louis Blues,2,Chicago Blackhawks,3,Chris Lee,Francois St-Laurent,Chicago Blackhawks,St. Louis Blues
+2013030166,Chicago Blackhawks,5,St. Louis Blues,1,Dan O'Halloran,Gord Dwyer,Chicago Blackhawks,St. Louis Blues
+2013030171,Anaheim Ducks,4,Dallas Stars,3,Chris Lee,Francois St-Laurent,Anaheim Ducks,Dallas Stars
+2013030172,Anaheim Ducks,3,Dallas Stars,2,Justin St. Pierre ,Brad Watson,Anaheim Ducks,Dallas Stars
+2013030173,Dallas Stars,3,Anaheim Ducks,0,Kelly Sutherland,Brad Meier,Dallas Stars,Anaheim Ducks
+2013030174,Dallas Stars,4,Anaheim Ducks,2,Dean Morton,Steve Kozari,Dallas Stars,Anaheim Ducks
+2013030175,Anaheim Ducks,6,Dallas Stars,2,Wes McCauley,Eric Furlatt,Anaheim Ducks,Dallas Stars
+2013030176,Dallas Stars,4,Anaheim Ducks,5,Dave Jackson,Dan O'Rourke,Anaheim Ducks,Dallas Stars
+2013030181,San Jose Sharks,6,Los Angeles Kings,3,Kelly Sutherland,Brad Meier,San Jose Sharks,Los Angeles Kings
+2013030182,San Jose Sharks,7,Los Angeles Kings,2,Dan O'Halloran,Gord Dwyer,San Jose Sharks,Los Angeles Kings
+2013030183,Los Angeles Kings,3,San Jose Sharks,4,Chris Rooney,Tim Peel,San Jose Sharks,Los Angeles Kings
+2013030184,Los Angeles Kings,6,San Jose Sharks,3,Francis Charron,Paul Devorski,Los Angeles Kings,San Jose Sharks
+2013030185,San Jose Sharks,0,Los Angeles Kings,3,Marc Joannette,Kevin Pollock,Los Angeles Kings,San Jose Sharks
+2013030186,Los Angeles Kings,4,San Jose Sharks,1,Chris Lee,Francois St-Laurent,Los Angeles Kings,San Jose Sharks
+2013030187,San Jose Sharks,1,Los Angeles Kings,5,Dave Jackson,Dan O'Rourke,Los Angeles Kings,San Jose Sharks
+2013030211,Boston Bruins,3,Montréal Canadiens,4,Marc Joannette,Kevin Pollock,Montréal Canadiens,Boston Bruins
+2013030212,Boston Bruins,5,Montréal Canadiens,3,Dave Jackson,Dan O'Rourke,Boston Bruins,Montréal Canadiens
+2013030213,Montréal Canadiens,4,Boston Bruins,2,Chris Rooney,Tim Peel,Montréal Canadiens,Boston Bruins
+2013030214,Montréal Canadiens,0,Boston Bruins,1,Brad Watson,Steve Kozari,Boston Bruins,Montréal Canadiens
+2013030215,Boston Bruins,4,Montréal Canadiens,2,Wes McCauley,Eric Furlatt,Boston Bruins,Montréal Canadiens
+2013030216,Montréal Canadiens,4,Boston Bruins,0,Kelly Sutherland,Dan O'Halloran,Montréal Canadiens,Boston Bruins
+2013030217,Boston Bruins,1,Montréal Canadiens,3,Dave Jackson,Dan O'Rourke,Montréal Canadiens,Boston Bruins
+2013030221,Pittsburgh Penguins,2,New York Rangers,3,Brad Watson,Steve Kozari,New York Rangers,Pittsburgh Penguins
+2013030222,Pittsburgh Penguins,3,New York Rangers,0,Wes McCauley,Eric Furlatt,Pittsburgh Penguins,New York Rangers
+2013030223,New York Rangers,0,Pittsburgh Penguins,2,Kelly Sutherland,Dan O'Halloran,Pittsburgh Penguins,New York Rangers
+2013030224,New York Rangers,2,Pittsburgh Penguins,4,Dave Jackson,Dan O'Rourke,Pittsburgh Penguins,New York Rangers
+2013030225,Pittsburgh Penguins,1,New York Rangers,5,Chris Rooney,Tim Peel,New York Rangers,Pittsburgh Penguins
+2013030226,New York Rangers,3,Pittsburgh Penguins,1,Marc Joannette,Kevin Pollock,New York Rangers,Pittsburgh Penguins
+2013030227,Pittsburgh Penguins,1,New York Rangers,2,Marc Joannette,Kevin Pollock,New York Rangers,Pittsburgh Penguins
+2013030231,Chicago Blackhawks,5,Minnesota Wild,2,Kelly Sutherland,Dan O'Halloran,Chicago Blackhawks,Minnesota Wild
+2013030232,Chicago Blackhawks,4,Minnesota Wild,1,Marc Joannette,Kevin Pollock,Chicago Blackhawks,Minnesota Wild
+2013030233,Minnesota Wild,4,Chicago Blackhawks,0,Wes McCauley,Eric Furlatt,Minnesota Wild,Chicago Blackhawks
+2013030234,Minnesota Wild,4,Chicago Blackhawks,2,Dave Jackson,Dan O'Rourke,Minnesota Wild,Chicago Blackhawks
+2013030235,Chicago Blackhawks,2,Minnesota Wild,1,Chris Rooney,Tim Peel,Chicago Blackhawks,Minnesota Wild
+2013030236,Minnesota Wild,1,Chicago Blackhawks,2,Brad Watson,Steve Kozari,Chicago Blackhawks,Minnesota Wild
+2013030241,Anaheim Ducks,2,Los Angeles Kings,3,Chris Rooney,Tim Peel,Los Angeles Kings,Anaheim Ducks
+2013030242,Anaheim Ducks,1,Los Angeles Kings,3,Brad Watson,Steve Kozari,Los Angeles Kings,Anaheim Ducks
+2013030243,Los Angeles Kings,2,Anaheim Ducks,3,Marc Joannette,Kevin Pollock,Anaheim Ducks,Los Angeles Kings
+2013030244,Los Angeles Kings,0,Anaheim Ducks,2,Kelly Sutherland,Dan O'Halloran,Anaheim Ducks,Los Angeles Kings
+2013030245,Anaheim Ducks,4,Los Angeles Kings,3,Dave Jackson,Dan O'Rourke,Anaheim Ducks,Los Angeles Kings
+2013030246,Los Angeles Kings,2,Anaheim Ducks,1,Wes McCauley,Eric Furlatt,Los Angeles Kings,Anaheim Ducks
+2013030247,Anaheim Ducks,2,Los Angeles Kings,6,Wes McCauley,Dan O'Halloran,Los Angeles Kings,Anaheim Ducks
+2013030311,Montréal Canadiens,2,New York Rangers,7,Brad Watson,Steve Kozari,New York Rangers,Montréal Canadiens
+2013030312,Montréal Canadiens,1,New York Rangers,3,Wes McCauley,Dan O'Halloran,New York Rangers,Montréal Canadiens
+2013030313,New York Rangers,2,Montréal Canadiens,3,Marc Joannette,Kevin Pollock,Montréal Canadiens,New York Rangers
+2013030314,New York Rangers,3,Montréal Canadiens,2,Dave Jackson,Dan O'Rourke,New York Rangers,Montréal Canadiens
+2013030315,Montréal Canadiens,7,New York Rangers,4,Brad Watson,Steve Kozari,Montréal Canadiens,New York Rangers
+2013030316,New York Rangers,1,Montréal Canadiens,0,Wes McCauley,Dan O'Halloran,New York Rangers,Montréal Canadiens
+2013030321,Chicago Blackhawks,3,Los Angeles Kings,1,Marc Joannette,Kevin Pollock,Chicago Blackhawks,Los Angeles Kings
+2013030322,Chicago Blackhawks,2,Los Angeles Kings,6,Dave Jackson,Dan O'Rourke,Los Angeles Kings,Chicago Blackhawks
+2013030323,Los Angeles Kings,4,Chicago Blackhawks,3,Brad Watson,Steve Kozari,Los Angeles Kings,Chicago Blackhawks
+2013030324,Los Angeles Kings,5,Chicago Blackhawks,2,Wes McCauley,Dan O'Halloran,Los Angeles Kings,Chicago Blackhawks
+2013030325,Chicago Blackhawks,5,Los Angeles Kings,4,Marc Joannette,Kevin Pollock,Chicago Blackhawks,Los Angeles Kings
+2013030326,Los Angeles Kings,3,Chicago Blackhawks,4,Dave Jackson,Dan O'Rourke,Chicago Blackhawks,Los Angeles Kings
+2013030327,Chicago Blackhawks,4,Los Angeles Kings,5,Wes McCauley,Dan O'Halloran,Los Angeles Kings,Chicago Blackhawks
+2013030411,Los Angeles Kings,3,New York Rangers,2,Brad Watson,Steve Kozari,Los Angeles Kings,New York Rangers
+2013030412,Los Angeles Kings,5,New York Rangers,4,Wes McCauley,Dan O'Halloran,Los Angeles Kings,New York Rangers
+2013030413,New York Rangers,0,Los Angeles Kings,3,Brad Watson,Steve Kozari,Los Angeles Kings,New York Rangers
+2013030414,New York Rangers,2,Los Angeles Kings,1,Wes McCauley,Dan O'Halloran,New York Rangers,Los Angeles Kings
+2013030415,Los Angeles Kings,3,New York Rangers,2,Brad Watson,Steve Kozari,Los Angeles Kings,New York Rangers

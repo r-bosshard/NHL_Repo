@@ -1,0 +1,89 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2003030111,Tampa Bay Lightning,3,New York Islanders,0,Bill McCreary,Tim Peel,Tampa Bay Lightning,New York Islanders
+2003030112,Tampa Bay Lightning,0,New York Islanders,3,Paul Devorski,Marc Joannette,New York Islanders,Tampa Bay Lightning
+2003030113,New York Islanders,0,Tampa Bay Lightning,3,Michael McGeough,Mike Hasenfratz,Tampa Bay Lightning,New York Islanders
+2003030114,New York Islanders,0,Tampa Bay Lightning,3,Tim Peel,Brad Watson,Tampa Bay Lightning,New York Islanders
+2003030115,Tampa Bay Lightning,3,New York Islanders,2,Kelly Sutherland,Don Koharski,Tampa Bay Lightning,New York Islanders
+2003030121,Boston Bruins,3,Montréal Canadiens,0,Rob Shick,Michael McGeough,Boston Bruins,Montréal Canadiens
+2003030122,Boston Bruins,2,Montréal Canadiens,1,Brad Watson,Brad Meier,Boston Bruins,Montréal Canadiens
+2003030123,Montréal Canadiens,3,Boston Bruins,2,Kerry Fraser,Kevin Pollock,Montréal Canadiens,Boston Bruins
+2003030124,Montréal Canadiens,3,Boston Bruins,4,Michael McGeough,Don VanMassenhoven,Boston Bruins,Montréal Canadiens
+2003030125,Boston Bruins,1,Montréal Canadiens,5,Bill McCreary,Tim Peel,Montréal Canadiens,Boston Bruins
+2003030126,Montréal Canadiens,5,Boston Bruins,2,Paul Devorski,Dan O'Halloran,Montréal Canadiens,Boston Bruins
+2003030127,Boston Bruins,0,Montréal Canadiens,2,Paul Devorski,Stephen Walkom,Montréal Canadiens,Boston Bruins
+2003030131,Philadelphia Flyers,3,New Jersey Devils,2,Paul Devorski,Dennis LaRue,Philadelphia Flyers,New Jersey Devils
+2003030132,Philadelphia Flyers,3,New Jersey Devils,2,Michael McGeough,Brad Meier,Philadelphia Flyers,New Jersey Devils
+2003030133,New Jersey Devils,4,Philadelphia Flyers,2,Brad Watson,Brad Meier,New Jersey Devils,Philadelphia Flyers
+2003030134,New Jersey Devils,0,Philadelphia Flyers,3,Kerry Fraser,Dan O'Halloran,Philadelphia Flyers,New Jersey Devils
+2003030135,Philadelphia Flyers,3,New Jersey Devils,1,Bill McCreary,Don VanMassenhoven,Philadelphia Flyers,New Jersey Devils
+2003030141,Toronto Maple Leafs,2,Ottawa Senators,4,Dan Marouelli,Marc Joannette,Ottawa Senators,Toronto Maple Leafs
+2003030142,Toronto Maple Leafs,2,Ottawa Senators,0,Brad Watson,Kevin Pollock,Toronto Maple Leafs,Ottawa Senators
+2003030143,Ottawa Senators,0,Toronto Maple Leafs,2,Rob Shick,Don VanMassenhoven,Toronto Maple Leafs,Ottawa Senators
+2003030144,Ottawa Senators,4,Toronto Maple Leafs,1,Don Koharski,Michael McGeough,Ottawa Senators,Toronto Maple Leafs
+2003030145,Toronto Maple Leafs,2,Ottawa Senators,0,Paul Devorski,Stephen Walkom,Toronto Maple Leafs,Ottawa Senators
+2003030146,Ottawa Senators,2,Toronto Maple Leafs,1,Kerry Fraser,Kevin Pollock,Ottawa Senators,Toronto Maple Leafs
+2003030147,Toronto Maple Leafs,4,Ottawa Senators,1,Don VanMassenhoven,Kevin Pollock,Toronto Maple Leafs,Ottawa Senators
+2003030151,Detroit Red Wings,3,Nashville Predators,1,Stephane Auger,Kevin Pollock,Detroit Red Wings,Nashville Predators
+2003030152,Detroit Red Wings,2,Nashville Predators,1,Bill McCreary,Dan O'Halloran,Detroit Red Wings,Nashville Predators
+2003030153,Nashville Predators,3,Detroit Red Wings,1,Paul Devorski,Dennis LaRue,Nashville Predators,Detroit Red Wings
+2003030154,Nashville Predators,3,Detroit Red Wings,0,Dan Marouelli,Kevin Pollock,Nashville Predators,Detroit Red Wings
+2003030155,Detroit Red Wings,4,Nashville Predators,1,Stephen Walkom,Eric Furlatt,Detroit Red Wings,Nashville Predators
+2003030156,Nashville Predators,0,Detroit Red Wings,2,Kerry Fraser,Marc Joannette,Detroit Red Wings,Nashville Predators
+2003030161,San Jose Sharks,1,St. Louis Blues,0,Kerry Fraser,Dan O'Halloran,San Jose Sharks,St. Louis Blues
+2003030162,San Jose Sharks,3,St. Louis Blues,1,Kelly Sutherland,Stephen Walkom,San Jose Sharks,St. Louis Blues
+2003030163,St. Louis Blues,4,San Jose Sharks,1,Don Koharski,Dennis LaRue,St. Louis Blues,San Jose Sharks
+2003030164,St. Louis Blues,3,San Jose Sharks,4,Bill McCreary,Eric Furlatt,San Jose Sharks,St. Louis Blues
+2003030165,San Jose Sharks,3,St. Louis Blues,1,Dan Marouelli,Dean Warren,San Jose Sharks,St. Louis Blues
+2003030171,Vancouver Canucks,5,Calgary Flames,3,Don Koharski,Eric Furlatt,Vancouver Canucks,Calgary Flames
+2003030172,Vancouver Canucks,1,Calgary Flames,2,Kerry Fraser,Don VanMassenhoven,Calgary Flames,Vancouver Canucks
+2003030173,Calgary Flames,1,Vancouver Canucks,2,Chris Rooney,Dan Marouelli,Vancouver Canucks,Calgary Flames
+2003030174,Calgary Flames,4,Vancouver Canucks,0,Stephen Walkom,Dean Warren,Calgary Flames,Vancouver Canucks
+2003030175,Vancouver Canucks,1,Calgary Flames,2,Rob Shick,Kevin Pollock,Calgary Flames,Vancouver Canucks
+2003030176,Calgary Flames,4,Vancouver Canucks,5,Rob Shick,Michael McGeough,Vancouver Canucks,Calgary Flames
+2003030177,Vancouver Canucks,2,Calgary Flames,3,Dan Marouelli,Brad Watson,Calgary Flames,Vancouver Canucks
+2003030181,Colorado Avalanche,3,Dallas Stars,1,Stephen Walkom,Dean Warren,Colorado Avalanche,Dallas Stars
+2003030182,Colorado Avalanche,5,Dallas Stars,2,Chris Rooney,Don Koharski,Colorado Avalanche,Dallas Stars
+2003030183,Dallas Stars,4,Colorado Avalanche,3,Bill McCreary,Marc Joannette,Dallas Stars,Colorado Avalanche
+2003030184,Dallas Stars,2,Colorado Avalanche,3,Paul Devorski,Kelly Sutherland,Colorado Avalanche,Dallas Stars
+2003030211,Tampa Bay Lightning,4,Montréal Canadiens,0,Kerry Fraser,Dan O'Halloran,Tampa Bay Lightning,Montréal Canadiens
+2003030212,Tampa Bay Lightning,3,Montréal Canadiens,1,Stephen Walkom,Marc Joannette,Tampa Bay Lightning,Montréal Canadiens
+2003030213,Montréal Canadiens,3,Tampa Bay Lightning,4,Paul Devorski,Rob Shick,Tampa Bay Lightning,Montréal Canadiens
+2003030214,Montréal Canadiens,1,Tampa Bay Lightning,3,Michael McGeough,Brad Watson,Tampa Bay Lightning,Montréal Canadiens
+2003030221,Philadelphia Flyers,3,Toronto Maple Leafs,1,Bill McCreary,Don Koharski,Philadelphia Flyers,Toronto Maple Leafs
+2003030222,Philadelphia Flyers,2,Toronto Maple Leafs,1,Kerry Fraser,Michael McGeough,Philadelphia Flyers,Toronto Maple Leafs
+2003030223,Toronto Maple Leafs,4,Philadelphia Flyers,1,Dan Marouelli,Paul Devorski,Toronto Maple Leafs,Philadelphia Flyers
+2003030224,Toronto Maple Leafs,3,Philadelphia Flyers,1,Bill McCreary,Brad Watson,Toronto Maple Leafs,Philadelphia Flyers
+2003030225,Philadelphia Flyers,7,Toronto Maple Leafs,2,Rob Shick,Marc Joannette,Philadelphia Flyers,Toronto Maple Leafs
+2003030226,Toronto Maple Leafs,2,Philadelphia Flyers,3,Stephen Walkom,Kevin Pollock,Philadelphia Flyers,Toronto Maple Leafs
+2003030231,Detroit Red Wings,1,Calgary Flames,2,Don VanMassenhoven,Marc Joannette,Calgary Flames,Detroit Red Wings
+2003030232,Detroit Red Wings,5,Calgary Flames,2,Dan Marouelli,Kevin Pollock,Detroit Red Wings,Calgary Flames
+2003030233,Calgary Flames,3,Detroit Red Wings,2,Bill McCreary,Kelly Sutherland,Calgary Flames,Detroit Red Wings
+2003030234,Calgary Flames,2,Detroit Red Wings,4,Dan O'Halloran,Stephen Walkom,Detroit Red Wings,Calgary Flames
+2003030235,Detroit Red Wings,0,Calgary Flames,1,Don Koharski,Kevin Pollock,Calgary Flames,Detroit Red Wings
+2003030236,Calgary Flames,1,Detroit Red Wings,0,Kerry Fraser,Don VanMassenhoven,Calgary Flames,Detroit Red Wings
+2003030241,San Jose Sharks,5,Colorado Avalanche,2,Michael McGeough,Brad Watson,San Jose Sharks,Colorado Avalanche
+2003030242,San Jose Sharks,4,Colorado Avalanche,1,Kelly Sutherland,Rob Shick,San Jose Sharks,Colorado Avalanche
+2003030243,Colorado Avalanche,0,San Jose Sharks,1,Dan Marouelli,Kevin Pollock,San Jose Sharks,Colorado Avalanche
+2003030244,Colorado Avalanche,1,San Jose Sharks,0,Don Koharski,Don VanMassenhoven,Colorado Avalanche,San Jose Sharks
+2003030245,San Jose Sharks,1,Colorado Avalanche,2,Kerry Fraser,Dan O'Halloran,Colorado Avalanche,San Jose Sharks
+2003030246,Colorado Avalanche,1,San Jose Sharks,3,Bill McCreary,Rob Shick,San Jose Sharks,Colorado Avalanche
+2003030311,Tampa Bay Lightning,3,Philadelphia Flyers,1,Dan Marouelli,Brad Watson,Tampa Bay Lightning,Philadelphia Flyers
+2003030312,Tampa Bay Lightning,2,Philadelphia Flyers,6,Don Koharski,Marc Joannette,Philadelphia Flyers,Tampa Bay Lightning
+2003030313,Philadelphia Flyers,1,Tampa Bay Lightning,4,Kerry Fraser,Stephen Walkom,Tampa Bay Lightning,Philadelphia Flyers
+2003030314,Philadelphia Flyers,3,Tampa Bay Lightning,2,Bill McCreary,Kevin Pollock,Philadelphia Flyers,Tampa Bay Lightning
+2003030315,Tampa Bay Lightning,4,Philadelphia Flyers,2,Dan Marouelli,Don VanMassenhoven,Tampa Bay Lightning,Philadelphia Flyers
+2003030316,Philadelphia Flyers,5,Tampa Bay Lightning,4,Kerry Fraser,Stephen Walkom,Philadelphia Flyers,Tampa Bay Lightning
+2003030317,Tampa Bay Lightning,2,Philadelphia Flyers,1,Brad Watson,Stephen Walkom,Tampa Bay Lightning,Philadelphia Flyers
+2003030321,San Jose Sharks,3,Calgary Flames,4,Stephen Walkom,Kevin Pollock,Calgary Flames,San Jose Sharks
+2003030322,San Jose Sharks,1,Calgary Flames,4,Bill McCreary,Don VanMassenhoven,Calgary Flames,San Jose Sharks
+2003030323,Calgary Flames,0,San Jose Sharks,3,Dan Marouelli,Brad Watson,San Jose Sharks,Calgary Flames
+2003030324,Calgary Flames,2,San Jose Sharks,4,Don Koharski,Marc Joannette,San Jose Sharks,Calgary Flames
+2003030325,San Jose Sharks,0,Calgary Flames,3,Kerry Fraser,Brad Watson,Calgary Flames,San Jose Sharks
+2003030326,Calgary Flames,3,San Jose Sharks,1,Bill McCreary,Kevin Pollock,Calgary Flames,San Jose Sharks
+2003030411,Tampa Bay Lightning,1,Calgary Flames,4,Bill McCreary,Stephen Walkom,Calgary Flames,Tampa Bay Lightning
+2003030412,Tampa Bay Lightning,4,Calgary Flames,1,Brad Watson,Stephen Walkom,Tampa Bay Lightning,Calgary Flames
+2003030413,Calgary Flames,3,Tampa Bay Lightning,0,Kerry Fraser,Bill McCreary,Calgary Flames,Tampa Bay Lightning
+2003030414,Calgary Flames,0,Tampa Bay Lightning,1,Kerry Fraser,Brad Watson,Tampa Bay Lightning,Calgary Flames
+2003030415,Tampa Bay Lightning,2,Calgary Flames,3,Bill McCreary,Stephen Walkom,Calgary Flames,Tampa Bay Lightning
+2003030416,Calgary Flames,2,Tampa Bay Lightning,3,Bill McCreary,Stephen Walkom,Tampa Bay Lightning,Calgary Flames
+2003030417,Tampa Bay Lightning,2,Calgary Flames,1,Kerry Fraser,Bill McCreary,Tampa Bay Lightning,Calgary Flames

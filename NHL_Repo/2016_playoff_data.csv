@@ -1,0 +1,88 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2016030111,Montréal Canadiens,0,New York Rangers,2,Dan O'Halloran,Graham Skilliter,New York Rangers,Montréal Canadiens
+2016030112,Montréal Canadiens,4,New York Rangers,3,Ghislain Hebert,Brad Watson,Montréal Canadiens,New York Rangers
+2016030113,New York Rangers,1,Montréal Canadiens,3,Dan O'Rourke,Jean Hebert,Montréal Canadiens,New York Rangers
+2016030114,New York Rangers,2,Montréal Canadiens,1,Francis Charron,Eric Furlatt,New York Rangers,Montréal Canadiens
+2016030115,Montréal Canadiens,2,New York Rangers,3,Jon McIsaac,Gord Dwyer,New York Rangers,Montréal Canadiens
+2016030116,New York Rangers,3,Montréal Canadiens,1,Chris Rooney,Eric Furlatt,New York Rangers,Montréal Canadiens
+2016030121,Ottawa Senators,1,Boston Bruins,2,Ghislain Hebert,Brad Watson,Boston Bruins,Ottawa Senators
+2016030122,Ottawa Senators,4,Boston Bruins,3,Gord Dwyer,Brad Watson,Ottawa Senators,Boston Bruins
+2016030123,Boston Bruins,3,Ottawa Senators,4,Tim Peel,Ghislain Hebert,Ottawa Senators,Boston Bruins
+2016030124,Boston Bruins,0,Ottawa Senators,1,Graham Skilliter,Kevin Pollock,Ottawa Senators,Boston Bruins
+2016030125,Ottawa Senators,2,Boston Bruins,3,Jon McIsaac,Kelly Sutherland,Boston Bruins,Ottawa Senators
+2016030126,Boston Bruins,2,Ottawa Senators,3,Dan O'Halloran,Jean Hebert,Ottawa Senators,Boston Bruins
+2016030131,Washington Capitals,3,Toronto Maple Leafs,2,Gord Dwyer,Marc Joannette,Washington Capitals,Toronto Maple Leafs
+2016030132,Washington Capitals,3,Toronto Maple Leafs,4,Tim Peel,Eric Furlatt,Toronto Maple Leafs,Washington Capitals
+2016030133,Toronto Maple Leafs,4,Washington Capitals,3,Garrett Rank,Dan O'Halloran,Toronto Maple Leafs,Washington Capitals
+2016030134,Toronto Maple Leafs,4,Washington Capitals,5,Kelly Sutherland,Chris Lee,Washington Capitals,Toronto Maple Leafs
+2016030135,Washington Capitals,2,Toronto Maple Leafs,1,Wes McCauley,Brian Pochmara,Washington Capitals,Toronto Maple Leafs
+2016030136,Toronto Maple Leafs,1,Washington Capitals,2,Chris Lee,Kevin Pollock,Washington Capitals,Toronto Maple Leafs
+2016030141,Pittsburgh Penguins,3,Columbus Blue Jackets,1,Chris Rooney,Kevin Pollock,Pittsburgh Penguins,Columbus Blue Jackets
+2016030142,Pittsburgh Penguins,4,Columbus Blue Jackets,1,Dan O'Rourke,Dan O'Halloran,Pittsburgh Penguins,Columbus Blue Jackets
+2016030143,Columbus Blue Jackets,4,Pittsburgh Penguins,5,Francis Charron,Graham Skilliter,Pittsburgh Penguins,Columbus Blue Jackets
+2016030144,Columbus Blue Jackets,5,Pittsburgh Penguins,4,Dan O'Rourke,Jean Hebert,Columbus Blue Jackets,Pittsburgh Penguins
+2016030145,Pittsburgh Penguins,5,Columbus Blue Jackets,2,Francis Charron,Tim Peel,Pittsburgh Penguins,Columbus Blue Jackets
+2016030151,Chicago Blackhawks,0,Nashville Predators,1,Wes McCauley,Jean Hebert,Nashville Predators,Chicago Blackhawks
+2016030152,Chicago Blackhawks,0,Nashville Predators,5,Chris Rooney,Ian Walsh,Nashville Predators,Chicago Blackhawks
+2016030153,Nashville Predators,3,Chicago Blackhawks,2,Brad Watson,Graham Skilliter,Nashville Predators,Chicago Blackhawks
+2016030154,Nashville Predators,4,Chicago Blackhawks,1,Dan O'Rourke,Jean Hebert,Nashville Predators,Chicago Blackhawks
+2016030161,Minnesota Wild,1,St. Louis Blues,2,Dan O'Rourke,Jean Hebert,St. Louis Blues,Minnesota Wild
+2016030162,Minnesota Wild,1,St. Louis Blues,2,Kyle Rehman,Kevin Pollock,St. Louis Blues,Minnesota Wild
+2016030163,St. Louis Blues,3,Minnesota Wild,1,Chris Rooney,Kelly Sutherland,St. Louis Blues,Minnesota Wild
+2016030164,St. Louis Blues,0,Minnesota Wild,2,Wes McCauley,Brian Pochmara,Minnesota Wild,St. Louis Blues
+2016030165,Minnesota Wild,3,St. Louis Blues,4,Francis Charron,Brian Pochmara,St. Louis Blues,Minnesota Wild
+2016030171,Anaheim Ducks,3,Calgary Flames,2,Francis Charron,Kyle Rehman,Anaheim Ducks,Calgary Flames
+2016030172,Anaheim Ducks,3,Calgary Flames,2,Wes McCauley,Kyle Rehman,Anaheim Ducks,Calgary Flames
+2016030173,Calgary Flames,4,Anaheim Ducks,5,Kyle Rehman,Gord Dwyer,Anaheim Ducks,Calgary Flames
+2016030174,Calgary Flames,1,Anaheim Ducks,3,Ghislain Hebert,Brad Watson,Anaheim Ducks,Calgary Flames
+2016030181,Edmonton Oilers,2,San Jose Sharks,3,Kelly Sutherland,Tim Peel,San Jose Sharks,Edmonton Oilers
+2016030182,Edmonton Oilers,2,San Jose Sharks,0,Kelly Sutherland,Graham Skilliter,Edmonton Oilers,San Jose Sharks
+2016030183,San Jose Sharks,0,Edmonton Oilers,1,Brian Pochmara,Kevin Pollock,Edmonton Oilers,San Jose Sharks
+2016030184,San Jose Sharks,7,Edmonton Oilers,0,Chris Rooney,Kyle Rehman,San Jose Sharks,Edmonton Oilers
+2016030185,Edmonton Oilers,4,San Jose Sharks,3,Dan O'Halloran,Ian Walsh,Edmonton Oilers,San Jose Sharks
+2016030186,San Jose Sharks,1,Edmonton Oilers,3,Tim Peel,Brad Watson,Edmonton Oilers,San Jose Sharks
+2016030211,Ottawa Senators,2,New York Rangers,1,Dan O'Rourke,Jean Hebert,Ottawa Senators,New York Rangers
+2016030212,Ottawa Senators,6,New York Rangers,5,Dan O'Halloran,Marc Joannette,Ottawa Senators,New York Rangers
+2016030213,New York Rangers,4,Ottawa Senators,1,Chris Rooney,Marc Joannette,New York Rangers,Ottawa Senators
+2016030214,New York Rangers,4,Ottawa Senators,1,Wes McCauley,Francis Charron,New York Rangers,Ottawa Senators
+2016030215,Ottawa Senators,5,New York Rangers,4,Kelly Sutherland,Marc Joannette,Ottawa Senators,New York Rangers
+2016030216,New York Rangers,2,Ottawa Senators,4,Brad Watson,Marc Joannette,Ottawa Senators,New York Rangers
+2016030221,Washington Capitals,2,Pittsburgh Penguins,3,Dan O'Halloran,Kevin Pollock,Pittsburgh Penguins,Washington Capitals
+2016030222,Washington Capitals,2,Pittsburgh Penguins,6,Dan O'Rourke,Jean Hebert,Pittsburgh Penguins,Washington Capitals
+2016030223,Pittsburgh Penguins,2,Washington Capitals,3,Brad Watson,Marc Joannette,Washington Capitals,Pittsburgh Penguins
+2016030224,Pittsburgh Penguins,3,Washington Capitals,2,Kelly Sutherland,Jean Hebert,Pittsburgh Penguins,Washington Capitals
+2016030225,Washington Capitals,4,Pittsburgh Penguins,2,Wes McCauley,Francis Charron,Washington Capitals,Pittsburgh Penguins
+2016030226,Pittsburgh Penguins,2,Washington Capitals,5,Chris Rooney,Chris Lee,Washington Capitals,Pittsburgh Penguins
+2016030227,Washington Capitals,0,Pittsburgh Penguins,2,Dan O'Halloran,Kevin Pollock,Pittsburgh Penguins,Washington Capitals
+2016030231,St. Louis Blues,3,Nashville Predators,4,Chris Rooney,Tim Peel,Nashville Predators,St. Louis Blues
+2016030232,St. Louis Blues,3,Nashville Predators,2,Kelly Sutherland,Chris Lee,St. Louis Blues,Nashville Predators
+2016030233,Nashville Predators,3,St. Louis Blues,1,Wes McCauley,Chris Rooney,Nashville Predators,St. Louis Blues
+2016030234,Nashville Predators,2,St. Louis Blues,1,Francis Charron,Dan O'Rourke,Nashville Predators,St. Louis Blues
+2016030235,St. Louis Blues,2,Nashville Predators,1,Brad Watson,Kevin Pollock,St. Louis Blues,Nashville Predators
+2016030236,Nashville Predators,3,St. Louis Blues,1,Dan O'Halloran,Brad Watson,Nashville Predators,St. Louis Blues
+2016030241,Anaheim Ducks,3,Edmonton Oilers,5,Brad Watson,Chris Lee,Edmonton Oilers,Anaheim Ducks
+2016030242,Anaheim Ducks,1,Edmonton Oilers,2,Wes McCauley,Francis Charron,Edmonton Oilers,Anaheim Ducks
+2016030243,Edmonton Oilers,3,Anaheim Ducks,6,Kelly Sutherland,Chris Lee,Anaheim Ducks,Edmonton Oilers
+2016030244,Edmonton Oilers,3,Anaheim Ducks,4,Dan O'Halloran,Chris Lee,Anaheim Ducks,Edmonton Oilers
+2016030245,Anaheim Ducks,4,Edmonton Oilers,3,Chris Rooney,Dan O'Halloran,Anaheim Ducks,Edmonton Oilers
+2016030246,Edmonton Oilers,7,Anaheim Ducks,1,Dan O'Rourke,Jean Hebert,Edmonton Oilers,Anaheim Ducks
+2016030247,Anaheim Ducks,2,Edmonton Oilers,1,Wes McCauley,Francis Charron,Anaheim Ducks,Edmonton Oilers
+2016030311,Pittsburgh Penguins,1,Ottawa Senators,2,Wes McCauley,Kelly Sutherland,Ottawa Senators,Pittsburgh Penguins
+2016030312,Pittsburgh Penguins,1,Ottawa Senators,0,Chris Rooney,Francis Charron,Pittsburgh Penguins,Ottawa Senators
+2016030313,Ottawa Senators,5,Pittsburgh Penguins,1,Dan O'Rourke,Dan O'Halloran,Ottawa Senators,Pittsburgh Penguins
+2016030314,Ottawa Senators,2,Pittsburgh Penguins,3,Dan O'Halloran,Kevin Pollock,Pittsburgh Penguins,Ottawa Senators
+2016030315,Pittsburgh Penguins,7,Ottawa Senators,0,Wes McCauley,Kelly Sutherland,Pittsburgh Penguins,Ottawa Senators
+2016030316,Ottawa Senators,2,Pittsburgh Penguins,1,Chris Rooney,Kelly Sutherland,Ottawa Senators,Pittsburgh Penguins
+2016030317,Pittsburgh Penguins,3,Ottawa Senators,2,Wes McCauley,Dan O'Halloran,Pittsburgh Penguins,Ottawa Senators
+2016030321,Anaheim Ducks,2,Nashville Predators,3,Francis Charron,Dan O'Rourke,Nashville Predators,Anaheim Ducks
+2016030322,Anaheim Ducks,5,Nashville Predators,3,Dan O'Halloran,Jean Hebert,Anaheim Ducks,Nashville Predators
+2016030323,Nashville Predators,2,Anaheim Ducks,1,Wes McCauley,Kevin Pollock,Nashville Predators,Anaheim Ducks
+2016030324,Nashville Predators,2,Anaheim Ducks,3,Wes McCauley,Chris Rooney,Anaheim Ducks,Nashville Predators
+2016030325,Anaheim Ducks,1,Nashville Predators,3,Chris Rooney,Dan O'Rourke,Nashville Predators,Anaheim Ducks
+2016030326,Nashville Predators,6,Anaheim Ducks,3,Dan O'Rourke,Dan O'Halloran,Nashville Predators,Anaheim Ducks
+2016030411,Pittsburgh Penguins,5,Nashville Predators,3,Wes McCauley,Kevin Pollock,Pittsburgh Penguins,Nashville Predators
+2016030412,Pittsburgh Penguins,4,Nashville Predators,1,Dan O'Halloran,Kevin Pollock,Pittsburgh Penguins,Nashville Predators
+2016030413,Nashville Predators,5,Pittsburgh Penguins,1,Wes McCauley,Dan O'Halloran,Nashville Predators,Pittsburgh Penguins
+2016030414,Nashville Predators,4,Pittsburgh Penguins,1,Wes McCauley,Dan O'Halloran,Nashville Predators,Pittsburgh Penguins
+2016030415,Pittsburgh Penguins,6,Nashville Predators,0,Wes McCauley,Kevin Pollock,Pittsburgh Penguins,Nashville Predators
+2016030416,Nashville Predators,0,Pittsburgh Penguins,2,Dan O'Halloran,Kevin Pollock,Pittsburgh Penguins,Nashville Predators

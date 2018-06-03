@@ -1,0 +1,88 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2008030111,Boston Bruins,4,Montréal Canadiens,2,Dennis LaRue,Kevin Pollock,Boston Bruins,Montréal Canadiens
+2008030112,Boston Bruins,5,Montréal Canadiens,1,Mike Leggo,Tim Peel,Boston Bruins,Montréal Canadiens
+2008030113,Montréal Canadiens,2,Boston Bruins,4,Paul Devorski,Ian Walsh,Boston Bruins,Montréal Canadiens
+2008030114,Montréal Canadiens,1,Boston Bruins,4,Dave Jackson,Kelly Sutherland,Boston Bruins,Montréal Canadiens
+2008030121,Washington Capitals,3,New York Rangers,4,Mike Leggo,Tim Peel,New York Rangers,Washington Capitals
+2008030122,Washington Capitals,0,New York Rangers,1,Wes McCauley,Eric Furlatt,New York Rangers,Washington Capitals
+2008030123,New York Rangers,0,Washington Capitals,4,Dave Jackson,Kelly Sutherland,Washington Capitals,New York Rangers
+2008030124,New York Rangers,2,Washington Capitals,1,Paul Devorski,Ian Walsh,New York Rangers,Washington Capitals
+2008030125,Washington Capitals,4,New York Rangers,0,Don VanMassenhoven,Mike Hasenfratz,Washington Capitals,New York Rangers
+2008030126,New York Rangers,3,Washington Capitals,5,Bill McCreary,Brad Meier,Washington Capitals,New York Rangers
+2008030127,Washington Capitals,2,New York Rangers,1,Dan O'Halloran,Brad Watson,Washington Capitals,New York Rangers
+2008030131,New Jersey Devils,4,Carolina Hurricanes,1,Dan O'Rourke,Marc Joannette,New Jersey Devils,Carolina Hurricanes
+2008030132,New Jersey Devils,1,Carolina Hurricanes,2,Don VanMassenhoven,Mike Hasenfratz,Carolina Hurricanes,New Jersey Devils
+2008030133,Carolina Hurricanes,2,New Jersey Devils,3,Dennis LaRue,Kevin Pollock,New Jersey Devils,Carolina Hurricanes
+2008030134,Carolina Hurricanes,4,New Jersey Devils,3,Wes McCauley,Eric Furlatt,Carolina Hurricanes,New Jersey Devils
+2008030135,New Jersey Devils,1,Carolina Hurricanes,0,Bill McCreary,Brad Meier,New Jersey Devils,Carolina Hurricanes
+2008030136,Carolina Hurricanes,4,New Jersey Devils,0,Mike Leggo,Tim Peel,Carolina Hurricanes,New Jersey Devils
+2008030137,New Jersey Devils,3,Carolina Hurricanes,4,Paul Devorski,Kevin Pollock,Carolina Hurricanes,New Jersey Devils
+2008030141,Pittsburgh Penguins,4,Philadelphia Flyers,1,Don VanMassenhoven,Mike Hasenfratz,Pittsburgh Penguins,Philadelphia Flyers
+2008030142,Pittsburgh Penguins,3,Philadelphia Flyers,2,Bill McCreary,Brad Meier,Pittsburgh Penguins,Philadelphia Flyers
+2008030143,Philadelphia Flyers,6,Pittsburgh Penguins,3,Dan O'Rourke,Marc Joannette,Philadelphia Flyers,Pittsburgh Penguins
+2008030144,Philadelphia Flyers,1,Pittsburgh Penguins,3,Dennis LaRue,Kevin Pollock,Pittsburgh Penguins,Philadelphia Flyers
+2008030145,Pittsburgh Penguins,0,Philadelphia Flyers,3,Wes McCauley,Eric Furlatt,Philadelphia Flyers,Pittsburgh Penguins
+2008030146,Philadelphia Flyers,3,Pittsburgh Penguins,5,Chris Rooney,Brad Watson,Pittsburgh Penguins,Philadelphia Flyers
+2008030151,San Jose Sharks,0,Anaheim Ducks,2,Dave Jackson,Kelly Sutherland,Anaheim Ducks,San Jose Sharks
+2008030152,San Jose Sharks,2,Anaheim Ducks,3,Dan O'Halloran,Chris Lee,Anaheim Ducks,San Jose Sharks
+2008030153,Anaheim Ducks,3,San Jose Sharks,4,Don VanMassenhoven,Mike Hasenfratz,San Jose Sharks,Anaheim Ducks
+2008030154,Anaheim Ducks,4,San Jose Sharks,0,Chris Rooney,Brad Watson,Anaheim Ducks,San Jose Sharks
+2008030155,San Jose Sharks,3,Anaheim Ducks,2,Dennis LaRue,Kevin Pollock,San Jose Sharks,Anaheim Ducks
+2008030156,Anaheim Ducks,4,San Jose Sharks,1,Wes McCauley,Eric Furlatt,Anaheim Ducks,San Jose Sharks
+2008030161,Detroit Red Wings,4,Columbus Blue Jackets,1,Paul Devorski,Ian Walsh,Detroit Red Wings,Columbus Blue Jackets
+2008030162,Detroit Red Wings,4,Columbus Blue Jackets,0,Dave Jackson,Kelly Sutherland,Detroit Red Wings,Columbus Blue Jackets
+2008030163,Columbus Blue Jackets,1,Detroit Red Wings,4,Bill McCreary,Brad Meier,Detroit Red Wings,Columbus Blue Jackets
+2008030164,Columbus Blue Jackets,5,Detroit Red Wings,6,Dan O'Halloran,Chris Lee,Detroit Red Wings,Columbus Blue Jackets
+2008030171,Vancouver Canucks,2,St. Louis Blues,1,Dan O'Halloran,Chris Lee,Vancouver Canucks,St. Louis Blues
+2008030172,Vancouver Canucks,3,St. Louis Blues,0,Chris Rooney,Brad Watson,Vancouver Canucks,St. Louis Blues
+2008030173,St. Louis Blues,2,Vancouver Canucks,3,Bill McCreary,Brad Meier,Vancouver Canucks,St. Louis Blues
+2008030174,St. Louis Blues,2,Vancouver Canucks,3,Dan O'Rourke,Marc Joannette,Vancouver Canucks,St. Louis Blues
+2008030181,Chicago Blackhawks,3,Calgary Flames,2,Wes McCauley,Eric Furlatt,Chicago Blackhawks,Calgary Flames
+2008030182,Chicago Blackhawks,3,Calgary Flames,2,Paul Devorski,Ian Walsh,Chicago Blackhawks,Calgary Flames
+2008030183,Calgary Flames,4,Chicago Blackhawks,2,Chris Rooney,Brad Watson,Calgary Flames,Chicago Blackhawks
+2008030184,Calgary Flames,6,Chicago Blackhawks,4,Mike Leggo,Tim Peel,Calgary Flames,Chicago Blackhawks
+2008030185,Chicago Blackhawks,5,Calgary Flames,1,Dan O'Halloran,Chris Lee,Chicago Blackhawks,Calgary Flames
+2008030186,Calgary Flames,1,Chicago Blackhawks,4,Dan O'Rourke,Marc Joannette,Chicago Blackhawks,Calgary Flames
+2008030211,Boston Bruins,4,Carolina Hurricanes,1,Paul Devorski,Dennis LaRue,Boston Bruins,Carolina Hurricanes
+2008030212,Boston Bruins,0,Carolina Hurricanes,3,Mike Leggo,Dan O'Halloran,Carolina Hurricanes,Boston Bruins
+2008030213,Carolina Hurricanes,3,Boston Bruins,2,Bill McCreary,Eric Furlatt,Carolina Hurricanes,Boston Bruins
+2008030214,Carolina Hurricanes,4,Boston Bruins,1,Dave Jackson,Kevin Pollock,Carolina Hurricanes,Boston Bruins
+2008030215,Boston Bruins,4,Carolina Hurricanes,0,Tim Peel,Brad Watson,Boston Bruins,Carolina Hurricanes
+2008030216,Carolina Hurricanes,2,Boston Bruins,4,Kelly Sutherland,Marc Joannette,Boston Bruins,Carolina Hurricanes
+2008030217,Boston Bruins,2,Carolina Hurricanes,3,Dave Jackson,Kevin Pollock,Carolina Hurricanes,Boston Bruins
+2008030221,Washington Capitals,3,Pittsburgh Penguins,2,Dave Jackson,Kevin Pollock,Washington Capitals,Pittsburgh Penguins
+2008030222,Washington Capitals,4,Pittsburgh Penguins,3,Kelly Sutherland,Marc Joannette,Washington Capitals,Pittsburgh Penguins
+2008030223,Pittsburgh Penguins,3,Washington Capitals,2,Mike Leggo,Dan O'Halloran,Pittsburgh Penguins,Washington Capitals
+2008030224,Pittsburgh Penguins,5,Washington Capitals,3,Tim Peel,Brad Watson,Pittsburgh Penguins,Washington Capitals
+2008030225,Washington Capitals,3,Pittsburgh Penguins,4,Bill McCreary,Eric Furlatt,Pittsburgh Penguins,Washington Capitals
+2008030226,Pittsburgh Penguins,4,Washington Capitals,5,Paul Devorski,Dennis LaRue,Washington Capitals,Pittsburgh Penguins
+2008030227,Washington Capitals,2,Pittsburgh Penguins,6,Bill McCreary,Dan O'Halloran,Pittsburgh Penguins,Washington Capitals
+2008030231,Detroit Red Wings,3,Anaheim Ducks,2,Kelly Sutherland,Marc Joannette,Detroit Red Wings,Anaheim Ducks
+2008030232,Detroit Red Wings,3,Anaheim Ducks,4,Bill McCreary,Eric Furlatt,Anaheim Ducks,Detroit Red Wings
+2008030233,Anaheim Ducks,2,Detroit Red Wings,1,Tim Peel,Brad Watson,Anaheim Ducks,Detroit Red Wings
+2008030234,Anaheim Ducks,3,Detroit Red Wings,6,Paul Devorski,Dennis LaRue,Detroit Red Wings,Anaheim Ducks
+2008030235,Detroit Red Wings,4,Anaheim Ducks,1,Mike Leggo,Dan O'Halloran,Detroit Red Wings,Anaheim Ducks
+2008030236,Anaheim Ducks,2,Detroit Red Wings,1,Dave Jackson,Kevin Pollock,Anaheim Ducks,Detroit Red Wings
+2008030237,Detroit Red Wings,4,Anaheim Ducks,3,Paul Devorski,Marc Joannette,Detroit Red Wings,Anaheim Ducks
+2008030241,Vancouver Canucks,5,Chicago Blackhawks,3,Bill McCreary,Eric Furlatt,Vancouver Canucks,Chicago Blackhawks
+2008030242,Vancouver Canucks,3,Chicago Blackhawks,6,Tim Peel,Brad Watson,Chicago Blackhawks,Vancouver Canucks
+2008030243,Chicago Blackhawks,1,Vancouver Canucks,3,Dave Jackson,Kevin Pollock,Vancouver Canucks,Chicago Blackhawks
+2008030244,Chicago Blackhawks,2,Vancouver Canucks,1,Kelly Sutherland,Marc Joannette,Chicago Blackhawks,Vancouver Canucks
+2008030245,Vancouver Canucks,2,Chicago Blackhawks,4,Paul Devorski,Dennis LaRue,Chicago Blackhawks,Vancouver Canucks
+2008030246,Chicago Blackhawks,7,Vancouver Canucks,5,Mike Leggo,Dan O'Halloran,Chicago Blackhawks,Vancouver Canucks
+2008030311,Pittsburgh Penguins,3,Carolina Hurricanes,2,Dave Jackson,Dan O'Halloran,Pittsburgh Penguins,Carolina Hurricanes
+2008030312,Pittsburgh Penguins,7,Carolina Hurricanes,4,Marc Joannette,Kevin Pollock,Pittsburgh Penguins,Carolina Hurricanes
+2008030313,Carolina Hurricanes,2,Pittsburgh Penguins,6,Bill McCreary,Eric Furlatt,Pittsburgh Penguins,Carolina Hurricanes
+2008030314,Carolina Hurricanes,1,Pittsburgh Penguins,4,Paul Devorski,Dennis LaRue,Pittsburgh Penguins,Carolina Hurricanes
+2008030321,Detroit Red Wings,5,Chicago Blackhawks,2,Bill McCreary,Eric Furlatt,Detroit Red Wings,Chicago Blackhawks
+2008030322,Detroit Red Wings,3,Chicago Blackhawks,2,Paul Devorski,Dennis LaRue,Detroit Red Wings,Chicago Blackhawks
+2008030323,Chicago Blackhawks,4,Detroit Red Wings,3,Dave Jackson,Dan O'Halloran,Chicago Blackhawks,Detroit Red Wings
+2008030324,Chicago Blackhawks,1,Detroit Red Wings,6,Marc Joannette,Kevin Pollock,Detroit Red Wings,Chicago Blackhawks
+2008030325,Detroit Red Wings,2,Chicago Blackhawks,1,Bill McCreary,Eric Furlatt,Detroit Red Wings,Chicago Blackhawks
+2008030411,Detroit Red Wings,3,Pittsburgh Penguins,1,Paul Devorski,Dennis LaRue,Detroit Red Wings,Pittsburgh Penguins
+2008030412,Detroit Red Wings,3,Pittsburgh Penguins,1,Bill McCreary,Marc Joannette,Detroit Red Wings,Pittsburgh Penguins
+2008030413,Pittsburgh Penguins,4,Detroit Red Wings,2,Paul Devorski,Dennis LaRue,Pittsburgh Penguins,Detroit Red Wings
+2008030414,Pittsburgh Penguins,4,Detroit Red Wings,2,Bill McCreary,Marc Joannette,Pittsburgh Penguins,Detroit Red Wings
+2008030415,Detroit Red Wings,5,Pittsburgh Penguins,0,Paul Devorski,Dennis LaRue,Detroit Red Wings,Pittsburgh Penguins
+2008030416,Pittsburgh Penguins,2,Detroit Red Wings,1,Bill McCreary,Marc Joannette,Pittsburgh Penguins,Detroit Red Wings
+2008030417,Detroit Red Wings,1,Pittsburgh Penguins,2,Bill McCreary,Paul Devorski,Pittsburgh Penguins,Detroit Red Wings

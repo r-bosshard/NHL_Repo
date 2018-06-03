@@ -1,0 +1,87 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+1995030111,Philadelphia Flyers,7,Tampa Bay Lightning,3,Don Koharski,Brad Lazarowich,Philadelphia Flyers,Tampa Bay Lightning
+1995030112,Philadelphia Flyers,1,Tampa Bay Lightning,2,Paul Devorski,Brad Lazarowich,Tampa Bay Lightning,Philadelphia Flyers
+1995030113,Tampa Bay Lightning,5,Philadelphia Flyers,4,Rob Shick,Wayne Bonney,Tampa Bay Lightning,Philadelphia Flyers
+1995030114,Tampa Bay Lightning,1,Philadelphia Flyers,4,Mick McGeough,Wayne Bonney,Philadelphia Flyers,Tampa Bay Lightning
+1995030115,Philadelphia Flyers,4,Tampa Bay Lightning,1,Bill McCreary,Kevin Collins,Philadelphia Flyers,Tampa Bay Lightning
+1995030116,Tampa Bay Lightning,1,Philadelphia Flyers,6,Andy van Hellemond,Kevin Collins,Philadelphia Flyers,Tampa Bay Lightning
+1995030121,Pittsburgh Penguins,4,Washington Capitals,6,Don Koharski,Shane Heyer,Washington Capitals,Pittsburgh Penguins
+1995030122,Pittsburgh Penguins,3,Washington Capitals,5,Mark Faucette,Shane Heyer,Washington Capitals,Pittsburgh Penguins
+1995030123,Washington Capitals,1,Pittsburgh Penguins,4,Bill McCreary,Bob Hodges,Pittsburgh Penguins,Washington Capitals
+1995030124,Washington Capitals,2,Pittsburgh Penguins,3,Marouelli,Gauthier,Pittsburgh Penguins,Washington Capitals
+1995030125,Pittsburgh Penguins,4,Washington Capitals,1,Kerry Fraser,Gerard Gauthier,Pittsburgh Penguins,Washington Capitals
+1995030126,Washington Capitals,2,Pittsburgh Penguins,3,Terry Gregson,Gordon Broseker,Pittsburgh Penguins,Washington Capitals
+1995030131,New York Rangers,2,Montréal Canadiens,3,Mark Faucette,Bob Hodges,Montréal Canadiens,New York Rangers
+1995030132,New York Rangers,3,Montréal Canadiens,5,Mike McGeough,Bob Hodges,Montréal Canadiens,New York Rangers
+1995030133,Montréal Canadiens,1,New York Rangers,2,Gregson,Mitton,New York Rangers,Montréal Canadiens
+1995030134,Montréal Canadiens,3,New York Rangers,4,Stewart,Mitton,New York Rangers,Montréal Canadiens
+1995030135,New York Rangers,3,Montréal Canadiens,2,Rob Shick,Gordon Broseker,New York Rangers,Montréal Canadiens
+1995030136,Montréal Canadiens,3,New York Rangers,5,Koharski,Wheler,New York Rangers,Montréal Canadiens
+1995030141,Florida Panthers,6,Boston Bruins,3,Terry Gregson,Wayne Bonney,Florida Panthers,Boston Bruins
+1995030142,Florida Panthers,6,Boston Bruins,2,Rob Shick,Wayne Bonney,Florida Panthers,Boston Bruins
+1995030143,Boston Bruins,2,Florida Panthers,4,Kerry Fraser,Bob Hodges,Florida Panthers,Boston Bruins
+1995030144,Boston Bruins,6,Florida Panthers,2,Andy van Hellemond,Pierre Champoux,Boston Bruins,Florida Panthers
+1995030145,Florida Panthers,4,Boston Bruins,3,Paul Devorski,Greg Devorski,Florida Panthers,Boston Bruins
+1995030151,Detroit Red Wings,4,Winnipeg Jets (1979),1,Vanhellemond,Scapinello,Detroit Red Wings,Winnipeg Jets (1979)
+1995030152,Detroit Red Wings,4,Winnipeg Jets (1979),0,McCreary,Scapinello,Detroit Red Wings,Winnipeg Jets (1979)
+1995030153,Winnipeg Jets (1979),4,Detroit Red Wings,1,Mark Faucette,Kevin Collins,Winnipeg Jets (1979),Detroit Red Wings
+1995030154,Winnipeg Jets (1979),1,Detroit Red Wings,6,Terry Gregson,Leon Stickle,Detroit Red Wings,Winnipeg Jets (1979)
+1995030155,Detroit Red Wings,1,Winnipeg Jets (1979),3,Dan Marouelli,Jay Sharrers,Winnipeg Jets (1979),Detroit Red Wings
+1995030156,Winnipeg Jets (1979),1,Detroit Red Wings,4,Rob Schick,Randy Mitton,Detroit Red Wings,Winnipeg Jets (1979)
+1995030161,Colorado Avalanche,5,Vancouver Canucks,2,Kerry Fraser,Gerald Gauthier,Colorado Avalanche,Vancouver Canucks
+1995030162,Colorado Avalanche,4,Vancouver Canucks,5,Dan Marouelli,Gerard Gauthier,Vancouver Canucks,Colorado Avalanche
+1995030163,Vancouver Canucks,0,Colorado Avalanche,4,Van Hellemond,Devorski,Colorado Avalanche,Vancouver Canucks
+1995030164,Vancouver Canucks,4,Colorado Avalanche,3,Koharski,Devorski,Vancouver Canucks,Colorado Avalanche
+1995030165,Colorado Avalanche,5,Vancouver Canucks,4,Paul Stewart,Ray Scapinello,Colorado Avalanche,Vancouver Canucks
+1995030166,Vancouver Canucks,2,Colorado Avalanche,3,Faucette,Ron Asselstine,Colorado Avalanche,Vancouver Canucks
+1995030171,Chicago Blackhawks,4,Calgary Flames,1,Bill McCreary,Gordon Broseker,Chicago Blackhawks,Calgary Flames
+1995030172,Chicago Blackhawks,3,Calgary Flames,0,Kerry Fraser,Gordon Broseker,Chicago Blackhawks,Calgary Flames
+1995030173,Calgary Flames,5,Chicago Blackhawks,7,Don Koharski,Ron Asselstine,Chicago Blackhawks,Calgary Flames
+1995030174,Calgary Flames,1,Chicago Blackhawks,2,Faucette,Ron Asselstine,Chicago Blackhawks,Calgary Flames
+1995030181,Toronto Maple Leafs,1,St. Louis Blues,3,Rob Shick,Pat Dapuzzo,St. Louis Blues,Toronto Maple Leafs
+1995030182,Toronto Maple Leafs,5,St. Louis Blues,4,Paul Stewart,Greg Devorski,Toronto Maple Leafs,St. Louis Blues
+1995030183,St. Louis Blues,3,Toronto Maple Leafs,2,Dan Marouelli,Gordon Broseker,St. Louis Blues,Toronto Maple Leafs
+1995030184,St. Louis Blues,5,Toronto Maple Leafs,1,Andy van Hellemond,Gordon Broseker,St. Louis Blues,Toronto Maple Leafs
+1995030185,Toronto Maple Leafs,5,St. Louis Blues,4,Paul Devorski,Jay Sharrers,Toronto Maple Leafs,St. Louis Blues
+1995030186,St. Louis Blues,2,Toronto Maple Leafs,1,Bill McCreary,Bob Hodges,St. Louis Blues,Toronto Maple Leafs
+1995030211,Philadelphia Flyers,0,Florida Panthers,2,Dan Marouelli,Wayne Bonney,Florida Panthers,Philadelphia Flyers
+1995030212,Philadelphia Flyers,3,Florida Panthers,2,Mark Faucette,Wayne Bonney,Philadelphia Flyers,Florida Panthers
+1995030213,Florida Panthers,1,Philadelphia Flyers,3,Bill McCreary,Ray Scapinello,Philadelphia Flyers,Florida Panthers
+1995030214,Florida Panthers,4,Philadelphia Flyers,3,Rob Shick,Ray Scapinello,Florida Panthers,Philadelphia Flyers
+1995030215,Philadelphia Flyers,1,Florida Panthers,2,Don Koharski,Shane Heyer,Florida Panthers,Philadelphia Flyers
+1995030216,Florida Panthers,4,Philadelphia Flyers,1,Terry Gregson,Gordon Broseker,Florida Panthers,Philadelphia Flyers
+1995030221,Pittsburgh Penguins,4,New York Rangers,3,Andy van Hellemond,Kevin Collins,Pittsburgh Penguins,New York Rangers
+1995030222,Pittsburgh Penguins,3,New York Rangers,6,Kerry Fraser,Kevin Collins,New York Rangers,Pittsburgh Penguins
+1995030223,New York Rangers,2,Pittsburgh Penguins,3,Dan Marquelli,Shane Heyer,Pittsburgh Penguins,New York Rangers
+1995030224,New York Rangers,1,Pittsburgh Penguins,4,Don Koharski,Shane Heyer,Pittsburgh Penguins,New York Rangers
+1995030225,Pittsburgh Penguins,7,New York Rangers,3,Rob Shick,Ray Scapinello,Pittsburgh Penguins,New York Rangers
+1995030231,Detroit Red Wings,3,St. Louis Blues,2,4. Gregson,Gordon Broseker,Detroit Red Wings,St. Louis Blues
+1995030232,Detroit Red Wings,8,St. Louis Blues,3,7. McCreary,Gordon Broseker,Detroit Red Wings,St. Louis Blues
+1995030233,St. Louis Blues,5,Detroit Red Wings,4,Kerry Fraser,Kevin Collins,St. Louis Blues,Detroit Red Wings
+1995030234,St. Louis Blues,1,Detroit Red Wings,0,Mark Faucette,Kevin Collins,St. Louis Blues,Detroit Red Wings
+1995030235,Detroit Red Wings,2,St. Louis Blues,3,Van Hellemond,Lazarowich,St. Louis Blues,Detroit Red Wings
+1995030236,St. Louis Blues,2,Detroit Red Wings,4,Dan Marouelli,Ray Scapinello,Detroit Red Wings,St. Louis Blues
+1995030237,Detroit Red Wings,1,St. Louis Blues,0,McCreary,Scapinello,Detroit Red Wings,St. Louis Blues
+1995030241,Colorado Avalanche,2,Chicago Blackhawks,3,Don Koharski,Shane Heyer,Chicago Blackhawks,Colorado Avalanche
+1995030242,Colorado Avalanche,5,Chicago Blackhawks,1,Rob Shick,Jay Sharrers,Colorado Avalanche,Chicago Blackhawks
+1995030243,Chicago Blackhawks,4,Colorado Avalanche,3,Terry Gregson,Wayne Bonney,Chicago Blackhawks,Colorado Avalanche
+1995030244,Chicago Blackhawks,2,Colorado Avalanche,3,Andy van Hellemond,Gordon Broseker,Colorado Avalanche,Chicago Blackhawks
+1995030245,Colorado Avalanche,4,Chicago Blackhawks,1,Kerry Fraser,Gordon Broseker,Colorado Avalanche,Chicago Blackhawks
+1995030246,Chicago Blackhawks,3,Colorado Avalanche,4,Mark Faucette,Wayne Bonney,Colorado Avalanche,Chicago Blackhawks
+1995030311,Pittsburgh Penguins,1,Florida Panthers,5,Kerry Fraser,Wayne Bonney,Florida Panthers,Pittsburgh Penguins
+1995030312,Pittsburgh Penguins,3,Florida Panthers,2,Andy van Hellemond,Wayne Bonney,Pittsburgh Penguins,Florida Panthers
+1995030313,Florida Panthers,5,Pittsburgh Penguins,2,Bill McCreary,Ray Scapinello,Florida Panthers,Pittsburgh Penguins
+1995030314,Florida Panthers,1,Pittsburgh Penguins,2,Don Koharski,Ray Scapinello,Pittsburgh Penguins,Florida Panthers
+1995030315,Pittsburgh Penguins,3,Florida Panthers,0,Mark Faucette,Gordon Broseker,Pittsburgh Penguins,Florida Panthers
+1995030316,Florida Panthers,4,Pittsburgh Penguins,3,Terry Gregson,Kevin Collins,Florida Panthers,Pittsburgh Penguins
+1995030317,Pittsburgh Penguins,1,Florida Panthers,3,Don Koharski,Kevin Collins,Florida Panthers,Pittsburgh Penguins
+1995030321,Detroit Red Wings,2,Colorado Avalanche,3,12. Don Koharski,Gordon Broseker,Colorado Avalanche,Detroit Red Wings
+1995030322,Detroit Red Wings,0,Colorado Avalanche,3,11. Faucette,Gordon Broseker,Colorado Avalanche,Detroit Red Wings
+1995030323,Colorado Avalanche,4,Detroit Red Wings,6,Terry Gregson,Kevin Collins,Detroit Red Wings,Colorado Avalanche
+1995030324,Colorado Avalanche,4,Detroit Red Wings,2,Andy van Hellemond,Kevin Collins,Colorado Avalanche,Detroit Red Wings
+1995030325,Detroit Red Wings,5,Colorado Avalanche,2,2. Fraser,64. Heyer,Detroit Red Wings,Colorado Avalanche
+1995030326,Colorado Avalanche,4,Detroit Red Wings,1,Bill McCreary,Ray Scapinello,Colorado Avalanche,Detroit Red Wings
+1995030411,Colorado Avalanche,3,Florida Panthers,1,Bill McCreary,Ray Scapinello,Colorado Avalanche,Florida Panthers
+1995030412,Colorado Avalanche,8,Florida Panthers,1,Don Koharski,Kevin Collins,Colorado Avalanche,Florida Panthers
+1995030413,Florida Panthers,2,Colorado Avalanche,3,Andy van Hellemond,Ray Scapinello,Colorado Avalanche,Florida Panthers
+1995030414,Florida Panthers,0,Colorado Avalanche,1,Bill McCreary,Kevin Collins,Colorado Avalanche,Florida Panthers

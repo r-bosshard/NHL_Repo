@@ -1,0 +1,83 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+1996030111,New Jersey Devils,5,Montréal Canadiens,2,Don Koharski,Shane Heyer,New Jersey Devils,Montréal Canadiens
+1996030112,New Jersey Devils,4,Montréal Canadiens,1,Stephen Walkom,Shane Heyer,New Jersey Devils,Montréal Canadiens
+1996030113,Montréal Canadiens,4,New Jersey Devils,6,Fraser,Devorski,New Jersey Devils,Montréal Canadiens
+1996030114,Montréal Canadiens,4,New Jersey Devils,3,McGeough,Devorski,Montréal Canadiens,New Jersey Devils
+1996030115,New Jersey Devils,4,Montréal Canadiens,0,Bill McCreary,Bob Hodges,New Jersey Devils,Montréal Canadiens
+1996030121,Buffalo Sabres,3,Ottawa Senators,1,Rob Shick,Wayne Bonney,Buffalo Sabres,Ottawa Senators
+1996030122,Buffalo Sabres,1,Ottawa Senators,3,Richard Trottier,Wayne Bonney,Ottawa Senators,Buffalo Sabres
+1996030123,Ottawa Senators,2,Buffalo Sabres,3,Kerry Fraser,Dan Schachte,Buffalo Sabres,Ottawa Senators
+1996030124,Ottawa Senators,1,Buffalo Sabres,0,Mick McGeough,Dan Schachte,Ottawa Senators,Buffalo Sabres
+1996030125,Buffalo Sabres,1,Ottawa Senators,4,Dan Marouelli,Shane Heyer,Ottawa Senators,Buffalo Sabres
+1996030126,Ottawa Senators,0,Buffalo Sabres,3,Terry Gregson,Shane Heyer,Buffalo Sabres,Ottawa Senators
+1996030127,Buffalo Sabres,3,Ottawa Senators,2,Bill McCreary,Kevin Colilns,Buffalo Sabres,Ottawa Senators
+1996030131,Philadelphia Flyers,5,Pittsburgh Penguins,1,Dan Marouelli,Dan Schachte,Philadelphia Flyers,Pittsburgh Penguins
+1996030132,Philadelphia Flyers,3,Pittsburgh Penguins,2,Mick McGeough,Dan Schachte,Philadelphia Flyers,Pittsburgh Penguins
+1996030133,Pittsburgh Penguins,3,Philadelphia Flyers,5,Rob Schick,Wayne Bonney,Philadelphia Flyers,Pittsburgh Penguins
+1996030134,Pittsburgh Penguins,4,Philadelphia Flyers,1,Don Koharski,Mike Cvik,Pittsburgh Penguins,Philadelphia Flyers
+1996030135,Philadelphia Flyers,6,Pittsburgh Penguins,3,Mark Faucette,Ray Scapinello,Philadelphia Flyers,Pittsburgh Penguins
+1996030141,Florida Panthers,3,New York Rangers,0,Kerry Fraser,Bob Hodges,Florida Panthers,New York Rangers
+1996030142,Florida Panthers,0,New York Rangers,3,Don Koharski,Greg Devorski,New York Rangers,Florida Panthers
+1996030143,New York Rangers,4,Florida Panthers,3,Dan Marouelli,Shane Heyer,New York Rangers,Florida Panthers
+1996030144,New York Rangers,3,Florida Panthers,2,Richard Trottier,Shane Heyer,New York Rangers,Florida Panthers
+1996030145,Florida Panthers,2,New York Rangers,3,Paul Devorski,Gerard Gauthier,New York Rangers,Florida Panthers
+1996030151,Colorado Avalanche,6,Chicago Blackhawks,0,Mark Faucette,Gordon Broseker,Colorado Avalanche,Chicago Blackhawks
+1996030152,Colorado Avalanche,3,Chicago Blackhawks,1,Paul Devorski,Gordon Broseker,Colorado Avalanche,Chicago Blackhawks
+1996030153,Chicago Blackhawks,4,Colorado Avalanche,3,Bil McCreary,Swede Knox,Chicago Blackhawks,Colorado Avalanche
+1996030154,Chicago Blackhawks,6,Colorado Avalanche,3,Rob Shick,Swede Knox,Chicago Blackhawks,Colorado Avalanche
+1996030155,Colorado Avalanche,7,Chicago Blackhawks,0,Kerry Fraser,Kevin Collins,Colorado Avalanche,Chicago Blackhawks
+1996030156,Chicago Blackhawks,3,Colorado Avalanche,6,Dan Marouelli,Kevin Collins,Colorado Avalanche,Chicago Blackhawks
+1996030161,Dallas Stars,5,Edmonton Oilers,3,Gregson,Gauthier,Dallas Stars,Edmonton Oilers
+1996030162,Dallas Stars,0,Edmonton Oilers,4,McCreary,Gauthier,Edmonton Oilers,Dallas Stars
+1996030163,Edmonton Oilers,4,Dallas Stars,3,Mark Faucette,Ray Scapinello,Edmonton Oilers,Dallas Stars
+1996030164,Edmonton Oilers,3,Dallas Stars,4,Paul Devorski,Ray Scapinello,Dallas Stars,Edmonton Oilers
+1996030165,Dallas Stars,0,Edmonton Oilers,1,Walkom,McCourt,Edmonton Oilers,Dallas Stars
+1996030166,Edmonton Oilers,2,Dallas Stars,3,Rob Shick,Dan Schachte,Dallas Stars,Edmonton Oilers
+1996030167,Dallas Stars,3,Edmonton Oilers,4,Fraser,Scapinello,Edmonton Oilers,Dallas Stars
+1996030171,Detroit Red Wings,0,St. Louis Blues,2,McCreary,Collins,St. Louis Blues,Detroit Red Wings
+1996030172,Detroit Red Wings,2,St. Louis Blues,1,Shick,Collins,Detroit Red Wings,St. Louis Blues
+1996030173,St. Louis Blues,2,Detroit Red Wings,3,Dan Marouelli,Gerard Gauthier,Detroit Red Wings,St. Louis Blues
+1996030174,St. Louis Blues,4,Detroit Red Wings,0,Mark Faucette,Gerard Gauthier,St. Louis Blues,Detroit Red Wings
+1996030175,Detroit Red Wings,5,St. Louis Blues,2,Gregson,Mike Cvik,Detroit Red Wings,St. Louis Blues
+1996030176,St. Louis Blues,1,Detroit Red Wings,3,Kerry Fraser,Mike Cvik,Detroit Red Wings,St. Louis Blues
+1996030181,Anaheim Ducks,4,Phoenix Coyotes,2,Paul Devorski,Scott Driscoll,Anaheim Ducks,Phoenix Coyotes
+1996030182,Anaheim Ducks,4,Phoenix Coyotes,2,Mark Faucette,Scott Driscoll,Anaheim Ducks,Phoenix Coyotes
+1996030183,Phoenix Coyotes,4,Anaheim Ducks,1,Terry Gregson,Gordon Broseker,Phoenix Coyotes,Anaheim Ducks
+1996030184,Phoenix Coyotes,2,Anaheim Ducks,0,Stephen Walkom,Gordon Broseker,Phoenix Coyotes,Anaheim Ducks
+1996030185,Anaheim Ducks,2,Phoenix Coyotes,5,Bill McCreary,Brad Lazarowich,Phoenix Coyotes,Anaheim Ducks
+1996030186,Phoenix Coyotes,2,Anaheim Ducks,3,Don Koharski,Swede Knox,Anaheim Ducks,Phoenix Coyotes
+1996030187,Anaheim Ducks,3,Phoenix Coyotes,0,Dan Marouelli,Gerard Gauthier,Anaheim Ducks,Phoenix Coyotes
+1996030211,New Jersey Devils,2,New York Rangers,0,Terry Gregson,Gordon Broseker,New Jersey Devils,New York Rangers
+1996030212,New Jersey Devils,0,New York Rangers,2,Rob Shick,Gordon Broseker,New York Rangers,New Jersey Devils
+1996030213,New York Rangers,3,New Jersey Devils,2,Kerry Fraser,Shane Heyer,New York Rangers,New Jersey Devils
+1996030214,New York Rangers,3,New Jersey Devils,0,Mark Faucette,Wayne Bonney,New York Rangers,New Jersey Devils
+1996030215,New Jersey Devils,1,New York Rangers,2,Don Koharski,Shane Heyer,New York Rangers,New Jersey Devils
+1996030221,Buffalo Sabres,3,Philadelphia Flyers,5,Don Koharski,Wayne Bonney,Philadelphia Flyers,Buffalo Sabres
+1996030222,Buffalo Sabres,1,Philadelphia Flyers,2,Paul Devorski,Wayne Bonney,Philadelphia Flyers,Buffalo Sabres
+1996030223,Philadelphia Flyers,4,Buffalo Sabres,1,Terry Gregson,Shane Heyer,Philadelphia Flyers,Buffalo Sabres
+1996030224,Philadelphia Flyers,4,Buffalo Sabres,5,Rob Shick,Shane Heyer,Buffalo Sabres,Philadelphia Flyers
+1996030225,Buffalo Sabres,3,Philadelphia Flyers,6,Bill McCreary,Gerard Gauthier,Philadelphia Flyers,Buffalo Sabres
+1996030231,Colorado Avalanche,5,Edmonton Oilers,1,Dan Marouelli,Gerard Gauthier,Colorado Avalanche,Edmonton Oilers
+1996030232,Colorado Avalanche,4,Edmonton Oilers,1,Mark Faucette,Gerard Gauthier,Colorado Avalanche,Edmonton Oilers
+1996030233,Edmonton Oilers,4,Colorado Avalanche,3,Don Koharski,Dan Schachte,Edmonton Oilers,Colorado Avalanche
+1996030234,Edmonton Oilers,2,Colorado Avalanche,3,Paul Devorski,Dan Schachte,Colorado Avalanche,Edmonton Oilers
+1996030235,Colorado Avalanche,4,Edmonton Oilers,3,Kerry Fraser,Gordon Broseker,Colorado Avalanche,Edmonton Oilers
+1996030241,Detroit Red Wings,2,Anaheim Ducks,1,Faucette,Scapinello,Detroit Red Wings,Anaheim Ducks
+1996030242,Detroit Red Wings,3,Anaheim Ducks,2,Dan Marouelli,Ray Scapinello,Detroit Red Wings,Anaheim Ducks
+1996030243,Anaheim Ducks,3,Detroit Red Wings,5,Bill McCreary,Gerard Gauthier,Detroit Red Wings,Anaheim Ducks
+1996030244,Anaheim Ducks,2,Detroit Red Wings,3,Kerry Fraser,Gerard Gauthier,Detroit Red Wings,Anaheim Ducks
+1996030311,Philadelphia Flyers,3,New York Rangers,1,Dan Marouelli,Ray Scapinello,Philadelphia Flyers,New York Rangers
+1996030312,Philadelphia Flyers,4,New York Rangers,5,Paul Devorski,Ray Scapinello,New York Rangers,Philadelphia Flyers
+1996030313,New York Rangers,3,Philadelphia Flyers,6,Bill McCreary,Kevin Collins,Philadelphia Flyers,New York Rangers
+1996030314,New York Rangers,2,Philadelphia Flyers,3,Kerry Fraser,Kevin Collins,Philadelphia Flyers,New York Rangers
+1996030315,Philadelphia Flyers,4,New York Rangers,2,Terry Gregson,Wayne Bonney,Philadelphia Flyers,New York Rangers
+1996030321,Colorado Avalanche,2,Detroit Red Wings,1,Gregson,Wayne Bonney,Colorado Avalanche,Detroit Red Wings
+1996030322,Colorado Avalanche,2,Detroit Red Wings,4,Koharski,Wayne Bonney,Detroit Red Wings,Colorado Avalanche
+1996030323,Detroit Red Wings,2,Colorado Avalanche,1,Fraser,Gordon Broseker,Detroit Red Wings,Colorado Avalanche
+1996030324,Detroit Red Wings,6,Colorado Avalanche,0,Paul Devorski,Gordon Broseker,Detroit Red Wings,Colorado Avalanche
+1996030325,Colorado Avalanche,6,Detroit Red Wings,0,Dan Marouelli,Ray Scapinello,Colorado Avalanche,Detroit Red Wings
+1996030326,Detroit Red Wings,3,Colorado Avalanche,1,McCreary,Collins,Detroit Red Wings,Colorado Avalanche
+1996030411,Philadelphia Flyers,2,Detroit Red Wings,4,Bill McCreary,Ray Scapinello,Detroit Red Wings,Philadelphia Flyers
+1996030412,Philadelphia Flyers,2,Detroit Red Wings,4,Terry Gregson,Wayne Bonney,Detroit Red Wings,Philadelphia Flyers
+1996030413,Detroit Red Wings,6,Philadelphia Flyers,1,Fraser,Schachte,Detroit Red Wings,Philadelphia Flyers
+1996030414,Detroit Red Wings,2,Philadelphia Flyers,1,Bill McCreary,Wayne Bonney,Detroit Red Wings,Philadelphia Flyers

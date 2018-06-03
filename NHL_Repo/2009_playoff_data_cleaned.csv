@@ -1,0 +1,357 @@
+,Ref,Score,Team
+0,Brad Meier,3,Montréal Canadiens
+1,Brad Meier,2,Washington Capitals
+2,Brad Watson,3,Montréal Canadiens
+3,Brad Watson,2,Washington Capitals
+4,Brian Pochmara,5,Montréal Canadiens
+5,Brian Pochmara,6,Washington Capitals
+6,Dan O'Halloran,5,Montréal Canadiens
+7,Dan O'Halloran,6,Washington Capitals
+8,Kelly Sutherland,1,Montréal Canadiens
+9,Kelly Sutherland,5,Washington Capitals
+10,Kevin Pollock,1,Montréal Canadiens
+11,Kevin Pollock,5,Washington Capitals
+12,Dan O'Rourke,3,Montréal Canadiens
+13,Dan O'Rourke,6,Washington Capitals
+14,Tim Peel,3,Montréal Canadiens
+15,Tim Peel,6,Washington Capitals
+16,Chris Rooney,2,Montréal Canadiens
+17,Chris Rooney,1,Washington Capitals
+18,Dennis LaRue,2,Montréal Canadiens
+19,Dennis LaRue,1,Washington Capitals
+20,Dan O'Rourke,4,Montréal Canadiens
+21,Dan O'Rourke,1,Washington Capitals
+22,Tim Peel,4,Montréal Canadiens
+23,Tim Peel,1,Washington Capitals
+24,Brad Watson,2,Montréal Canadiens
+25,Brad Watson,1,Washington Capitals
+26,Dan O'Halloran,2,Montréal Canadiens
+27,Dan O'Halloran,1,Washington Capitals
+28,Stephen Walkom,1,New Jersey Devils
+29,Stephen Walkom,2,Philadelphia Flyers
+30,Wes McCauley,1,New Jersey Devils
+31,Wes McCauley,2,Philadelphia Flyers
+32,Eric Furlatt,5,New Jersey Devils
+33,Eric Furlatt,3,Philadelphia Flyers
+34,Mike Leggo,5,New Jersey Devils
+35,Mike Leggo,3,Philadelphia Flyers
+36,Brad Meier,2,New Jersey Devils
+37,Brad Meier,3,Philadelphia Flyers
+38,Brad Watson,2,New Jersey Devils
+39,Brad Watson,3,Philadelphia Flyers
+40,Chris Rooney,1,New Jersey Devils
+41,Chris Rooney,4,Philadelphia Flyers
+42,Dennis LaRue,1,New Jersey Devils
+43,Dennis LaRue,4,Philadelphia Flyers
+44,Chris Lee,0,New Jersey Devils
+45,Chris Lee,3,Philadelphia Flyers
+46,Marc Joannette,0,New Jersey Devils
+47,Marc Joannette,3,Philadelphia Flyers
+48,Brian Pochmara,1,Boston Bruins
+49,Brian Pochmara,2,Buffalo Sabres
+50,Dan O'Halloran,1,Boston Bruins
+51,Dan O'Halloran,2,Buffalo Sabres
+52,Paul Devorski,5,Boston Bruins
+53,Paul Devorski,3,Buffalo Sabres
+54,Steve Kozari,5,Boston Bruins
+55,Steve Kozari,3,Buffalo Sabres
+56,Chris Lee,2,Boston Bruins
+57,Chris Lee,1,Buffalo Sabres
+58,Marc Joannette,2,Boston Bruins
+59,Marc Joannette,1,Buffalo Sabres
+60,Kelly Sutherland,3,Boston Bruins
+61,Kelly Sutherland,2,Buffalo Sabres
+62,Kevin Pollock,3,Boston Bruins
+63,Kevin Pollock,2,Buffalo Sabres
+64,Dan O'Rourke,1,Boston Bruins
+65,Dan O'Rourke,4,Buffalo Sabres
+66,Tim Peel,1,Boston Bruins
+67,Tim Peel,4,Buffalo Sabres
+68,Eric Furlatt,4,Boston Bruins
+69,Eric Furlatt,3,Buffalo Sabres
+70,Stephen Walkom,4,Boston Bruins
+71,Stephen Walkom,3,Buffalo Sabres
+72,Paul Devorski,5,Ottawa Senators
+73,Paul Devorski,4,Pittsburgh Penguins
+74,Steve Kozari,5,Ottawa Senators
+75,Steve Kozari,4,Pittsburgh Penguins
+76,Bill McCreary,1,Ottawa Senators
+77,Bill McCreary,2,Pittsburgh Penguins
+78,Ian Walsh,1,Ottawa Senators
+79,Ian Walsh,2,Pittsburgh Penguins
+80,Eric Furlatt,2,Ottawa Senators
+81,Eric Furlatt,4,Pittsburgh Penguins
+82,Mike Leggo,2,Ottawa Senators
+83,Mike Leggo,4,Pittsburgh Penguins
+84,Brad Meier,4,Ottawa Senators
+85,Brad Meier,7,Pittsburgh Penguins
+86,Brad Watson,4,Ottawa Senators
+87,Brad Watson,7,Pittsburgh Penguins
+88,Brian Pochmara,4,Ottawa Senators
+89,Brian Pochmara,3,Pittsburgh Penguins
+90,Dan O'Halloran,4,Ottawa Senators
+91,Dan O'Halloran,3,Pittsburgh Penguins
+92,Stephen Walkom,3,Ottawa Senators
+93,Stephen Walkom,4,Pittsburgh Penguins
+94,Wes McCauley,3,Ottawa Senators
+95,Wes McCauley,4,Pittsburgh Penguins
+96,Dan O'Rourke,2,Colorado Avalanche
+97,Dan O'Rourke,1,San Jose Sharks
+98,Tim Peel,2,Colorado Avalanche
+99,Tim Peel,1,San Jose Sharks
+100,Chris Lee,5,Colorado Avalanche
+101,Chris Lee,6,San Jose Sharks
+102,Marc Joannette,5,Colorado Avalanche
+103,Marc Joannette,6,San Jose Sharks
+104,Stephen Walkom,1,Colorado Avalanche
+105,Stephen Walkom,0,San Jose Sharks
+106,Wes McCauley,1,Colorado Avalanche
+107,Wes McCauley,0,San Jose Sharks
+108,Bill McCreary,1,Colorado Avalanche
+109,Bill McCreary,2,San Jose Sharks
+110,Ian Walsh,1,Colorado Avalanche
+111,Ian Walsh,2,San Jose Sharks
+112,Paul Devorski,0,Colorado Avalanche
+113,Paul Devorski,5,San Jose Sharks
+114,Steve Kozari,0,Colorado Avalanche
+115,Steve Kozari,5,San Jose Sharks
+116,Chris Lee,2,Colorado Avalanche
+117,Chris Lee,5,San Jose Sharks
+118,Marc Joannette,2,Colorado Avalanche
+119,Marc Joannette,5,San Jose Sharks
+120,Stephen Walkom,1,Chicago Blackhawks
+121,Stephen Walkom,4,Nashville Predators
+122,Wes McCauley,1,Chicago Blackhawks
+123,Wes McCauley,4,Nashville Predators
+124,Chris Rooney,2,Chicago Blackhawks
+125,Chris Rooney,0,Nashville Predators
+126,Dennis LaRue,2,Chicago Blackhawks
+127,Dennis LaRue,0,Nashville Predators
+128,Brian Pochmara,1,Chicago Blackhawks
+129,Brian Pochmara,4,Nashville Predators
+130,Dan O'Halloran,1,Chicago Blackhawks
+131,Dan O'Halloran,4,Nashville Predators
+132,Bill McCreary,3,Chicago Blackhawks
+133,Bill McCreary,0,Nashville Predators
+134,Ian Walsh,3,Chicago Blackhawks
+135,Ian Walsh,0,Nashville Predators
+136,Kelly Sutherland,5,Chicago Blackhawks
+137,Kelly Sutherland,4,Nashville Predators
+138,Kevin Pollock,5,Chicago Blackhawks
+139,Kevin Pollock,4,Nashville Predators
+140,Chris Lee,5,Chicago Blackhawks
+141,Chris Lee,3,Nashville Predators
+142,Marc Joannette,5,Chicago Blackhawks
+143,Marc Joannette,3,Nashville Predators
+144,Kelly Sutherland,2,Los Angeles Kings
+145,Kelly Sutherland,3,Vancouver Canucks
+146,Kevin Pollock,2,Los Angeles Kings
+147,Kevin Pollock,3,Vancouver Canucks
+148,Dan O'Rourke,3,Los Angeles Kings
+149,Dan O'Rourke,2,Vancouver Canucks
+150,Tim Peel,3,Los Angeles Kings
+151,Tim Peel,2,Vancouver Canucks
+152,Paul Devorski,5,Los Angeles Kings
+153,Paul Devorski,3,Vancouver Canucks
+154,Steve Kozari,5,Los Angeles Kings
+155,Steve Kozari,3,Vancouver Canucks
+156,Stephen Walkom,4,Los Angeles Kings
+157,Stephen Walkom,6,Vancouver Canucks
+158,Wes McCauley,4,Los Angeles Kings
+159,Wes McCauley,6,Vancouver Canucks
+160,Eric Furlatt,2,Los Angeles Kings
+161,Eric Furlatt,7,Vancouver Canucks
+162,Mike Leggo,2,Los Angeles Kings
+163,Mike Leggo,7,Vancouver Canucks
+164,Bill McCreary,2,Los Angeles Kings
+165,Bill McCreary,4,Vancouver Canucks
+166,Dan O'Halloran,2,Los Angeles Kings
+167,Dan O'Halloran,4,Vancouver Canucks
+168,Chris Lee,2,Detroit Red Wings
+169,Chris Lee,3,Phoenix Coyotes
+170,Marc Joannette,2,Detroit Red Wings
+171,Marc Joannette,3,Phoenix Coyotes
+172,Chris Rooney,7,Detroit Red Wings
+173,Chris Rooney,4,Phoenix Coyotes
+174,Dennis LaRue,7,Detroit Red Wings
+175,Dennis LaRue,4,Phoenix Coyotes
+176,Bill McCreary,2,Detroit Red Wings
+177,Bill McCreary,4,Phoenix Coyotes
+178,Ian Walsh,2,Detroit Red Wings
+179,Ian Walsh,4,Phoenix Coyotes
+180,Eric Furlatt,3,Detroit Red Wings
+181,Eric Furlatt,0,Phoenix Coyotes
+182,Mike Leggo,3,Detroit Red Wings
+183,Mike Leggo,0,Phoenix Coyotes
+184,Brad Meier,4,Detroit Red Wings
+185,Brad Meier,1,Phoenix Coyotes
+186,Brad Watson,4,Detroit Red Wings
+187,Brad Watson,1,Phoenix Coyotes
+188,Dan O'Rourke,2,Detroit Red Wings
+189,Dan O'Rourke,5,Phoenix Coyotes
+190,Tim Peel,2,Detroit Red Wings
+191,Tim Peel,5,Phoenix Coyotes
+192,Kelly Sutherland,6,Detroit Red Wings
+193,Kelly Sutherland,1,Phoenix Coyotes
+194,Kevin Pollock,6,Detroit Red Wings
+195,Kevin Pollock,1,Phoenix Coyotes
+196,Bill McCreary,3,Montréal Canadiens
+197,Bill McCreary,6,Pittsburgh Penguins
+198,Chris Lee,3,Montréal Canadiens
+199,Chris Lee,6,Pittsburgh Penguins
+200,Dan O'Halloran,3,Montréal Canadiens
+201,Dan O'Halloran,1,Pittsburgh Penguins
+202,Tim Peel,3,Montréal Canadiens
+203,Tim Peel,1,Pittsburgh Penguins
+204,Brad Watson,0,Montréal Canadiens
+205,Brad Watson,2,Pittsburgh Penguins
+206,Kevin Pollock,0,Montréal Canadiens
+207,Kevin Pollock,2,Pittsburgh Penguins
+208,Eric Furlatt,3,Montréal Canadiens
+209,Eric Furlatt,2,Pittsburgh Penguins
+210,Paul Devorski,3,Montréal Canadiens
+211,Paul Devorski,2,Pittsburgh Penguins
+212,Kelly Sutherland,1,Montréal Canadiens
+213,Kelly Sutherland,2,Pittsburgh Penguins
+214,Stephen Walkom,1,Montréal Canadiens
+215,Stephen Walkom,2,Pittsburgh Penguins
+216,Dan O'Rourke,4,Montréal Canadiens
+217,Dan O'Rourke,3,Pittsburgh Penguins
+218,Marc Joannette,4,Montréal Canadiens
+219,Marc Joannette,3,Pittsburgh Penguins
+220,Dan O'Halloran,5,Montréal Canadiens
+221,Dan O'Halloran,2,Pittsburgh Penguins
+222,Tim Peel,5,Montréal Canadiens
+223,Tim Peel,2,Pittsburgh Penguins
+224,Dan O'Rourke,5,Boston Bruins
+225,Dan O'Rourke,4,Philadelphia Flyers
+226,Marc Joannette,5,Boston Bruins
+227,Marc Joannette,4,Philadelphia Flyers
+228,Bill McCreary,3,Boston Bruins
+229,Bill McCreary,2,Philadelphia Flyers
+230,Chris Lee,3,Boston Bruins
+231,Chris Lee,2,Philadelphia Flyers
+232,Kelly Sutherland,4,Boston Bruins
+233,Kelly Sutherland,1,Philadelphia Flyers
+234,Stephen Walkom,4,Boston Bruins
+235,Stephen Walkom,1,Philadelphia Flyers
+236,Brad Watson,4,Boston Bruins
+237,Brad Watson,5,Philadelphia Flyers
+238,Kevin Pollock,4,Boston Bruins
+239,Kevin Pollock,5,Philadelphia Flyers
+240,Eric Furlatt,0,Boston Bruins
+241,Eric Furlatt,4,Philadelphia Flyers
+242,Paul Devorski,0,Boston Bruins
+243,Paul Devorski,4,Philadelphia Flyers
+244,Dan O'Rourke,1,Boston Bruins
+245,Dan O'Rourke,2,Philadelphia Flyers
+246,Marc Joannette,1,Boston Bruins
+247,Marc Joannette,2,Philadelphia Flyers
+248,Kelly Sutherland,3,Boston Bruins
+249,Kelly Sutherland,4,Philadelphia Flyers
+250,Stephen Walkom,3,Boston Bruins
+251,Stephen Walkom,4,Philadelphia Flyers
+252,Eric Furlatt,3,Detroit Red Wings
+253,Eric Furlatt,4,San Jose Sharks
+254,Paul Devorski,3,Detroit Red Wings
+255,Paul Devorski,4,San Jose Sharks
+256,Brad Watson,3,Detroit Red Wings
+257,Brad Watson,4,San Jose Sharks
+258,Kevin Pollock,3,Detroit Red Wings
+259,Kevin Pollock,4,San Jose Sharks
+260,Dan O'Rourke,3,Detroit Red Wings
+261,Dan O'Rourke,4,San Jose Sharks
+262,Marc Joannette,3,Detroit Red Wings
+263,Marc Joannette,4,San Jose Sharks
+264,Bill McCreary,7,Detroit Red Wings
+265,Bill McCreary,1,San Jose Sharks
+266,Chris Lee,7,Detroit Red Wings
+267,Chris Lee,1,San Jose Sharks
+268,Dan O'Halloran,1,Detroit Red Wings
+269,Dan O'Halloran,2,San Jose Sharks
+270,Tim Peel,1,Detroit Red Wings
+271,Tim Peel,2,San Jose Sharks
+272,Eric Furlatt,1,Chicago Blackhawks
+273,Eric Furlatt,5,Vancouver Canucks
+274,Paul Devorski,1,Chicago Blackhawks
+275,Paul Devorski,5,Vancouver Canucks
+276,Kelly Sutherland,4,Chicago Blackhawks
+277,Kelly Sutherland,2,Vancouver Canucks
+278,Stephen Walkom,4,Chicago Blackhawks
+279,Stephen Walkom,2,Vancouver Canucks
+280,Dan O'Halloran,5,Chicago Blackhawks
+281,Dan O'Halloran,2,Vancouver Canucks
+282,Tim Peel,5,Chicago Blackhawks
+283,Tim Peel,2,Vancouver Canucks
+284,Dan O'Rourke,7,Chicago Blackhawks
+285,Dan O'Rourke,4,Vancouver Canucks
+286,Marc Joannette,7,Chicago Blackhawks
+287,Marc Joannette,4,Vancouver Canucks
+288,Brad Watson,1,Chicago Blackhawks
+289,Brad Watson,4,Vancouver Canucks
+290,Kevin Pollock,1,Chicago Blackhawks
+291,Kevin Pollock,4,Vancouver Canucks
+292,Bill McCreary,5,Chicago Blackhawks
+293,Bill McCreary,1,Vancouver Canucks
+294,Chris Lee,5,Chicago Blackhawks
+295,Chris Lee,1,Vancouver Canucks
+296,Bill McCreary,0,Montréal Canadiens
+297,Bill McCreary,6,Philadelphia Flyers
+298,Dan O'Rourke,0,Montréal Canadiens
+299,Dan O'Rourke,6,Philadelphia Flyers
+300,Dan O'Halloran,0,Montréal Canadiens
+301,Dan O'Halloran,3,Philadelphia Flyers
+302,Tim Peel,0,Montréal Canadiens
+303,Tim Peel,3,Philadelphia Flyers
+304,Brad Watson,5,Montréal Canadiens
+305,Brad Watson,1,Philadelphia Flyers
+306,Paul Devorski,5,Montréal Canadiens
+307,Paul Devorski,1,Philadelphia Flyers
+308,Kelly Sutherland,0,Montréal Canadiens
+309,Kelly Sutherland,3,Philadelphia Flyers
+310,Stephen Walkom,0,Montréal Canadiens
+311,Stephen Walkom,3,Philadelphia Flyers
+312,Bill McCreary,2,Montréal Canadiens
+313,Bill McCreary,4,Philadelphia Flyers
+314,Dan O'Rourke,2,Montréal Canadiens
+315,Dan O'Rourke,4,Philadelphia Flyers
+316,Brad Watson,2,Chicago Blackhawks
+317,Brad Watson,1,San Jose Sharks
+318,Paul Devorski,2,Chicago Blackhawks
+319,Paul Devorski,1,San Jose Sharks
+320,Kelly Sutherland,4,Chicago Blackhawks
+321,Kelly Sutherland,2,San Jose Sharks
+322,Stephen Walkom,4,Chicago Blackhawks
+323,Stephen Walkom,2,San Jose Sharks
+324,Bill McCreary,3,Chicago Blackhawks
+325,Bill McCreary,2,San Jose Sharks
+326,Dan O'Rourke,3,Chicago Blackhawks
+327,Dan O'Rourke,2,San Jose Sharks
+328,Dan O'Halloran,4,Chicago Blackhawks
+329,Dan O'Halloran,2,San Jose Sharks
+330,Tim Peel,4,Chicago Blackhawks
+331,Tim Peel,2,San Jose Sharks
+332,Bill McCreary,6,Chicago Blackhawks
+333,Bill McCreary,5,Philadelphia Flyers
+334,Dan O'Halloran,6,Chicago Blackhawks
+335,Dan O'Halloran,5,Philadelphia Flyers
+336,Kelly Sutherland,2,Chicago Blackhawks
+337,Kelly Sutherland,1,Philadelphia Flyers
+338,Stephen Walkom,2,Chicago Blackhawks
+339,Stephen Walkom,1,Philadelphia Flyers
+340,Bill McCreary,3,Chicago Blackhawks
+341,Bill McCreary,4,Philadelphia Flyers
+342,Dan O'Halloran,3,Chicago Blackhawks
+343,Dan O'Halloran,4,Philadelphia Flyers
+344,Kelly Sutherland,3,Chicago Blackhawks
+345,Kelly Sutherland,5,Philadelphia Flyers
+346,Stephen Walkom,3,Chicago Blackhawks
+347,Stephen Walkom,5,Philadelphia Flyers
+348,Bill McCreary,7,Chicago Blackhawks
+349,Bill McCreary,4,Philadelphia Flyers
+350,Dan O'Halloran,7,Chicago Blackhawks
+351,Dan O'Halloran,4,Philadelphia Flyers
+352,Kelly Sutherland,4,Chicago Blackhawks
+353,Kelly Sutherland,3,Philadelphia Flyers
+354,Stephen Walkom,4,Chicago Blackhawks
+355,Stephen Walkom,3,Philadelphia Flyers

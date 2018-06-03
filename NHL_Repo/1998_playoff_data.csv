@@ -1,0 +1,87 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+1998030111,New Jersey Devils,3,Pittsburgh Penguins,1,Robbie Shick,Stephen Walkom,New Jersey Devils,Pittsburgh Penguins
+1998030112,New Jersey Devils,1,Pittsburgh Penguins,4,Richard Trottier,Terry Gregson,Pittsburgh Penguins,New Jersey Devils
+1998030113,Pittsburgh Penguins,4,New Jersey Devils,2,Lance Roberts,Bill McCreary,Pittsburgh Penguins,New Jersey Devils
+1998030114,Pittsburgh Penguins,2,New Jersey Devils,4,Paul Stewart,Paul Devorski,New Jersey Devils,Pittsburgh Penguins
+1998030115,New Jersey Devils,4,Pittsburgh Penguins,3,Don Van Massenhoven,Mark Faucette,New Jersey Devils,Pittsburgh Penguins
+1998030116,Pittsburgh Penguins,3,New Jersey Devils,2,Dan Marouelli,Stephen Walkom,Pittsburgh Penguins,New Jersey Devils
+1998030117,New Jersey Devils,2,Pittsburgh Penguins,4,Don Koharski,Kerry Fraser,Pittsburgh Penguins,New Jersey Devils
+1998030121,Ottawa Senators,1,Buffalo Sabres,2,Kerry Fraser,Dennis Larue,Buffalo Sabres,Ottawa Senators
+1998030122,Ottawa Senators,2,Buffalo Sabres,3,Don Van Massenhoven,Mark Faucette,Buffalo Sabres,Ottawa Senators
+1998030123,Buffalo Sabres,3,Ottawa Senators,0,Robbie Shick,Stephen Walkom,Buffalo Sabres,Ottawa Senators
+1998030124,Buffalo Sabres,4,Ottawa Senators,3,Don Koharski,Michael McGeough,Buffalo Sabres,Ottawa Senators
+1998030131,Carolina Hurricanes,0,Boston Bruins,2,Dan Marouelli,Dave Jackson,Boston Bruins,Carolina Hurricanes
+1998030132,Carolina Hurricanes,3,Boston Bruins,2,Kerry Fraser,Dennis Larue,Carolina Hurricanes,Boston Bruins
+1998030133,Boston Bruins,2,Carolina Hurricanes,3,Don Van Massenhoven,Mark Faucette,Carolina Hurricanes,Boston Bruins
+1998030134,Boston Bruins,4,Carolina Hurricanes,1,Robbie Shick,Stephen Walkom,Boston Bruins,Carolina Hurricanes
+1998030135,Carolina Hurricanes,3,Boston Bruins,4,Richard Trottier,Terry Gregson,Boston Bruins,Carolina Hurricanes
+1998030136,Boston Bruins,2,Carolina Hurricanes,0,Lance Roberts,Bill McCreary,Boston Bruins,Carolina Hurricanes
+1998030141,Toronto Maple Leafs,0,Philadelphia Flyers,3,Richard Trottier,Terry Gregson,Philadelphia Flyers,Toronto Maple Leafs
+1998030142,Toronto Maple Leafs,2,Philadelphia Flyers,1,Robbie Shick,Stephen Walkom,Toronto Maple Leafs,Philadelphia Flyers
+1998030143,Philadelphia Flyers,1,Toronto Maple Leafs,2,Paul Stewart,Paul Devorski,Toronto Maple Leafs,Philadelphia Flyers
+1998030144,Philadelphia Flyers,5,Toronto Maple Leafs,2,Don Van Massenhoven,Mark Faucette,Philadelphia Flyers,Toronto Maple Leafs
+1998030145,Toronto Maple Leafs,2,Philadelphia Flyers,1,Bill McCreary,Dan Marouelli,Toronto Maple Leafs,Philadelphia Flyers
+1998030146,Philadelphia Flyers,0,Toronto Maple Leafs,1,Terry Gregson,Robbie Shick,Toronto Maple Leafs,Philadelphia Flyers
+1998030151,Dallas Stars,2,Edmonton Oilers,1,Don Koharski,Michael McGeough,Dallas Stars,Edmonton Oilers
+1998030152,Dallas Stars,3,Edmonton Oilers,2,Lance Roberts,Bill McCreary,Dallas Stars,Edmonton Oilers
+1998030153,Edmonton Oilers,2,Dallas Stars,3,Dan Marouelli,Dave Jackson,Dallas Stars,Edmonton Oilers
+1998030154,Edmonton Oilers,2,Dallas Stars,3,Richard Trottier,Terry Gregson,Dallas Stars,Edmonton Oilers
+1998030161,San Jose Sharks,1,Colorado Avalanche,3,Paul Stewart,Paul Devorski,Colorado Avalanche,San Jose Sharks
+1998030162,San Jose Sharks,1,Colorado Avalanche,2,Kerry Fraser,Dennis Larue,Colorado Avalanche,San Jose Sharks
+1998030163,Colorado Avalanche,2,San Jose Sharks,4,Lance Roberts,Bill McCreary,San Jose Sharks,Colorado Avalanche
+1998030164,Colorado Avalanche,3,San Jose Sharks,7,Don Koharski,Michael McGeough,San Jose Sharks,Colorado Avalanche
+1998030165,Colorado Avalanche,6,San Jose Sharks,2,Don Koharski,Kerry Fraser,Colorado Avalanche,San Jose Sharks
+1998030166,San Jose Sharks,2,Colorado Avalanche,3,Paul Stewart,Paul Devorski,Colorado Avalanche,San Jose Sharks
+1998030171,Detroit Red Wings,5,Anaheim Ducks,3,Don Van Massenhoven,Mark Faucette,Detroit Red Wings,Anaheim Ducks
+1998030172,Detroit Red Wings,5,Anaheim Ducks,1,Kerry Fraser,Dennis Larue,Detroit Red Wings,Anaheim Ducks
+1998030173,Anaheim Ducks,2,Detroit Red Wings,4,Don Koharski,Michael McGeough,Detroit Red Wings,Anaheim Ducks
+1998030174,Anaheim Ducks,0,Detroit Red Wings,3,Dan Marouelli,Dave Jackson,Detroit Red Wings,Anaheim Ducks
+1998030181,Phoenix Coyotes,1,St. Louis Blues,3,Paul Stewart,Paul Devorski,St. Louis Blues,Phoenix Coyotes
+1998030182,Phoenix Coyotes,4,St. Louis Blues,3,Dan Marouelli,Dave Jackson,Phoenix Coyotes,St. Louis Blues
+1998030183,St. Louis Blues,4,Phoenix Coyotes,5,Richard Trottier,Terry Gregson,Phoenix Coyotes,St. Louis Blues
+1998030184,St. Louis Blues,1,Phoenix Coyotes,2,Lance Roberts,Bill McCreary,Phoenix Coyotes,St. Louis Blues
+1998030185,Phoenix Coyotes,1,St. Louis Blues,2,Kerry Fraser,Paul Devorski,St. Louis Blues,Phoenix Coyotes
+1998030186,St. Louis Blues,5,Phoenix Coyotes,3,Don Van Massenhoven,Mark Faucette,St. Louis Blues,Phoenix Coyotes
+1998030187,Phoenix Coyotes,0,St. Louis Blues,1,Bill McCreary,Terry Gregson,St. Louis Blues,Phoenix Coyotes
+1998030211,Toronto Maple Leafs,0,Pittsburgh Penguins,2,Don Van Massenhoven,Mark Faucette,Pittsburgh Penguins,Toronto Maple Leafs
+1998030212,Toronto Maple Leafs,4,Pittsburgh Penguins,2,Don Koharski,Paul Stewart,Toronto Maple Leafs,Pittsburgh Penguins
+1998030213,Pittsburgh Penguins,4,Toronto Maple Leafs,3,Kerry Fraser,Dave Jackson,Pittsburgh Penguins,Toronto Maple Leafs
+1998030214,Pittsburgh Penguins,2,Toronto Maple Leafs,3,Robbie Shick,Paul Devorski,Toronto Maple Leafs,Pittsburgh Penguins
+1998030215,Toronto Maple Leafs,4,Pittsburgh Penguins,1,Terry Gregson,Bill McCreary,Toronto Maple Leafs,Pittsburgh Penguins
+1998030216,Pittsburgh Penguins,3,Toronto Maple Leafs,4,Don Koharski,Dan Marouelli,Toronto Maple Leafs,Pittsburgh Penguins
+1998030221,Boston Bruins,4,Buffalo Sabres,2,Robbie Shick,Paul Devorski,Boston Bruins,Buffalo Sabres
+1998030222,Boston Bruins,1,Buffalo Sabres,3,Kerry Fraser,Dave Jackson,Buffalo Sabres,Boston Bruins
+1998030223,Buffalo Sabres,3,Boston Bruins,2,Don Koharski,Paul Stewart,Buffalo Sabres,Boston Bruins
+1998030224,Buffalo Sabres,3,Boston Bruins,0,Don Van Massenhoven,Mark Faucette,Buffalo Sabres,Boston Bruins
+1998030225,Boston Bruins,5,Buffalo Sabres,3,Dan Marouelli,Stephen Walkom,Boston Bruins,Buffalo Sabres
+1998030226,Buffalo Sabres,3,Boston Bruins,2,Terry Gregson,Bill McCreary,Buffalo Sabres,Boston Bruins
+1998030231,Dallas Stars,3,St. Louis Blues,0,Dan Marouelli,Stephen Walkom,Dallas Stars,St. Louis Blues
+1998030232,Dallas Stars,5,St. Louis Blues,4,Richard Trottier,Terry Gregson,Dallas Stars,St. Louis Blues
+1998030233,St. Louis Blues,3,Dallas Stars,2,Lance Roberts,Bill McCreary,St. Louis Blues,Dallas Stars
+1998030234,St. Louis Blues,3,Dallas Stars,2,Don Van Massenhoven,Mark Faucette,St. Louis Blues,Dallas Stars
+1998030235,Dallas Stars,3,St. Louis Blues,1,Don Koharski,Kerry Fraser,Dallas Stars,St. Louis Blues
+1998030236,St. Louis Blues,1,Dallas Stars,2,Robbie Shick,Paul Devorski,Dallas Stars,St. Louis Blues
+1998030241,Colorado Avalanche,2,Detroit Red Wings,3,Lance Roberts,Bill McCreary,Detroit Red Wings,Colorado Avalanche
+1998030242,Colorado Avalanche,0,Detroit Red Wings,4,Dan Marouelli,Stephen Walkom,Detroit Red Wings,Colorado Avalanche
+1998030243,Detroit Red Wings,3,Colorado Avalanche,5,Robbie Shick,Paul Devorski,Colorado Avalanche,Detroit Red Wings
+1998030244,Detroit Red Wings,2,Colorado Avalanche,6,Richard Trottier,Terry Gregson,Colorado Avalanche,Detroit Red Wings
+1998030245,Colorado Avalanche,3,Detroit Red Wings,0,Don Van Massenhoven,Mark Faucette,Colorado Avalanche,Detroit Red Wings
+1998030246,Detroit Red Wings,2,Colorado Avalanche,5,Kerry Fraser,Stephen Walkom,Colorado Avalanche,Detroit Red Wings
+1998030311,Toronto Maple Leafs,4,Buffalo Sabres,5,Don Koharski,Robbie Shick,Buffalo Sabres,Toronto Maple Leafs
+1998030312,Toronto Maple Leafs,6,Buffalo Sabres,3,Dan Marouelli,Paul Devorski,Toronto Maple Leafs,Buffalo Sabres
+1998030313,Buffalo Sabres,4,Toronto Maple Leafs,2,Kerry Fraser,Stephen Walkom,Buffalo Sabres,Toronto Maple Leafs
+1998030314,Buffalo Sabres,5,Toronto Maple Leafs,2,Terry Gregson,Mark Faucette,Buffalo Sabres,Toronto Maple Leafs
+1998030315,Toronto Maple Leafs,2,Buffalo Sabres,4,Bill McCreary,Don Van Massenhoven,Buffalo Sabres,Toronto Maple Leafs
+1998030321,Dallas Stars,1,Colorado Avalanche,2,Bill McCreary,Don Van Massenhoven,Colorado Avalanche,Dallas Stars
+1998030322,Dallas Stars,4,Colorado Avalanche,2,Terry Gregson,Mark Faucette,Dallas Stars,Colorado Avalanche
+1998030323,Colorado Avalanche,0,Dallas Stars,3,Don Koharski,Robbie Shick,Dallas Stars,Colorado Avalanche
+1998030324,Colorado Avalanche,3,Dallas Stars,2,Dan Marouelli,Paul Devorski,Colorado Avalanche,Dallas Stars
+1998030325,Dallas Stars,5,Colorado Avalanche,7,Kerry Fraser,Stephen Walkom,Colorado Avalanche,Dallas Stars
+1998030326,Colorado Avalanche,1,Dallas Stars,4,Mark Faucette,Terry Gregson,Dallas Stars,Colorado Avalanche
+1998030327,Dallas Stars,4,Colorado Avalanche,1,Don Koharski,Bill McCreary,Dallas Stars,Colorado Avalanche
+1998030411,Dallas Stars,2,Buffalo Sabres,3,Terry Gregson,Bill McCreary,Buffalo Sabres,Dallas Stars
+1998030412,Dallas Stars,4,Buffalo Sabres,2,Kerry Fraser,Dan Marouelli,Dallas Stars,Buffalo Sabres
+1998030413,Buffalo Sabres,1,Dallas Stars,2,Terry Gregson,Don Koharski,Dallas Stars,Buffalo Sabres
+1998030414,Buffalo Sabres,2,Dallas Stars,1,Bill McCreary,Dan Marouelli,Buffalo Sabres,Dallas Stars
+1998030415,Dallas Stars,2,Buffalo Sabres,0,Don Koharski,Kerry Fraser,Dallas Stars,Buffalo Sabres
+1998030416,Buffalo Sabres,1,Dallas Stars,2,Terry Gregson,Bill McCreary,Dallas Stars,Buffalo Sabres

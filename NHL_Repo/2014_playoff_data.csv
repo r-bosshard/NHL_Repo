@@ -1,0 +1,90 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2014030111,Montréal Canadiens,4,Ottawa Senators,3,Dave Jackson,Steve Kozari,Montréal Canadiens,Ottawa Senators
+2014030112,Montréal Canadiens,3,Ottawa Senators,2,Gord Dwyer,Eric Furlatt,Montréal Canadiens,Ottawa Senators
+2014030113,Ottawa Senators,1,Montréal Canadiens,2,Dan O'Rourke,Dan O'Halloran,Montréal Canadiens,Ottawa Senators
+2014030114,Ottawa Senators,1,Montréal Canadiens,0,Francis Charron,Kelly Sutherland,Ottawa Senators,Montréal Canadiens
+2014030115,Montréal Canadiens,1,Ottawa Senators,5,Kevin Pollock,Brad Meier,Ottawa Senators,Montréal Canadiens
+2014030116,Ottawa Senators,0,Montréal Canadiens,2,Brian Pochmara,Brad Watson,Montréal Canadiens,Ottawa Senators
+2014030121,Tampa Bay Lightning,2,Detroit Red Wings,3,Chris Rooney,Kelly Sutherland,Detroit Red Wings,Tampa Bay Lightning
+2014030122,Tampa Bay Lightning,5,Detroit Red Wings,1,Wes McCauley,Justin St. Pierre ,Tampa Bay Lightning,Detroit Red Wings
+2014030123,Detroit Red Wings,3,Tampa Bay Lightning,0,Brad Watson,Chris Lee,Detroit Red Wings,Tampa Bay Lightning
+2014030124,Detroit Red Wings,2,Tampa Bay Lightning,3,Mike Leggo,Dan O'Halloran,Tampa Bay Lightning,Detroit Red Wings
+2014030125,Tampa Bay Lightning,0,Detroit Red Wings,4,Mike Leggo,Francis Charron,Detroit Red Wings,Tampa Bay Lightning
+2014030126,Detroit Red Wings,2,Tampa Bay Lightning,5,Dave Jackson,Gord Dwyer,Tampa Bay Lightning,Detroit Red Wings
+2014030127,Tampa Bay Lightning,2,Detroit Red Wings,0,Wes McCauley,Jean Hebert,Tampa Bay Lightning,Detroit Red Wings
+2014030131,New York Rangers,2,Pittsburgh Penguins,1,Jean Hebert,Marc Joannette,New York Rangers,Pittsburgh Penguins
+2014030132,New York Rangers,3,Pittsburgh Penguins,4,Chris Rooney,Frederick L'Ecuyer,Pittsburgh Penguins,New York Rangers
+2014030133,Pittsburgh Penguins,1,New York Rangers,2,Francis Charron,Kelly Sutherland,New York Rangers,Pittsburgh Penguins
+2014030134,Pittsburgh Penguins,1,New York Rangers,2,Wes McCauley,Kevin Pollock,New York Rangers,Pittsburgh Penguins
+2014030135,New York Rangers,2,Pittsburgh Penguins,1,Wes McCauley,Justin St. Pierre ,New York Rangers,Pittsburgh Penguins
+2014030141,Washington Capitals,1,New York Islanders,4,Gord Dwyer,Eric Furlatt,New York Islanders,Washington Capitals
+2014030142,Washington Capitals,4,New York Islanders,3,Dave Jackson,Steve Kozari,Washington Capitals,New York Islanders
+2014030143,New York Islanders,2,Washington Capitals,1,Kevin Pollock,Francois St-Laurent,New York Islanders,Washington Capitals
+2014030144,New York Islanders,1,Washington Capitals,2,Dan O'Halloran,Brad Meier,Washington Capitals,New York Islanders
+2014030145,Washington Capitals,5,New York Islanders,1,Chris Rooney,Kelly Sutherland,Washington Capitals,New York Islanders
+2014030146,New York Islanders,3,Washington Capitals,1,Dan O'Rourke,Brian Pochmara,New York Islanders,Washington Capitals
+2014030147,Washington Capitals,2,New York Islanders,1,Francis Charron,Dan O'Rourke,Washington Capitals,New York Islanders
+2014030151,St. Louis Blues,2,Minnesota Wild,4,Wes McCauley,Justin St. Pierre ,Minnesota Wild,St. Louis Blues
+2014030152,St. Louis Blues,4,Minnesota Wild,1,Francis Charron,Kelly Sutherland,St. Louis Blues,Minnesota Wild
+2014030153,Minnesota Wild,3,St. Louis Blues,0,Jean Hebert,Marc Joannette,Minnesota Wild,St. Louis Blues
+2014030154,Minnesota Wild,1,St. Louis Blues,6,Justin St. Pierre ,Gord Dwyer,St. Louis Blues,Minnesota Wild
+2014030155,St. Louis Blues,1,Minnesota Wild,4,Dave Jackson,Brad Watson,Minnesota Wild,St. Louis Blues
+2014030156,Minnesota Wild,4,St. Louis Blues,1,Justin St. Pierre ,Kevin Pollock,Minnesota Wild,St. Louis Blues
+2014030161,Nashville Predators,3,Chicago Blackhawks,4,Dan O'Halloran,Brad Meier,Chicago Blackhawks,Nashville Predators
+2014030162,Nashville Predators,6,Chicago Blackhawks,2,Chris Lee,Kevin Pollock,Nashville Predators,Chicago Blackhawks
+2014030163,Chicago Blackhawks,4,Nashville Predators,2,Brad Watson,Chris Lee,Chicago Blackhawks,Nashville Predators
+2014030164,Chicago Blackhawks,3,Nashville Predators,2,Wes McCauley,Justin St. Pierre ,Chicago Blackhawks,Nashville Predators
+2014030165,Nashville Predators,5,Chicago Blackhawks,2,Dan O'Rourke,Brian Pochmara,Nashville Predators,Chicago Blackhawks
+2014030166,Chicago Blackhawks,4,Nashville Predators,3,Dave Jackson,Gord Dwyer,Chicago Blackhawks,Nashville Predators
+2014030171,Anaheim Ducks,4,Winnipeg Jets,2,Mike Leggo,Dan O'Rourke,Anaheim Ducks,Winnipeg Jets
+2014030172,Anaheim Ducks,2,Winnipeg Jets,1,Mike Leggo,Jean Hebert,Anaheim Ducks,Winnipeg Jets
+2014030173,Winnipeg Jets,4,Anaheim Ducks,5,Mike Leggo,Chris Rooney,Anaheim Ducks,Winnipeg Jets
+2014030174,Winnipeg Jets,2,Anaheim Ducks,5,Mike Leggo,Dave Jackson,Anaheim Ducks,Winnipeg Jets
+2014030181,Vancouver Canucks,1,Calgary Flames,2,Brad Watson,Chris Lee,Calgary Flames,Vancouver Canucks
+2014030182,Vancouver Canucks,4,Calgary Flames,1,Dan O'Halloran,Ian Walsh,Vancouver Canucks,Calgary Flames
+2014030183,Calgary Flames,4,Vancouver Canucks,2,Gord Dwyer,Eric Furlatt,Calgary Flames,Vancouver Canucks
+2014030184,Calgary Flames,3,Vancouver Canucks,1,Dan O'Rourke,Brian Pochmara,Calgary Flames,Vancouver Canucks
+2014030185,Vancouver Canucks,2,Calgary Flames,1,Jean Hebert,Marc Joannette,Vancouver Canucks,Calgary Flames
+2014030186,Calgary Flames,7,Vancouver Canucks,4,Chris Rooney,Frederick L'Ecuyer,Calgary Flames,Vancouver Canucks
+2014030211,Montréal Canadiens,1,Tampa Bay Lightning,2,Gord Dwyer,Eric Furlatt,Tampa Bay Lightning,Montréal Canadiens
+2014030212,Montréal Canadiens,2,Tampa Bay Lightning,6,Brad Watson,Chris Lee,Tampa Bay Lightning,Montréal Canadiens
+2014030213,Tampa Bay Lightning,2,Montréal Canadiens,1,Wes McCauley,Francis Charron,Tampa Bay Lightning,Montréal Canadiens
+2014030214,Tampa Bay Lightning,2,Montréal Canadiens,6,Francis Charron,Dan O'Rourke,Montréal Canadiens,Tampa Bay Lightning
+2014030215,Montréal Canadiens,2,Tampa Bay Lightning,1,Wes McCauley,Marc Joannette,Montréal Canadiens,Tampa Bay Lightning
+2014030216,Tampa Bay Lightning,4,Montréal Canadiens,1,Chris Rooney,Kelly Sutherland,Tampa Bay Lightning,Montréal Canadiens
+2014030221,New York Rangers,1,Washington Capitals,2,Chris Rooney,Kelly Sutherland,Washington Capitals,New York Rangers
+2014030222,New York Rangers,3,Washington Capitals,2,Dan O'Rourke,Dan O'Halloran,New York Rangers,Washington Capitals
+2014030223,Washington Capitals,1,New York Rangers,0,Brad Watson,Marc Joannette,Washington Capitals,New York Rangers
+2014030224,Washington Capitals,2,New York Rangers,1,Brad Watson,Eric Furlatt,Washington Capitals,New York Rangers
+2014030225,New York Rangers,2,Washington Capitals,1,Wes McCauley,Dan O'Rourke,New York Rangers,Washington Capitals
+2014030226,Washington Capitals,3,New York Rangers,4,Chris Rooney,Kelly Sutherland,New York Rangers,Washington Capitals
+2014030227,New York Rangers,2,Washington Capitals,1,Wes McCauley,Francis Charron,New York Rangers,Washington Capitals
+2014030231,Chicago Blackhawks,4,Minnesota Wild,3,Kelly Sutherland,Brad Watson,Chicago Blackhawks,Minnesota Wild
+2014030232,Chicago Blackhawks,4,Minnesota Wild,1,Chris Rooney,Gord Dwyer,Chicago Blackhawks,Minnesota Wild
+2014030233,Minnesota Wild,0,Chicago Blackhawks,1,Dan O'Rourke,Dan O'Halloran,Chicago Blackhawks,Minnesota Wild
+2014030234,Minnesota Wild,3,Chicago Blackhawks,4,Marc Joannette,Chris Lee,Chicago Blackhawks,Minnesota Wild
+2014030241,Anaheim Ducks,6,Calgary Flames,1,Francis Charron,Marc Joannette,Anaheim Ducks,Calgary Flames
+2014030242,Anaheim Ducks,3,Calgary Flames,0,Wes McCauley,Francis Charron,Anaheim Ducks,Calgary Flames
+2014030243,Calgary Flames,4,Anaheim Ducks,3,Chris Rooney,Kelly Sutherland,Calgary Flames,Anaheim Ducks
+2014030244,Calgary Flames,2,Anaheim Ducks,4,Gord Dwyer,Eric Furlatt,Anaheim Ducks,Calgary Flames
+2014030245,Anaheim Ducks,3,Calgary Flames,2,Brad Watson,Chris Lee,Anaheim Ducks,Calgary Flames
+2014030311,New York Rangers,2,Tampa Bay Lightning,1,Wes McCauley,Dan O'Halloran,New York Rangers,Tampa Bay Lightning
+2014030312,New York Rangers,2,Tampa Bay Lightning,6,Chris Rooney,Kelly Sutherland,Tampa Bay Lightning,New York Rangers
+2014030313,Tampa Bay Lightning,6,New York Rangers,5,Chris Rooney,Brad Watson,Tampa Bay Lightning,New York Rangers
+2014030314,Tampa Bay Lightning,1,New York Rangers,5,Wes McCauley,Eric Furlatt,New York Rangers,Tampa Bay Lightning
+2014030315,New York Rangers,0,Tampa Bay Lightning,2,Dan O'Halloran,Kevin Pollock,Tampa Bay Lightning,New York Rangers
+2014030316,Tampa Bay Lightning,3,New York Rangers,7,Chris Rooney,Kelly Sutherland,New York Rangers,Tampa Bay Lightning
+2014030317,New York Rangers,0,Tampa Bay Lightning,2,Wes McCauley,Chris Rooney,Tampa Bay Lightning,New York Rangers
+2014030321,Anaheim Ducks,4,Chicago Blackhawks,1,Gord Dwyer,Brad Watson,Anaheim Ducks,Chicago Blackhawks
+2014030322,Anaheim Ducks,2,Chicago Blackhawks,3,Wes McCauley,Kevin Pollock,Chicago Blackhawks,Anaheim Ducks
+2014030323,Chicago Blackhawks,1,Anaheim Ducks,2,Kelly Sutherland,Dan O'Halloran,Anaheim Ducks,Chicago Blackhawks
+2014030324,Chicago Blackhawks,5,Anaheim Ducks,4,Chris Rooney,Kelly Sutherland,Chicago Blackhawks,Anaheim Ducks
+2014030325,Anaheim Ducks,5,Chicago Blackhawks,4,Wes McCauley,Brad Watson,Anaheim Ducks,Chicago Blackhawks
+2014030326,Chicago Blackhawks,5,Anaheim Ducks,2,Wes McCauley,Eric Furlatt,Chicago Blackhawks,Anaheim Ducks
+2014030327,Anaheim Ducks,3,Chicago Blackhawks,5,Kelly Sutherland,Dan O'Halloran,Chicago Blackhawks,Anaheim Ducks
+2014030411,Tampa Bay Lightning,1,Chicago Blackhawks,2,Wes McCauley,Kelly Sutherland,Chicago Blackhawks,Tampa Bay Lightning
+2014030412,Tampa Bay Lightning,4,Chicago Blackhawks,3,Kelly Sutherland,Dan O'Halloran,Tampa Bay Lightning,Chicago Blackhawks
+2014030413,Chicago Blackhawks,2,Tampa Bay Lightning,3,Wes McCauley,Dan O'Halloran,Tampa Bay Lightning,Chicago Blackhawks
+2014030414,Chicago Blackhawks,2,Tampa Bay Lightning,1,Wes McCauley,Kelly Sutherland,Chicago Blackhawks,Tampa Bay Lightning
+2014030415,Tampa Bay Lightning,1,Chicago Blackhawks,2,Wes McCauley,Kelly Sutherland,Chicago Blackhawks,Tampa Bay Lightning
+2014030416,Chicago Blackhawks,2,Tampa Bay Lightning,0,Kelly Sutherland,Dan O'Halloran,Chicago Blackhawks,Tampa Bay Lightning

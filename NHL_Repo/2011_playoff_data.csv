@@ -1,0 +1,87 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2011030111,New York Rangers,4,Ottawa Senators,2,Dan O'Halloran,Tom Kowal,New York Rangers,Ottawa Senators
+2011030112,New York Rangers,2,Ottawa Senators,3,Stephen Walkom,Ian Walsh,Ottawa Senators,New York Rangers
+2011030113,Ottawa Senators,0,New York Rangers,1,Mike Leggo,Brad Watson,New York Rangers,Ottawa Senators
+2011030114,Ottawa Senators,3,New York Rangers,2,Eric Furlatt,Francois StLaurent,Ottawa Senators,New York Rangers
+2011030115,New York Rangers,0,Ottawa Senators,2,Brian Pochmara,Marc Joannette,Ottawa Senators,New York Rangers
+2011030116,Ottawa Senators,2,New York Rangers,3,Tim Peel,Steve Kozari,New York Rangers,Ottawa Senators
+2011030117,New York Rangers,2,Ottawa Senators,1,Dan O'Halloran,Brad Watson,New York Rangers,Ottawa Senators
+2011030121,Boston Bruins,1,Washington Capitals,0,Stephen Walkom,Ian Walsh,Boston Bruins,Washington Capitals
+2011030122,Boston Bruins,1,Washington Capitals,2,Dan O'Halloran,Tom Kowal,Washington Capitals,Boston Bruins
+2011030123,Washington Capitals,3,Boston Bruins,4,Wes McCauley,Chris Lee,Boston Bruins,Washington Capitals
+2011030124,Washington Capitals,2,Boston Bruins,1,Brian Pochmara,Marc Joannette,Washington Capitals,Boston Bruins
+2011030125,Boston Bruins,3,Washington Capitals,4,Tim Peel,Steve Kozari,Washington Capitals,Boston Bruins
+2011030126,Washington Capitals,3,Boston Bruins,4,Dan O'Rourke,Paul Devorski,Boston Bruins,Washington Capitals
+2011030127,Boston Bruins,1,Washington Capitals,2,Stephen Walkom,Eric Furlatt,Washington Capitals,Boston Bruins
+2011030131,Florida Panthers,2,New Jersey Devils,3,Eric Furlatt,Francois StLaurent,New Jersey Devils,Florida Panthers
+2011030132,Florida Panthers,4,New Jersey Devils,2,Chris Rooney,Brad Meier,Florida Panthers,New Jersey Devils
+2011030133,New Jersey Devils,3,Florida Panthers,4,Tim Peel,Steve Kozari,Florida Panthers,New Jersey Devils
+2011030134,New Jersey Devils,4,Florida Panthers,0,Stephen Walkom,Ian Walsh,New Jersey Devils,Florida Panthers
+2011030135,Florida Panthers,3,New Jersey Devils,0,Wes McCauley,Chris Lee,Florida Panthers,New Jersey Devils
+2011030136,New Jersey Devils,3,Florida Panthers,2,Brian Pochmara,Marc Joannette,New Jersey Devils,Florida Panthers
+2011030137,Florida Panthers,2,New Jersey Devils,3,Chris Rooney,Dan O'Rourke,New Jersey Devils,Florida Panthers
+2011030141,Pittsburgh Penguins,3,Philadelphia Flyers,4,Mike Leggo,Brad Watson,Philadelphia Flyers,Pittsburgh Penguins
+2011030142,Pittsburgh Penguins,5,Philadelphia Flyers,8,Tim Peel,Steve Kozari,Philadelphia Flyers,Pittsburgh Penguins
+2011030143,Philadelphia Flyers,8,Pittsburgh Penguins,4,Eric Furlatt,Francois StLaurent,Philadelphia Flyers,Pittsburgh Penguins
+2011030144,Philadelphia Flyers,3,Pittsburgh Penguins,10,Wes McCauley,Chris Lee,Pittsburgh Penguins,Philadelphia Flyers
+2011030145,Pittsburgh Penguins,3,Philadelphia Flyers,2,Dan O'Rourke,Paul Devorski,Pittsburgh Penguins,Philadelphia Flyers
+2011030146,Philadelphia Flyers,5,Pittsburgh Penguins,1,Kelly Sutherland,Kevin Pollock,Philadelphia Flyers,Pittsburgh Penguins
+2011030151,Vancouver Canucks,2,Los Angeles Kings,4,Dan O'Rourke,Paul Devorski,Los Angeles Kings,Vancouver Canucks
+2011030152,Vancouver Canucks,2,Los Angeles Kings,4,Wes McCauley,Chris Lee,Los Angeles Kings,Vancouver Canucks
+2011030153,Los Angeles Kings,1,Vancouver Canucks,0,Kelly Sutherland,Kevin Pollock,Los Angeles Kings,Vancouver Canucks
+2011030154,Los Angeles Kings,1,Vancouver Canucks,3,Dan O'Halloran,Tom Kowal,Vancouver Canucks,Los Angeles Kings
+2011030155,Vancouver Canucks,1,Los Angeles Kings,2,Chris Rooney,Brad Meier,Los Angeles Kings,Vancouver Canucks
+2011030161,St. Louis Blues,2,San Jose Sharks,3,Kelly Sutherland,Kevin Pollock,San Jose Sharks,St. Louis Blues
+2011030162,St. Louis Blues,3,San Jose Sharks,0,Brian Pochmara,Marc Joannette,St. Louis Blues,San Jose Sharks
+2011030163,San Jose Sharks,3,St. Louis Blues,4,Dan O'Rourke,Paul Devorski,St. Louis Blues,San Jose Sharks
+2011030164,San Jose Sharks,1,St. Louis Blues,2,Chris Rooney,Brad Meier,St. Louis Blues,San Jose Sharks
+2011030165,St. Louis Blues,3,San Jose Sharks,1,Dan O'Halloran,Tom Kowal,St. Louis Blues,San Jose Sharks
+2011030171,Phoenix Coyotes,3,Chicago Blackhawks,2,Brian Pochmara,Marc Joannette,Phoenix Coyotes,Chicago Blackhawks
+2011030172,Phoenix Coyotes,3,Chicago Blackhawks,4,Dan O'Rourke,Paul Devorski,Chicago Blackhawks,Phoenix Coyotes
+2011030173,Chicago Blackhawks,2,Phoenix Coyotes,3,Stephen Walkom,Ian Walsh,Phoenix Coyotes,Chicago Blackhawks
+2011030174,Chicago Blackhawks,2,Phoenix Coyotes,3,Kelly Sutherland,Kevin Pollock,Phoenix Coyotes,Chicago Blackhawks
+2011030175,Phoenix Coyotes,1,Chicago Blackhawks,2,Mike Leggo,Brad Watson,Chicago Blackhawks,Phoenix Coyotes
+2011030176,Chicago Blackhawks,0,Phoenix Coyotes,4,Wes McCauley,Chris Lee,Phoenix Coyotes,Chicago Blackhawks
+2011030181,Nashville Predators,3,Detroit Red Wings,2,Chris Rooney,Brad Meier,Nashville Predators,Detroit Red Wings
+2011030182,Nashville Predators,2,Detroit Red Wings,3,Mike Leggo,Brad Watson,Detroit Red Wings,Nashville Predators
+2011030183,Detroit Red Wings,2,Nashville Predators,3,Tim Peel,Steve Kozari,Nashville Predators,Detroit Red Wings
+2011030184,Detroit Red Wings,1,Nashville Predators,3,Kelly Sutherland,Kevin Pollock,Nashville Predators,Detroit Red Wings
+2011030185,Nashville Predators,2,Detroit Red Wings,1,Eric Furlatt,Francois StLaurent,Nashville Predators,Detroit Red Wings
+2011030211,New York Rangers,3,Washington Capitals,1,Kevin Pollock,Steve Kozari,New York Rangers,Washington Capitals
+2011030212,New York Rangers,2,Washington Capitals,3,Stephen Walkom,Eric Furlatt,Washington Capitals,New York Rangers
+2011030213,Washington Capitals,1,New York Rangers,2,Chris Rooney,Dan O'Rourke,New York Rangers,Washington Capitals
+2011030214,Washington Capitals,3,New York Rangers,2,Brad Watson,Marc Joannette,Washington Capitals,New York Rangers
+2011030215,New York Rangers,3,Washington Capitals,2,Kelly Sutherland,Chris Lee,New York Rangers,Washington Capitals
+2011030216,Washington Capitals,2,New York Rangers,1,Wes McCauley,Dan O'Halloran,Washington Capitals,New York Rangers
+2011030217,New York Rangers,2,Washington Capitals,1,Chris Rooney,Dan O'Rourke,New York Rangers,Washington Capitals
+2011030221,Philadelphia Flyers,4,New Jersey Devils,3,Wes McCauley,Dan O'Halloran,Philadelphia Flyers,New Jersey Devils
+2011030222,Philadelphia Flyers,1,New Jersey Devils,4,Kelly Sutherland,Chris Lee,New Jersey Devils,Philadelphia Flyers
+2011030223,New Jersey Devils,4,Philadelphia Flyers,3,Brad Watson,Marc Joannette,New Jersey Devils,Philadelphia Flyers
+2011030224,New Jersey Devils,4,Philadelphia Flyers,2,Kevin Pollock,Steve Kozari,New Jersey Devils,Philadelphia Flyers
+2011030225,Philadelphia Flyers,1,New Jersey Devils,3,Stephen Walkom,Eric Furlatt,New Jersey Devils,Philadelphia Flyers
+2011030231,St. Louis Blues,1,Los Angeles Kings,3,Stephen Walkom,Eric Furlatt,Los Angeles Kings,St. Louis Blues
+2011030232,St. Louis Blues,2,Los Angeles Kings,5,Chris Rooney,Dan O'Rourke,Los Angeles Kings,St. Louis Blues
+2011030233,Los Angeles Kings,4,St. Louis Blues,2,Kevin Pollock,Steve Kozari,Los Angeles Kings,St. Louis Blues
+2011030234,Los Angeles Kings,3,St. Louis Blues,1,Wes McCauley,Dan O'Halloran,Los Angeles Kings,St. Louis Blues
+2011030241,Phoenix Coyotes,4,Nashville Predators,3,Kelly Sutherland,Chris Lee,Phoenix Coyotes,Nashville Predators
+2011030242,Phoenix Coyotes,5,Nashville Predators,3,Brad Watson,Marc Joannette,Phoenix Coyotes,Nashville Predators
+2011030243,Nashville Predators,2,Phoenix Coyotes,0,Stephen Walkom,Eric Furlatt,Nashville Predators,Phoenix Coyotes
+2011030244,Nashville Predators,0,Phoenix Coyotes,1,Wes McCauley,Dan O'Halloran,Phoenix Coyotes,Nashville Predators
+2011030245,Phoenix Coyotes,2,Nashville Predators,1,Chris Rooney,Dan O'Rourke,Phoenix Coyotes,Nashville Predators
+2011030311,New York Rangers,3,New Jersey Devils,0,Wes McCauley,Dan O'Halloran,New York Rangers,New Jersey Devils
+2011030312,New York Rangers,2,New Jersey Devils,3,Kelly Sutherland,Chris Lee,New Jersey Devils,New York Rangers
+2011030313,New Jersey Devils,0,New York Rangers,3,Brad Watson,Kevin Pollock,New York Rangers,New Jersey Devils
+2011030314,New Jersey Devils,4,New York Rangers,1,Chris Rooney,Dan O'Rourke,New Jersey Devils,New York Rangers
+2011030315,New York Rangers,3,New Jersey Devils,5,Wes McCauley,Dan O'Halloran,New Jersey Devils,New York Rangers
+2011030316,New Jersey Devils,3,New York Rangers,2,Brad Watson,Kevin Pollock,New Jersey Devils,New York Rangers
+2011030321,Phoenix Coyotes,2,Los Angeles Kings,4,Brad Watson,Kevin Pollock,Los Angeles Kings,Phoenix Coyotes
+2011030322,Phoenix Coyotes,0,Los Angeles Kings,4,Chris Rooney,Dan O'Rourke,Los Angeles Kings,Phoenix Coyotes
+2011030323,Los Angeles Kings,2,Phoenix Coyotes,1,Wes McCauley,Dan O'Halloran,Los Angeles Kings,Phoenix Coyotes
+2011030324,Los Angeles Kings,0,Phoenix Coyotes,2,Kelly Sutherland,Chris Lee,Phoenix Coyotes,Los Angeles Kings
+2011030325,Phoenix Coyotes,3,Los Angeles Kings,4,Brad Watson,Kevin Pollock,Los Angeles Kings,Phoenix Coyotes
+2011030411,New Jersey Devils,1,Los Angeles Kings,2,Dan O'Halloran,Brad Watson,Los Angeles Kings,New Jersey Devils
+2011030412,New Jersey Devils,1,Los Angeles Kings,2,Chris Rooney,Dan O'Rourke,Los Angeles Kings,New Jersey Devils
+2011030413,Los Angeles Kings,4,New Jersey Devils,0,Dan O'Halloran,Brad Watson,Los Angeles Kings,New Jersey Devils
+2011030414,Los Angeles Kings,1,New Jersey Devils,3,Chris Rooney,Dan O'Rourke,New Jersey Devils,Los Angeles Kings
+2011030415,New Jersey Devils,2,Los Angeles Kings,1,Dan O'Halloran,Brad Watson,New Jersey Devils,Los Angeles Kings
+2011030416,Los Angeles Kings,6,New Jersey Devils,1,Chris Rooney,Dan O'Rourke,Los Angeles Kings,New Jersey Devils

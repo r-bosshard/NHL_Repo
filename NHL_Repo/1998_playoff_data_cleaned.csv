@@ -1,0 +1,345 @@
+,Ref,Score,Team
+0,Robbie Shick,3,New Jersey Devils
+1,Robbie Shick,1,Pittsburgh Penguins
+2,Stephen Walkom,3,New Jersey Devils
+3,Stephen Walkom,1,Pittsburgh Penguins
+4,Richard Trottier,1,New Jersey Devils
+5,Richard Trottier,4,Pittsburgh Penguins
+6,Terry Gregson,1,New Jersey Devils
+7,Terry Gregson,4,Pittsburgh Penguins
+8,Bill McCreary,2,New Jersey Devils
+9,Bill McCreary,4,Pittsburgh Penguins
+10,Lance Roberts,2,New Jersey Devils
+11,Lance Roberts,4,Pittsburgh Penguins
+12,Paul Devorski,4,New Jersey Devils
+13,Paul Devorski,2,Pittsburgh Penguins
+14,Paul Stewart,4,New Jersey Devils
+15,Paul Stewart,2,Pittsburgh Penguins
+16,Don Van Massenhoven,4,New Jersey Devils
+17,Don Van Massenhoven,3,Pittsburgh Penguins
+18,Mark Faucette,4,New Jersey Devils
+19,Mark Faucette,3,Pittsburgh Penguins
+20,Dan Marouelli,2,New Jersey Devils
+21,Dan Marouelli,3,Pittsburgh Penguins
+22,Stephen Walkom,2,New Jersey Devils
+23,Stephen Walkom,3,Pittsburgh Penguins
+24,Don Koharski,2,New Jersey Devils
+25,Don Koharski,4,Pittsburgh Penguins
+26,Kerry Fraser,2,New Jersey Devils
+27,Kerry Fraser,4,Pittsburgh Penguins
+28,Dennis Larue,2,Buffalo Sabres
+29,Dennis Larue,1,Ottawa Senators
+30,Kerry Fraser,2,Buffalo Sabres
+31,Kerry Fraser,1,Ottawa Senators
+32,Don Van Massenhoven,3,Buffalo Sabres
+33,Don Van Massenhoven,2,Ottawa Senators
+34,Mark Faucette,3,Buffalo Sabres
+35,Mark Faucette,2,Ottawa Senators
+36,Robbie Shick,3,Buffalo Sabres
+37,Robbie Shick,0,Ottawa Senators
+38,Stephen Walkom,3,Buffalo Sabres
+39,Stephen Walkom,0,Ottawa Senators
+40,Don Koharski,4,Buffalo Sabres
+41,Don Koharski,3,Ottawa Senators
+42,Michael McGeough,4,Buffalo Sabres
+43,Michael McGeough,3,Ottawa Senators
+44,Dan Marouelli,2,Boston Bruins
+45,Dan Marouelli,0,Carolina Hurricanes
+46,Dave Jackson,2,Boston Bruins
+47,Dave Jackson,0,Carolina Hurricanes
+48,Dennis Larue,2,Boston Bruins
+49,Dennis Larue,3,Carolina Hurricanes
+50,Kerry Fraser,2,Boston Bruins
+51,Kerry Fraser,3,Carolina Hurricanes
+52,Don Van Massenhoven,2,Boston Bruins
+53,Don Van Massenhoven,3,Carolina Hurricanes
+54,Mark Faucette,2,Boston Bruins
+55,Mark Faucette,3,Carolina Hurricanes
+56,Robbie Shick,4,Boston Bruins
+57,Robbie Shick,1,Carolina Hurricanes
+58,Stephen Walkom,4,Boston Bruins
+59,Stephen Walkom,1,Carolina Hurricanes
+60,Richard Trottier,4,Boston Bruins
+61,Richard Trottier,3,Carolina Hurricanes
+62,Terry Gregson,4,Boston Bruins
+63,Terry Gregson,3,Carolina Hurricanes
+64,Bill McCreary,2,Boston Bruins
+65,Bill McCreary,0,Carolina Hurricanes
+66,Lance Roberts,2,Boston Bruins
+67,Lance Roberts,0,Carolina Hurricanes
+68,Richard Trottier,3,Philadelphia Flyers
+69,Richard Trottier,0,Toronto Maple Leafs
+70,Terry Gregson,3,Philadelphia Flyers
+71,Terry Gregson,0,Toronto Maple Leafs
+72,Robbie Shick,1,Philadelphia Flyers
+73,Robbie Shick,2,Toronto Maple Leafs
+74,Stephen Walkom,1,Philadelphia Flyers
+75,Stephen Walkom,2,Toronto Maple Leafs
+76,Paul Devorski,1,Philadelphia Flyers
+77,Paul Devorski,2,Toronto Maple Leafs
+78,Paul Stewart,1,Philadelphia Flyers
+79,Paul Stewart,2,Toronto Maple Leafs
+80,Don Van Massenhoven,5,Philadelphia Flyers
+81,Don Van Massenhoven,2,Toronto Maple Leafs
+82,Mark Faucette,5,Philadelphia Flyers
+83,Mark Faucette,2,Toronto Maple Leafs
+84,Bill McCreary,1,Philadelphia Flyers
+85,Bill McCreary,2,Toronto Maple Leafs
+86,Dan Marouelli,1,Philadelphia Flyers
+87,Dan Marouelli,2,Toronto Maple Leafs
+88,Robbie Shick,0,Philadelphia Flyers
+89,Robbie Shick,1,Toronto Maple Leafs
+90,Terry Gregson,0,Philadelphia Flyers
+91,Terry Gregson,1,Toronto Maple Leafs
+92,Don Koharski,2,Dallas Stars
+93,Don Koharski,1,Edmonton Oilers
+94,Michael McGeough,2,Dallas Stars
+95,Michael McGeough,1,Edmonton Oilers
+96,Bill McCreary,3,Dallas Stars
+97,Bill McCreary,2,Edmonton Oilers
+98,Lance Roberts,3,Dallas Stars
+99,Lance Roberts,2,Edmonton Oilers
+100,Dan Marouelli,3,Dallas Stars
+101,Dan Marouelli,2,Edmonton Oilers
+102,Dave Jackson,3,Dallas Stars
+103,Dave Jackson,2,Edmonton Oilers
+104,Richard Trottier,3,Dallas Stars
+105,Richard Trottier,2,Edmonton Oilers
+106,Terry Gregson,3,Dallas Stars
+107,Terry Gregson,2,Edmonton Oilers
+108,Paul Devorski,3,Colorado Avalanche
+109,Paul Devorski,1,San Jose Sharks
+110,Paul Stewart,3,Colorado Avalanche
+111,Paul Stewart,1,San Jose Sharks
+112,Dennis Larue,2,Colorado Avalanche
+113,Dennis Larue,1,San Jose Sharks
+114,Kerry Fraser,2,Colorado Avalanche
+115,Kerry Fraser,1,San Jose Sharks
+116,Bill McCreary,2,Colorado Avalanche
+117,Bill McCreary,4,San Jose Sharks
+118,Lance Roberts,2,Colorado Avalanche
+119,Lance Roberts,4,San Jose Sharks
+120,Don Koharski,3,Colorado Avalanche
+121,Don Koharski,7,San Jose Sharks
+122,Michael McGeough,3,Colorado Avalanche
+123,Michael McGeough,7,San Jose Sharks
+124,Don Koharski,6,Colorado Avalanche
+125,Don Koharski,2,San Jose Sharks
+126,Kerry Fraser,6,Colorado Avalanche
+127,Kerry Fraser,2,San Jose Sharks
+128,Paul Devorski,3,Colorado Avalanche
+129,Paul Devorski,2,San Jose Sharks
+130,Paul Stewart,3,Colorado Avalanche
+131,Paul Stewart,2,San Jose Sharks
+132,Don Van Massenhoven,3,Anaheim Ducks
+133,Don Van Massenhoven,5,Detroit Red Wings
+134,Mark Faucette,3,Anaheim Ducks
+135,Mark Faucette,5,Detroit Red Wings
+136,Dennis Larue,1,Anaheim Ducks
+137,Dennis Larue,5,Detroit Red Wings
+138,Kerry Fraser,1,Anaheim Ducks
+139,Kerry Fraser,5,Detroit Red Wings
+140,Don Koharski,2,Anaheim Ducks
+141,Don Koharski,4,Detroit Red Wings
+142,Michael McGeough,2,Anaheim Ducks
+143,Michael McGeough,4,Detroit Red Wings
+144,Dan Marouelli,0,Anaheim Ducks
+145,Dan Marouelli,3,Detroit Red Wings
+146,Dave Jackson,0,Anaheim Ducks
+147,Dave Jackson,3,Detroit Red Wings
+148,Paul Devorski,1,Phoenix Coyotes
+149,Paul Devorski,3,St. Louis Blues
+150,Paul Stewart,1,Phoenix Coyotes
+151,Paul Stewart,3,St. Louis Blues
+152,Dan Marouelli,4,Phoenix Coyotes
+153,Dan Marouelli,3,St. Louis Blues
+154,Dave Jackson,4,Phoenix Coyotes
+155,Dave Jackson,3,St. Louis Blues
+156,Richard Trottier,5,Phoenix Coyotes
+157,Richard Trottier,4,St. Louis Blues
+158,Terry Gregson,5,Phoenix Coyotes
+159,Terry Gregson,4,St. Louis Blues
+160,Bill McCreary,2,Phoenix Coyotes
+161,Bill McCreary,1,St. Louis Blues
+162,Lance Roberts,2,Phoenix Coyotes
+163,Lance Roberts,1,St. Louis Blues
+164,Kerry Fraser,1,Phoenix Coyotes
+165,Kerry Fraser,2,St. Louis Blues
+166,Paul Devorski,1,Phoenix Coyotes
+167,Paul Devorski,2,St. Louis Blues
+168,Don Van Massenhoven,3,Phoenix Coyotes
+169,Don Van Massenhoven,5,St. Louis Blues
+170,Mark Faucette,3,Phoenix Coyotes
+171,Mark Faucette,5,St. Louis Blues
+172,Bill McCreary,0,Phoenix Coyotes
+173,Bill McCreary,1,St. Louis Blues
+174,Terry Gregson,0,Phoenix Coyotes
+175,Terry Gregson,1,St. Louis Blues
+176,Don Van Massenhoven,2,Pittsburgh Penguins
+177,Don Van Massenhoven,0,Toronto Maple Leafs
+178,Mark Faucette,2,Pittsburgh Penguins
+179,Mark Faucette,0,Toronto Maple Leafs
+180,Don Koharski,2,Pittsburgh Penguins
+181,Don Koharski,4,Toronto Maple Leafs
+182,Paul Stewart,2,Pittsburgh Penguins
+183,Paul Stewart,4,Toronto Maple Leafs
+184,Dave Jackson,4,Pittsburgh Penguins
+185,Dave Jackson,3,Toronto Maple Leafs
+186,Kerry Fraser,4,Pittsburgh Penguins
+187,Kerry Fraser,3,Toronto Maple Leafs
+188,Paul Devorski,2,Pittsburgh Penguins
+189,Paul Devorski,3,Toronto Maple Leafs
+190,Robbie Shick,2,Pittsburgh Penguins
+191,Robbie Shick,3,Toronto Maple Leafs
+192,Bill McCreary,1,Pittsburgh Penguins
+193,Bill McCreary,4,Toronto Maple Leafs
+194,Terry Gregson,1,Pittsburgh Penguins
+195,Terry Gregson,4,Toronto Maple Leafs
+196,Dan Marouelli,3,Pittsburgh Penguins
+197,Dan Marouelli,4,Toronto Maple Leafs
+198,Don Koharski,3,Pittsburgh Penguins
+199,Don Koharski,4,Toronto Maple Leafs
+200,Paul Devorski,4,Boston Bruins
+201,Paul Devorski,2,Buffalo Sabres
+202,Robbie Shick,4,Boston Bruins
+203,Robbie Shick,2,Buffalo Sabres
+204,Dave Jackson,1,Boston Bruins
+205,Dave Jackson,3,Buffalo Sabres
+206,Kerry Fraser,1,Boston Bruins
+207,Kerry Fraser,3,Buffalo Sabres
+208,Don Koharski,2,Boston Bruins
+209,Don Koharski,3,Buffalo Sabres
+210,Paul Stewart,2,Boston Bruins
+211,Paul Stewart,3,Buffalo Sabres
+212,Don Van Massenhoven,0,Boston Bruins
+213,Don Van Massenhoven,3,Buffalo Sabres
+214,Mark Faucette,0,Boston Bruins
+215,Mark Faucette,3,Buffalo Sabres
+216,Dan Marouelli,5,Boston Bruins
+217,Dan Marouelli,3,Buffalo Sabres
+218,Stephen Walkom,5,Boston Bruins
+219,Stephen Walkom,3,Buffalo Sabres
+220,Bill McCreary,2,Boston Bruins
+221,Bill McCreary,3,Buffalo Sabres
+222,Terry Gregson,2,Boston Bruins
+223,Terry Gregson,3,Buffalo Sabres
+224,Dan Marouelli,3,Dallas Stars
+225,Dan Marouelli,0,St. Louis Blues
+226,Stephen Walkom,3,Dallas Stars
+227,Stephen Walkom,0,St. Louis Blues
+228,Richard Trottier,5,Dallas Stars
+229,Richard Trottier,4,St. Louis Blues
+230,Terry Gregson,5,Dallas Stars
+231,Terry Gregson,4,St. Louis Blues
+232,Bill McCreary,2,Dallas Stars
+233,Bill McCreary,3,St. Louis Blues
+234,Lance Roberts,2,Dallas Stars
+235,Lance Roberts,3,St. Louis Blues
+236,Don Van Massenhoven,2,Dallas Stars
+237,Don Van Massenhoven,3,St. Louis Blues
+238,Mark Faucette,2,Dallas Stars
+239,Mark Faucette,3,St. Louis Blues
+240,Don Koharski,3,Dallas Stars
+241,Don Koharski,1,St. Louis Blues
+242,Kerry Fraser,3,Dallas Stars
+243,Kerry Fraser,1,St. Louis Blues
+244,Paul Devorski,2,Dallas Stars
+245,Paul Devorski,1,St. Louis Blues
+246,Robbie Shick,2,Dallas Stars
+247,Robbie Shick,1,St. Louis Blues
+248,Bill McCreary,2,Colorado Avalanche
+249,Bill McCreary,3,Detroit Red Wings
+250,Lance Roberts,2,Colorado Avalanche
+251,Lance Roberts,3,Detroit Red Wings
+252,Dan Marouelli,0,Colorado Avalanche
+253,Dan Marouelli,4,Detroit Red Wings
+254,Stephen Walkom,0,Colorado Avalanche
+255,Stephen Walkom,4,Detroit Red Wings
+256,Paul Devorski,5,Colorado Avalanche
+257,Paul Devorski,3,Detroit Red Wings
+258,Robbie Shick,5,Colorado Avalanche
+259,Robbie Shick,3,Detroit Red Wings
+260,Richard Trottier,6,Colorado Avalanche
+261,Richard Trottier,2,Detroit Red Wings
+262,Terry Gregson,6,Colorado Avalanche
+263,Terry Gregson,2,Detroit Red Wings
+264,Don Van Massenhoven,3,Colorado Avalanche
+265,Don Van Massenhoven,0,Detroit Red Wings
+266,Mark Faucette,3,Colorado Avalanche
+267,Mark Faucette,0,Detroit Red Wings
+268,Kerry Fraser,5,Colorado Avalanche
+269,Kerry Fraser,2,Detroit Red Wings
+270,Stephen Walkom,5,Colorado Avalanche
+271,Stephen Walkom,2,Detroit Red Wings
+272,Don Koharski,5,Buffalo Sabres
+273,Don Koharski,4,Toronto Maple Leafs
+274,Robbie Shick,5,Buffalo Sabres
+275,Robbie Shick,4,Toronto Maple Leafs
+276,Dan Marouelli,3,Buffalo Sabres
+277,Dan Marouelli,6,Toronto Maple Leafs
+278,Paul Devorski,3,Buffalo Sabres
+279,Paul Devorski,6,Toronto Maple Leafs
+280,Kerry Fraser,4,Buffalo Sabres
+281,Kerry Fraser,2,Toronto Maple Leafs
+282,Stephen Walkom,4,Buffalo Sabres
+283,Stephen Walkom,2,Toronto Maple Leafs
+284,Mark Faucette,5,Buffalo Sabres
+285,Mark Faucette,2,Toronto Maple Leafs
+286,Terry Gregson,5,Buffalo Sabres
+287,Terry Gregson,2,Toronto Maple Leafs
+288,Bill McCreary,4,Buffalo Sabres
+289,Bill McCreary,2,Toronto Maple Leafs
+290,Don Van Massenhoven,4,Buffalo Sabres
+291,Don Van Massenhoven,2,Toronto Maple Leafs
+292,Bill McCreary,2,Colorado Avalanche
+293,Bill McCreary,1,Dallas Stars
+294,Don Van Massenhoven,2,Colorado Avalanche
+295,Don Van Massenhoven,1,Dallas Stars
+296,Mark Faucette,2,Colorado Avalanche
+297,Mark Faucette,4,Dallas Stars
+298,Terry Gregson,2,Colorado Avalanche
+299,Terry Gregson,4,Dallas Stars
+300,Don Koharski,0,Colorado Avalanche
+301,Don Koharski,3,Dallas Stars
+302,Robbie Shick,0,Colorado Avalanche
+303,Robbie Shick,3,Dallas Stars
+304,Dan Marouelli,3,Colorado Avalanche
+305,Dan Marouelli,2,Dallas Stars
+306,Paul Devorski,3,Colorado Avalanche
+307,Paul Devorski,2,Dallas Stars
+308,Kerry Fraser,7,Colorado Avalanche
+309,Kerry Fraser,5,Dallas Stars
+310,Stephen Walkom,7,Colorado Avalanche
+311,Stephen Walkom,5,Dallas Stars
+312,Mark Faucette,1,Colorado Avalanche
+313,Mark Faucette,4,Dallas Stars
+314,Terry Gregson,1,Colorado Avalanche
+315,Terry Gregson,4,Dallas Stars
+316,Bill McCreary,1,Colorado Avalanche
+317,Bill McCreary,4,Dallas Stars
+318,Don Koharski,1,Colorado Avalanche
+319,Don Koharski,4,Dallas Stars
+320,Bill McCreary,3,Buffalo Sabres
+321,Bill McCreary,2,Dallas Stars
+322,Terry Gregson,3,Buffalo Sabres
+323,Terry Gregson,2,Dallas Stars
+324,Dan Marouelli,2,Buffalo Sabres
+325,Dan Marouelli,4,Dallas Stars
+326,Kerry Fraser,2,Buffalo Sabres
+327,Kerry Fraser,4,Dallas Stars
+328,Don Koharski,1,Buffalo Sabres
+329,Don Koharski,2,Dallas Stars
+330,Terry Gregson,1,Buffalo Sabres
+331,Terry Gregson,2,Dallas Stars
+332,Bill McCreary,2,Buffalo Sabres
+333,Bill McCreary,1,Dallas Stars
+334,Dan Marouelli,2,Buffalo Sabres
+335,Dan Marouelli,1,Dallas Stars
+336,Don Koharski,0,Buffalo Sabres
+337,Don Koharski,2,Dallas Stars
+338,Kerry Fraser,0,Buffalo Sabres
+339,Kerry Fraser,2,Dallas Stars
+340,Bill McCreary,1,Buffalo Sabres
+341,Bill McCreary,2,Dallas Stars
+342,Terry Gregson,1,Buffalo Sabres
+343,Terry Gregson,2,Dallas Stars

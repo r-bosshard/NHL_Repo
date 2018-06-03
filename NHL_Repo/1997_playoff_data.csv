@@ -1,0 +1,82 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+1997030111,New Jersey Devils,1,Ottawa Senators,2,Paul Devorski,Dan Schachte,Ottawa Senators,New Jersey Devils
+1997030112,New Jersey Devils,3,Ottawa Senators,1,Paul Stewart,Dan Schachte,New Jersey Devils,Ottawa Senators
+1997030113,Ottawa Senators,2,New Jersey Devils,1,Dan Marouelli,Randy Mitton,Ottawa Senators,New Jersey Devils
+1997030114,Ottawa Senators,4,New Jersey Devils,3,Michael McGeough,Randy Mitton,Ottawa Senators,New Jersey Devils
+1997030115,New Jersey Devils,3,Ottawa Senators,1,Mark Faucette,Shane Heyer,New Jersey Devils,Ottawa Senators
+1997030116,Ottawa Senators,3,New Jersey Devils,1,Kerry Fraser,Shane Heyer,Ottawa Senators,New Jersey Devils
+1997030121,Pittsburgh Penguins,2,Montréal Canadiens,3,Robbie Shick,Danny McCourt,Montréal Canadiens,Pittsburgh Penguins
+1997030122,Pittsburgh Penguins,4,Montréal Canadiens,1,Kerry Fraser,Danny McCourt,Pittsburgh Penguins,Montréal Canadiens
+1997030123,Montréal Canadiens,3,Pittsburgh Penguins,1,Terry Gregson,Ray Scapinello,Montréal Canadiens,Pittsburgh Penguins
+1997030124,Montréal Canadiens,3,Pittsburgh Penguins,6,Paul Devorski,Ray Scapinello,Pittsburgh Penguins,Montréal Canadiens
+1997030125,Pittsburgh Penguins,2,Montréal Canadiens,5,Michael McGeough,Randy Mitton,Montréal Canadiens,Pittsburgh Penguins
+1997030126,Montréal Canadiens,3,Pittsburgh Penguins,0,Bill McCreary,Randy Mitton,Montréal Canadiens,Pittsburgh Penguins
+1997030131,Philadelphia Flyers,2,Buffalo Sabres,3,BILL McCREARY,Jay Sharrers,Buffalo Sabres,Philadelphia Flyers
+1997030132,Philadelphia Flyers,3,Buffalo Sabres,2,Stephen Walkom,Shane Heyer,Philadelphia Flyers,Buffalo Sabres
+1997030133,Buffalo Sabres,6,Philadelphia Flyers,1,Robbie Shick,Danny McCourt,Buffalo Sabres,Philadelphia Flyers
+1997030134,Buffalo Sabres,4,Philadelphia Flyers,1,Terry Gregson,Danny McCourt,Buffalo Sabres,Philadelphia Flyers
+1997030135,Philadelphia Flyers,2,Buffalo Sabres,3,Paul Devorski,Kevin Collins,Buffalo Sabres,Philadelphia Flyers
+1997030141,Washington Capitals,3,Boston Bruins,1,Kerry Fraser,Randy Mitton,Washington Capitals,Boston Bruins
+1997030142,Washington Capitals,3,Boston Bruins,4,Michael McGeough,Randy Mitton,Boston Bruins,Washington Capitals
+1997030143,Boston Bruins,2,Washington Capitals,3,Paul Devorski,Shane Heyer,Washington Capitals,Boston Bruins
+1997030144,Boston Bruins,0,Washington Capitals,3,Dan Marouelli,Shane Heyer,Washington Capitals,Boston Bruins
+1997030145,Washington Capitals,0,Boston Bruins,4,Robbie Shick,Danny McCourt,Boston Bruins,Washington Capitals
+1997030146,Boston Bruins,2,Washington Capitals,3,Don Koharski,Dan McCourt,Washington Capitals,Boston Bruins
+1997030151,Dallas Stars,4,San Jose Sharks,1,Stephen Walkom,Brian Murphy,Dallas Stars,San Jose Sharks
+1997030152,Dallas Stars,5,San Jose Sharks,2,Don Koharski,Brian Murphy,Dallas Stars,San Jose Sharks
+1997030154,San Jose Sharks,1,Dallas Stars,0,BILL McCREARY,Mike Cvik,San Jose Sharks,Dallas Stars
+1997030155,Dallas Stars,3,San Jose Sharks,2,Kerry Fraser,Gordon Broseker,Dallas Stars,San Jose Sharks
+1997030156,San Jose Sharks,2,Dallas Stars,3,Dan Marouelli,Gordon Broseker,Dallas Stars,San Jose Sharks
+1997030161,Colorado Avalanche,2,Edmonton Oilers,3,Dan Marouelli,Jean Morin,Edmonton Oilers,Colorado Avalanche
+1997030162,Colorado Avalanche,5,Edmonton Oilers,2,Mark Faucette,Kevin Collins,Colorado Avalanche,Edmonton Oilers
+1997030163,Edmonton Oilers,4,Colorado Avalanche,5,Bill McCreary,Gordon Broseker,Colorado Avalanche,Edmonton Oilers
+1997030164,Edmonton Oilers,1,Colorado Avalanche,3,Kerry Fraser,Gordon Broseker,Colorado Avalanche,Edmonton Oilers
+1997030165,Colorado Avalanche,1,Edmonton Oilers,3,Don Koharski,Dan Schachte,Edmonton Oilers,Colorado Avalanche
+1997030166,Edmonton Oilers,2,Colorado Avalanche,0,Stephen Walkom,Dan Schachte,Edmonton Oilers,Colorado Avalanche
+1997030167,Colorado Avalanche,0,Edmonton Oilers,4,Bill McCreary,Ray Scapinello,Edmonton Oilers,Colorado Avalanche
+1997030171,Detroit Red Wings,6,Phoenix Coyotes,3,Mark Faucette,Mike Cvik,Detroit Red Wings,Phoenix Coyotes
+1997030172,Detroit Red Wings,4,Phoenix Coyotes,7,Dan Marouelli,Swede Knox,Phoenix Coyotes,Detroit Red Wings
+1997030173,Phoenix Coyotes,3,Detroit Red Wings,2,Don Koharski,Brian Murphy,Phoenix Coyotes,Detroit Red Wings
+1997030174,Phoenix Coyotes,2,Detroit Red Wings,4,Paul Stewart,Brian Murphy,Detroit Red Wings,Phoenix Coyotes
+1997030175,Detroit Red Wings,3,Phoenix Coyotes,1,Bill McCreary,Ray Scapinello,Detroit Red Wings,Phoenix Coyotes
+1997030176,Phoenix Coyotes,2,Detroit Red Wings,5,Terry Gregson,Ray Scapinello,Detroit Red Wings,Phoenix Coyotes
+1997030181,St. Louis Blues,8,Los Angeles Kings,3,Terry Gregson,Ray Scapinello,St. Louis Blues,Los Angeles Kings
+1997030182,St. Louis Blues,2,Los Angeles Kings,1,Robbie Shick,Ray Scapinello,St. Louis Blues,Los Angeles Kings
+1997030183,Los Angeles Kings,3,St. Louis Blues,4,Don Koharski,Kevin Collins,St. Louis Blues,Los Angeles Kings
+1997030184,Los Angeles Kings,1,St. Louis Blues,2,Stephen Walkom,Kevin Collins,St. Louis Blues,Los Angeles Kings
+1997030211,Washington Capitals,4,Ottawa Senators,2,Mark Faucette,Kevin Collins,Washington Capitals,Ottawa Senators
+1997030212,Washington Capitals,6,Ottawa Senators,1,Paul Devorski,Kevin Collins,Washington Capitals,Ottawa Senators
+1997030213,Ottawa Senators,4,Washington Capitals,3,Kerry Fraser,Brian Murphy,Ottawa Senators,Washington Capitals
+1997030214,Ottawa Senators,0,Washington Capitals,2,Robbie Shick,Brian Murphy,Washington Capitals,Ottawa Senators
+1997030215,Washington Capitals,3,Ottawa Senators,0,Don Koharski,Shane Heyer,Washington Capitals,Ottawa Senators
+1997030221,Buffalo Sabres,3,Montréal Canadiens,2,Robbie Shick,Brian Murphy,Buffalo Sabres,Montréal Canadiens
+1997030222,Buffalo Sabres,6,Montréal Canadiens,3,Dan Marouelli,Brian Murphy,Buffalo Sabres,Montréal Canadiens
+1997030223,Montréal Canadiens,4,Buffalo Sabres,5,Mark Faucette,Ray Scapinello,Buffalo Sabres,Montréal Canadiens
+1997030224,Montréal Canadiens,1,Buffalo Sabres,3,Terry Gregson,Ray Scapinello,Buffalo Sabres,Montréal Canadiens
+1997030231,Dallas Stars,3,Edmonton Oilers,1,Don Koharski,Wayne Bonney,Dallas Stars,Edmonton Oilers
+1997030232,Dallas Stars,0,Edmonton Oilers,2,Terry Gregson,Wayne Bonney,Edmonton Oilers,Dallas Stars
+1997030233,Edmonton Oilers,0,Dallas Stars,1,Bill McCreary,Shane Heyer,Dallas Stars,Edmonton Oilers
+1997030234,Edmonton Oilers,1,Dallas Stars,3,Paul Devorski,Shane Heyer,Dallas Stars,Edmonton Oilers
+1997030235,Dallas Stars,2,Edmonton Oilers,1,Dan Marouelli,Ray Scapinello,Dallas Stars,Edmonton Oilers
+1997030241,Detroit Red Wings,2,St. Louis Blues,4,Kerry Fraser,Ray Scapinello,St. Louis Blues,Detroit Red Wings
+1997030242,Detroit Red Wings,6,St. Louis Blues,1,Don Koharski,Ray Scapinello,Detroit Red Wings,St. Louis Blues
+1997030243,St. Louis Blues,2,Detroit Red Wings,3,Dan Marouelli,Kevin Collins,Detroit Red Wings,St. Louis Blues
+1997030244,St. Louis Blues,2,Detroit Red Wings,5,Bill McCreary,Kevin Collins,Detroit Red Wings,St. Louis Blues
+1997030245,Detroit Red Wings,1,St. Louis Blues,3,Robbie Shick,Wayne Bonney,St. Louis Blues,Detroit Red Wings
+1997030246,St. Louis Blues,1,Detroit Red Wings,6,Terry Gregson,Wayne Bonney,Detroit Red Wings,St. Louis Blues
+1997030311,Washington Capitals,0,Buffalo Sabres,2,Dan Marouelli,Kevin Collins,Buffalo Sabres,Washington Capitals
+1997030312,Washington Capitals,3,Buffalo Sabres,2,Kerry Fraser,Wayne Bonney,Washington Capitals,Buffalo Sabres
+1997030313,Buffalo Sabres,3,Washington Capitals,4,Bill McCreary,Wayne Bonney,Washington Capitals,Buffalo Sabres
+1997030314,Buffalo Sabres,0,Washington Capitals,2,Robbie Shick,Brian Murphy,Washington Capitals,Buffalo Sabres
+1997030315,Washington Capitals,1,Buffalo Sabres,2,Terry Gregson,Ray Scapinello,Buffalo Sabres,Washington Capitals
+1997030316,Buffalo Sabres,2,Washington Capitals,3,Don Koharski,Brian Murphy,Washington Capitals,Buffalo Sabres
+1997030321,Dallas Stars,0,Detroit Red Wings,2,Don Koharski,Brian Murphy,Detroit Red Wings,Dallas Stars
+1997030322,Dallas Stars,3,Detroit Red Wings,1,Robbie Shick,Ray Scapinello,Dallas Stars,Detroit Red Wings
+1997030323,Detroit Red Wings,5,Dallas Stars,3,Terry Gregson,Ray Scapinello,Detroit Red Wings,Dallas Stars
+1997030324,Detroit Red Wings,3,Dallas Stars,2,Dan Marouelli,Kevin Collins,Detroit Red Wings,Dallas Stars
+1997030325,Dallas Stars,3,Detroit Red Wings,2,Kerry Fraser,Kevin Collins,Dallas Stars,Detroit Red Wings
+1997030326,Detroit Red Wings,2,Dallas Stars,0,Bill McCreary,Kevin Collins,Detroit Red Wings,Dallas Stars
+1997030411,Detroit Red Wings,2,Washington Capitals,1,Bill McCreary,Ray Scapinello,Detroit Red Wings,Washington Capitals
+1997030412,Detroit Red Wings,5,Washington Capitals,4,Don Koharski,Kevin Collins,Detroit Red Wings,Washington Capitals
+1997030413,Washington Capitals,1,Detroit Red Wings,2,Terry Gregson,Ray Scapinello,Detroit Red Wings,Washington Capitals
+1997030414,Washington Capitals,1,Detroit Red Wings,4,Bill McCreary,Kevin Collins,Detroit Red Wings,Washington Capitals

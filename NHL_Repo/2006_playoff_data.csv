@@ -1,0 +1,82 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+2006030111,Buffalo Sabres,4,New York Islanders,1,Wes McCauley,Brad Watson,Buffalo Sabres,New York Islanders
+2006030112,Buffalo Sabres,2,New York Islanders,3,Don Koharski,Marc Joannette,New York Islanders,Buffalo Sabres
+2006030113,New York Islanders,2,Buffalo Sabres,3,Dennis LaRue,Kevin Pollock,Buffalo Sabres,New York Islanders
+2006030114,New York Islanders,2,Buffalo Sabres,4,Mike Leggo,Rob Shick,Buffalo Sabres,New York Islanders
+2006030115,Buffalo Sabres,4,New York Islanders,3,Dan O'Halloran,Mike Hasenfratz,Buffalo Sabres,New York Islanders
+2006030121,New Jersey Devils,5,Tampa Bay Lightning,3,Don Koharski,Marc Joannette,New Jersey Devils,Tampa Bay Lightning
+2006030122,New Jersey Devils,2,Tampa Bay Lightning,3,Dennis LaRue,Kevin Pollock,Tampa Bay Lightning,New Jersey Devils
+2006030123,Tampa Bay Lightning,3,New Jersey Devils,2,Mike Leggo,Rob Shick,Tampa Bay Lightning,New Jersey Devils
+2006030124,Tampa Bay Lightning,3,New Jersey Devils,4,Dave Jackson,Michael McGeough,New Jersey Devils,Tampa Bay Lightning
+2006030125,New Jersey Devils,3,Tampa Bay Lightning,0,Tim Peel,Don VanMassenhoven,New Jersey Devils,Tampa Bay Lightning
+2006030126,Tampa Bay Lightning,2,New Jersey Devils,3,Bill McCreary,Eric Furlatt,New Jersey Devils,Tampa Bay Lightning
+2006030131,Atlanta Thrashers,3,New York Rangers,4,Dennis LaRue,Kevin Pollock,New York Rangers,Atlanta Thrashers
+2006030132,Atlanta Thrashers,1,New York Rangers,2,Mike Leggo,Rob Shick,New York Rangers,Atlanta Thrashers
+2006030133,New York Rangers,7,Atlanta Thrashers,0,Tim Peel,Don VanMassenhoven,New York Rangers,Atlanta Thrashers
+2006030134,New York Rangers,4,Atlanta Thrashers,2,Dan O'Halloran,Mike Hasenfratz,New York Rangers,Atlanta Thrashers
+2006030141,Ottawa Senators,6,Pittsburgh Penguins,3,Dan O'Rourke,Paul Devorski,Ottawa Senators,Pittsburgh Penguins
+2006030142,Ottawa Senators,3,Pittsburgh Penguins,4,Dave Jackson,Michael McGeough,Pittsburgh Penguins,Ottawa Senators
+2006030143,Pittsburgh Penguins,2,Ottawa Senators,4,Tim Peel,Don VanMassenhoven,Ottawa Senators,Pittsburgh Penguins
+2006030144,Pittsburgh Penguins,1,Ottawa Senators,2,Dan Marouelli,Kelly Sutherland,Ottawa Senators,Pittsburgh Penguins
+2006030145,Ottawa Senators,3,Pittsburgh Penguins,0,Bill McCreary,Eric Furlatt,Ottawa Senators,Pittsburgh Penguins
+2006030151,Detroit Red Wings,4,Calgary Flames,1,Dave Jackson,Michael McGeough,Detroit Red Wings,Calgary Flames
+2006030152,Detroit Red Wings,3,Calgary Flames,1,Dan O'Rourke,Paul Devorski,Detroit Red Wings,Calgary Flames
+2006030153,Calgary Flames,3,Detroit Red Wings,2,Bill McCreary,Eric Furlatt,Calgary Flames,Detroit Red Wings
+2006030154,Calgary Flames,3,Detroit Red Wings,2,Wes McCauley,Brad Watson,Calgary Flames,Detroit Red Wings
+2006030155,Detroit Red Wings,5,Calgary Flames,1,Don Koharski,Marc Joannette,Detroit Red Wings,Calgary Flames
+2006030156,Calgary Flames,1,Detroit Red Wings,2,Dan O'Halloran,Don VanMassenhoven,Detroit Red Wings,Calgary Flames
+2006030161,Anaheim Ducks,2,Minnesota Wild,1,Dan O'Halloran,Mike Hasenfratz,Anaheim Ducks,Minnesota Wild
+2006030162,Anaheim Ducks,3,Minnesota Wild,2,Bill McCreary,Eric Furlatt,Anaheim Ducks,Minnesota Wild
+2006030163,Minnesota Wild,1,Anaheim Ducks,2,Wes McCauley,Brad Watson,Anaheim Ducks,Minnesota Wild
+2006030164,Minnesota Wild,4,Anaheim Ducks,1,Dan O'Rourke,Paul Devorski,Minnesota Wild,Anaheim Ducks
+2006030165,Anaheim Ducks,4,Minnesota Wild,1,Dan Marouelli,Kelly Sutherland,Anaheim Ducks,Minnesota Wild
+2006030171,Vancouver Canucks,5,Dallas Stars,4,Bill McCreary,Eric Furlatt,Vancouver Canucks,Dallas Stars
+2006030172,Vancouver Canucks,0,Dallas Stars,2,Dan O'Halloran,Mike Hasenfratz,Dallas Stars,Vancouver Canucks
+2006030173,Dallas Stars,1,Vancouver Canucks,2,Dan Marouelli,Kelly Sutherland,Vancouver Canucks,Dallas Stars
+2006030174,Dallas Stars,1,Vancouver Canucks,2,Wes McCauley,Brad Watson,Vancouver Canucks,Dallas Stars
+2006030175,Vancouver Canucks,0,Dallas Stars,1,Dennis LaRue,Kevin Pollock,Dallas Stars,Vancouver Canucks
+2006030176,Dallas Stars,2,Vancouver Canucks,0,Dave Jackson,Paul Devorski,Dallas Stars,Vancouver Canucks
+2006030177,Vancouver Canucks,4,Dallas Stars,1,Rob Shick,Brad Watson,Vancouver Canucks,Dallas Stars
+2006030181,Nashville Predators,4,San Jose Sharks,5,Tim Peel,Don VanMassenhoven,San Jose Sharks,Nashville Predators
+2006030182,Nashville Predators,5,San Jose Sharks,2,Dan Marouelli,Kelly Sutherland,Nashville Predators,San Jose Sharks
+2006030183,San Jose Sharks,3,Nashville Predators,1,Dave Jackson,Michael McGeough,San Jose Sharks,Nashville Predators
+2006030184,San Jose Sharks,3,Nashville Predators,2,Don Koharski,Marc Joannette,San Jose Sharks,Nashville Predators
+2006030185,Nashville Predators,2,San Jose Sharks,3,Mike Leggo,Rob Shick,San Jose Sharks,Nashville Predators
+2006030211,Buffalo Sabres,5,New York Rangers,2,Don Koharski,Marc Joannette,Buffalo Sabres,New York Rangers
+2006030212,Buffalo Sabres,3,New York Rangers,2,Kelly Sutherland,Brad Watson,Buffalo Sabres,New York Rangers
+2006030213,New York Rangers,2,Buffalo Sabres,1,Paul Devorski,Dennis LaRue,New York Rangers,Buffalo Sabres
+2006030214,New York Rangers,2,Buffalo Sabres,1,Bill McCreary,Dave Jackson,New York Rangers,Buffalo Sabres
+2006030215,Buffalo Sabres,2,New York Rangers,1,Dan O'Halloran,Don VanMassenhoven,Buffalo Sabres,New York Rangers
+2006030216,New York Rangers,4,Buffalo Sabres,5,Rob Shick,Kevin Pollock,Buffalo Sabres,New York Rangers
+2006030221,New Jersey Devils,4,Ottawa Senators,5,Bill McCreary,Dave Jackson,Ottawa Senators,New Jersey Devils
+2006030222,New Jersey Devils,3,Ottawa Senators,2,Dan O'Halloran,Don VanMassenhoven,New Jersey Devils,Ottawa Senators
+2006030223,Ottawa Senators,2,New Jersey Devils,0,Kelly Sutherland,Brad Watson,Ottawa Senators,New Jersey Devils
+2006030224,Ottawa Senators,3,New Jersey Devils,2,Don Koharski,Marc Joannette,Ottawa Senators,New Jersey Devils
+2006030225,New Jersey Devils,2,Ottawa Senators,3,Paul Devorski,Dennis LaRue,Ottawa Senators,New Jersey Devils
+2006030231,Detroit Red Wings,0,San Jose Sharks,2,Paul Devorski,Dennis LaRue,San Jose Sharks,Detroit Red Wings
+2006030232,Detroit Red Wings,3,San Jose Sharks,2,Bill McCreary,Dave Jackson,Detroit Red Wings,San Jose Sharks
+2006030233,San Jose Sharks,2,Detroit Red Wings,1,Rob Shick,Kevin Pollock,San Jose Sharks,Detroit Red Wings
+2006030234,San Jose Sharks,2,Detroit Red Wings,3,Kelly Sutherland,Brad Watson,Detroit Red Wings,San Jose Sharks
+2006030235,Detroit Red Wings,4,San Jose Sharks,1,Don Koharski,Marc Joannette,Detroit Red Wings,San Jose Sharks
+2006030236,San Jose Sharks,0,Detroit Red Wings,2,Dan O'Halloran,Don VanMassenhoven,Detroit Red Wings,San Jose Sharks
+2006030241,Anaheim Ducks,5,Vancouver Canucks,1,Dan O'Halloran,Don VanMassenhoven,Anaheim Ducks,Vancouver Canucks
+2006030242,Anaheim Ducks,1,Vancouver Canucks,2,Rob Shick,Kevin Pollock,Vancouver Canucks,Anaheim Ducks
+2006030243,Vancouver Canucks,2,Anaheim Ducks,3,Don Koharski,Marc Joannette,Anaheim Ducks,Vancouver Canucks
+2006030244,Vancouver Canucks,2,Anaheim Ducks,3,Paul Devorski,Dennis LaRue,Anaheim Ducks,Vancouver Canucks
+2006030245,Anaheim Ducks,2,Vancouver Canucks,1,Bill McCreary,Dave Jackson,Anaheim Ducks,Vancouver Canucks
+2006030311,Buffalo Sabres,2,Ottawa Senators,5,Bill McCreary,Brad Watson,Ottawa Senators,Buffalo Sabres
+2006030312,Buffalo Sabres,3,Ottawa Senators,4,Dan O'Halloran,Don VanMassenhoven,Ottawa Senators,Buffalo Sabres
+2006030313,Ottawa Senators,1,Buffalo Sabres,0,Paul Devorski,Don Koharski,Ottawa Senators,Buffalo Sabres
+2006030314,Ottawa Senators,2,Buffalo Sabres,3,Rob Shick,Kevin Pollock,Buffalo Sabres,Ottawa Senators
+2006030315,Buffalo Sabres,2,Ottawa Senators,3,Bill McCreary,Brad Watson,Ottawa Senators,Buffalo Sabres
+2006030321,Detroit Red Wings,2,Anaheim Ducks,1,Paul Devorski,Don Koharski,Detroit Red Wings,Anaheim Ducks
+2006030322,Detroit Red Wings,3,Anaheim Ducks,4,Rob Shick,Kevin Pollock,Anaheim Ducks,Detroit Red Wings
+2006030323,Anaheim Ducks,0,Detroit Red Wings,5,Bill McCreary,Brad Watson,Detroit Red Wings,Anaheim Ducks
+2006030324,Anaheim Ducks,5,Detroit Red Wings,3,Dan O'Halloran,Don VanMassenhoven,Anaheim Ducks,Detroit Red Wings
+2006030325,Detroit Red Wings,1,Anaheim Ducks,2,Paul Devorski,Don Koharski,Anaheim Ducks,Detroit Red Wings
+2006030326,Anaheim Ducks,4,Detroit Red Wings,3,Rob Shick,Kevin Pollock,Anaheim Ducks,Detroit Red Wings
+2006030411,Anaheim Ducks,3,Ottawa Senators,2,Paul Devorski,Dan O'Halloran,Anaheim Ducks,Ottawa Senators
+2006030412,Anaheim Ducks,1,Ottawa Senators,0,Bill McCreary,Brad Watson,Anaheim Ducks,Ottawa Senators
+2006030413,Ottawa Senators,5,Anaheim Ducks,3,Paul Devorski,Dan O'Halloran,Ottawa Senators,Anaheim Ducks
+2006030414,Ottawa Senators,2,Anaheim Ducks,3,Bill McCreary,Brad Watson,Anaheim Ducks,Ottawa Senators
+2006030415,Anaheim Ducks,6,Ottawa Senators,2,Paul Devorski,Dan O'Halloran,Anaheim Ducks,Ottawa Senators

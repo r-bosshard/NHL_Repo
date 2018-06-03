@@ -1,0 +1,345 @@
+,Ref,Score,Team
+0,Dan O'Halloran,4,New York Rangers
+1,Dan O'Halloran,2,Ottawa Senators
+2,Tom Kowal,4,New York Rangers
+3,Tom Kowal,2,Ottawa Senators
+4,Ian Walsh,2,New York Rangers
+5,Ian Walsh,3,Ottawa Senators
+6,Stephen Walkom,2,New York Rangers
+7,Stephen Walkom,3,Ottawa Senators
+8,Brad Watson,1,New York Rangers
+9,Brad Watson,0,Ottawa Senators
+10,Mike Leggo,1,New York Rangers
+11,Mike Leggo,0,Ottawa Senators
+12,Eric Furlatt,2,New York Rangers
+13,Eric Furlatt,3,Ottawa Senators
+14,Francois StLaurent,2,New York Rangers
+15,Francois StLaurent,3,Ottawa Senators
+16,Brian Pochmara,0,New York Rangers
+17,Brian Pochmara,2,Ottawa Senators
+18,Marc Joannette,0,New York Rangers
+19,Marc Joannette,2,Ottawa Senators
+20,Steve Kozari,3,New York Rangers
+21,Steve Kozari,2,Ottawa Senators
+22,Tim Peel,3,New York Rangers
+23,Tim Peel,2,Ottawa Senators
+24,Brad Watson,2,New York Rangers
+25,Brad Watson,1,Ottawa Senators
+26,Dan O'Halloran,2,New York Rangers
+27,Dan O'Halloran,1,Ottawa Senators
+28,Ian Walsh,1,Boston Bruins
+29,Ian Walsh,0,Washington Capitals
+30,Stephen Walkom,1,Boston Bruins
+31,Stephen Walkom,0,Washington Capitals
+32,Dan O'Halloran,1,Boston Bruins
+33,Dan O'Halloran,2,Washington Capitals
+34,Tom Kowal,1,Boston Bruins
+35,Tom Kowal,2,Washington Capitals
+36,Chris Lee,4,Boston Bruins
+37,Chris Lee,3,Washington Capitals
+38,Wes McCauley,4,Boston Bruins
+39,Wes McCauley,3,Washington Capitals
+40,Brian Pochmara,1,Boston Bruins
+41,Brian Pochmara,2,Washington Capitals
+42,Marc Joannette,1,Boston Bruins
+43,Marc Joannette,2,Washington Capitals
+44,Steve Kozari,3,Boston Bruins
+45,Steve Kozari,4,Washington Capitals
+46,Tim Peel,3,Boston Bruins
+47,Tim Peel,4,Washington Capitals
+48,Dan O'Rourke,4,Boston Bruins
+49,Dan O'Rourke,3,Washington Capitals
+50,Paul Devorski,4,Boston Bruins
+51,Paul Devorski,3,Washington Capitals
+52,Eric Furlatt,1,Boston Bruins
+53,Eric Furlatt,2,Washington Capitals
+54,Stephen Walkom,1,Boston Bruins
+55,Stephen Walkom,2,Washington Capitals
+56,Eric Furlatt,2,Florida Panthers
+57,Eric Furlatt,3,New Jersey Devils
+58,Francois StLaurent,2,Florida Panthers
+59,Francois StLaurent,3,New Jersey Devils
+60,Brad Meier,4,Florida Panthers
+61,Brad Meier,2,New Jersey Devils
+62,Chris Rooney,4,Florida Panthers
+63,Chris Rooney,2,New Jersey Devils
+64,Steve Kozari,4,Florida Panthers
+65,Steve Kozari,3,New Jersey Devils
+66,Tim Peel,4,Florida Panthers
+67,Tim Peel,3,New Jersey Devils
+68,Ian Walsh,0,Florida Panthers
+69,Ian Walsh,4,New Jersey Devils
+70,Stephen Walkom,0,Florida Panthers
+71,Stephen Walkom,4,New Jersey Devils
+72,Chris Lee,3,Florida Panthers
+73,Chris Lee,0,New Jersey Devils
+74,Wes McCauley,3,Florida Panthers
+75,Wes McCauley,0,New Jersey Devils
+76,Brian Pochmara,2,Florida Panthers
+77,Brian Pochmara,3,New Jersey Devils
+78,Marc Joannette,2,Florida Panthers
+79,Marc Joannette,3,New Jersey Devils
+80,Chris Rooney,2,Florida Panthers
+81,Chris Rooney,3,New Jersey Devils
+82,Dan O'Rourke,2,Florida Panthers
+83,Dan O'Rourke,3,New Jersey Devils
+84,Brad Watson,4,Philadelphia Flyers
+85,Brad Watson,3,Pittsburgh Penguins
+86,Mike Leggo,4,Philadelphia Flyers
+87,Mike Leggo,3,Pittsburgh Penguins
+88,Steve Kozari,8,Philadelphia Flyers
+89,Steve Kozari,5,Pittsburgh Penguins
+90,Tim Peel,8,Philadelphia Flyers
+91,Tim Peel,5,Pittsburgh Penguins
+92,Eric Furlatt,8,Philadelphia Flyers
+93,Eric Furlatt,4,Pittsburgh Penguins
+94,Francois StLaurent,8,Philadelphia Flyers
+95,Francois StLaurent,4,Pittsburgh Penguins
+96,Chris Lee,3,Philadelphia Flyers
+97,Chris Lee,10,Pittsburgh Penguins
+98,Wes McCauley,3,Philadelphia Flyers
+99,Wes McCauley,10,Pittsburgh Penguins
+100,Dan O'Rourke,2,Philadelphia Flyers
+101,Dan O'Rourke,3,Pittsburgh Penguins
+102,Paul Devorski,2,Philadelphia Flyers
+103,Paul Devorski,3,Pittsburgh Penguins
+104,Kelly Sutherland,5,Philadelphia Flyers
+105,Kelly Sutherland,1,Pittsburgh Penguins
+106,Kevin Pollock,5,Philadelphia Flyers
+107,Kevin Pollock,1,Pittsburgh Penguins
+108,Dan O'Rourke,4,Los Angeles Kings
+109,Dan O'Rourke,2,Vancouver Canucks
+110,Paul Devorski,4,Los Angeles Kings
+111,Paul Devorski,2,Vancouver Canucks
+112,Chris Lee,4,Los Angeles Kings
+113,Chris Lee,2,Vancouver Canucks
+114,Wes McCauley,4,Los Angeles Kings
+115,Wes McCauley,2,Vancouver Canucks
+116,Kelly Sutherland,1,Los Angeles Kings
+117,Kelly Sutherland,0,Vancouver Canucks
+118,Kevin Pollock,1,Los Angeles Kings
+119,Kevin Pollock,0,Vancouver Canucks
+120,Dan O'Halloran,1,Los Angeles Kings
+121,Dan O'Halloran,3,Vancouver Canucks
+122,Tom Kowal,1,Los Angeles Kings
+123,Tom Kowal,3,Vancouver Canucks
+124,Brad Meier,2,Los Angeles Kings
+125,Brad Meier,1,Vancouver Canucks
+126,Chris Rooney,2,Los Angeles Kings
+127,Chris Rooney,1,Vancouver Canucks
+128,Kelly Sutherland,3,San Jose Sharks
+129,Kelly Sutherland,2,St. Louis Blues
+130,Kevin Pollock,3,San Jose Sharks
+131,Kevin Pollock,2,St. Louis Blues
+132,Brian Pochmara,0,San Jose Sharks
+133,Brian Pochmara,3,St. Louis Blues
+134,Marc Joannette,0,San Jose Sharks
+135,Marc Joannette,3,St. Louis Blues
+136,Dan O'Rourke,3,San Jose Sharks
+137,Dan O'Rourke,4,St. Louis Blues
+138,Paul Devorski,3,San Jose Sharks
+139,Paul Devorski,4,St. Louis Blues
+140,Brad Meier,1,San Jose Sharks
+141,Brad Meier,2,St. Louis Blues
+142,Chris Rooney,1,San Jose Sharks
+143,Chris Rooney,2,St. Louis Blues
+144,Dan O'Halloran,1,San Jose Sharks
+145,Dan O'Halloran,3,St. Louis Blues
+146,Tom Kowal,1,San Jose Sharks
+147,Tom Kowal,3,St. Louis Blues
+148,Brian Pochmara,2,Chicago Blackhawks
+149,Brian Pochmara,3,Phoenix Coyotes
+150,Marc Joannette,2,Chicago Blackhawks
+151,Marc Joannette,3,Phoenix Coyotes
+152,Dan O'Rourke,4,Chicago Blackhawks
+153,Dan O'Rourke,3,Phoenix Coyotes
+154,Paul Devorski,4,Chicago Blackhawks
+155,Paul Devorski,3,Phoenix Coyotes
+156,Ian Walsh,2,Chicago Blackhawks
+157,Ian Walsh,3,Phoenix Coyotes
+158,Stephen Walkom,2,Chicago Blackhawks
+159,Stephen Walkom,3,Phoenix Coyotes
+160,Kelly Sutherland,2,Chicago Blackhawks
+161,Kelly Sutherland,3,Phoenix Coyotes
+162,Kevin Pollock,2,Chicago Blackhawks
+163,Kevin Pollock,3,Phoenix Coyotes
+164,Brad Watson,2,Chicago Blackhawks
+165,Brad Watson,1,Phoenix Coyotes
+166,Mike Leggo,2,Chicago Blackhawks
+167,Mike Leggo,1,Phoenix Coyotes
+168,Chris Lee,0,Chicago Blackhawks
+169,Chris Lee,4,Phoenix Coyotes
+170,Wes McCauley,0,Chicago Blackhawks
+171,Wes McCauley,4,Phoenix Coyotes
+172,Brad Meier,2,Detroit Red Wings
+173,Brad Meier,3,Nashville Predators
+174,Chris Rooney,2,Detroit Red Wings
+175,Chris Rooney,3,Nashville Predators
+176,Brad Watson,3,Detroit Red Wings
+177,Brad Watson,2,Nashville Predators
+178,Mike Leggo,3,Detroit Red Wings
+179,Mike Leggo,2,Nashville Predators
+180,Steve Kozari,2,Detroit Red Wings
+181,Steve Kozari,3,Nashville Predators
+182,Tim Peel,2,Detroit Red Wings
+183,Tim Peel,3,Nashville Predators
+184,Kelly Sutherland,1,Detroit Red Wings
+185,Kelly Sutherland,3,Nashville Predators
+186,Kevin Pollock,1,Detroit Red Wings
+187,Kevin Pollock,3,Nashville Predators
+188,Eric Furlatt,1,Detroit Red Wings
+189,Eric Furlatt,2,Nashville Predators
+190,Francois StLaurent,1,Detroit Red Wings
+191,Francois StLaurent,2,Nashville Predators
+192,Kevin Pollock,3,New York Rangers
+193,Kevin Pollock,1,Washington Capitals
+194,Steve Kozari,3,New York Rangers
+195,Steve Kozari,1,Washington Capitals
+196,Eric Furlatt,2,New York Rangers
+197,Eric Furlatt,3,Washington Capitals
+198,Stephen Walkom,2,New York Rangers
+199,Stephen Walkom,3,Washington Capitals
+200,Chris Rooney,2,New York Rangers
+201,Chris Rooney,1,Washington Capitals
+202,Dan O'Rourke,2,New York Rangers
+203,Dan O'Rourke,1,Washington Capitals
+204,Brad Watson,2,New York Rangers
+205,Brad Watson,3,Washington Capitals
+206,Marc Joannette,2,New York Rangers
+207,Marc Joannette,3,Washington Capitals
+208,Chris Lee,3,New York Rangers
+209,Chris Lee,2,Washington Capitals
+210,Kelly Sutherland,3,New York Rangers
+211,Kelly Sutherland,2,Washington Capitals
+212,Dan O'Halloran,1,New York Rangers
+213,Dan O'Halloran,2,Washington Capitals
+214,Wes McCauley,1,New York Rangers
+215,Wes McCauley,2,Washington Capitals
+216,Chris Rooney,2,New York Rangers
+217,Chris Rooney,1,Washington Capitals
+218,Dan O'Rourke,2,New York Rangers
+219,Dan O'Rourke,1,Washington Capitals
+220,Dan O'Halloran,3,New Jersey Devils
+221,Dan O'Halloran,4,Philadelphia Flyers
+222,Wes McCauley,3,New Jersey Devils
+223,Wes McCauley,4,Philadelphia Flyers
+224,Chris Lee,4,New Jersey Devils
+225,Chris Lee,1,Philadelphia Flyers
+226,Kelly Sutherland,4,New Jersey Devils
+227,Kelly Sutherland,1,Philadelphia Flyers
+228,Brad Watson,4,New Jersey Devils
+229,Brad Watson,3,Philadelphia Flyers
+230,Marc Joannette,4,New Jersey Devils
+231,Marc Joannette,3,Philadelphia Flyers
+232,Kevin Pollock,4,New Jersey Devils
+233,Kevin Pollock,2,Philadelphia Flyers
+234,Steve Kozari,4,New Jersey Devils
+235,Steve Kozari,2,Philadelphia Flyers
+236,Eric Furlatt,3,New Jersey Devils
+237,Eric Furlatt,1,Philadelphia Flyers
+238,Stephen Walkom,3,New Jersey Devils
+239,Stephen Walkom,1,Philadelphia Flyers
+240,Eric Furlatt,3,Los Angeles Kings
+241,Eric Furlatt,1,St. Louis Blues
+242,Stephen Walkom,3,Los Angeles Kings
+243,Stephen Walkom,1,St. Louis Blues
+244,Chris Rooney,5,Los Angeles Kings
+245,Chris Rooney,2,St. Louis Blues
+246,Dan O'Rourke,5,Los Angeles Kings
+247,Dan O'Rourke,2,St. Louis Blues
+248,Kevin Pollock,4,Los Angeles Kings
+249,Kevin Pollock,2,St. Louis Blues
+250,Steve Kozari,4,Los Angeles Kings
+251,Steve Kozari,2,St. Louis Blues
+252,Dan O'Halloran,3,Los Angeles Kings
+253,Dan O'Halloran,1,St. Louis Blues
+254,Wes McCauley,3,Los Angeles Kings
+255,Wes McCauley,1,St. Louis Blues
+256,Chris Lee,3,Nashville Predators
+257,Chris Lee,4,Phoenix Coyotes
+258,Kelly Sutherland,3,Nashville Predators
+259,Kelly Sutherland,4,Phoenix Coyotes
+260,Brad Watson,3,Nashville Predators
+261,Brad Watson,5,Phoenix Coyotes
+262,Marc Joannette,3,Nashville Predators
+263,Marc Joannette,5,Phoenix Coyotes
+264,Eric Furlatt,2,Nashville Predators
+265,Eric Furlatt,0,Phoenix Coyotes
+266,Stephen Walkom,2,Nashville Predators
+267,Stephen Walkom,0,Phoenix Coyotes
+268,Dan O'Halloran,0,Nashville Predators
+269,Dan O'Halloran,1,Phoenix Coyotes
+270,Wes McCauley,0,Nashville Predators
+271,Wes McCauley,1,Phoenix Coyotes
+272,Chris Rooney,1,Nashville Predators
+273,Chris Rooney,2,Phoenix Coyotes
+274,Dan O'Rourke,1,Nashville Predators
+275,Dan O'Rourke,2,Phoenix Coyotes
+276,Dan O'Halloran,0,New Jersey Devils
+277,Dan O'Halloran,3,New York Rangers
+278,Wes McCauley,0,New Jersey Devils
+279,Wes McCauley,3,New York Rangers
+280,Chris Lee,3,New Jersey Devils
+281,Chris Lee,2,New York Rangers
+282,Kelly Sutherland,3,New Jersey Devils
+283,Kelly Sutherland,2,New York Rangers
+284,Brad Watson,0,New Jersey Devils
+285,Brad Watson,3,New York Rangers
+286,Kevin Pollock,0,New Jersey Devils
+287,Kevin Pollock,3,New York Rangers
+288,Chris Rooney,4,New Jersey Devils
+289,Chris Rooney,1,New York Rangers
+290,Dan O'Rourke,4,New Jersey Devils
+291,Dan O'Rourke,1,New York Rangers
+292,Dan O'Halloran,5,New Jersey Devils
+293,Dan O'Halloran,3,New York Rangers
+294,Wes McCauley,5,New Jersey Devils
+295,Wes McCauley,3,New York Rangers
+296,Brad Watson,3,New Jersey Devils
+297,Brad Watson,2,New York Rangers
+298,Kevin Pollock,3,New Jersey Devils
+299,Kevin Pollock,2,New York Rangers
+300,Brad Watson,4,Los Angeles Kings
+301,Brad Watson,2,Phoenix Coyotes
+302,Kevin Pollock,4,Los Angeles Kings
+303,Kevin Pollock,2,Phoenix Coyotes
+304,Chris Rooney,4,Los Angeles Kings
+305,Chris Rooney,0,Phoenix Coyotes
+306,Dan O'Rourke,4,Los Angeles Kings
+307,Dan O'Rourke,0,Phoenix Coyotes
+308,Dan O'Halloran,2,Los Angeles Kings
+309,Dan O'Halloran,1,Phoenix Coyotes
+310,Wes McCauley,2,Los Angeles Kings
+311,Wes McCauley,1,Phoenix Coyotes
+312,Chris Lee,0,Los Angeles Kings
+313,Chris Lee,2,Phoenix Coyotes
+314,Kelly Sutherland,0,Los Angeles Kings
+315,Kelly Sutherland,2,Phoenix Coyotes
+316,Brad Watson,4,Los Angeles Kings
+317,Brad Watson,3,Phoenix Coyotes
+318,Kevin Pollock,4,Los Angeles Kings
+319,Kevin Pollock,3,Phoenix Coyotes
+320,Brad Watson,2,Los Angeles Kings
+321,Brad Watson,1,New Jersey Devils
+322,Dan O'Halloran,2,Los Angeles Kings
+323,Dan O'Halloran,1,New Jersey Devils
+324,Chris Rooney,2,Los Angeles Kings
+325,Chris Rooney,1,New Jersey Devils
+326,Dan O'Rourke,2,Los Angeles Kings
+327,Dan O'Rourke,1,New Jersey Devils
+328,Brad Watson,4,Los Angeles Kings
+329,Brad Watson,0,New Jersey Devils
+330,Dan O'Halloran,4,Los Angeles Kings
+331,Dan O'Halloran,0,New Jersey Devils
+332,Chris Rooney,1,Los Angeles Kings
+333,Chris Rooney,3,New Jersey Devils
+334,Dan O'Rourke,1,Los Angeles Kings
+335,Dan O'Rourke,3,New Jersey Devils
+336,Brad Watson,1,Los Angeles Kings
+337,Brad Watson,2,New Jersey Devils
+338,Dan O'Halloran,1,Los Angeles Kings
+339,Dan O'Halloran,2,New Jersey Devils
+340,Chris Rooney,6,Los Angeles Kings
+341,Chris Rooney,1,New Jersey Devils
+342,Dan O'Rourke,6,Los Angeles Kings
+343,Dan O'Rourke,1,New Jersey Devils

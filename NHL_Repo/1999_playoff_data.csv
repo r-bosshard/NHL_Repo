@@ -1,0 +1,84 @@
+code,home_team,home_score,away_team,away_score,official_1,official_2,winner,loser
+1999030111,Philadelphia Flyers,3,Buffalo Sabres,2,Mark Faucette,Don Van Massenhoven,Philadelphia Flyers,Buffalo Sabres
+1999030112,Philadelphia Flyers,2,Buffalo Sabres,1,Michael McGeough,Robbie Shick,Philadelphia Flyers,Buffalo Sabres
+1999030113,Buffalo Sabres,0,Philadelphia Flyers,2,Bill McCreary,Lance Roberts,Philadelphia Flyers,Buffalo Sabres
+1999030114,Buffalo Sabres,3,Philadelphia Flyers,2,Dan Marouelli,Brad Watson,Buffalo Sabres,Philadelphia Flyers
+1999030115,Philadelphia Flyers,5,Buffalo Sabres,2,Stephen Walkom,Richard Trotier,Philadelphia Flyers,Buffalo Sabres
+1999030121,Washington Capitals,0,Pittsburgh Penguins,7,Michael McGeough,Robbie Shick,Pittsburgh Penguins,Washington Capitals
+1999030122,Pittsburgh Penguins,2,Washington Capitals,1,Don Koharski,Paul Stewart,Pittsburgh Penguins,Washington Capitals
+1999030123,Pittsburgh Penguins,4,Washington Capitals,3,Terry Gregson,Dan O'Halloran,Pittsburgh Penguins,Washington Capitals
+1999030124,Washington Capitals,3,Pittsburgh Penguins,2,Dan Marouelli,Brad Watson,Washington Capitals,Pittsburgh Penguins
+1999030125,Washington Capitals,1,Pittsburgh Penguins,2,Paul Devorski,Dave Jackson,Pittsburgh Penguins,Washington Capitals
+1999030131,Toronto Maple Leafs,2,Ottawa Senators,0,Bill McCreary,Lance Roberts,Toronto Maple Leafs,Ottawa Senators
+1999030132,Toronto Maple Leafs,5,Ottawa Senators,1,Terry Gregson,Dan O'Halloran,Toronto Maple Leafs,Ottawa Senators
+1999030133,Ottawa Senators,4,Toronto Maple Leafs,3,Michael McGeough,Robbie Shick,Ottawa Senators,Toronto Maple Leafs
+1999030134,Ottawa Senators,2,Toronto Maple Leafs,1,Mark Faucette,Don Van Massenhoven,Ottawa Senators,Toronto Maple Leafs
+1999030135,Toronto Maple Leafs,2,Ottawa Senators,1,Dan Marouelli,Paul Devorski,Toronto Maple Leafs,Ottawa Senators
+1999030136,Ottawa Senators,2,Toronto Maple Leafs,4,Dave Jackson,Don Koharski,Toronto Maple Leafs,Ottawa Senators
+1999030141,New Jersey Devils,4,Florida Panthers,3,Kerry Fraser,Dennis LaRue,New Jersey Devils,Florida Panthers
+1999030142,New Jersey Devils,2,Florida Panthers,1,Dan Marouelli,Brad Watson,New Jersey Devils,Florida Panthers
+1999030143,Florida Panthers,1,New Jersey Devils,2,Richard Trottier,Stephen Walkom,New Jersey Devils,Florida Panthers
+1999030144,Florida Panthers,1,New Jersey Devils,4,Terry Gregson,Dan O'Halloran,New Jersey Devils,Florida Panthers
+1999030151,St. Louis Blues,5,San Jose Sharks,3,Terry Gregson,Dan O'Halloran,St. Louis Blues,San Jose Sharks
+1999030152,St. Louis Blues,2,San Jose Sharks,4,Richard Trottier,Stephen Walkom,San Jose Sharks,St. Louis Blues
+1999030153,San Jose Sharks,2,St. Louis Blues,1,Paul Devorski,Dave Jackson,San Jose Sharks,St. Louis Blues
+1999030154,San Jose Sharks,3,St. Louis Blues,2,Kerry Fraser,Dennis LaRue,San Jose Sharks,St. Louis Blues
+1999030155,St. Louis Blues,5,San Jose Sharks,3,Bill McCreary,Lance Roberts,St. Louis Blues,San Jose Sharks
+1999030156,San Jose Sharks,2,St. Louis Blues,6,Terry Gregson,Stephen Walkom,St. Louis Blues,San Jose Sharks
+1999030157,St. Louis Blues,1,San Jose Sharks,3,Kerry Fraser,Dan Marouelli,San Jose Sharks,St. Louis Blues
+1999030161,Dallas Stars,2,Edmonton Oilers,1,Richard Trottier,Stephen Walkom,Dallas Stars,Edmonton Oilers
+1999030162,Dallas Stars,3,Edmonton Oilers,0,Paul Devorski,Dave Jackson,Dallas Stars,Edmonton Oilers
+1999030163,Edmonton Oilers,5,Dallas Stars,2,Mark Faucette,Don Van Massenhoven,Edmonton Oilers,Dallas Stars
+1999030164,Edmonton Oilers,3,Dallas Stars,4,Bill McCreary,Lance Roberts,Dallas Stars,Edmonton Oilers
+1999030165,Dallas Stars,3,Edmonton Oilers,2,Kerry Frazier,Dennis LaRue,Dallas Stars,Edmonton Oilers
+1999030171,Colorado Avalanche,6,Phoenix Coyotes,3,Dan Marouelli,Brad Watson,Colorado Avalanche,Phoenix Coyotes
+1999030172,Colorado Avalanche,3,Phoenix Coyotes,1,Paul Devorski,Dave Jackson,Colorado Avalanche,Phoenix Coyotes
+1999030173,Phoenix Coyotes,2,Colorado Avalanche,4,Kerry Fraser,Dennis LaRue,Colorado Avalanche,Phoenix Coyotes
+1999030174,Phoenix Coyotes,3,Colorado Avalanche,2,Don Koharski,Paul Stewart,Phoenix Coyotes,Colorado Avalanche
+1999030175,Colorado Avalanche,2,Phoenix Coyotes,1,MArk Faucette,Don Van Massenhoven,Colorado Avalanche,Phoenix Coyotes
+1999030181,Detroit Red Wings,2,Los Angeles Kings,0,Bill McCreary,Lance Roberts,Detroit Red Wings,Los Angeles Kings
+1999030182,Detroit Red Wings,8,Los Angeles Kings,5,Kerry Fraser,Dennis LaRue,Detroit Red Wings,Los Angeles Kings
+1999030183,Los Angeles Kings,1,Detroit Red Wings,2,Don Koharski,Paul Stewart,Detroit Red Wings,Los Angeles Kings
+1999030184,Los Angeles Kings,0,Detroit Red Wings,3,Paul Devorski,Dave Jackson,Detroit Red Wings,Los Angeles Kings
+1999030211,Philadelphia Flyers,0,Pittsburgh Penguins,2,Don Koharski  #12,Mick McGeough  #19,Pittsburgh Penguins,Philadelphia Flyers
+1999030212,Philadelphia Flyers,1,Pittsburgh Penguins,4,Bill McCreary,Lance Roberts,Pittsburgh Penguins,Philadelphia Flyers
+1999030213,Pittsburgh Penguins,3,Philadelphia Flyers,4,Terry Gregson,Richard Trottier,Philadelphia Flyers,Pittsburgh Penguins
+1999030214,Pittsburgh Penguins,1,Philadelphia Flyers,2,Dan Marouelli,Robbie Shick,Philadelphia Flyers,Pittsburgh Penguins
+1999030215,Philadelphia Flyers,6,Pittsburgh Penguins,3,Mark Faucette,Don Van Massenhoven,Philadelphia Flyers,Pittsburgh Penguins
+1999030216,Pittsburgh Penguins,1,Philadelphia Flyers,2,Paul Devorski,Bill McCreary,Philadelphia Flyers,Pittsburgh Penguins
+1999030221,Toronto Maple Leafs,2,New Jersey Devils,1,Bill McCreary,Lance Roberts,Toronto Maple Leafs,New Jersey Devils
+1999030222,Toronto Maple Leafs,0,New Jersey Devils,1,Terry Gregson,Richard Trottier,New Jersey Devils,Toronto Maple Leafs
+1999030223,New Jersey Devils,5,Toronto Maple Leafs,1,Don Koharski,Michael McGeough,New Jersey Devils,Toronto Maple Leafs
+1999030224,New Jersey Devils,2,Toronto Maple Leafs,3,Paul Devorski,Stephen Walkom,Toronto Maple Leafs,New Jersey Devils
+1999030225,Toronto Maple Leafs,3,New Jersey Devils,4,Dan Marouelli,Robbie Shick,New Jersey Devils,Toronto Maple Leafs
+1999030226,New Jersey Devils,3,Toronto Maple Leafs,0,Don Koharski,Mark Faucette,New Jersey Devils,Toronto Maple Leafs
+1999030231,Dallas Stars,4,San Jose Sharks,0,Paul Devorski,Stephen Walkom,Dallas Stars,San Jose Sharks
+1999030232,Dallas Stars,1,San Jose Sharks,0,Kerry Fraser,Dave Jackson,Dallas Stars,San Jose Sharks
+1999030233,San Jose Sharks,2,Dallas Stars,1,Mark Faucette,Don Van Massenhoven,San Jose Sharks,Dallas Stars
+1999030234,San Jose Sharks,4,Dallas Stars,5,Bill McCreary,Lance Roberts,Dallas Stars,San Jose Sharks
+1999030235,Dallas Stars,4,San Jose Sharks,1,Kerry Fraser,Richard Trottier,Dallas Stars,San Jose Sharks
+1999030241,Colorado Avalanche,2,Detroit Red Wings,0,Dan Marouelli,Rob Shick,Colorado Avalanche,Detroit Red Wings
+1999030242,Colorado Avalanche,3,Detroit Red Wings,1,Mark Faucette,Don Van Massenhoven,Colorado Avalanche,Detroit Red Wings
+1999030243,Detroit Red Wings,3,Colorado Avalanche,1,Paul Devorski,Stephan Walkom,Detroit Red Wings,Colorado Avalanche
+1999030244,Detroit Red Wings,2,Colorado Avalanche,3,Kerry Fraser,Dave Jackson,Colorado Avalanche,Detroit Red Wings
+1999030245,Colorado Avalanche,4,Detroit Red Wings,2,Don Koharski,Michael McGeough,Colorado Avalanche,Detroit Red Wings
+1999030311,Philadelphia Flyers,1,New Jersey Devils,4,Don Koharski,Robbie Shick,New Jersey Devils,Philadelphia Flyers
+1999030312,Philadelphia Flyers,4,New Jersey Devils,3,Paul Devorski,Dan Marouelli,Philadelphia Flyers,New Jersey Devils
+1999030313,New Jersey Devils,2,Philadelphia Flyers,4,Mark Faucette,Terry Gregson,Philadelphia Flyers,New Jersey Devils
+1999030314,New Jersey Devils,1,Philadelphia Flyers,3,Kerry Fraser,Stephen Walkom,Philadelphia Flyers,New Jersey Devils
+1999030315,Philadelphia Flyers,1,New Jersey Devils,4,Bill McCreary  #7,Don Van Massenhoven,New Jersey Devils,Philadelphia Flyers
+1999030316,New Jersey Devils,2,Philadelphia Flyers,1,Mark Faucette,Dan Marouelli,New Jersey Devils,Philadelphia Flyers
+1999030317,Philadelphia Flyers,1,New Jersey Devils,2,Don Koharski,Dan Marouelli,New Jersey Devils,Philadelphia Flyers
+1999030321,Dallas Stars,0,Colorado Avalanche,2,Mark Faucette,Terry Gregson,Colorado Avalanche,Dallas Stars
+1999030322,Dallas Stars,3,Colorado Avalanche,2,Kerry Fraser,Stephen Walkom,Dallas Stars,Colorado Avalanche
+1999030323,Colorado Avalanche,2,Dallas Stars,0,Bill McCreary,Don Van Massenhoven,Colorado Avalanche,Dallas Stars
+1999030324,Colorado Avalanche,1,Dallas Stars,4,Paul Devorski,Dan Marouelli,Dallas Stars,Colorado Avalanche
+1999030325,Dallas Stars,3,Colorado Avalanche,2,Don Koharski,Robbie Shick,Dallas Stars,Colorado Avalanche
+1999030326,Colorado Avalanche,2,Dallas Stars,1,Kerry Fraser,Terry Gregson,Colorado Avalanche,Dallas Stars
+1999030327,Dallas Stars,3,Colorado Avalanche,2,Terry Gregson,Bill McCreary,Dallas Stars,Colorado Avalanche
+1999030411,New Jersey Devils,7,Dallas Stars,3,Don Koharski,Bill McCreary,New Jersey Devils,Dallas Stars
+1999030412,New Jersey Devils,1,Dallas Stars,2,Kerry Fraser,Dan Marouelli,Dallas Stars,New Jersey Devils
+1999030413,Dallas Stars,1,New Jersey Devils,2,Terry Gregson,Don Koharski,New Jersey Devils,Dallas Stars
+1999030414,Dallas Stars,1,New Jersey Devils,3,Kerry Fraser,Bill McCreary,New Jersey Devils,Dallas Stars
+1999030415,New Jersey Devils,0,Dallas Stars,1,Don Koharski,Dan Marouelli,Dallas Stars,New Jersey Devils
+1999030416,Dallas Stars,1,New Jersey Devils,2,Terry Gregson,Bill McCreary,New Jersey Devils,Dallas Stars

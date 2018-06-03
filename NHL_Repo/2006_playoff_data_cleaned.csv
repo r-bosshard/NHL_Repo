@@ -1,0 +1,325 @@
+,Ref,Score,Team
+0,Brad Watson,4,Buffalo Sabres
+1,Brad Watson,1,New York Islanders
+2,Wes McCauley,4,Buffalo Sabres
+3,Wes McCauley,1,New York Islanders
+4,Don Koharski,2,Buffalo Sabres
+5,Don Koharski,3,New York Islanders
+6,Marc Joannette,2,Buffalo Sabres
+7,Marc Joannette,3,New York Islanders
+8,Dennis LaRue,3,Buffalo Sabres
+9,Dennis LaRue,2,New York Islanders
+10,Kevin Pollock,3,Buffalo Sabres
+11,Kevin Pollock,2,New York Islanders
+12,Mike Leggo,4,Buffalo Sabres
+13,Mike Leggo,2,New York Islanders
+14,Rob Shick,4,Buffalo Sabres
+15,Rob Shick,2,New York Islanders
+16,Dan O'Halloran,4,Buffalo Sabres
+17,Dan O'Halloran,3,New York Islanders
+18,Mike Hasenfratz,4,Buffalo Sabres
+19,Mike Hasenfratz,3,New York Islanders
+20,Don Koharski,5,New Jersey Devils
+21,Don Koharski,3,Tampa Bay Lightning
+22,Marc Joannette,5,New Jersey Devils
+23,Marc Joannette,3,Tampa Bay Lightning
+24,Dennis LaRue,2,New Jersey Devils
+25,Dennis LaRue,3,Tampa Bay Lightning
+26,Kevin Pollock,2,New Jersey Devils
+27,Kevin Pollock,3,Tampa Bay Lightning
+28,Mike Leggo,2,New Jersey Devils
+29,Mike Leggo,3,Tampa Bay Lightning
+30,Rob Shick,2,New Jersey Devils
+31,Rob Shick,3,Tampa Bay Lightning
+32,Dave Jackson,4,New Jersey Devils
+33,Dave Jackson,3,Tampa Bay Lightning
+34,Michael McGeough,4,New Jersey Devils
+35,Michael McGeough,3,Tampa Bay Lightning
+36,Don VanMassenhoven,3,New Jersey Devils
+37,Don VanMassenhoven,0,Tampa Bay Lightning
+38,Tim Peel,3,New Jersey Devils
+39,Tim Peel,0,Tampa Bay Lightning
+40,Bill McCreary,3,New Jersey Devils
+41,Bill McCreary,2,Tampa Bay Lightning
+42,Eric Furlatt,3,New Jersey Devils
+43,Eric Furlatt,2,Tampa Bay Lightning
+44,Dennis LaRue,3,Atlanta Thrashers
+45,Dennis LaRue,4,New York Rangers
+46,Kevin Pollock,3,Atlanta Thrashers
+47,Kevin Pollock,4,New York Rangers
+48,Mike Leggo,1,Atlanta Thrashers
+49,Mike Leggo,2,New York Rangers
+50,Rob Shick,1,Atlanta Thrashers
+51,Rob Shick,2,New York Rangers
+52,Don VanMassenhoven,0,Atlanta Thrashers
+53,Don VanMassenhoven,7,New York Rangers
+54,Tim Peel,0,Atlanta Thrashers
+55,Tim Peel,7,New York Rangers
+56,Dan O'Halloran,2,Atlanta Thrashers
+57,Dan O'Halloran,4,New York Rangers
+58,Mike Hasenfratz,2,Atlanta Thrashers
+59,Mike Hasenfratz,4,New York Rangers
+60,Dan O'Rourke,6,Ottawa Senators
+61,Dan O'Rourke,3,Pittsburgh Penguins
+62,Paul Devorski,6,Ottawa Senators
+63,Paul Devorski,3,Pittsburgh Penguins
+64,Dave Jackson,3,Ottawa Senators
+65,Dave Jackson,4,Pittsburgh Penguins
+66,Michael McGeough,3,Ottawa Senators
+67,Michael McGeough,4,Pittsburgh Penguins
+68,Don VanMassenhoven,4,Ottawa Senators
+69,Don VanMassenhoven,2,Pittsburgh Penguins
+70,Tim Peel,4,Ottawa Senators
+71,Tim Peel,2,Pittsburgh Penguins
+72,Dan Marouelli,2,Ottawa Senators
+73,Dan Marouelli,1,Pittsburgh Penguins
+74,Kelly Sutherland,2,Ottawa Senators
+75,Kelly Sutherland,1,Pittsburgh Penguins
+76,Bill McCreary,3,Ottawa Senators
+77,Bill McCreary,0,Pittsburgh Penguins
+78,Eric Furlatt,3,Ottawa Senators
+79,Eric Furlatt,0,Pittsburgh Penguins
+80,Dave Jackson,1,Calgary Flames
+81,Dave Jackson,4,Detroit Red Wings
+82,Michael McGeough,1,Calgary Flames
+83,Michael McGeough,4,Detroit Red Wings
+84,Dan O'Rourke,1,Calgary Flames
+85,Dan O'Rourke,3,Detroit Red Wings
+86,Paul Devorski,1,Calgary Flames
+87,Paul Devorski,3,Detroit Red Wings
+88,Bill McCreary,3,Calgary Flames
+89,Bill McCreary,2,Detroit Red Wings
+90,Eric Furlatt,3,Calgary Flames
+91,Eric Furlatt,2,Detroit Red Wings
+92,Brad Watson,3,Calgary Flames
+93,Brad Watson,2,Detroit Red Wings
+94,Wes McCauley,3,Calgary Flames
+95,Wes McCauley,2,Detroit Red Wings
+96,Don Koharski,1,Calgary Flames
+97,Don Koharski,5,Detroit Red Wings
+98,Marc Joannette,1,Calgary Flames
+99,Marc Joannette,5,Detroit Red Wings
+100,Dan O'Halloran,1,Calgary Flames
+101,Dan O'Halloran,2,Detroit Red Wings
+102,Don VanMassenhoven,1,Calgary Flames
+103,Don VanMassenhoven,2,Detroit Red Wings
+104,Dan O'Halloran,2,Anaheim Ducks
+105,Dan O'Halloran,1,Minnesota Wild
+106,Mike Hasenfratz,2,Anaheim Ducks
+107,Mike Hasenfratz,1,Minnesota Wild
+108,Bill McCreary,3,Anaheim Ducks
+109,Bill McCreary,2,Minnesota Wild
+110,Eric Furlatt,3,Anaheim Ducks
+111,Eric Furlatt,2,Minnesota Wild
+112,Brad Watson,2,Anaheim Ducks
+113,Brad Watson,1,Minnesota Wild
+114,Wes McCauley,2,Anaheim Ducks
+115,Wes McCauley,1,Minnesota Wild
+116,Dan O'Rourke,1,Anaheim Ducks
+117,Dan O'Rourke,4,Minnesota Wild
+118,Paul Devorski,1,Anaheim Ducks
+119,Paul Devorski,4,Minnesota Wild
+120,Dan Marouelli,4,Anaheim Ducks
+121,Dan Marouelli,1,Minnesota Wild
+122,Kelly Sutherland,4,Anaheim Ducks
+123,Kelly Sutherland,1,Minnesota Wild
+124,Bill McCreary,4,Dallas Stars
+125,Bill McCreary,5,Vancouver Canucks
+126,Eric Furlatt,4,Dallas Stars
+127,Eric Furlatt,5,Vancouver Canucks
+128,Dan O'Halloran,2,Dallas Stars
+129,Dan O'Halloran,0,Vancouver Canucks
+130,Mike Hasenfratz,2,Dallas Stars
+131,Mike Hasenfratz,0,Vancouver Canucks
+132,Dan Marouelli,1,Dallas Stars
+133,Dan Marouelli,2,Vancouver Canucks
+134,Kelly Sutherland,1,Dallas Stars
+135,Kelly Sutherland,2,Vancouver Canucks
+136,Brad Watson,1,Dallas Stars
+137,Brad Watson,2,Vancouver Canucks
+138,Wes McCauley,1,Dallas Stars
+139,Wes McCauley,2,Vancouver Canucks
+140,Dennis LaRue,1,Dallas Stars
+141,Dennis LaRue,0,Vancouver Canucks
+142,Kevin Pollock,1,Dallas Stars
+143,Kevin Pollock,0,Vancouver Canucks
+144,Dave Jackson,2,Dallas Stars
+145,Dave Jackson,0,Vancouver Canucks
+146,Paul Devorski,2,Dallas Stars
+147,Paul Devorski,0,Vancouver Canucks
+148,Brad Watson,1,Dallas Stars
+149,Brad Watson,4,Vancouver Canucks
+150,Rob Shick,1,Dallas Stars
+151,Rob Shick,4,Vancouver Canucks
+152,Don VanMassenhoven,4,Nashville Predators
+153,Don VanMassenhoven,5,San Jose Sharks
+154,Tim Peel,4,Nashville Predators
+155,Tim Peel,5,San Jose Sharks
+156,Dan Marouelli,5,Nashville Predators
+157,Dan Marouelli,2,San Jose Sharks
+158,Kelly Sutherland,5,Nashville Predators
+159,Kelly Sutherland,2,San Jose Sharks
+160,Dave Jackson,1,Nashville Predators
+161,Dave Jackson,3,San Jose Sharks
+162,Michael McGeough,1,Nashville Predators
+163,Michael McGeough,3,San Jose Sharks
+164,Don Koharski,2,Nashville Predators
+165,Don Koharski,3,San Jose Sharks
+166,Marc Joannette,2,Nashville Predators
+167,Marc Joannette,3,San Jose Sharks
+168,Mike Leggo,2,Nashville Predators
+169,Mike Leggo,3,San Jose Sharks
+170,Rob Shick,2,Nashville Predators
+171,Rob Shick,3,San Jose Sharks
+172,Don Koharski,5,Buffalo Sabres
+173,Don Koharski,2,New York Rangers
+174,Marc Joannette,5,Buffalo Sabres
+175,Marc Joannette,2,New York Rangers
+176,Brad Watson,3,Buffalo Sabres
+177,Brad Watson,2,New York Rangers
+178,Kelly Sutherland,3,Buffalo Sabres
+179,Kelly Sutherland,2,New York Rangers
+180,Dennis LaRue,1,Buffalo Sabres
+181,Dennis LaRue,2,New York Rangers
+182,Paul Devorski,1,Buffalo Sabres
+183,Paul Devorski,2,New York Rangers
+184,Bill McCreary,1,Buffalo Sabres
+185,Bill McCreary,2,New York Rangers
+186,Dave Jackson,1,Buffalo Sabres
+187,Dave Jackson,2,New York Rangers
+188,Dan O'Halloran,2,Buffalo Sabres
+189,Dan O'Halloran,1,New York Rangers
+190,Don VanMassenhoven,2,Buffalo Sabres
+191,Don VanMassenhoven,1,New York Rangers
+192,Kevin Pollock,5,Buffalo Sabres
+193,Kevin Pollock,4,New York Rangers
+194,Rob Shick,5,Buffalo Sabres
+195,Rob Shick,4,New York Rangers
+196,Bill McCreary,4,New Jersey Devils
+197,Bill McCreary,5,Ottawa Senators
+198,Dave Jackson,4,New Jersey Devils
+199,Dave Jackson,5,Ottawa Senators
+200,Dan O'Halloran,3,New Jersey Devils
+201,Dan O'Halloran,2,Ottawa Senators
+202,Don VanMassenhoven,3,New Jersey Devils
+203,Don VanMassenhoven,2,Ottawa Senators
+204,Brad Watson,0,New Jersey Devils
+205,Brad Watson,2,Ottawa Senators
+206,Kelly Sutherland,0,New Jersey Devils
+207,Kelly Sutherland,2,Ottawa Senators
+208,Don Koharski,2,New Jersey Devils
+209,Don Koharski,3,Ottawa Senators
+210,Marc Joannette,2,New Jersey Devils
+211,Marc Joannette,3,Ottawa Senators
+212,Dennis LaRue,2,New Jersey Devils
+213,Dennis LaRue,3,Ottawa Senators
+214,Paul Devorski,2,New Jersey Devils
+215,Paul Devorski,3,Ottawa Senators
+216,Dennis LaRue,0,Detroit Red Wings
+217,Dennis LaRue,2,San Jose Sharks
+218,Paul Devorski,0,Detroit Red Wings
+219,Paul Devorski,2,San Jose Sharks
+220,Bill McCreary,3,Detroit Red Wings
+221,Bill McCreary,2,San Jose Sharks
+222,Dave Jackson,3,Detroit Red Wings
+223,Dave Jackson,2,San Jose Sharks
+224,Kevin Pollock,1,Detroit Red Wings
+225,Kevin Pollock,2,San Jose Sharks
+226,Rob Shick,1,Detroit Red Wings
+227,Rob Shick,2,San Jose Sharks
+228,Brad Watson,3,Detroit Red Wings
+229,Brad Watson,2,San Jose Sharks
+230,Kelly Sutherland,3,Detroit Red Wings
+231,Kelly Sutherland,2,San Jose Sharks
+232,Don Koharski,4,Detroit Red Wings
+233,Don Koharski,1,San Jose Sharks
+234,Marc Joannette,4,Detroit Red Wings
+235,Marc Joannette,1,San Jose Sharks
+236,Dan O'Halloran,2,Detroit Red Wings
+237,Dan O'Halloran,0,San Jose Sharks
+238,Don VanMassenhoven,2,Detroit Red Wings
+239,Don VanMassenhoven,0,San Jose Sharks
+240,Dan O'Halloran,5,Anaheim Ducks
+241,Dan O'Halloran,1,Vancouver Canucks
+242,Don VanMassenhoven,5,Anaheim Ducks
+243,Don VanMassenhoven,1,Vancouver Canucks
+244,Kevin Pollock,1,Anaheim Ducks
+245,Kevin Pollock,2,Vancouver Canucks
+246,Rob Shick,1,Anaheim Ducks
+247,Rob Shick,2,Vancouver Canucks
+248,Don Koharski,3,Anaheim Ducks
+249,Don Koharski,2,Vancouver Canucks
+250,Marc Joannette,3,Anaheim Ducks
+251,Marc Joannette,2,Vancouver Canucks
+252,Dennis LaRue,3,Anaheim Ducks
+253,Dennis LaRue,2,Vancouver Canucks
+254,Paul Devorski,3,Anaheim Ducks
+255,Paul Devorski,2,Vancouver Canucks
+256,Bill McCreary,2,Anaheim Ducks
+257,Bill McCreary,1,Vancouver Canucks
+258,Dave Jackson,2,Anaheim Ducks
+259,Dave Jackson,1,Vancouver Canucks
+260,Bill McCreary,2,Buffalo Sabres
+261,Bill McCreary,5,Ottawa Senators
+262,Brad Watson,2,Buffalo Sabres
+263,Brad Watson,5,Ottawa Senators
+264,Dan O'Halloran,3,Buffalo Sabres
+265,Dan O'Halloran,4,Ottawa Senators
+266,Don VanMassenhoven,3,Buffalo Sabres
+267,Don VanMassenhoven,4,Ottawa Senators
+268,Don Koharski,0,Buffalo Sabres
+269,Don Koharski,1,Ottawa Senators
+270,Paul Devorski,0,Buffalo Sabres
+271,Paul Devorski,1,Ottawa Senators
+272,Kevin Pollock,3,Buffalo Sabres
+273,Kevin Pollock,2,Ottawa Senators
+274,Rob Shick,3,Buffalo Sabres
+275,Rob Shick,2,Ottawa Senators
+276,Bill McCreary,2,Buffalo Sabres
+277,Bill McCreary,3,Ottawa Senators
+278,Brad Watson,2,Buffalo Sabres
+279,Brad Watson,3,Ottawa Senators
+280,Don Koharski,1,Anaheim Ducks
+281,Don Koharski,2,Detroit Red Wings
+282,Paul Devorski,1,Anaheim Ducks
+283,Paul Devorski,2,Detroit Red Wings
+284,Kevin Pollock,4,Anaheim Ducks
+285,Kevin Pollock,3,Detroit Red Wings
+286,Rob Shick,4,Anaheim Ducks
+287,Rob Shick,3,Detroit Red Wings
+288,Bill McCreary,0,Anaheim Ducks
+289,Bill McCreary,5,Detroit Red Wings
+290,Brad Watson,0,Anaheim Ducks
+291,Brad Watson,5,Detroit Red Wings
+292,Dan O'Halloran,5,Anaheim Ducks
+293,Dan O'Halloran,3,Detroit Red Wings
+294,Don VanMassenhoven,5,Anaheim Ducks
+295,Don VanMassenhoven,3,Detroit Red Wings
+296,Don Koharski,2,Anaheim Ducks
+297,Don Koharski,1,Detroit Red Wings
+298,Paul Devorski,2,Anaheim Ducks
+299,Paul Devorski,1,Detroit Red Wings
+300,Kevin Pollock,4,Anaheim Ducks
+301,Kevin Pollock,3,Detroit Red Wings
+302,Rob Shick,4,Anaheim Ducks
+303,Rob Shick,3,Detroit Red Wings
+304,Dan O'Halloran,3,Anaheim Ducks
+305,Dan O'Halloran,2,Ottawa Senators
+306,Paul Devorski,3,Anaheim Ducks
+307,Paul Devorski,2,Ottawa Senators
+308,Bill McCreary,1,Anaheim Ducks
+309,Bill McCreary,0,Ottawa Senators
+310,Brad Watson,1,Anaheim Ducks
+311,Brad Watson,0,Ottawa Senators
+312,Dan O'Halloran,3,Anaheim Ducks
+313,Dan O'Halloran,5,Ottawa Senators
+314,Paul Devorski,3,Anaheim Ducks
+315,Paul Devorski,5,Ottawa Senators
+316,Bill McCreary,3,Anaheim Ducks
+317,Bill McCreary,2,Ottawa Senators
+318,Brad Watson,3,Anaheim Ducks
+319,Brad Watson,2,Ottawa Senators
+320,Dan O'Halloran,6,Anaheim Ducks
+321,Dan O'Halloran,2,Ottawa Senators
+322,Paul Devorski,6,Anaheim Ducks
+323,Paul Devorski,2,Ottawa Senators
